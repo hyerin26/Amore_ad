@@ -1,0 +1,2581 @@
+{
+ "id": "kurly-061",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+ "resolved_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+ "listing_label": "261026 [마켓][기획전] 정지선셰프 셰프관 메인 배너 [검색] 중식, 어향가지, 정지선, 밀키트, 마라탕, 캠핑음식, 술안주, 안주, 캠핑요리",
+ "description": "Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2026/1026/thechef7/header_복사본_4_mvk6eyklfa20.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/title_복사본_3_mvk7bvfwp6cq.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/Brand_story_복사본_3_mvk6hdq17i2s.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2026/1026/thechef7/collaboration_복사본_5_mvknh0njmr8m.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_01_복사본_3_mvknhdbg6emx.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_02_복사본_3_mvknhdhbyd0o.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_03_복사본_3_mvknhdm430px.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_04_복사본_5_mvknhdpdtw6e.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2026/1026/thechef7/interview_복사본_9_mvk6stsytlhu.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/editor_s_note_01_복사본_2_mvknjn0usqjv.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/editor_s_note_02_복사본_5_mvknjv9utc2h.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_editornote_title_복사본_mvk6whplsato.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김태성.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_파브리.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_서현민.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김호윤.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_이연복.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_정지선.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_이준.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_최강록_2.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박주성_0629.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김태성.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_파브리.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_서현민.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김호윤.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_이연복.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_정지선.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_이준.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_최강록_2.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박주성_0629.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김태성.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_파브리.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_서현민.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김호윤.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_이연복.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_정지선.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_이준.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_최강록_2.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박주성_0629.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_조서형.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_안유성.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_임동혁.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김시연.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김도윤.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0026"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_송하슬람.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0027"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_황진선.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0028"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장호준.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0029"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임정식.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0030"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임태훈_복사본_mvrmvwko9o30.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0031"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_조서형.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_안유성.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_임동혁.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김시연.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김도윤.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0026"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_송하슬람.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0027"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_황진선.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0028"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장호준.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0029"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임정식.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0030"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임태훈_복사본_mvrmvwko9o30.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0031"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_조서형.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_안유성.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_임동혁.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김시연.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김도윤.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0026"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_송하슬람.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0027"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_황진선.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0028"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장호준.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0029"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임정식.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0030"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임태훈_복사본_mvrmvwko9o30.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0031"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_윤대현_김희은_mvknld6lub85.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0032"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장진아_mvknldhhovkv.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0033"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_우정욱_mvknld1ba252.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0034"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박승재_복사본_mvknop11x6ci.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0035"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_선미자_mvrmvi5kq29c.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0036"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_윤대현_김희은_mvknld6lub85.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0032"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장진아_mvknldhhovkv.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0033"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_우정욱_mvknld1ba252.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0034"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박승재_복사본_mvknop11x6ci.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0035"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_선미자_mvrmvi5kq29c.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0036"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_윤대현_김희은_mvknld6lub85.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0032"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장진아_mvknldhhovkv.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0033"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_우정욱_mvknld1ba252.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0034"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박승재_복사본_mvknop11x6ci.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0035"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_선미자_mvrmvi5kq29c.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0036"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_editornote_title_021_mvk6zv7s7ggo.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0037"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_04.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0038"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_06.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0039"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_10.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0040"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_11.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0041"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_14.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0042"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_15.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0043"
+  },
+  {
+   "alt": "카카오톡 공유하기",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_kakao.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0044"
+  },
+  {
+   "alt": "URL 공유하기",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_url.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0045"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "Brand Story \n\nCollaboration\n\nEditor's Note\n\n메뉴 보러 가기\n셰프 보러 가기\n맛집 보러 가기\n\n공유하기\n\n카카오톡\n링크 복사\n컬리 앱으로\n안내할게요\n\n화면의 코드를 스캔하면\n앱으로 바로 이동해요.",
+ "title": "컬리 - 마켓컬리/뷰티컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc1b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc1b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc1b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc1b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc3b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc3b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc3b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc3b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "Brand Story",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/s0",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s0"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "Collaboration",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/s1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "Editor's Note",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/s2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s2"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc4b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc4b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc4b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc4b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc26b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc26b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc26b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc26b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc6b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc6b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc6b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc6b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc8b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc8b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc8b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc8b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/1002301464",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "1002301464"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc9b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc9b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc9b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc9b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/1002301466",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "1002301466"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc25b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc25b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc25b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc25b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/1001381556",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "1001381556"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc24b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc24b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc24b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc24b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/1000902739",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "1000902739"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc7b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc7b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc7b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc7b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc11b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc11b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc11b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc11b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "메뉴 보러 가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/homedining05",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "homedining05"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc12b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc12b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc12b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc12b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc13b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc13b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc13b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc13b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc23b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc23b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc23b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc23b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc18b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc18b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc18b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc18b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc16b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc16b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc16b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc16b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-7669",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7669"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9132",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9132"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-2135",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-2135"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-2242",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-2242"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/uqlr7jyr",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "uqlr7jyr"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/homedining05",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "homedining05"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9239",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9239"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/sv0mtndj",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "sv0mtndj"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9782",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9782"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc17b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc17b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc17b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc17b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9182",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9182"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-2403",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-2403"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-1481",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-1481"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-7110",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7110"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-43",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-43"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-7870",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7870"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9249",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9249"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-8750",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-8750"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9279",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9279"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc27b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc27b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc27b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc27b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-10261",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-10261"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-9987",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-9987"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/5ernpyb2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "5ernpyb2"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-146",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-146"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/thechef-mijane",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "thechef-mijane"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc15b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc15b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc15b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc15b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "셰프 보러 가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/event/2026/0101/chefnrmr",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "event/2026/0101/chefnrmr"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc20b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc20b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc20b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc20b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc21b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc21b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc21b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc21b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/mija-brand",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "mija-brand"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/j0sm8win",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "j0sm8win"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/tombolaa",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "tombolaa"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/br-2403",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-2403"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/5nre7ivw",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "5nre7ivw"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/applehouse",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "applehouse"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc22b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc22b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc22b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc22b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "맛집 보러 가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/nxqh9mag",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "nxqh9mag"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc19b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc19b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/lc19b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc19b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "카카오톡",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1026/138332",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "138332"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "링크 복사",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "취소",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "확인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+   "label": "닫기 X",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://event.kurly.com/lego/event/2026/1026/thechef7",
+  "status": "no_controls_observed",
+  "title": "컬리 - 마켓컬리/뷰티컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001"
+   ],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "brand_story",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 Brand Story Collaboration Editor's Note",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0002"
+   ],
+   "relationship_indexes": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    5,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0003"
+   ],
+   "relationship_indexes": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 메뉴 보러 가기 마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    6
+   ],
+   "dom_id": "s1",
+   "image_ids": [
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008",
+    "i0009"
+   ],
+   "relationship_indexes": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    45
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "share",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 마켓 뷰티 셰프 보러 가기 마켓 뷰티 마켓 뷰티 마켓 뷰티 맛집 보러 가기 마켓 뷰티 공유하기 카카오톡 링크 복사",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    7
+   ],
+   "dom_id": "s2",
+   "image_ids": [
+    "i0010",
+    "i0011",
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026",
+    "i0027",
+    "i0028",
+    "i0029",
+    "i0030",
+    "i0031",
+    "i0032",
+    "i0033",
+    "i0034",
+    "i0035",
+    "i0036",
+    "i0037",
+    "i0038",
+    "i0039",
+    "i0040",
+    "i0041",
+    "i0042",
+    "i0043",
+    "i0044",
+    "i0045"
+   ],
+   "relationship_indexes": [
+    24,
+    29,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "취소 확인",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    9,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    88,
+    89
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "닫기 X",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2,
+    10,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    90
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "컬리 앱으로 안내할게요 화면의 코드를 스캔하면 앱으로 바로 이동해요.",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2026/1026/thechef7/header_복사본_4_mvk6eyklfa20.jpg",
+   "alt": "",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/title_복사본_3_mvk7bvfwp6cq.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/Brand_story_복사본_3_mvk6hdq17i2s.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2026/1026/thechef7/collaboration_복사본_5_mvknh0njmr8m.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_01_복사본_3_mvknhdbg6emx.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_02_복사본_3_mvknhdhbyd0o.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_03_복사본_3_mvknhdm430px.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/collaboration_btn_04_복사본_5_mvknhdpdtw6e.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2026/1026/thechef7/interview_복사본_9_mvk6stsytlhu.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/editor_s_note_01_복사본_2_mvknjn0usqjv.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0011",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/editor_s_note_02_복사본_5_mvknjv9utc2h.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0012",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_editornote_title_복사본_mvk6whplsato.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0013",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김태성.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0014",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_파브리.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_서현민.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김호윤.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_이연복.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_정지선.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0019",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_이준.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_최강록_2.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박주성_0629.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0022",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_조서형.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_안유성.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_임동혁.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0025",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_김시연.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/mpc_김도윤.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0027",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_송하슬람.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0028",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_황진선.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0029",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장호준.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0030",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임정식.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0031",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_임태훈_복사본_mvrmvwko9o30.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0032",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_윤대현_김희은_mvknld6lub85.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0033",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_장진아_mvknldhhovkv.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0034",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_우정욱_mvknld1ba252.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0035",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_박승재_복사본_mvknop11x6ci.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0036",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/셰프_선미자_mvrmvi5kq29c.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0037",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/m_editornote_title_021_mvk6zv7s7ggo.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0038",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_04.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0039",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_06.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0040",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_10.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0041",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_11.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0042",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_14.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0043",
+   "url": "https://lego.kurly.com/event/2026/1026/thechef7/shop_15.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0044",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_kakao.png",
+   "alt": "카카오톡 공유하기",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0045",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_url.png",
+   "alt": "URL 공유하기",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-061.html"
+}

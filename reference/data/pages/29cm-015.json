@@ -1,0 +1,153 @@
+{
+ "id": "29cm-015",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/collection/29356",
+ "listing_label": "겨울을 앞서 만나는 순간\n\n지금만 누릴 수 있는 혜택과 함께 준비했어요.",
+ "resolved_url": "https://www.29cm.co.kr/content/collection/29356?product_sort=best",
+ "description": "던스트, 노운베러, 르의 신상 컬렉션을 단독으로 먼저 만나보세요. 지금만 누릴 수 있는 혜택과 함께 준비했어요.",
+ "images": [],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d128b35894e38381c3c468734379.jpeg",
+ "text": "겨울을 앞서 만나는 순간\n\n던스트, 노운베러, 르의 신상 컬렉션을 단독으로 먼저 만나보세요. 지금만 누릴 수 있는 혜택과 함께 준비했어요.\n\n베스트순\n던스트\n노운베러\n르",
+ "title": "겨울을 앞서 만나는 순간 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "베스트순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "MD 추천순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "신상품순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "리뷰많은순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "높은가격순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "낮은가격순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "높은할인순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "좋아요많은순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "판매순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "던스트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "노운베러",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/collection/29356",
+   "label": "르",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/collection/29356?product_sort=best",
+  "status": "revisited",
+  "title": "겨울을 앞서 만나는 순간 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [
+    "겨울을 앞서 만나는 순간"
+   ],
+   "text": "겨울을 앞서 만나는 순간 던스트, 노운베러, 르의 신상 컬렉션을 단독으로 먼저 만나보세요. 지금만 누릴 수 있는 혜택과 함께 준비했어요. 베스트순 MD 추천순 베스트순 신상품순 리뷰많은순 높은가격순 낮은가격순 높은할인순 좋아요많은순 판매순 던스트 노운베러 르",
+   "dom_path": [
+    1,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  }
+ ],
+ "image_assets": [],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-015.html"
+}

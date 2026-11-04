@@ -1,0 +1,375 @@
+{
+ "id": "kurly-056",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://www.kurly.com/collections/brand-vatya",
+ "resolved_url": "https://www.kurly.com/collections/brand-vatya",
+ "listing_label": "261104 [마켓][특가전] 밧드야X코루비 공동구매",
+ "description": "💖밧드야X코루비 공동구매 - Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "배너 이미지",
+   "url": "https://collection-image.kurly.com/hdims/resize/%3E1050x/quality/85/src/product-collections/15092/aa7d82b8-b309-4881-abb2-7bfeeed43b17.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "샛별, 하루 배송 안내",
+   "url": "https://res.kurly.com/main/banners/deliveryInfo.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "💖밧드야X코루비 공동구매\n\n11/4~11/6 단 3일간! 공동구매 특가\n\n필터\n초기화\n카테고리\n\n주방용품\n\n브랜드\n가나다순\n상품 많은순\n\n밧드야\n1\n혜택\n\n할인상품\n1\n포장타입\n\n상온\n1\n배송\n\n판매자배송\n1\n총 1건\n추천순\n신상품순\n판매량순\n혜택순\n높은 가격순\n낮은 가격순\n\n공동구매특가\n\n코루비 Pick!\nComing Soon\n\n11/4 14:00 추가물량 오픈(11/12일 배송)\n\n재입고 알림\n판매자배송\n[밧드야] (공동구매) 분리수거함 40L 2종 (택1)\n\n신규출시! 군더더기 없는 디자인과 우수한 내구성, 넉넉한 용량의 분리수거함\n\n50,000원\n42%\n29,000원~\n무료배송\n컬리 고객 제도\n컬리 큐레이터\n레시피",
+ "title": "💖밧드야X코루비 공동구매 - 마켓컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "초기화",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "카테고리",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "브랜드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "가나다순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "상품 많은순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "밧드야 1",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&filters=brand%3Abr-1156",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&filters=brand%3Abr-1156"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "밧드야 1",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "할인상품 1",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&filters=benefit%3Adiscount",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&filters=benefit%3Adiscount"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "할인상품 1",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "포장타입",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "상온 1",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&filters=storage_type%3Aambient_temperature",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&filters=storage_type%3Aambient_temperature"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "상온 1",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "배송",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "판매자배송 1",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&filters=delivery_type%3Anormal_parcel",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&filters=delivery_type%3Anormal_parcel"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "판매자배송 1",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "추천순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&per_page=96&sorted_type=4",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&per_page=96&sorted_type=4"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "신상품순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&per_page=96&sorted_type=0",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&per_page=96&sorted_type=0"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "판매량순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&per_page=96&sorted_type=1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&per_page=96&sorted_type=1"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "혜택순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&per_page=96&sorted_type=5",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&per_page=96&sorted_type=5"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "높은 가격순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&per_page=96&sorted_type=3",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&per_page=96&sorted_type=3"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "낮은 가격순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/brand-vatya?page=1&per_page=96&sorted_type=2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/brand-vatya?page=1&per_page=96&sorted_type=2"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "공동구매특가 코루비 Pick! Coming Soon 11/4 14:00 추가물량 오픈(11/12일 배송) 재입고 알림 판매자배송 [밧드야] (공동구매) 분리수거함 40L 2종 (택1) 신규출시! 군더더기 없는 디자인과 우수한 내구성, 넉넉한 용량의 분리수거함 50,000원 42% 29,000원~ 무료배송",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1002502763?collectionCode=brand-vatya",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1002502763?collectionCode=brand-vatya"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "재입고 알림",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "맨 위로 이동",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "샛별, 하루 배송 안내",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/user-guide/delivery",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "/user-guide/delivery"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "컬리 고객 제도",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/events/member/vip",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/events/member/vip"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "컬리 큐레이터",
+   "element": "a",
+   "destination_url": "https://lounge.kurly.com/curator-program",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://lounge.kurly.com/curator-program",
+   "window_target": "_blank"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/brand-vatya",
+   "label": "레시피",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/recipe",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.kurly.com/recipe",
+   "window_target": "_blank"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.kurly.com/collections/brand-vatya",
+  "status": "revisited",
+  "title": "💖밧드야X코루비 공동구매 - 마켓컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [
+    "💖밧드야X코루비 공동구매",
+    "필터",
+    "[밧드야] (공동구매) 분리수거함 40L 2종 (택1)"
+   ],
+   "text": "💖밧드야X코루비 공동구매 11/4~11/6 단 3일간! 공동구매 특가 필터 초기화 카테고리 주방용품 브랜드 가나다순 상품 많은순 밧드야 1 혜택 할인상품 1 포장타입 상온 1 배송 판매자배송 1 총 1건 추천순 소비자 인기도 (판매량, 판매금액, 조회수 등), 상품 출시일, 수요 적합성, 상품 운영상 필요 등을 종합적으로 고려한 순서입니다. 신상품순 판매량순 혜택순 높은 가격순 낮은 가격순 공동구매특가 코루비 Pick! Coming Soon 11/4 14:00 추가물량 오픈(11/12일 배송) 재입고 알림 판매자배송 [밧드야] (공동구매) 분리수거함 40L 2종 (택1) 신규출시! 군더더기 없는 디자인과 우수한 내구성, 넉넉한 용량의 분리수거함 50,000원 42% 29,000원~ 무료배송 컬리 고객 제도 컬리 큐레이터 레시피",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://collection-image.kurly.com/hdims/resize/%3E1050x/quality/85/src/product-collections/15092/aa7d82b8-b309-4881-abb2-7bfeeed43b17.png",
+   "alt": "배너 이미지",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "alt_or_markup"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://res.kurly.com/main/banners/deliveryInfo.jpg",
+   "alt": "샛별, 하루 배송 안내",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-056.html"
+}

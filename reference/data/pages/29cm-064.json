@@ -1,0 +1,662 @@
+{
+ "id": "29cm-064",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7270",
+ "listing_label": "SHOWCASE\n아름다운 방 달라지는 하루 인탠저블\n차갑고 단단한 스테인리스와 아크릴, 직선과 면으로 공간의 분위기를 조용히 바꾸는 사물을 만나보세요.\n2026.11.02. ~ 11.15.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7270",
+ "description": "차갑고 단단한 스테인리스와 아크릴, 직선과 면으로 공간의 분위기를 조용히 바꾸는 사물을 만나보세요.",
+ "images": [
+  {
+   "alt": "아름다운 방 달라지는 하루\n인탠저블",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26e977293fb952d45de9762536c.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d26e4cfd7321952d9f38483043e2.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff726af1952d67cd9886f9bb.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26e90e4b8c1aa548b253e94cabf.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff7243efaa548798b2c40eb6.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff7243dd952d91a005765090.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff7243df952df50f39e0fc7f.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff729211aa540dafa24a487d.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce4261952d2d414f3b051b.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce69d1aa540fcb9c92995e.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce1bafaa5485fe987e878d.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cff013952d49a5ed40e648.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cfa255aa54c78a63c848b8.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d01727952dadbf9011e664.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cff07baa54c95f5b32fc85.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cfa259aa54efa6d5aa171a.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d08c5f952d89ef0cf027d7.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d0b3d4aa54a1064de01d11.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cf5433aa548d3c7aabf3ef.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d0b3d3aa5495f2985e145f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d26e977293fb952d45de9762536c.jpg",
+ "text": "SHOWCASE\n아름다운 방 달라지는 하루\n인탠저블\n차갑고 단단한 스테인리스와 아크릴, 직선과 면으로 공간의 분위기를 조용히 바꾸는 사물을 만나보세요.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n~58% 단독 할인\nBENEFIT 2\n포토 리뷰 이벤트\n이벤트 기간에 인탠저블의 상품 구매 후 포토 리뷰를 남겨주세요. 총 10명에게 사은품 '티어 스틸 듀오 캘린더'를 증정합니다.\n당첨자 발표 : 11월 20일\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\n기억을 꺼내두는 자리\n간직하고 싶은 순간을 가까이 두고 감상할 수 있는 조명이에요.\n시간을 담는 형태\n날짜와 시간을 확인하는 익숙한 사물을 새로운 형태로 해석했어요. 캘린더와 탁상시계가 매일 머무는 공간에 정갈한 리듬을 더합니다.\n일상을 정돈하는 자리\n외출 전 거울 앞에서 마지막 점검. 후크에 가방을 걸고 선반 위 소품까지 한눈에 정돈되는 공간이 완성돼요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "아름다운 방 달라지는 하루 인탠저블 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7270",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7270",
+  "status": "revisited",
+  "title": "아름다운 방 달라지는 하루 인탠저블 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 아름다운 방 달라지는 하루 인탠저블 차갑고 단단한 스테인리스와 아크릴, 직선과 면으로 공간의 분위기를 조용히 바꾸는 사물을 만나보세요. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 ~58% 단독 할인 BENEFIT 2 포토 리뷰 이벤트 이벤트 기간에 인탠저블의 상품 구매 후 포토 리뷰를 남겨주세요. 총 10명에게 사은품 '티어 스틸 듀오 캘린더'를 증정합니다. 당첨자 발표 : 11월 20일",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM 기억을 꺼내두는 자리 간직하고 싶은 순간을 가까이 두고 감상할 수 있는 조명이에요. 시간을 담는 형태 날짜와 시간을 확인하는 익숙한 사물을 새로운 형태로 해석했어요. 캘린더와 탁상시계가 매일 머무는 공간에 정갈한 리듬을 더합니다. 일상을 정돈하는 자리 외출 전 거울 앞에서 마지막 점검. 후크에 가방을 걸고 선반 위 소품까지 한눈에 정돈되는 공간이 완성돼요.",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0009",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0011",
+    "i0020"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26e977293fb952d45de9762536c.jpg",
+   "alt": "아름다운 방 달라지는 하루\n인탠저블",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d26e4cfd7321952d9f38483043e2.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff726af1952d67cd9886f9bb.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff726af1952d67cd9886f9bb.png?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff726af1952d67cd9886f9bb.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26e90e4b8c1aa548b253e94cabf.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff7243efaa548798b2c40eb6.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff7243efaa548798b2c40eb6.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff7243efaa548798b2c40eb6.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff7243dd952d91a005765090.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff7243dd952d91a005765090.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff7243dd952d91a005765090.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff7243df952df50f39e0fc7f.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff7243df952df50f39e0fc7f.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26eff729211aa540dafa24a487d.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26eff729211aa540dafa24a487d.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce4261952d2d414f3b051b.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s04",
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce4261952d2d414f3b051b.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce69d1aa540fcb9c92995e.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s04",
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce69d1aa540fcb9c92995e.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce1bafaa5485fe987e878d.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s04",
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9ce1bafaa5485fe987e878d.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cff013952d49a5ed40e648.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s04",
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cff013952d49a5ed40e648.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cfa255aa54c78a63c848b8.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cfa255aa54c78a63c848b8.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d01727952dadbf9011e664.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d01727952dadbf9011e664.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cff07baa54c95f5b32fc85.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cff07baa54c95f5b32fc85.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cfa259aa54efa6d5aa171a.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cfa259aa54efa6d5aa171a.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d08c5f952d89ef0cf027d7.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d08c5f952d89ef0cf027d7.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d0b3d4aa54a1064de01d11.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d0b3d4aa54a1064de01d11.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cf5433aa548d3c7aabf3ef.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9cf5433aa548d3c7aabf3ef.jpg?width=960&format=webp"
+   ]
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d0b3d3aa5495f2985e145f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d1cbc9d0b3d3aa5495f2985e145f.jpg?width=960&format=webp"
+   ]
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-064.html"
+}

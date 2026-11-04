@@ -1,0 +1,2900 @@
+<main id="container" class="event event_view">
+
+		<h2 class="a11y_hidden">이벤트 상세</h2>
+		<div class="event_view_wrap">
+			
+			<!--1. event_view_detail-->
+			<section class="event_view_detail">
+				
+					
+					
+						
+
+
+
+
+
+
+<style>
+/* common */
+.event_wrap * { box-sizing: border-box; }
+.event_wrap.layout_max { padding: 0; }
+.event_wrap img,.event_wrap a { display: block; width: 100%; max-width: 100%; }
+.event_wrap img { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; width: 100%; height: auto; }
+.event_wrap a { position: absolute; z-index: 3; -webkit-tap-highlight-color: transparent; }
+.event_wrap button { -webkit-tap-highlight-color: transparent; }
+.event_wrap .w_view { display: block; }
+.event_wrap .m_view { display: none; }
+.event_wrap .evt_header { position: relative; }
+.event_wrap .evt_cont { position: relative; max-width: 860px; margin: 0 auto; }
+.event_wrap .evt_cont.cont_450 { max-width: 450px; }
+.event_wrap .evt_cont.cont_600 { max-width: 600px; }
+.event_wrap .evtbox,.event_wrap .prdbox, .event_wrap .oneday { position: relative; }
+.event_wrap .swiper-pagination {z-index:1;line-height:0;}
+@media all and (max-width:768px) {
+    .event_wrap .w_view { display: none; }
+    .event_wrap .m_view { display: block; }
+    .event_wrap .evt_cont.cont_450, 
+    .event_wrap .evt_cont.cont_750 { max-width: 100%; }
+}
+
+/*event wrap ------------------------ */
+.event_wrap {
+    --tab-bg-color: #E6C8FD;
+    --tab-height: 99px;
+    --tab-font-size: 28px;
+    --tab-padding: 0;
+    max-width: 750px;
+    background-color: #FFF;
+    overflow: hidden;
+}
+@media all and (max-width:1024px) {
+    .event_wrap { 
+        --tab-height: 70px; 
+        --tab-font-size: 19.6px; 
+        --tab-padding: 0; 
+    }
+}
+@media all and (max-width:768px) {
+    .event_wrap { 
+        --tab-height: 49.5px; 
+        --tab-font-size: 14px; 
+        --tab-padding: 0; 
+    }
+}
+/*header ------------------------ */
+.event_wrap .evt_header { left: auto; transform: none; width: 100%; max-width: 100%; margin: 0 auto; aspect-ratio: 750/640; background: #090909; }
+.event_wrap .evt_countdown { --tu: min(1px, calc(100vw / 750)); display: flex; align-items: center; justify-content: center; height: calc(128 * var(--tu)); padding: calc(1 * var(--tu)) 0 0 calc(22 * var(--tu)); background: #000; color: #fff; line-height: 1; }
+.event_wrap .evt_countdown .cd_title { margin: 0 calc(6 * var(--tu)) 0 0; font-size: calc(34 * var(--tu)); font-weight: 700; letter-spacing: -0.02em; white-space: nowrap; }
+.event_wrap .evt_countdown .cd_time { display: flex; font-family: var(--font-family-en); }
+.event_wrap .evt_countdown .cd_unit { position: relative; display: flex; flex-direction: column; align-items: center; width: calc(88 * var(--tu)); }
+.event_wrap .evt_countdown .cd_num { font-size: calc(40 * var(--tu)); font-weight: 400; }
+.event_wrap .evt_countdown .cd_txt { margin-top: calc(5 * var(--tu)); font-size: calc(18 * var(--tu)); color: rgba(255,255,255,0.5); }
+.event_wrap .evt_countdown .cd_colon { position: absolute; right: 0; top: calc(-1 * var(--tu)); transform: translateX(50%); font-size: calc(34 * var(--tu)); font-weight: 700; color: rgba(255,255,255,0.5); }
+
+/* sticky tab ------------------------ */
+.event_wrap .sticky_tab { position: relative; height: var(--tab-height); background: transparent; }
+.event_wrap .sticky_tab.fixed { z-index: 9; position: fixed; top: calc(var(--header-height)); left: 0; width: calc(100% - var(--scroll-lock-gap, 0px)); transition: top 0.3s; }
+.event_wrap .sticky_tab.fixed.hide { top: -170px !important; }
+.open_topbanner .event_wrap .sticky_tab.fixed { top: calc(var(--header-height) + var(--top-banner-height)); }
+.event_wrap .sticky_tab_inner { z-index: 1; position: relative; width: 100%; max-width: 750px; height: var(--tab-height); margin: 0 auto; padding: 0 40px; overflow: hidden; background: var(--tab-bg-color); }
+.event_wrap .sticky_tab_item { position: relative; width: auto; margin: 0; margin-right: 40px; font-size: var(--tab-font-size); padding: var(--tab-padding); color: #000; line-height: var(--tab-height); white-space: nowrap; cursor: pointer; text-align: center; letter-spacing: -0.02em; opacity: 0.6; }
+.event_wrap .sticky_tab_item.active { font-weight: var(--font-weight-bold); opacity: 1; }
+.event_wrap .sticky_tab_bar { position: absolute; bottom: 0; height: 4px; background: #000; transition: transform 0.3s ease, width 0.3s ease; }
+@media all and (max-width:768px) {
+    .event_wrap .sticky_tab_inner { width: 100%; padding: 0 28px; }
+    .event_wrap .sticky_tab_list { gap: 0; }
+    .event_wrap .sticky_tab_item { margin-right: 30px;}
+    .event_wrap .sticky_tab_bar { height: 2px; }
+}
+@media all and (max-width:480px) {
+    .event_wrap .sticky_tab_inner { padding: 0 20px; }
+    .event_wrap .sticky_tab_item { margin-right: 20px; letter-spacing: -0.04em; }
+}
+
+/* section2 ------------------------ */
+.event_wrap .evtSect_2 { background: #2A2A2A; }
+.event_wrap .evtSect_2 .notice_btn_area img { background: #2A2A2A; }
+.event_wrap .evtSect_2 .btn_coupon_first { position: absolute; left: calc((62/750)*100%); top: calc((1199/1308)*100%); width: calc((626/750)*100%); height: calc((109/1308)*100%); padding: 0; border: 0; background: transparent; cursor: pointer; }
+.event_wrap .evtSect_2 .btn_coupon_normal { position: absolute; padding: 0; border: 0; background: transparent; cursor: pointer; left: calc((62/750)*100%); top: calc((729/905)*100%); width: calc((626/750)*100%); height: calc((106/905)*100%); }
+.evtSect_2 .cpn_stack { position: absolute; left: calc((144/750)*100%); top: calc((880/1308)*100%); width: calc((455/750)*100%); aspect-ratio: 455/228; }
+.evtSect_2 .cpn_stack .cpn_shadow { position: absolute; left: calc((-19/455)*100%); top: calc((-38/228)*100%); width: calc((576/455)*100%); max-width: none; pointer-events: none; }
+.evtSect_2 .cpn_stack .cpn_clip { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; }
+.evtSect_2 .cpn_stack .cpn { position: absolute; left: 0; top: 0; width: 100%; }
+.evtSect_2 .cpn_stack .cpn_50 { z-index: 3; }
+.evtSect_2 .cpn_stack .cpn_40 { z-index: 2; }
+.evtSect_2 .cpn_stack .cpn_35 { z-index: 1; }
+.evtSect_2 .cpn_stack.play .cpn { animation: cpnDeck 3.15s linear infinite; }
+.evtSect_2 .cpn_stack.play .cpn_40 { animation-delay: -2.1s; }
+.evtSect_2 .cpn_stack.play .cpn_35 { animation-delay: -1.05s; }
+@keyframes cpnDeck {
+    0% { transform: translateX(0); z-index: 3; }
+    23.17% { transform: translateX(0); z-index: 3; animation-timing-function: cubic-bezier(0.7, 0, 0.55, 0.6); }
+    33.33% { transform: translateX(100%); z-index: 3; animation-timing-function: step-end; }
+    33.34% { transform: translateX(0); z-index: 1; }
+    66.66% { transform: translateX(0); z-index: 1; animation-timing-function: step-end; }
+    66.67% { transform: translateX(0); z-index: 2; }
+    100% { transform: translateX(0); z-index: 2; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .evtSect_2 .cpn_stack.play .cpn { animation: none; }
+}
+
+/* section3 ------------------------ */
+.event_wrap .evtSect_3 .oneday a { width: calc((338/750)*100%); height: calc((556/1737)*100%); }
+.event_wrap .evtSect_3 .oneday .link_left { left: calc((28/750)*100%); }
+.event_wrap .evtSect_3 .oneday .link_right { left: calc((384/750)*100%); }
+.event_wrap .evtSect_3 .oneday .line_01 { top: calc((412/1737)*100%); }
+.event_wrap .evtSect_3 .oneday .line_02 { top: calc((1026/1737)*100%); }
+.event_wrap .evtSect_3 .daily_countdown { --cu: min(1px, calc(100vw / 750)); z-index: 2; position: absolute; left: 0; top: 0; display: flex; align-items: center; justify-content: center; width: 100%; height: calc((89/1737)*100%); padding-right: calc(7 * var(--cu)); background: #EF4D47; color: #fff; font-weight: 600; line-height: 1; }
+.event_wrap .evtSect_3 .daily_countdown .cd_label { margin-right: calc(31 * var(--cu)); font-size: calc(28 * var(--cu)); letter-spacing: -0.02em; }
+.event_wrap .evtSect_3 .daily_countdown .cd_num { width: calc(35 * var(--cu)); font-size: calc(32 * var(--cu)); font-weight: 500; text-align: center; }
+.event_wrap .evtSect_3 .daily_countdown .cd_colon { position: relative; top: calc(-3 * var(--cu)); width: calc(53 * var(--cu)); font-size: calc(32 * var(--cu)); font-weight: 500; text-align: center; color: rgba(255,255,255,0.5); }
+.event_wrap .evtSect_3 .evt_benefit, .evtSect_3 .evt_benefit .notice_btn_area img {background-color: #2A2A2A}
+.event_wrap .evtSect_3 .benefit_slide { --bu: min(1px, calc(100vw / 750)); position: absolute; left: calc((41/750)*100%); top: calc((986/1968)*100%); width: calc((668/750)*100%); }
+.event_wrap .evtSect_3 .benefit_card { overflow: hidden; border-radius: calc(8 * var(--bu)); }
+.event_wrap .evtSect_3 .benefit_tit { display: flex; align-items: center; justify-content: center; height: calc(77 * var(--bu)); background: #BBCBF2; color: #191919; font-size: calc(28.88 * var(--bu)); font-weight: 600; letter-spacing: -0.02em; }
+.event_wrap .evtSect_3 .benefit_slide .swiper-container { overflow: hidden; }
+.event_wrap .evtSect_3 .benefit_slide .swiper-pagination { position: absolute; left: 0; top: calc(100% + 40 * var(--bu)); width: 100%; }
+.event_wrap .evtSect_3 .benefit_slide .swiper-pagination-bullet { width: calc(16 * var(--bu)); height: calc(16 * var(--bu)); margin: 0 calc(8.5 * var(--bu)); background: #7C7C7C; opacity: 1; }
+.event_wrap .evtSect_3 .benefit_slide .swiper-pagination-bullet-active { background: #D8DFEE; }
+
+/* section4 ------------------------ */
+.event_wrap .evtSect_4 .bg1 { background:#BFAFF2; }
+.event_wrap .evtSect_4 .bg_gd { background: linear-gradient(0deg, #FFF 96.37%, #FFD7D6 100%); }
+.event_wrap .evtSect_4 .flat_slide { position: absolute; left: 0; top: calc((372/926)*100%); width: 100%; overflow: hidden; }
+.event_wrap .evtSect_4 .flat_slide .swiper-container { margin-left: calc((30/750)*100%); overflow: hidden; }
+.event_wrap .evtSect_4 .flat_slide .swiper-slide { width: calc((310/720)*100%); }
+.event_wrap .evtSect_4 .link_all { left: calc((30/750)*100%); top: calc((748/926)*100%); width: calc((690/750)*100%); height: calc((106/926)*100%); }
+.event_wrap .evtSect_4 .share_bubble { z-index: 2; position: absolute; left: calc((122/750)*100%); top: calc((-113/222)*100%); width: calc((526/750)*100%); pointer-events: none; animation: bubbleFloat 2s infinite; }
+.event_wrap .evtSect_4 .link_cate { left: calc((30/750)*100%); top: calc((30/222)*100%); width: calc((690/750)*100%); height: calc((106/222)*100%); }
+.event_wrap .evtSect_4 .evt_cont_tab_list .tab { background-color: #EDEDED; }
+.event_wrap .evtSect_4 .evt_cont_tab_list .tab.active { background-color: #191919; }
+.event_wrap .evtSect_4 .flat_list a { width: calc((227/750)*100%); }
+.event_wrap .evtSect_4 .flat_list .col_1 { left: calc((28/750)*100%); }
+.event_wrap .evtSect_4 .flat_list .col_2 { left: calc((262/750)*100%); }
+.event_wrap .evtSect_4 .flat_list .col_3 { left: calc((495/750)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_1 { top: calc((576/3320)*100%); height: calc((290/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_2 { top: calc((880/3320)*100%); height: calc((315/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_3 { top: calc((1393/3320)*100%); height: calc((289/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_4 { top: calc((1696/3320)*100%); height: calc((315/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_5 { top: calc((2216/3320)*100%); height: calc((290/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_6 { top: calc((2520/3320)*100%); height: calc((315/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c1 .row_7 { top: calc((2849/3320)*100%); height: calc((315/3320)*100%); }
+.event_wrap .evtSect_4 .flat_c2 .row_1 { top: calc((470/2673)*100%); height: calc((315/2673)*100%); }
+.event_wrap .evtSect_4 .flat_c2 .row_2 { top: calc((799/2673)*100%); height: calc((358/2673)*100%); }
+.event_wrap .evtSect_4 .flat_c2 .row_3 { top: calc((1171/2673)*100%); height: calc((359/2673)*100%); }
+.event_wrap .evtSect_4 .flat_c2 .row_4 { top: calc((1544/2673)*100%); height: calc((359/2673)*100%); }
+.event_wrap .evtSect_4 .flat_c2 .row_5 { top: calc((1917/2673)*100%); height: calc((315/2673)*100%); }
+.event_wrap .evtSect_4 .flat_c2 .row_6 { top: calc((2246/2673)*100%); height: calc((315/2673)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_1 { top: calc((470/3331)*100%); height: calc((315/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_2 { top: calc((799/3331)*100%); height: calc((314/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_3 { top: calc((1127/3331)*100%); height: calc((315/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_4 { top: calc((1456/3331)*100%); height: calc((315/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_5 { top: calc((1785/3331)*100%); height: calc((315/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_6 { top: calc((2114/3331)*100%); height: calc((359/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_7 { top: calc((2487/3331)*100%); height: calc((359/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c3 .row_8 { top: calc((2860/3331)*100%); height: calc((315/3331)*100%); }
+.event_wrap .evtSect_4 .flat_c4 .row_1 { top: calc((470/2256)*100%); height: calc((315/2256)*100%); }
+.event_wrap .evtSect_4 .flat_c4 .row_2 { top: calc((799/2256)*100%); height: calc((314/2256)*100%); }
+.event_wrap .evtSect_4 .flat_c4 .row_3 { top: calc((1127/2256)*100%); height: calc((315/2256)*100%); }
+.event_wrap .evtSect_4 .flat_c4 .row_4 { top: calc((1456/2256)*100%); height: calc((315/2256)*100%); }
+.event_wrap .evtSect_4 .flat_c4 .row_5 { top: calc((1785/2256)*100%); height: calc((315/2256)*100%); }
+
+/* section5 ------------------------ */
+.event_wrap .evtSect_5 {background:#F4F4F4;}
+.event_wrap .evtSect_5 .section_cont a { left: calc((30/750)*100%); width: calc((690/750)*100%); height: calc((203/1433)*100%); }
+.event_wrap .evtSect_5 .section_cont .link_01 { top: 0; height: calc((547/1433)*100%); }
+.event_wrap .evtSect_5 .section_cont .link_02 { top: calc((567/1433)*100%); }
+.event_wrap .evtSect_5 .section_cont .link_03 { top: calc((788/1433)*100%); }
+.event_wrap .evtSect_5 .section_cont .link_04 { top: calc((1009/1433)*100%); }
+.event_wrap .evtSect_5 .section_cont .link_05 { top: calc((1230/1433)*100%); }
+.event_wrap .evtSect_5 .link_cate { left: calc((30/750)*100%); top: calc((35/207)*100%); width: calc((690/750)*100%); height: calc((106/207)*100%); }
+
+/* section6 ------------------------ */
+.evtSect_6 {background: linear-gradient(180deg, #F1E1FF 0%, #FFF 100%);}
+.event_wrap .evtSect_6 .share_bubble { position: absolute; left: calc((182/750)*100%); top: calc((1022/1775)*100%); width: calc((406/750)*100%); pointer-events: none; animation: bubbleFloat 2s infinite; }
+@keyframes bubbleFloat {
+    0%, 3% { transform: translateY(0); animation-timing-function: ease-in-out; }
+    42%, 55% { transform: translateY(-9.6%); animation-timing-function: ease-in-out; }
+    94%, 100% { transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .event_wrap .evtSect_6 .share_bubble, .event_wrap .evtSect_4 .share_bubble { animation: none; }
+}
+.event_wrap .evtSect_6 .btn_share { position: absolute; top: calc((1170/1775)*100%); width: calc((110/750)*100%); height: calc((150/1775)*100%); padding: 0; border: 0; background: transparent; cursor: pointer; }
+.event_wrap .evtSect_6 .btn_kakao { left: calc((250/750)*100%); }
+.event_wrap .evtSect_6 .btn_link { left: calc((393/750)*100%); }
+.event_wrap .evtSect_6 .notice_btn_area::after { content: ""; z-index: 2; position: absolute; left: calc((282/1500)*100%); top: calc((46/128)*100%); width: calc((57/1500)*100%); aspect-ratio: 1/1; background: url("https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/arrow.png") no-repeat center / 100% 100%; transform: rotate(180deg); pointer-events: none; }
+.event_wrap .evtSect_6 .notice_btn_area.active::after { transform: none; }
+
+/* tab cont ------------------------ */
+.event_wrap .section_tab_wrap {position:relative;width:750px;margin:0 auto 30px;padding: 0 28px;overflow:hidden;}
+.event_wrap .evt_cont_tab_list { display: flex; align-items: center; width: 100%; max-width: 100%; padding: 10px 0;}
+.event_wrap .evt_cont_tab_list .swiper-wrapper {width:fit-content;margin:0 auto;}
+.event_wrap .evt_cont_tab_list .swiper-slide {width:auto;padding-right:10px;}
+.event_wrap .evt_cont_tab_list .swiper-slide:last-child {padding:0;}
+.event_wrap .evt_cont_tab_list .tab { width:auto; height:60px; padding:0 27px; border-radius: 99px; background-color:rgba(255,255,255,0.64)}
+.event_wrap .evt_cont_tab_list .tab.active { background-color: #191919;}
+.event_wrap .evt_cont_tab_list .tab span { position:relative; display: flex; align-items: center; align-self: center; color:#666666;font-size: 24px;letter-spacing: -0.03em;line-height:1;white-space: nowrap;}
+.event_wrap .evt_cont_tab_list .tab.active span {color:#fff;}
+.event_wrap .section_cont {display: none;}
+.event_wrap .section_cont.active {display: block;}
+@media all and (max-width: 768px) {
+    .event_wrap .section_tab_wrap {width:100%;margin-bottom:22px;padding: 0 21px;}
+    .event_wrap .evt_cont_tab_list { padding: 8px 0;}
+    .event_wrap .evt_cont_tab_list .swiper-slide {padding-right:8px;}
+    .event_wrap .evt_cont_tab_list .tab { height:45px; padding:0 20px;}
+    .event_wrap .evt_cont_tab_list .tab span { font-size: 18px;}
+}
+@media all and (max-width: 480px) {
+    .event_wrap .section_tab_wrap {margin-bottom:15px;padding: 0 14px;}
+    .event_wrap .evt_cont_tab_list { padding: 5px 0;}
+    .event_wrap .evt_cont_tab_list .swiper-slide {padding-right:5px;}
+    .event_wrap .evt_cont_tab_list .tab { height:30px; padding:0 13px;}
+    .event_wrap .evt_cont_tab_list .tab span { font-size: 12px;}
+}
+
+/* footer ------------------------ */
+.event_wrap .evt_footer, .event_wrap .evt_footer .notice_btn_area img {background:#e6e6e6;}
+.event_wrap .evt_footer .evt_cont {position: relative;}
+.event_wrap .notice_btn_area {position: relative;}
+.event_wrap .btn_evtnotice { z-index: 3; position: absolute; left: 0; top: 0; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; cursor: pointer; }
+.event_wrap .img_expand { z-index: 2; position: absolute; left: 0; top: 0; width: 100%; height: 100%; opacity: 0; }
+.notice_btn_area.active .img_expand { opacity: 1; }
+.evt_footer .notice_btn_area {max-width: 750px;}
+.event_wrap .evt_footer .notice_btn_area { --fu: min(1px, calc(100vw / 750)); height: calc(126 * var(--fu)); }
+.event_wrap .evt_footer .btn_evtnotice { display: flex; justify-content: center; align-items: flex-start; padding-top: calc(45 * var(--fu)); color: #000; font-size: calc(20 * var(--fu)); font-weight: 500; }
+.event_wrap .evt_footer .notice_txt { display: inline-flex; align-items: center; gap: calc(10 * var(--fu)); padding: 0 calc(4 * var(--fu)) calc(4.5 * var(--fu)) calc(2 * var(--fu)); border-bottom: calc(1 * var(--fu)) solid rgba(0,0,0,0.5); line-height: 1.2; opacity: 0.6; }
+.event_wrap .evt_footer .notice_txt::after { content: ""; width: calc(16 * var(--fu)); height: calc(6 * var(--fu)); background: url("https://image.osulloc.com/upload/kr/ko/event/common/arrow.png") no-repeat center / 100% 100%; }
+.event_wrap .evt_footer .txt_expand { display: none; }
+.event_wrap .evt_footer .notice_btn_area.active .txt_fold { display: none; }
+.event_wrap .evt_footer .notice_btn_area.active .txt_expand { display: inline; }
+.event_wrap .evt_footer .notice_btn_area.active .notice_txt::after { transform: rotate(180deg); }
+.evt_footer .notice_detail_area { max-width: 860px;}
+.evt_notice_wrap {max-width:860px;padding-bottom:calc((60/860)*100%);padding-left: calc((85/860)*100%);padding-right:calc((60/860)*100%);}
+.evt_notice_wrap .evt_notice_title {display:flex;margin-bottom: calc((29/715)*100%);}
+.evt_notice_wrap .evt_notice_title span {display:inline-flex;font-weight:var(--font-weight-bold);font-size:25px;line-height:1;letter-spacing: -0.05em;}
+.evt_notice_wrap .evt_notice_title .icon {width:calc((25/715)*100%);aspect-ratio: 1/1;margin-right: calc((9/715)*100%);}
+.evt_notice_wrap .notice_para {padding-left:calc((10/715)*100%);color:#626262;letter-spacing: -0.03em;}
+.evt_notice_wrap .notice_para_title {margin-bottom: calc((18/715)*100%);font-weight:var(--font-weight-bold);font-size:20px;color:#262626;}
+.evt_notice_wrap .notice_para ul {padding-left: calc((14/705)*100%);margin-bottom: calc((33/705)*100%);}
+.evt_notice_wrap .notice_para li {position:relative;margin-bottom:calc((8/705)*100%);font-size: 19px;line-height:1.526;word-break: keep-all;overflow-wrap: break-word;}
+.evt_notice_wrap .notice_para li:before {position:absolute;left: calc(-1 * (12/705)*100%);top:0;content:"•";display:inline-block;width: 0.7em;height:calc((1em * 1.526) - 2px);line-height:calc(1em + 2px);color:#262626;}
+.evt_notice_wrap .notice_para .inner_dash_list {margin-top: 9px;}
+.evt_notice_wrap .notice_para .inner_dash_list li { font-size: 17px; line-height: 1.588;}
+.evt_notice_wrap .notice_para .inner_dash_list li:before { content:"-";height:calc((1em * 1.588) - 1px);}
+@media all and (max-width: 768px) {
+    .evt_notice_wrap {padding-bottom:calc((55/750)*100%);padding-left: calc((30/750)*100%);padding-right:calc((30/750)*100%);}
+    .evt_notice_wrap .evt_notice_title span {font-size:calc((24/750)*100vw);font-size:clamp(12px, calc((24/750)*100vw), 24px);}
+    .evt_notice_wrap .notice_para_title {font-size:calc((20/750)*100vw);font-size:clamp(11px, calc((20/750)*100vw), 20px);}
+    .evt_notice_wrap .notice_para li {font-size:calc((19/750)*100vw);font-size:clamp(10px, calc((19/750)*100vw), 19px);}
+    .evt_notice_wrap .notice_para .inner_dash_list li {font-size:calc((17/750)*100vw);font-size:clamp(8.5px, calc((17/750)*100vw), 17px);}
+}
+
+/* 이벤트 전용 토스트 ------------------------ */
+.event_wrap .x_toast_stack { width: min(calc((690/750)*100vw), 690px); max-width: none; }
+.event_wrap .x_toast.evt_toast { justify-content: flex-start; min-height: clamp(48px, 10.6667vw, 80px); padding: 0 clamp(18px, 5.0667vw, 38px); border-radius: clamp(4px, 1.0667vw, 8px); background: rgba(0,0,0,0.85); font-size: clamp(11px, 3.2vw, 24px); line-height: 1.4; color: #DADADA; letter-spacing: -0.045em;}
+.event_wrap .x_toast.evt_toast .x_toast_text { align-items: center; column-gap: clamp(8px, 2vw, 15px); color: #DADADA; }
+.event_wrap .x_toast.evt_toast .x_toast_text .design-system-icons { flex: none; width: clamp(14px, 3.3333vw, 25px); aspect-ratio: 25/17; margin: 0; font-size: 0; color: transparent; background: url(data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%2725%27%20height=%2717%27%20fill=%27none%27%20viewBox=%270%200%2025%2017%27%3E%3Cpath%20stroke=%27%23dadada%27%20stroke-linecap=%27round%27%20stroke-linejoin=%27round%27%20stroke-width=%272%27%20d=%27M1%208.5%208.962%2016%2024%201%27/%3E%3C/svg%3E) no-repeat center / contain; }
+
+/* notipop ------------------------ */
+.ui_dialog.evt_dialog { --u: 0.5px; padding: 0; font-size: calc(28 * var(--u)); }
+.ui_dialog.evt_dialog .dialog_box { width: calc(590 * var(--u)); max-width: none; padding: calc(95 * var(--u)) calc(42 * var(--u)) calc(42 * var(--u)); border-radius: calc(8 * var(--u)); box-shadow: 0 calc(10 * var(--u)) calc(50 * var(--u)) rgba(0,0,0,0.15); }
+.ui_dialog.evt_dialog .dialog_close { top: calc(40 * var(--u)); right: calc(44 * var(--u)); width: calc(22 * var(--u)); height: calc(22 * var(--u)); background-size: 100% 100%; }
+.ui_dialog.evt_dialog .dialog_header { margin: 0; padding: 0; border: 0; font-size: calc(38 * var(--u)); font-weight: var(--font-weight-bold); line-height: calc(50 * var(--u)); color: #000; }
+.ui_dialog.evt_dialog .dialog_message { min-height: 0; margin: calc(18 * var(--u)) calc(-12 * var(--u)) 0; padding: 0; word-break: keep-all; font-size: 14px; line-height: calc(40 * var(--u)); color: #222; letter-spacing: -0.035em; white-space: pre-line; }
+.ui_dialog.evt_dialog .dialog_btnbox { margin-top: calc(55 * var(--u)); gap: calc(15 * var(--u)); }
+.ui_dialog.evt_dialog .dialog_btnbox button { height: calc(77 * var(--u)); margin: 0; padding: 0; border: calc(2 * var(--u)) solid #000; border-radius: calc(8 * var(--u)); font-size: calc(28 * var(--u)); font-weight: var(--font-weight-bold); line-height: 1; }
+.ui_dialog.evt_dialog .dialog_btnbox button.white { background: #fff; color: #000; }
+.ui_dialog.evt_dialog .dialog_btnbox button.black { background: #000; color: #fff; }
+@media all and (max-width: 299px) {
+    .ui_dialog.evt_dialog { --u: calc(100vw / 600); }
+    .ui_dialog.evt_dialog .dialog_message { font-size: calc(28 * var(--u)); }
+}
+.ui_dialog.evt_dialog.dlg_noclose .dialog_box { padding-top: calc(68 * var(--u)); }
+.ui_dialog.evt_dialog.dlg_point .dialog_box { padding-top: calc(65 * var(--u)); }
+.ui_dialog.evt_dialog.dlg_point .dialog_header::before { content: ""; display: block; width: calc(156 * var(--u)); height: calc(93 * var(--u)); margin: 0 auto calc(11 * var(--u)); background: url("https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/icon.png") no-repeat center / contain; }
+
+/* STATE ------------------------ */
+</style>
+<div class="event_wrap layout_full">
+    <div class="layout_full evt_header_wrap">
+        <div class="evt_countdown">
+            <p class="cd_title">블랙프라이데이 마감</p>
+            <p class="a11y_hidden">블랙프라이데이 마감까지 남은 시간</p>
+            <div class="cd_time">
+                <div class="cd_unit"><span class="cd_num cd_days">12</span><span class="cd_txt">DAYS</span><span class="cd_colon">:</span></div>
+                <div class="cd_unit"><span class="cd_num cd_hours">00</span><span class="cd_txt">HRS</span><span class="cd_colon">:</span></div>
+                <div class="cd_unit"><span class="cd_num cd_mins">44</span><span class="cd_txt">MINS</span><span class="cd_colon">:</span></div>
+                <div class="cd_unit"><span class="cd_num cd_secs">41</span><span class="cd_txt">SECS</span></div>
+            </div>
+        </div>
+        <div class="evt_header">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/evt_top.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/evt_top.jpg" width="750" height="640" alt="" draggable="false">
+            <h2 class="a11y_hidden">BLACK FRIDAY UP TO 50%</h2>
+        </div>
+    </div>
+    <div class="sticky_tab_space" style="height: 0px;"></div>
+    <div class="sticky_tab sticky_tab_main">
+        <div class="sticky_tab_inner swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-free-mode">
+            <div class="sticky_tab_list swiper-wrapper">
+                <div class="sticky_tab_item swiper-slide active swiper-slide-active" data-button-index="1">혜택 총 정리</div>
+                <div class="sticky_tab_item swiper-slide swiper-slide-next" data-button-index="2">선착순 쿠폰</div>
+                <div class="sticky_tab_item swiper-slide" data-button-index="3">최대 45%</div>
+                <div class="sticky_tab_item swiper-slide" data-button-index="4">균일가 혜택</div>
+                <div class="sticky_tab_item swiper-slide" data-button-index="5">선물 가이드</div>
+                <div class="sticky_tab_bar"></div>
+            </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+    </div>
+    <div id="section1" class="evtSect evtSect_1">
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section01/01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section01/01.jpg" width="750" height="1279" alt="" draggable="false">
+            <div class="a11y_hidden">
+                <h3>오직 오설록몰에서만! 단독 블프 이벤트 오픈 : 블프 혜택 총 정리</h3>
+                <ul>
+                    <li>01. 매일 장바구니 최대 50% 쿠폰</li>
+                    <li>02. 선착순 구매 금액대별 사은품</li>
+                    <li>03. 매일 달라지는 하루특가 45%</li>
+                    <li>04. 추천 베스트템 6600원~</li>
+                    <li>05. 친구 초대 랜덤 포인트 적립</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="section2" class="evtSect evtSect_2">
+        <!--선착순 장바구니 쿠폰-->
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/01.png" width="750" height="1308" alt="" draggable="false">
+            <h3 class="a11y_hidden">블프 혜택 1. 매일 오전 10시 / 오후 8시 장바구니 쿠폰 챌린지</h3>
+            <p class="a11y_hidden">쿠폰 발급 전 미리 장바구니에 담아두고 빠르게 결제하면 GET!</p>
+            <div class="cpn_stack" aria-hidden="true">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/shadow.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/shadow.png" width="576" height="349" alt="" class="cpn_shadow" draggable="false">
+                <div class="cpn_clip">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/cpn_35.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/cpn_35.png" width="455" height="228" alt="" class="cpn cpn_35" draggable="false">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/cpn_40.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/cpn_40.png" width="455" height="228" alt="" class="cpn cpn_40" draggable="false">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/cpn_50.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/cpn_50.png" width="455" height="228" alt="" class="cpn cpn_50" draggable="false">
+                </div>
+            </div>
+            <ul class="a11y_hidden">
+                <li>선착순 장바구니 쿠폰 50% (4만원 이상 구매 시)</li>
+                <li>선착순 장바구니 쿠폰 40% (4만원 이상 구매 시)</li>
+                <li>선착순 장바구니 쿠폰 35% (4만원 이상 구매 시)</li>
+                <li>결제 선착순 마감</li>
+            </ul>
+            <button type="button" class="btn_coupon_first"><span class="a11y_hidden">선착순 쿠폰팩 발급받기</span></button>
+        </div>
+        <!--상시 장바구니 쿠폰-->
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/02.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/02.png" width="750" height="905" alt="" draggable="false">
+            <p class="a11y_hidden">선착순 쿠폰을 놓치셨다면! 상시 쿠폰을 드려요</p>
+            <ul class="a11y_hidden">
+                <li>장바구니 쿠폰 35% (5만원 이상 구매 시)</li>
+                <li>장바구니 쿠폰 30% (4만원 이상 구매 시)</li>
+                <li>장바구니 쿠폰 25% (3만원 이상 구매 시)</li>
+            </ul>
+            <button type="button" class="btn_coupon_normal"><span class="a11y_hidden">상시 쿠폰팩 발급받기</span></button>
+        </div>
+        <!--참여방법-->
+        <div class="evt_noti_wrap">
+            <div class="evt_cont notice_btn_area active">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/nbtn_closed.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/nbtn_closed.png" width="750" height="53" alt="" class="img_fold" draggable="false">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/nbtn_expanded.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/nbtn_expanded.png" width="750" height="53" alt="" class="img_expand" draggable="false">
+                <button type="button" class="btn_evtnotice"><span class="a11y_hidden">선착순 장바구니 쿠폰 참여방법 보기</span></button>
+            </div>
+            <div class="evt_cont notice_detail_area">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/n_notice.webp?ver=261022" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/n_notice.png?ver=261022" width="750" height="405" alt="">
+            </div>
+        </div>
+        <div class="a11y_hidden">
+            <h4>선착순 장바구니 쿠폰 참여방법</h4>
+            <ol>
+                <li>STEP 1. 쿠폰 다운로드 전 최대한 장바구니에 원하는 상품 담아두기</li>
+                <li>STEP 2. 매일 오전 10시, 오후 8시에 위 버튼으로 선착순 쿠폰팩 발급받기</li>
+                <li>STEP 3. 장바구니에서 결제 페이지로 이동해 사용가능한 선착순 쿠폰 적용하기</li>
+            </ol>
+            <h4>선착순 쿠폰 유의사항</h4>
+            <ul>
+                <li>쿠폰 다운로드 후 선착순 인원이 쿠폰을 모두 사용하면 선착순 쿠폰은 자동 소멸됩니다.</li>
+                <li>실시간으로 선착순 사용 쿠폰 수량이 소진된 경우, 주문이 실패할 수 있습니다.</li>
+                <li>실패한 주문은 순차적으로 환불됩니다.</li>
+                <li>쿠폰은 일부 상품에 적용 불가능할 수 있습니다. (티웨어, 케이크 등)</li>
+                <li>결제 취소 시, 쿠폰 재사용은 불가능합니다.</li>
+                <li>그 외 유의사항은 하단 이벤트 유의사항을 참고해주세요.</li>
+            </ul>
+        </div>
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/empty.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section02/empty.png" width="750" height="75" alt="" draggable="false">
+        </div>
+    </div>
+    <div id="section3" class="evtSect evtSect_3">
+        <h3 class="a11y_hidden">블프 혜택 2. 매일매일 다른 특가 ~45% 오설록몰 베스트템 최저가 도전</h3>
+        <div class="evt_cont oneday_wrap">
+            <div class="daily_countdown">
+                <span class="cd_label">오늘 특가 마감까지</span>
+                <span class="cd_num cd_hh">00</span><span class="cd_colon">:</span><span class="cd_num cd_mm">44</span><span class="cd_colon">:</span><span class="cd_num cd_ss">40</span>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261102">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1102.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1102.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21902" class="link_left line_01">
+                    <span class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">피치파파야 블랙티 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21767" class="link_right line_01">
+                    <span class="a11y_hidden">피치파파야 블랙티 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 6,400원 비싸져요</p>
+                <p class="a11y_hidden">프리미엄 티 컬렉션 10종 40입</p>
+                <p class="a11y_hidden">정상가 32,000원, 40% 할인가 19,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/15263" class="link_left line_02">
+                    <span class="a11y_hidden">프리미엄 티 컬렉션 10종 40입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 12,600원 비싸져요</p>
+                <p class="a11y_hidden">[한정 보자기] 티 에디션 스페셜 9종 54입</p>
+                <p class="a11y_hidden">정상가 126,000원, 35% 할인가 81,900원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21985" class="link_right line_02">
+                    <span class="a11y_hidden">[한정 보자기] 티 에디션 스페셜 9종 54입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261103">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1103.webp?ver=261026" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1103.jpg?ver=261026" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">파파야 &amp; 동백꽃 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22032" class="link_left line_01">
+                    <span class="a11y_hidden">파파야 &amp; 동백꽃 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">동백이 피는 곶자왈 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17066" class="link_right line_01">
+                    <span class="a11y_hidden">동백이 피는 곶자왈 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 18,700원 비싸져요</p>
+                <p class="a11y_hidden">티 에디션 스페셜 9종 54입</p>
+                <p class="a11y_hidden">정상가 110,000원, 40% 할인가 66,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20826" class="link_left line_02">
+                    <span class="a11y_hidden">티 에디션 스페셜 9종 54입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 4,810원 비싸져요</p>
+                <p class="a11y_hidden">[미피] 위크엔드 티 타임 세트</p>
+                <p class="a11y_hidden">정상가 37,000원, 33% 할인가 24,790원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22169" class="link_right line_02">
+                    <span class="a11y_hidden">[미피] 위크엔드 티 타임 세트 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: block;" data-promoday="20261104">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1104.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1104.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">웨딩 그린 &amp; 피치 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21903" class="link_left line_01">
+                    <span class="a11y_hidden">웨딩 그린 &amp; 피치 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">제주화산암차 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16645" class="link_right line_01">
+                    <span class="a11y_hidden">제주화산암차 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 7,560원 비싸져요</p>
+                <p class="a11y_hidden">차의 정원 9종 27입</p>
+                <p class="a11y_hidden">정상가 54,000원, 35% 할인가 35,100원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21773" class="link_left line_02">
+                    <span class="a11y_hidden">차의 정원 9종 27입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 3,400원 비싸져요</p>
+                <p class="a11y_hidden">[무카페인] 신상 허브티 3종</p>
+                <p class="a11y_hidden">정상가 34,000원, 30% 할인가 23,800원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22007" class="link_right line_02">
+                    <span class="a11y_hidden">[무카페인] 신상 허브티 3종 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261105">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1105.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1105.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 15,000원 비싸져요</p>
+                <p class="a11y_hidden">오설록 베스트 텀블러 세트(달빛)</p>
+                <p class="a11y_hidden">정상가 60,000원, 45% 할인가 33,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21774" class="link_left line_01">
+                    <span class="a11y_hidden">오설록 베스트 텀블러 세트(달빛) 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">시그니처 얼그레이 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21606" class="link_right line_01">
+                    <span class="a11y_hidden">시그니처 얼그레이 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 27,000원 비싸져요</p>
+                <p class="a11y_hidden">티 에디션 헤리티지 9종 63입</p>
+                <p class="a11y_hidden">정상가 150,000원, 40% 할인가 90,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21637" class="link_left line_02">
+                    <span class="a11y_hidden">티 에디션 헤리티지 9종 63입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 5,100원 비싸져요</p>
+                <p class="a11y_hidden">티 베리에이션 오 6종 36입</p>
+                <p class="a11y_hidden">정상가 30,000원, 32% 할인가 20,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21665" class="link_right line_02">
+                    <span class="a11y_hidden">티 베리에이션 오 6종 36입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261106">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1106.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1106.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21902" class="link_left line_01">
+                    <span class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">달빛걷기 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17083" class="link_right line_01">
+                    <span class="a11y_hidden">달빛걷기 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 11,520원 비싸져요</p>
+                <p class="a11y_hidden">마스터 블렌드 8종 32입</p>
+                <p class="a11y_hidden">정상가 64,000원, 40% 할인가 38,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/14123" class="link_left line_02">
+                    <span class="a11y_hidden">마스터 블렌드 8종 32입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 4,200원 비싸져요</p>
+                <p class="a11y_hidden">프리미엄 말차 쉐이커 키트 + 키링</p>
+                <p class="a11y_hidden">정상가 42,000원, 30% 할인가 29,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22182" class="link_right line_02">
+                    <span class="a11y_hidden">프리미엄 말차 쉐이커 키트 + 키링 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261107">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1107.webp?ver=261026" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1107.jpg?ver=261026" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">달빛 &amp; 피치 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22199" class="link_left line_01">
+                    <span class="a11y_hidden">달빛 &amp; 피치 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">루이보스 문라이트 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21656" class="link_right line_01">
+                    <span class="a11y_hidden">루이보스 문라이트 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 4,300원 비싸져요</p>
+                <p class="a11y_hidden">[미피] 쿨말차 티타임 세트</p>
+                <p class="a11y_hidden">정상가 86,000원, 40% 할인가 51,600원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22173" class="link_left line_02">
+                    <span class="a11y_hidden">[미피] 쿨말차 티타임 세트 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 3,360원 비싸져요</p>
+                <p class="a11y_hidden">[보자기] 프리미엄 티 컬렉션 10종 40입</p>
+                <p class="a11y_hidden">정상가 42,000원, 30% 할인가 29,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21781" class="link_right line_02">
+                    <span class="a11y_hidden">[보자기] 프리미엄 티 컬렉션 10종 40입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261108">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1108.webp?ver=261026" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1108.jpg?ver=261026" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">웨딩 그린 &amp; 피치 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21903" class="link_left line_01">
+                    <span class="a11y_hidden">웨딩 그린 &amp; 피치 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,820원 비싸져요</p>
+                <p class="a11y_hidden">[미피] 티푸드 러버스 세트</p>
+                <p class="a11y_hidden">정상가 94,000원, 43% 할인가 53,580원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/bakery/22165" class="link_right line_01">
+                    <span class="a11y_hidden">[미피] 티푸드 러버스 세트 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 5,925원 비싸져요</p>
+                <p class="a11y_hidden">랑드샤 베스트 티 4종 세트</p>
+                <p class="a11y_hidden">정상가 39,500원, 35% 할인가 25,675원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21748" class="link_left line_02">
+                    <span class="a11y_hidden">랑드샤 베스트 티 4종 세트 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">무화과 애플 블랙티 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21933" class="link_right line_02">
+                    <span class="a11y_hidden">무화과 애플 블랙티 20입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261109">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1109.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1109.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 15,000원 비싸져요</p>
+                <p class="a11y_hidden">오설록 베스트 텀블러 세트(달빛)</p>
+                <p class="a11y_hidden">정상가 60,000원, 45% 할인가 33,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21774" class="link_left line_01">
+                    <span class="a11y_hidden">오설록 베스트 텀블러 세트(달빛) 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">삼다연 제주영귤 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16943" class="link_right line_01">
+                    <span class="a11y_hidden">삼다연 제주영귤 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 27,000원 비싸져요</p>
+                <p class="a11y_hidden">티 에디션 헤리티지 9종 63입</p>
+                <p class="a11y_hidden">정상가 150,000원, 40% 할인가 90,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21637" class="link_left line_02">
+                    <span class="a11y_hidden">티 에디션 헤리티지 9종 63입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 7,560원 비싸져요</p>
+                <p class="a11y_hidden">차의 정원 9종 27입</p>
+                <p class="a11y_hidden">정상가 54,000원, 35% 할인가 35,100원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21773" class="link_right line_02">
+                    <span class="a11y_hidden">차의 정원 9종 27입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261110">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1110.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1110.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21902" class="link_left line_01">
+                    <span class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">웨딩 그린티 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16946" class="link_right line_01">
+                    <span class="a11y_hidden">웨딩 그린티 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 13,940원 비싸져요</p>
+                <p class="a11y_hidden">프리미엄 티 컬렉션 9종 90입</p>
+                <p class="a11y_hidden">정상가 82,000원, 40% 할인가 49,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16045" class="link_left line_02">
+                    <span class="a11y_hidden">프리미엄 티 컬렉션 9종 90입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 9,450원 비싸져요</p>
+                <p class="a11y_hidden">티베리에이션 에센스 6종 42입</p>
+                <p class="a11y_hidden">정상가 35,000원, 32% 할인가 23,800원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21706" class="link_right line_02">
+                    <span class="a11y_hidden">티베리에이션 에센스 6종 42입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261111">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1111.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1111.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">영귤 &amp; 무화과 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21901" class="link_left line_01">
+                    <span class="a11y_hidden">영귤 &amp; 무화과 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">시그니처 얼그레이 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21606" class="link_right line_01">
+                    <span class="a11y_hidden">시그니처 얼그레이 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 4,800원 비싸져요</p>
+                <p class="a11y_hidden">프리미엄 티 컬렉션 10종 40입</p>
+                <p class="a11y_hidden">정상가 32,000원, 35% 할인가 20,800원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/15263" class="link_left line_02">
+                    <span class="a11y_hidden">프리미엄 티 컬렉션 10종 40입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 7,200원 비싸져요</p>
+                <p class="a11y_hidden">[무카페인] 티 에디션 허브 가든 6종 24입</p>
+                <p class="a11y_hidden">정상가 48,000원, 35% 할인가 31,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22058" class="link_right line_02">
+                    <span class="a11y_hidden">[무카페인] 티 에디션 허브 가든 6종 24입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261112">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1112.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1112.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">웨딩 그린 &amp; 피치 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21903" class="link_left line_01">
+                    <span class="a11y_hidden">웨딩 그린 &amp; 피치 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">달빛걷기 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17083" class="link_right line_01">
+                    <span class="a11y_hidden">달빛걷기 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,820원 비싸져요</p>
+                <p class="a11y_hidden">[미피] 티푸드 러버스 세트</p>
+                <p class="a11y_hidden">정상가 94,000원, 43% 할인가 53,580원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/bakery/22165" class="link_left line_02">
+                    <span class="a11y_hidden">[미피] 티푸드 러버스 세트 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 5,100원 비싸져요</p>
+                <p class="a11y_hidden">티 베리에이션 오 6종 36입</p>
+                <p class="a11y_hidden">정상가 30,000원, 32% 할인가 20,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21665" class="link_right line_02">
+                    <span class="a11y_hidden">티 베리에이션 오 6종 36입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261113">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1113.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1113.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 15,000원 비싸져요</p>
+                <p class="a11y_hidden">오설록 베스트 텀블러 세트(달빛)</p>
+                <p class="a11y_hidden">정상가 60,000원, 45% 할인가 33,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21774" class="link_left line_01">
+                    <span class="a11y_hidden">오설록 베스트 텀블러 세트(달빛) 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">루이보스 문라이트 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21656" class="link_right line_01">
+                    <span class="a11y_hidden">루이보스 문라이트 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 21,160원 비싸져요</p>
+                <p class="a11y_hidden">[보자기] 프리미엄 티 컬렉션 9종 90입</p>
+                <p class="a11y_hidden">정상가 92,000원, 40% 할인가 55,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22111" class="link_left line_02">
+                    <span class="a11y_hidden">[보자기] 프리미엄 티 컬렉션 9종 90입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 3,800원 비싸져요</p>
+                <p class="a11y_hidden">딜라이트 컬렉션 오</p>
+                <p class="a11y_hidden">정상가 38,000원, 30% 할인가 26,600원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22206" class="link_right line_02">
+                    <span class="a11y_hidden">딜라이트 컬렉션 오 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261114">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1114.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1114.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21902" class="link_left line_01">
+                    <span class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">벚꽃향 가득한 올레 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17063" class="link_right line_01">
+                    <span class="a11y_hidden">벚꽃향 가득한 올레 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 18,700원 비싸져요</p>
+                <p class="a11y_hidden">티 에디션 스페셜 9종 54입</p>
+                <p class="a11y_hidden">정상가 110,000원, 40% 할인가 66,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20826" class="link_left line_02">
+                    <span class="a11y_hidden">티 에디션 스페셜 9종 54입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 5,440원 비싸져요</p>
+                <p class="a11y_hidden">티 에디션 허브 4종 16입</p>
+                <p class="a11y_hidden">정상가 32,000원, 32% 할인가 21,760원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21919" class="link_right line_02">
+                    <span class="a11y_hidden">티 에디션 허브 4종 16입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261115">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1115.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1115.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">영귤 &amp; 무화과 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21901" class="link_left line_01">
+                    <span class="a11y_hidden">영귤 &amp; 무화과 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 900원 비싸져요</p>
+                <p class="a11y_hidden">세작 20입</p>
+                <p class="a11y_hidden">정상가 30,000원, 40% 할인가 18,000원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16623" class="link_right line_01">
+                    <span class="a11y_hidden">세작 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 10,620원 비싸져요</p>
+                <p class="a11y_hidden">[브라운 보자기] 티 에디션 허브 가든 6종 24입</p>
+                <p class="a11y_hidden">정상가 59,000원, 40% 할인가 35,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22210" class="link_left line_02">
+                    <span class="a11y_hidden">[브라운 보자기] 티 에디션 허브 가든 6종 24입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 7,200원 비싸져요</p>
+                <p class="a11y_hidden">티 에디션 아일랜드 6종 18입</p>
+                <p class="a11y_hidden">정상가 36,000원, 35% 할인가 23,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21638" class="link_right line_02">
+                    <span class="a11y_hidden">티 에디션 아일랜드 6종 18입 보러가기</span>
+                </a>
+            </div>
+            <div class="oneday" style="display: none;" data-promoday="20261116">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1116.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/1116.jpg" width="750" height="1737" alt="" draggable="false">
+
+                <p class="a11y_hidden">특가 종료 시 11,000원 비싸져요</p>
+                <p class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임</p>
+                <p class="a11y_hidden">정상가 44,000원, 45% 할인가 24,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21902" class="link_left line_01">
+                    <span class="a11y_hidden">벚꽃 &amp; 꿀배 와플 티타임 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 2,700원 비싸져요</p>
+                <p class="a11y_hidden">피치파파야 블랙티 20입</p>
+                <p class="a11y_hidden">정상가 27,000원, 40% 할인가 16,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21767" class="link_right line_01">
+                    <span class="a11y_hidden">피치파파야 블랙티 20입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 11,520원 비싸져요</p>
+                <p class="a11y_hidden">마스터 블렌드 8종 32입</p>
+                <p class="a11y_hidden">정상가 64,000원, 40% 할인가 38,400원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/14123" class="link_left line_02">
+                    <span class="a11y_hidden">마스터 블렌드 8종 32입 보러가기</span>
+                </a>
+
+                <p class="a11y_hidden">특가 종료 시 6,400원 비싸져요</p>
+                <p class="a11y_hidden">프리미엄 티 컬렉션 10종 40입</p>
+                <p class="a11y_hidden">정상가 32,000원, 40% 할인가 19,200원</p>
+                <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/15263" class="link_right line_02">
+                    <span class="a11y_hidden">프리미엄 티 컬렉션 10종 40입 보러가기</span>
+                </a>
+            </div>
+        </div>
+        <div class="evt_benefit">
+            <div class="evt_cont">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/01.png" width="750" height="1968" alt="" draggable="false">
+                <h3 class="a11y_hidden">블프 혜택 3 : 선착순 구매금액 사은품</h3>
+                <ul class="a11y_hidden">
+                    <li>10만원 이상 결제 시 : 오설록 유리머그</li>
+                    <li>15만원 이상 결제 시 : 오설록 유리머그 + 윈터 팝업카드</li>
+                    <li>20만원 이상 결제 시 : 오설록 유리머그, 윈터 팝업카드 + 연말 파티팩</li>
+                </ul>
+                <div id="slide_benefit" class="benefit_slide">
+                    <div class="benefit_card">
+                        <p class="benefit_tit">사은품 자세히보기</p>
+                        <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+                            <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-2004px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s3.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">연말 파티팩</p>
+                                    <p class="a11y_hidden">고깔모자 2p, 케익토퍼 2p, 트리 오너먼트 메시지 카드 2p</p>
+                                </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s4.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s4.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">윈터 팝업 카드</p>
+                                    <p class="a11y_hidden">빨간 말이 그려진 팝업 카드로, 병오년을 잘 마무리 해보세요.</p>
+                                </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s5.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s5.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">윈터 팝업 카드</p>
+                                    <p class="a11y_hidden">빨간 말이 그려진 팝업 카드로, 병오년을 잘 마무리 해보세요.</p>
+                                </div>
+                                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s1.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s1.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">오설록 유리머그</p>
+                                    <p class="a11y_hidden">선물할 때 주기에도 좋고, 데일리로 사용하기 좋은 유리머그</p>
+                                </div>
+                                <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s2.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s2.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">연말 파티팩</p>
+                                    <p class="a11y_hidden">고깔모자 2p, 케익토퍼 2p, 트리 오너먼트 메시지 카드 2p</p>
+                                </div>
+                                <div class="swiper-slide" data-swiper-slide-index="2" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s3.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">연말 파티팩</p>
+                                    <p class="a11y_hidden">고깔모자 2p, 케익토퍼 2p, 트리 오너먼트 메시지 카드 2p</p>
+                                </div>
+                                <div class="swiper-slide" data-swiper-slide-index="3" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s4.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s4.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">윈터 팝업 카드</p>
+                                    <p class="a11y_hidden">빨간 말이 그려진 팝업 카드로, 병오년을 잘 마무리 해보세요.</p>
+                                </div>
+                                <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s5.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s5.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">윈터 팝업 카드</p>
+                                    <p class="a11y_hidden">빨간 말이 그려진 팝업 카드로, 병오년을 잘 마무리 해보세요.</p>
+                                </div>
+                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s1.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s1.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">오설록 유리머그</p>
+                                    <p class="a11y_hidden">선물할 때 주기에도 좋고, 데일리로 사용하기 좋은 유리머그</p>
+                                </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s2.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s2.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">연말 파티팩</p>
+                                    <p class="a11y_hidden">고깔모자 2p, 케익토퍼 2p, 트리 오너먼트 메시지 카드 2p</p>
+                                </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="width: 668px;">
+                                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/s3.jpg" width="668" height="799" alt="" draggable="false">
+                                    <p class="a11y_hidden">연말 파티팩</p>
+                                    <p class="a11y_hidden">고깔모자 2p, 케익토퍼 2p, 트리 오너먼트 메시지 카드 2p</p>
+                                </div></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    </div>
+                    <div class="swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                </div>
+            </div>
+            <!--참여방법-->
+            <div class="evt_noti_wrap">
+                <div class="evt_cont notice_btn_area active">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/nbtn_closed.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/nbtn_closed.png" width="750" height="53" alt="" class="img_fold" draggable="false">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/nbtn_expanded.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/nbtn_expanded.png" width="750" height="53" alt="" class="img_expand" draggable="false">
+                    <button type="button" class="btn_evtnotice"><span class="a11y_hidden">사은품 유의사항 보기</span></button>
+                </div>
+                <div class="evt_cont notice_detail_area">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/n_notice.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/n_notice.png" width="750" height="191" alt="">
+                </div>
+            </div>
+            <div class="a11y_hidden">
+                <h4>사은품 유의사항</h4>
+                <ul>
+                    <li>최종 결제되는 실 결제금액에 대한 사은품이 발송됩니다.</li>
+                    <li>[할인쿠폰, 적립금, 제휴 포인트, 포장비, 배송비]는 실 결제금액에 미포함 됩니다.</li>
+                    <li>구매금액대별 사은품은 재고에 따라 고지 없이 변경 혹은 미제공될 수 있습니다.</li>
+                    <li>베이커리, 아이스크림 및 타 브랜드 상품은 해당되지 않습니다.</li>
+                </ul>
+            </div>
+            <div class="evt_cont">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/empty.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section03/empty.png" width="750" height="100" alt="" draggable="false">
+            </div>
+        </div>
+    </div>
+    <div id="section4" class="evtSect evtSect_4">
+        <div class="evt_cont bg1">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/01.png" width="750" height="926" alt="" draggable="false">
+            <h3 class="a11y_hidden">블프 혜택 4 : 장바구니 채우기 좋은 1만 원 미만 균일가 존</h3>
+            <div id="slide_flat" class="flat_slide">
+                <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1320px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r1.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r1.png" width="310" height="310" alt="" draggable="false">
+                        </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r2.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r2.png" width="310" height="310" alt="" draggable="false">
+                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r3.png" width="310" height="310" alt="" draggable="false">
+                        </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r4.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r4.png" width="310" height="310" alt="" draggable="false">
+                        </div>
+                        <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r1.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r1.png" width="310" height="310" alt="" draggable="false">
+                        </div>
+                        <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r2.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r2.png" width="310" height="310" alt="" draggable="false">
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="2" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r3.png" width="310" height="310" alt="" draggable="false">
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r4.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r4.png" width="310" height="310" alt="" draggable="false">
+                        </div>
+                    <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r1.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r1.png" width="310" height="310" alt="" draggable="false">
+                        </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r2.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r2.png" width="310" height="310" alt="" draggable="false">
+                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r3.png" width="310" height="310" alt="" draggable="false">
+                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="margin-right: 20px;">
+                            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r4.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/r4.png" width="310" height="310" alt="" draggable="false">
+                        </div></div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+            </div>
+            <a href="/kr/ko/shop/item/list?1=1&amp;sort=price_asc" class="link_all">
+                <span class="a11y_hidden">1만 원 미만 균일가 전체 보기</span>
+            </a>
+        </div>
+        <div class="evt_countdown">
+            <p class="cd_title">블랙프라이데이 마감</p>
+            <p class="a11y_hidden">블랙프라이데이 마감까지 남은 시간</p>
+            <div class="cd_time">
+                <div class="cd_unit"><span class="cd_num cd_days">12</span><span class="cd_txt">DAYS</span><span class="cd_colon">:</span></div>
+                <div class="cd_unit"><span class="cd_num cd_hours">00</span><span class="cd_txt">HRS</span><span class="cd_colon">:</span></div>
+                <div class="cd_unit"><span class="cd_num cd_mins">44</span><span class="cd_txt">MINS</span><span class="cd_colon">:</span></div>
+                <div class="cd_unit"><span class="cd_num cd_secs">41</span><span class="cd_txt">SECS</span></div>
+            </div>
+        </div>
+        <div class="bg_gd">
+            <div class="evt_cont">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/02.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/02.png" width="750" height="205" alt="" draggable="false">
+                <h3 class="a11y_hidden">균일가 상품</h3>
+            </div>
+            <div id="tab_flat" class="section_tab_wrap">
+                <div class="evt_cont_tab_list swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-free-mode">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide swiper-slide-active">
+                            <button type="button" class="tab active" data-cate="0">
+                                <span>6,600원~</span>
+                            </button>
+                        </div>
+                        <div class="swiper-slide swiper-slide-next">
+                            <button type="button" class="tab" data-cate="1">
+                                <span>9,900원~</span>
+                            </button>
+                        </div>
+                        <div class="swiper-slide">
+                            <button type="button" class="tab" data-cate="2">
+                                <span>11,500원~</span>
+                            </button>
+                        </div>
+                        <div class="swiper-slide">
+                            <button type="button" class="tab" data-cate="3">
+                                <span>18,900원~</span>
+                            </button>
+                        </div>
+                    </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+            </div>
+            <div id="cont_flat" class="cont_category">
+                <!--6,600원~-->
+                <div class="section_cont active" data-cont="0">
+                    <div class="evt_cont cont_750 flat_list flat_c1">
+                        <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont1.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont1.jpg" width="750" height="3320" alt="" draggable="false">
+                        <h4 class="a11y_hidden">물 마시기 습관에 좋은 티백/콤부차</h4>
+                        <p class="a11y_hidden">콤부차/찬물 6,600원~</p>
+                        <p class="a11y_hidden">티백 8,800원~</p>
+
+                        <h5 class="a11y_hidden">균일가 6,600원</h5>
+                        <p class="a11y_hidden">콤부차 리치피치 10입</p>
+                        <p class="a11y_hidden">균일가 6,600원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20883" class="col_1 row_1">
+                            <span class="a11y_hidden">콤부차 리치피치 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">콤부차 깔라망고 10입</p>
+                        <p class="a11y_hidden">균일가 6,600원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20683" class="col_2 row_1">
+                            <span class="a11y_hidden">콤부차 깔라망고 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">콤부차 애플파인 10입</p>
+                        <p class="a11y_hidden">균일가 6,600원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21443" class="col_3 row_1">
+                            <span class="a11y_hidden">콤부차 애플파인 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">찬물 녹차</p>
+                        <p class="a11y_hidden">균일가 6,600원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/6362" class="col_1 row_2">
+                            <span class="a11y_hidden">찬물 녹차 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">찬물 루이보스 티</p>
+                        <p class="a11y_hidden">균일가 6,600원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20603" class="col_2 row_2">
+                            <span class="a11y_hidden">찬물 루이보스 티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">그린티 시트 마스크 5매</p>
+                        <p class="a11y_hidden">균일가 6,600원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/themashop/14304" class="col_3 row_2">
+                            <span class="a11y_hidden">그린티 시트 마스크 5매 보러가기</span>
+                        </a>
+
+                        <h5 class="a11y_hidden">균일가 7,700원</h5>
+                        <p class="a11y_hidden">제주 그린티 클렌징 바</p>
+                        <p class="a11y_hidden">균일가 7,700원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/themashop/20443" class="col_1 row_3">
+                            <span class="a11y_hidden">제주 그린티 클렌징 바 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주섬 녹차 아몬드볼</p>
+                        <p class="a11y_hidden">균일가 7,700원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/bakery/17803" class="col_2 row_3">
+                            <span class="a11y_hidden">제주섬 녹차 아몬드볼 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">말차 그래놀라 쿠키</p>
+                        <p class="a11y_hidden">균일가 7,700원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/bakery/22012" class="col_3 row_3">
+                            <span class="a11y_hidden">말차 그래놀라 쿠키 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">녹차 밀크 스프레드</p>
+                        <p class="a11y_hidden">균일가 7,700원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/bakery/5041" class="col_1 row_4">
+                            <span class="a11y_hidden">녹차 밀크 스프레드 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 호지샷 블렌드</p>
+                        <p class="a11y_hidden">균일가 7,700원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22221" class="col_2 row_4">
+                            <span class="a11y_hidden">제주 호지샷 블렌드 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 말차샷 블렌드</p>
+                        <p class="a11y_hidden">균일가 7,700원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17004" class="col_3 row_4">
+                            <span class="a11y_hidden">제주 말차샷 블렌드 보러가기</span>
+                        </a>
+
+                        <h5 class="a11y_hidden">균일가 8,800원</h5>
+                        <p class="a11y_hidden">제주 순수 녹차</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/5661" class="col_1 row_5">
+                            <span class="a11y_hidden">제주 순수 녹차 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 화산우롱차</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16263" class="col_2 row_5">
+                            <span class="a11y_hidden">제주 화산우롱차 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">피치 캐모마일</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21864" class="col_3 row_5">
+                            <span class="a11y_hidden">피치 캐모마일 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 호지차</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22024" class="col_1 row_6">
+                            <span class="a11y_hidden">제주 호지차 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[무카페인] 체리 루이보스</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21998" class="col_2 row_6">
+                            <span class="a11y_hidden">[무카페인] 체리 루이보스 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[유기농, 무카페인] 멜로우 민트</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21997" class="col_3 row_6">
+                            <span class="a11y_hidden">[유기농, 무카페인] 멜로우 민트 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[유기농, 무카페인] 캐모마일 라벤더</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21996" class="col_1 row_7">
+                            <span class="a11y_hidden">[유기농, 무카페인] 캐모마일 라벤더 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">피치 블랙티</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/15244" class="col_2 row_7">
+                            <span class="a11y_hidden">피치 블랙티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">삼다 꿀배 티</p>
+                        <p class="a11y_hidden">균일가 8,800원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/15243" class="col_3 row_7">
+                            <span class="a11y_hidden">삼다 꿀배 티 보러가기</span>
+                        </a>
+                    </div>
+                </div>
+                <!--9,900원~-->
+                <div class="section_cont" data-cont="1">
+                    <div class="evt_cont cont_750 flat_list flat_c2">
+                        <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont2.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont2.jpg" width="750" height="2673" alt="" draggable="false">
+                        <h4 class="a11y_hidden">쟁여 두기 좋은 가루차/콜드브루</h4>
+                        <p class="a11y_hidden">잎차/콜드브루/가루차 9,900원</p>
+
+                        <h5 class="a11y_hidden">균일가 9,900원</h5>
+                        <p class="a11y_hidden">달빛걷기 35g</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17065" class="col_1 row_1">
+                            <span class="a11y_hidden">달빛걷기 35g 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">동백이 피는 곶자왈 35g</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17067" class="col_2 row_1">
+                            <span class="a11y_hidden">동백이 피는 곶자왈 35g 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">삼다연 제주영귤 30g</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16944" class="col_3 row_1">
+                            <span class="a11y_hidden">삼다연 제주영귤 30g 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">선샤인 머스캣 콜드브루 티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21669" class="col_1 row_2">
+                            <span class="a11y_hidden">선샤인 머스캣 콜드브루 티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">달빛 꿀배 콜드브루 티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21670" class="col_2 row_2">
+                            <span class="a11y_hidden">달빛 꿀배 콜드브루 티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">선셋 피치 콜드브루 티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21671" class="col_3 row_2">
+                            <span class="a11y_hidden">선셋 피치 콜드브루 티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">스윗 히비스커스 콜드브루 티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21885" class="col_1 row_3">
+                            <span class="a11y_hidden">스윗 히비스커스 콜드브루 티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">말차 콜드브루 티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22106" class="col_2 row_3">
+                            <span class="a11y_hidden">말차 콜드브루 티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">가루 녹차</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16983" class="col_3 row_3">
+                            <span class="a11y_hidden">가루 녹차 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">말차플러스 프로바이오틱스</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22093" class="col_1 row_4">
+                            <span class="a11y_hidden">말차플러스 프로바이오틱스 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">말차플러스 콜라겐</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22091" class="col_2 row_4">
+                            <span class="a11y_hidden">말차플러스 콜라겐 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">말차플러스 테아닌</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22092" class="col_3 row_4">
+                            <span class="a11y_hidden">말차플러스 테아닌 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">얼그레이 밀크티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21742" class="col_1 row_5">
+                            <span class="a11y_hidden">얼그레이 밀크티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 말차 밀크티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21740" class="col_2 row_5">
+                            <span class="a11y_hidden">제주 말차 밀크티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">삼다연 오리지널 밀크티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21741" class="col_3 row_5">
+                            <span class="a11y_hidden">삼다연 오리지널 밀크티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 호지차 밀크티</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22013" class="col_1 row_6">
+                            <span class="a11y_hidden">제주 호지차 밀크티 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주 말차 오트 블렌드</p>
+                        <p class="a11y_hidden">균일가 9,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22014" class="col_2 row_6">
+                            <span class="a11y_hidden">제주 말차 오트 블렌드 보러가기</span>
+                        </a>
+                    </div>
+                </div>
+                <!--11,500원~-->
+                <div class="section_cont" data-cont="2">
+                    <div class="evt_cont cont_750 flat_list flat_c3">
+                        <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont3.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont3.jpg" width="750" height="3331" alt="" draggable="false">
+                        <h4 class="a11y_hidden">쟁여 두기 좋은 피라미드 10입</h4>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+
+                        <h5 class="a11y_hidden">균일가 11,500원</h5>
+                        <p class="a11y_hidden">달빛걷기 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16968" class="col_1 row_1">
+                            <span class="a11y_hidden">달빛걷기 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">루이보스 문라이트 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21083" class="col_2 row_1">
+                            <span class="a11y_hidden">루이보스 문라이트 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">루이보스 퓨어 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17143" class="col_3 row_1">
+                            <span class="a11y_hidden">루이보스 퓨어 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">캐모마일 블렌드 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21003" class="col_1 row_2">
+                            <span class="a11y_hidden">캐모마일 블렌드 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">히비스커스 선샤인 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21451" class="col_2 row_2">
+                            <span class="a11y_hidden">히비스커스 선샤인 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">동백이 피는 곶자왈 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16970" class="col_3 row_2">
+                            <span class="a11y_hidden">동백이 피는 곶자왈 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">피치파파야 블랙티 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16710" class="col_1 row_3">
+                            <span class="a11y_hidden">피치파파야 블랙티 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">벚꽃향 가득한 올레 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16966" class="col_2 row_3">
+                            <span class="a11y_hidden">벚꽃향 가득한 올레 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">시그니처 얼그레이 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21605" class="col_3 row_3">
+                            <span class="a11y_hidden">시그니처 얼그레이 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">웨딩 그린티 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16711" class="col_1 row_4">
+                            <span class="a11y_hidden">웨딩 그린티 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주숲홍차 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16358" class="col_2 row_4">
+                            <span class="a11y_hidden">제주숲홍차 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주화산암차 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16354" class="col_3 row_4">
+                            <span class="a11y_hidden">제주화산암차 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">청우롱 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16352" class="col_1 row_5">
+                            <span class="a11y_hidden">청우롱 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">무화과 애플 블랙티 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21932" class="col_2 row_5">
+                            <span class="a11y_hidden">무화과 애플 블랙티 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">마롱 크림 블랙티 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21930" class="col_3 row_5">
+                            <span class="a11y_hidden">마롱 크림 블랙티 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">베리 가든 그린티 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21934" class="col_1 row_6">
+                            <span class="a11y_hidden">베리 가든 그린티 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[무카페인] 페퍼민트 브리즈 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22060" class="col_2 row_6">
+                            <span class="a11y_hidden">[무카페인] 페퍼민트 브리즈 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[무카페인] 바질 보타닉 가든 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22051" class="col_3 row_6">
+                            <span class="a11y_hidden">[무카페인] 바질 보타닉 가든 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[무카페인] 루이보스 체리벨벳 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22061" class="col_1 row_7">
+                            <span class="a11y_hidden">[무카페인] 루이보스 체리벨벳 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">[무카페인] 캐모마일 로지피치 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22062" class="col_2 row_7">
+                            <span class="a11y_hidden">[무카페인] 캐모마일 로지피치 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">삼다연 제주영귤 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16709" class="col_3 row_7">
+                            <span class="a11y_hidden">삼다연 제주영귤 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">밀키 우롱티 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20543" class="col_1 row_8">
+                            <span class="a11y_hidden">밀키 우롱티 10입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">귤꽃향을 품은 우잣담 10입</p>
+                        <p class="a11y_hidden">정상가 16,500원, 균일가 11,500원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16972" class="col_2 row_8">
+                            <span class="a11y_hidden">귤꽃향을 품은 우잣담 10입 보러가기</span>
+                        </a>
+                    </div>
+                </div>
+                <!--18,900원~-->
+                <div class="section_cont" data-cont="3">
+                    <div class="evt_cont cont_750 flat_list flat_c4">
+                        <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont4.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/cont4.jpg" width="750" height="2256" alt="" draggable="false">
+                        <h4 class="a11y_hidden">매일 먹기 좋은 벌크 20입</h4>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+
+                        <h5 class="a11y_hidden">균일가 18,900원</h5>
+                        <p class="a11y_hidden">세작 20입</p>
+                        <p class="a11y_hidden">정상가 30,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16623" class="col_1 row_1">
+                            <span class="a11y_hidden">세작 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">달빛걷기 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17083" class="col_2 row_1">
+                            <span class="a11y_hidden">달빛걷기 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">루이보스 문라이트 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21656" class="col_3 row_1">
+                            <span class="a11y_hidden">루이보스 문라이트 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">동백이 피는 곶자왈 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17066" class="col_1 row_2">
+                            <span class="a11y_hidden">동백이 피는 곶자왈 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">피치파파야 블랙티 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21767" class="col_2 row_2">
+                            <span class="a11y_hidden">피치파파야 블랙티 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">벚꽃향 가득한 올레 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17063" class="col_3 row_2">
+                            <span class="a11y_hidden">벚꽃향 가득한 올레 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">시그니처 얼그레이 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21606" class="col_1 row_3">
+                            <span class="a11y_hidden">시그니처 얼그레이 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">웨딩 그린티 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16946" class="col_2 row_3">
+                            <span class="a11y_hidden">웨딩 그린티 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">제주화산암차 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16645" class="col_3 row_3">
+                            <span class="a11y_hidden">제주화산암차 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">무화과 애플 블랙티 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21933" class="col_1 row_4">
+                            <span class="a11y_hidden">무화과 애플 블랙티 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">마롱 크림 블랙티 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21931" class="col_2 row_4">
+                            <span class="a11y_hidden">마롱 크림 블랙티 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">베리 가든 그린티 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21935" class="col_3 row_4">
+                            <span class="a11y_hidden">베리 가든 그린티 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">삼다연 제주영귤 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16943" class="col_1 row_5">
+                            <span class="a11y_hidden">삼다연 제주영귤 20입 보러가기</span>
+                        </a>
+                        <p class="a11y_hidden">귤꽃향을 품은 우잣담 20입</p>
+                        <p class="a11y_hidden">정상가 27,000원, 균일가 18,900원</p>
+                        <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21502" class="col_2 row_5">
+                            <span class="a11y_hidden">귤꽃향을 품은 우잣담 20입 보러가기</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="evt_cont cont_750">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/03.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/03.png" width="750" height="222" alt="" draggable="false">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/up.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section04/up.png" width="526" height="166" alt="" class="share_bubble" draggable="false">
+                <p class="a11y_hidden">20입 티백 전 품목 8,800원</p>
+                <a href="/kr/ko/shop/item/list?1=1&amp;sort=price_asc" class="link_cate">
+                    <span class="a11y_hidden">20입 티백 전 품목 둘러보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="section5" class="evtSect evtSect_5">
+        <!--선물 가이드-->
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/01.jpg" width="750" height="233" alt="" draggable="false">
+            <h3 class="a11y_hidden">오설록 블프 찬스로 준비하는 품격 있는 선물</h3>
+        </div>
+        <div id="tab_category" class="section_tab_wrap">
+            <div class="tab_category_list evt_cont_tab_list swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-free-mode">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide swiper-slide-active">
+                        <button type="button" class="tab active" data-cate="0">
+                            <span>보자기 선물</span>
+                        </button>
+                    </div>
+                    <div class="swiper-slide swiper-slide-next">
+                        <button type="button" class="tab" data-cate="1">
+                            <span>2만 원 대</span>
+                        </button>
+                    </div>
+                    <div class="swiper-slide">
+                        <button type="button" class="tab" data-cate="2">
+                            <span>3만 원 대</span>
+                        </button>
+                    </div>
+                    <div class="swiper-slide">
+                        <button type="button" class="tab" data-cate="3">
+                            <span>4-5만 원 대</span>
+                        </button>
+                    </div>
+                    <div class="swiper-slide">
+                        <button type="button" class="tab" data-cate="4">
+                            <span>6만 원 이상</span>
+                        </button>
+                    </div>
+                </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        </div>
+        <div id="cont_category" class="cont_category">
+            <!--보자기 선물-->
+            <div class="section_cont active" data-cont="0">
+                <div class="evt_cont cont_750">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_01.jpg" width="750" height="1433" alt="" draggable="false">
+
+                    <p class="a11y_hidden">모두의 취향을 사로잡을 다채로운 티 세트</p>
+                    <p class="a11y_hidden">[BEST] [화이트 보자기] 프리미엄 티 컬렉션 10종 40입</p>
+                    <p class="a11y_hidden">정상가 42,000원, 22% 할인가 32,760원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21781" class="link_01">
+                        <span class="a11y_hidden">[화이트 보자기] 프리미엄 티 컬렉션 10종 40입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">오설록 대표 피라미드 티를 엄선한 세트</p>
+                    <p class="a11y_hidden">[한정 보자기] 티 에디션 스페셜 9종 54입</p>
+                    <p class="a11y_hidden">정상가 126,000원, 25% 할인가 94,500원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21985" class="link_02">
+                        <span class="a11y_hidden">[한정 보자기] 티 에디션 스페셜 9종 54입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">세작, 우전, 홍우전까지 명차 구성 선물</p>
+                    <p class="a11y_hidden">[한정 보자기] 티 에디션 헤리티지 9종 63입</p>
+                    <p class="a11y_hidden">정상가 166,000원, 25% 할인가 124,500원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22042" class="link_03">
+                        <span class="a11y_hidden">[한정 보자기] 티 에디션 헤리티지 9종 63입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">무카페인 티와 함께 편안한 휴식을 선물</p>
+                    <p class="a11y_hidden">[브라운 보자기] 티 에디션 허브 가든 6종 24입</p>
+                    <p class="a11y_hidden">정상가 59,000원, 22% 할인가 46,020원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22210" class="link_04">
+                        <span class="a11y_hidden">[브라운 보자기] 티 에디션 허브 가든 6종 24입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">묵직한 품격에 화사함을 더한 티 컬렉션</p>
+                    <p class="a11y_hidden">[화이트 보자기] 프리미엄 티 컬렉션 9종 90입</p>
+                    <p class="a11y_hidden">정상가 92,000원, 17% 할인가 76,360원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22111" class="link_05">
+                        <span class="a11y_hidden">[화이트 보자기] 프리미엄 티 컬렉션 9종 90입 보러가기</span>
+                    </a>
+                </div>
+            </div>
+            <!--2만원대-->
+            <div class="section_cont" data-cont="1">
+                <div class="evt_cont cont_750">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_02.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_02.jpg" width="750" height="1433" alt="" draggable="false">
+
+                    <p class="a11y_hidden">모두의 취향을 사로잡을 다채로운 티 세트</p>
+                    <p class="a11y_hidden">프리미엄 티 컬렉션 10종 40입</p>
+                    <p class="a11y_hidden">정상가 32,000원, 20% 할인가 25,600원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/15263" class="link_01">
+                        <span class="a11y_hidden">프리미엄 티 컬렉션 10종 40입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">가볍게 마음을 전할 수 있는 귀여운 선물</p>
+                    <p class="a11y_hidden">러블리 티 박스 4종 12입</p>
+                    <p class="a11y_hidden">정상가 24,000원, 15% 할인가 20,400원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/1461" class="link_02">
+                        <span class="a11y_hidden">러블리 티 박스 4종 12입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">공간을 채우는 매거진 감성의 북 패키지</p>
+                    <p class="a11y_hidden">티 베리에이션 오 6종 36입</p>
+                    <p class="a11y_hidden">정상가 30,000원, 15% 할인가 25,500원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21665" class="link_03">
+                        <span class="a11y_hidden">티 베리에이션 오 6종 36입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">무카페인 티와 함께 편안한 휴식을 선물</p>
+                    <p class="a11y_hidden">[무카페인] 티 에디션 허브 4종 16입</p>
+                    <p class="a11y_hidden">정상가 32,000원, 15% 할인가 27,200원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21919" class="link_04">
+                        <span class="a11y_hidden">[무카페인] 티 에디션 허브 4종 16입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">다 같이 나눠 먹기 좋은 티푸드 세트</p>
+                    <p class="a11y_hidden">와플 베스트 티 4종 세트</p>
+                    <p class="a11y_hidden">정상가 31,500원, 17% 할인가 26,145원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21825" class="link_05">
+                        <span class="a11y_hidden">와플 베스트 티 4종 세트 보러가기</span>
+                    </a>
+                </div>
+            </div>
+            <!--3만원대-->
+            <div class="section_cont" data-cont="2">
+                <div class="evt_cont cont_750">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_03.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_03.jpg" width="750" height="1433" alt="" draggable="false">
+
+                    <p class="a11y_hidden">대표 티푸드와 티가 함께 들어있는 북 패키지 세트</p>
+                    <p class="a11y_hidden">[NEW] 딜라이트 컬렉션 오</p>
+                    <p class="a11y_hidden">정상가 38,000원, 20% 할인가 30,400원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22206" class="link_01">
+                        <span class="a11y_hidden">딜라이트 컬렉션 오 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">신비로운 숲을 담은 감성 오브제 세트</p>
+                    <p class="a11y_hidden">티 에디션 아일랜드 6종 18입</p>
+                    <p class="a11y_hidden">정상가 36,000원, 15% 할인가 30,600원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21638" class="link_02">
+                        <span class="a11y_hidden">티 에디션 아일랜드 6종 18입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">부드러운 랑드샤와 함께 달콤한 티타임</p>
+                    <p class="a11y_hidden">랑드샤 베스트 티 4종 세트</p>
+                    <p class="a11y_hidden">정상가 39,500원, 20% 할인가 31,600원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21748" class="link_03">
+                        <span class="a11y_hidden">랑드샤 베스트 티 4종 세트 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">진한 풍미의 비스킷과 즐기는 힐링 티타임</p>
+                    <p class="a11y_hidden">시그니처 비스킷 베스트 티 4종 세트</p>
+                    <p class="a11y_hidden">정상가 39,500원, 20% 할인가 31,600원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21826" class="link_04">
+                        <span class="a11y_hidden">시그니처 비스킷 베스트 티 4종 세트 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">녹차 명가 오설록이 추천하는 잎차 선물</p>
+                    <p class="a11y_hidden">세작 80g 잎차 선물세트</p>
+                    <p class="a11y_hidden">정상가 43,500원, 22% 할인가 33,930원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/17444" class="link_05">
+                        <span class="a11y_hidden">세작 80g 잎차 선물세트 보러가기</span>
+                    </a>
+                </div>
+            </div>
+            <!--4만원 이상-->
+            <div class="section_cont" data-cont="3">
+                <div class="evt_cont cont_750">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_04.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_04.jpg" width="750" height="1433" alt="" draggable="false">
+
+                    <p class="a11y_hidden">눈으로 한 번, 향으로 또 한 번 일상을 환하게 밝히는 티 세트</p>
+                    <p class="a11y_hidden">[BEST] 차의 정원 9종 27입</p>
+                    <p class="a11y_hidden">정상가 54,000원, 21% 할인가 42,660원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21773" class="link_01">
+                        <span class="a11y_hidden">차의 정원 9종 27입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">신상 허브티와 함께 편안한 휴식을 선물</p>
+                    <p class="a11y_hidden">[무카페인] 티 에디션 허브 가든 6종 24입</p>
+                    <p class="a11y_hidden">정상가 48,000원, 20% 할인가 38,400원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22058" class="link_02">
+                        <span class="a11y_hidden">[무카페인] 티 에디션 허브 가든 6종 24입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">재구매 1위, 무게감 있는 프리미엄 선물</p>
+                    <p class="a11y_hidden">마스터 블렌드 8종 32입</p>
+                    <p class="a11y_hidden">정상가 64,000원, 22% 할인가 49,920원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/14123" class="link_03">
+                        <span class="a11y_hidden">마스터 블렌드 8종 32입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">귀여운 미피 파우치 키링과 양우산까지</p>
+                    <p class="a11y_hidden">[미피] 쿨말차 티타임 세트</p>
+                    <p class="a11y_hidden">정상가 86,000원, 35% 할인가 55,900원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22173" class="link_04">
+                        <span class="a11y_hidden">[미피] 쿨말차 티타임 세트 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">오설록 베스트 티푸드와 미피 양우산 세트</p>
+                    <p class="a11y_hidden">[미피] 티푸드 러버스 세트</p>
+                    <p class="a11y_hidden">정상가 94,000원, 40% 할인가 56,400원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/bakery/22165" class="link_05">
+                        <span class="a11y_hidden">[미피] 티푸드 러버스 세트 보러가기</span>
+                    </a>
+                </div>
+            </div>
+            <!--6만원 이상-->
+            <div class="section_cont" data-cont="4">
+                <div class="evt_cont cont_750">
+                    <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_05.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/cont_05.jpg" width="750" height="1433" alt="" draggable="false">
+
+                    <p class="a11y_hidden">오설록 베스트 피라미드 티백만 모은 럭셔리 선물세트</p>
+                    <p class="a11y_hidden">[BEST] 티 에디션 스페셜 9종 54입</p>
+                    <p class="a11y_hidden">정상가 110,000원, 23% 할인가 84,700원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20826" class="link_01">
+                        <span class="a11y_hidden">티 에디션 스페셜 9종 54입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">묵직한 품격에 화사함을 더한 티 컬렉션</p>
+                    <p class="a11y_hidden">프리미엄 티 컬렉션 9종 90입</p>
+                    <p class="a11y_hidden">정상가 82,000원, 23% 할인가 63,140원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/16045" class="link_02">
+                        <span class="a11y_hidden">프리미엄 티 컬렉션 9종 90입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">놓치면 아쉬운 미피 콜라보 역대급 라스트 혜택</p>
+                    <p class="a11y_hidden">[미피] 베스트 양우산 세트</p>
+                    <p class="a11y_hidden">정상가 109,000원, 30% 할인가 76,300원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/22164" class="link_03">
+                        <span class="a11y_hidden">[미피] 베스트 양우산 세트 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">세작, 우전, 홍우전까지 명차 포함 럭셔리 선물세트</p>
+                    <p class="a11y_hidden">티 에디션 헤리티지 9종 63입</p>
+                    <p class="a11y_hidden">정상가 150,000원, 22% 할인가 117,000원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/21637" class="link_04">
+                        <span class="a11y_hidden">티 에디션 헤리티지 9종 63입 보러가기</span>
+                    </a>
+
+                    <p class="a11y_hidden">오설록 명차의 정수를 온전히 느끼는 잎차 세트</p>
+                    <p class="a11y_hidden">마스터즈 세트 4종 160g</p>
+                    <p class="a11y_hidden">정상가 230,000원, 18% 할인가 188,600원</p>
+                    <a href="https://www.osulloc.com/kr/ko/shop/item/teashop/20143" class="link_05">
+                        <span class="a11y_hidden">마스터즈 세트 4종 160g 보러가기</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="evt_cont cont_750">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/02.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section05/02.jpg" width="750" height="207" alt="" draggable="false">
+            <a href="https://www.osulloc.com/kr/ko/shop/item/list?1=1&amp;line=198&amp;category=teashop&amp;sort=price_asc" class="link_cate">
+                <span class="a11y_hidden">가격대별 전체 티 세트 한 눈에 보기</span>
+            </a>
+        </div>
+    </div>
+    <div id="section6" class="evtSect evtSect_6">
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/01.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/01.png" width="750" height="1775" alt="" draggable="false">
+            <h3 class="a11y_hidden">블프 혜택 5. 친구 초대 이벤트 : 뷰티포인트 최대 3,000P 랜덤 적립</h3>
+            <p class="a11y_hidden">매일 오전 10시 선착순 300명! 매일 한번씩 링크 공유하고 블프 혜택 최대로 받아가세요!</p>
+            <ol class="a11y_hidden">
+                <li>STEP 1. 로그인 후 링크 복사 버튼 클릭하기</li>
+                <li>STEP 2. 친구에게 블프 소식 알리기</li>
+                <li>STEP 3. 포인트 확인 후 바로 쇼핑하기</li>
+            </ol>
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/up.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/up.png" width="406" height="166" alt="" class="share_bubble" draggable="false">
+            <p class="a11y_hidden">3초만에 포인트 받기</p>
+            <button type="button" class="btn_share btn_kakao"><span class="a11y_hidden">카카오톡으로 공유하기</span></button>
+            <button type="button" class="btn_share btn_link"><span class="a11y_hidden">링크 복사하기</span></button>
+            <ul class="a11y_hidden">
+                <li>참여 기간 : 11/02(월) 오전 10시 - 11/16(월) 오후 11시 59분</li>
+                <li>참여 방법 : ID당 1일 1회 적립, 매일 오전 10시 참여 기회 리셋</li>
+                <li>유의 사항 : 포인트는 적립 당일 자정이 되면 일괄 소멸됩니다.</li>
+            </ul>
+        </div>
+        <!--참여방법-->
+        <div class="evt_noti_wrap">
+            <div class="evt_cont notice_btn_area active">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/nbtn.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/nbtn.png" width="750" height="64" alt="" class="img_fold" draggable="false">
+                <button type="button" class="btn_evtnotice"><span class="a11y_hidden">링크 공유 이벤트 유의사항 보기</span></button>
+            </div>
+            <div class="evt_cont notice_detail_area">
+                <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/n_notice.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/n_notice.png" width="750" height="477" alt="">
+            </div>
+        </div>
+        <div class="a11y_hidden">
+            <h4>링크 공유 이벤트 유의사항</h4>
+            <ul>
+                <li>이벤트 기간: 2026년 11월 2일 10시 00분 ~ 11월 16일 23시 59분</li>
+                <li>본 이벤트는 로그인한 상태에서만 참여 가능합니다. (비회원 참여 불가)</li>
+                <li>본 이벤트는 ID당 1일 1회에 한해 참여 가능하며, 1회 이상 참여하여도 추가 포인트가 적립되지 않습니다.</li>
+                <li>이벤트 기간 내 미션 완료되어야 뷰티포인트가 지급됩니다.</li>
+                <li>매일 오전 10시 선착순 300명 한정으로 진행되며, 일일 수량 소진 시 당일 이벤트가 조기 종료될 수 있습니다.</li>
+                <li>이벤트로 적립된 뷰티포인트는 적립 당일 23시 59분에 일괄 소멸되며, 기간 내 미사용으로 소멸된 포인트는 재지급되지 않습니다.</li>
+                <li>준비된 예산 소진 시 별다른 안내 없이 지급되지 않을 수 있습니다.</li>
+                <li>부정한 방법(타인의 계정 도용, 시스템 어뷰징 등)으로 참여한 경우 포인트 지급 대상에서 제외되거나 지급된 포인트가 회수될 수 있습니다.</li>
+                <li>최대 적립금액, 환불에 따른 포인트 회수 등 본 유의사항에서 명시되지 않은 사항은 뷰티포인트 이용 약관 및 정책에 따릅니다.</li>
+            </ul>
+        </div>
+        <div class="evt_cont">
+            <img srcset="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/empty.webp" src="https://image.osulloc.com/upload/kr/ko/event/261102_black_friday/section06/empty.png" width="750" height="48" alt="" draggable="false">
+        </div>
+    </div>
+    <!--이벤트 공통 유의사항-->
+    <div class="evt_footer evt_noti_wrap">
+        <div class="evt_cont notice_btn_area">
+            <button type="button" class="btn_evtnotice"><span class="notice_txt"><span class="txt_fold">유의사항 전체보기</span><span class="txt_expand">유의사항 접기</span></span></button>
+        </div>
+        <div class="evt_cont notice_detail_area" style="display: none">
+            <div class="evt_notice_wrap">
+                <h4 class="evt_notice_title">
+                    <span class="icon"><img src="https://image.osulloc.com/upload/kr/ko/event/common/notice_t.png" alt=""></span>
+                    <span>유의사항</span>
+                </h4>
+                <div class="notice_para">
+                    <h5 class="notice_para_title">[이벤트 및 할인]</h5>
+                    <ul>
+                        <li>할인 및 이벤트 내용은 내부 사정에 따라 별도 고지 없이 변경되거나 조기 종료될 수 있습니다.</li>
+                        <li>조합 상품은 "조합 상품 할인 페이지"에서만 할인 적용되며, 개별 구매 시 할인 불가합니다.</li>
+                        <li>본 혜택(또는 프로모션)은 최종 소비 목적의 개인 고객을 대상으로 하며, 
+                            <br>재판매 목적의 대량 구매는 혜택 제공 대상에서 제외됩니다.
+                        </li>
+                    </ul>
+                </div>
+                <div class="notice_para">
+                    <h5 class="notice_para_title">[사은품 및 쇼핑백]</h5>
+                    <ul>
+                        <li>사은품은 회원 구매 시, 1회 주문 건 기준으로 기준 충족 시 제공됩니다. 
+                            <br>구매금액대별 사은품은 주문 건을 분할하더라도 추가 제공되지 않습니다.</li>
+                        <li>사은품은 한정 수량으로 소진 시 별도 고지 없이 다른 사은품으로 교체되거나, 미제공될 수 있으니, 결제 페이지 &gt; 사은품 증정 영역에서 확인 바랍니다.</li>
+                        <li>사은품은 구매 혜택으로 제공되는 것으로, 별도 교환/반품이 불가합니다.</li>
+                        <li>구매금액대별 사은품은 배송비·포장비·냉동 베이커리·입점 티웨어 금액을 제외한 실 결제 금액(정가가 아닌, 실제 고객님이 결제하는 금액) 기준으로 지급됩니다.</li>
+                        <li>쇼핑백은 완제품 세트(예: 러블리 티 박스) 구매 시 기본 무상 제공되며, <br>조합 제품은 상세페이지 "사은품"란에 명시된 경우에만 증정됩니다.</li>
+                        <li>유료 포장 가능 여부는 제품에 따라 상이하며, 제품 상세페이지 상단에서 확인 가능합니다.</li>
+                    </ul>
+                </div>
+                <div class="notice_para">
+                    <h5 class="notice_para_title">[교환/반품]</h5>
+                    <ul>
+                        <li>단순 변심에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.</li>
+                        <li>구성품(사은품 등) 누락 시 교환/반품이 불가합니다.</li>
+                        <li>유료 포장된 제품은 개봉 시 반품이 불가합니다.</li>
+                    </ul>
+                </div>
+                <div class="notice_para">
+                    <h5 class="notice_para_title">[배송]</h5>
+                    <ul>
+                        <li>배송 일정은 택배사 사정 및 기상 상황 등에 따라 지연될 수 있습니다. <br>배송 지연 혹은 배송 마감은 팝업이나 공지사항을 확인해주세요.</li>
+                        <li>분리 배송은 불가하며, 출고 지연 제품은 공지사항 또는 상세페이지 상단 안내 사항을 확인해 주세요.</li>
+                        <li>출고 지연 상품을 제외하고 빠른 수령을 원하실 경우, 지연 상품은 별도 주문해 주시기 바랍니다.</li>
+                        <li>주문 취소/변경은 결제 완료 직후에만 가능하며, 배송 준비 이후에는 불가합니다.</li>
+                    </ul>
+                </div>
+                <div class="notice_para">
+                    <h5 class="notice_para_title">[기타]</h5>
+                    <ul>
+                        <li>타인의 정보 무단 도용, 어뷰징 등 부정 이용이 확인될 경우 포인트·쿠폰 지급이 보류되거나 회수될 수 있습니다.</li>
+                        <li>본 유의사항에 명시되지 않은 사항은 오설록 서비스 이용약관 정책을 따릅니다.</li>
+                        <li>기타 문의 사항은 1:1 문의를 이용해 주세요.</li>
+                    </ul>
+                </div>
+                <div class="notice_para">
+                    <h5 class="notice_para_title">[쿠폰]</h5>
+                    <ul>
+                        <li>발급 쿠폰은 마이페이지 &gt; 보유 쿠폰에서 확인 가능합니다.</li>
+                        <li>쿠폰은 발급 기간/사용 기간 내에만 사용 가능하며, 사용하지 않은 경우 만료 안내 알림톡이 발송될 수 있습니다.</li>
+                        <li>쿠폰은 타 쿠폰·제품 할인과 중복 적용이 불가하며, 일부 제품(예: 킨토, 냉동 베이커리 등)에 사용 제한이 있을 수 있습니다.</li>
+                        <li>쿠폰 사용 후 교환/반품/취소 시, 쿠폰은 복원·재발급됩니다.</li>
+                        <li>쿠폰/포인트 등은 현금으로 환급되지 않습니다.</li>
+                        <li>쿠폰은 유효기간 내 결제 완료 시점 기준으로 적용됩니다.
+                            <ul class="inner_dash_list">
+                                <li>결제 승인 과정은 카드사 및 간편결제사(예:네이버페이, 페이코 등)의 시스템을 통해 처리되며, 
+                                    <br>승인 지연·결제 제한·시스템 점검 등으로 인한 결제 불가 사항은 해당 결제사 정책에 따릅니다.</li>
+                                <li>결제 승인 과정에서 발생한 사유로 쿠폰 사용이 완료되지 않은 경우, 당사 귀책 사유로 확인되지 않는 한 쿠폰의 기간 연장 및 재발급은 어렵습니다. 
+                                    <br>원활한 이용을 위해 유효기간 및 결제 마감 시간 이전에 여유 있게 결제를 완료해주시기 바랍니다.
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+$(function () {
+
+    const DEBUG_DATE = null;
+
+    const $wrap = document.querySelector(".event_wrap");
+
+    // 현재 시각 (한국 시간 기준)
+    const pageStartedAt = Date.now();
+    function getNow() {
+        if (DEBUG_DATE) {
+            const s = String(DEBUG_DATE);
+            const t = s.length > 9 ? s.slice(9) : "120000";
+            const base = new Date(Number(s.slice(0, 4)), Number(s.slice(4, 6)) - 1, Number(s.slice(6, 8)), Number(t.slice(0, 2)), Number(t.slice(2, 4)), Number(t.slice(4, 6)));
+            return new Date(base.getTime() + (Date.now() - pageStartedAt));
+        }
+        const curr = new Date();
+        const utc = curr.getTime() + curr.getTimezoneOffset() * 60 * 1000;
+        return new Date(utc + 9 * 60 * 60 * 1000);
+    }
+
+    // 날짜를 YYYYMMDD 숫자로
+    function getDayKey(date) {
+        return Number(String(date.getFullYear()) + String(date.getMonth() + 1).padStart(2, "0") + String(date.getDate()).padStart(2, "0"));
+    }
+
+    function initDailyDeal() {
+        const box = $wrap.querySelector(".oneday_wrap");
+        if (!box) return;
+        const todayKey = getDayKey(getNow());
+        const dayEls = Array.from(box.querySelectorAll(".oneday"))
+            .sort(function (a, b) { return Number(a.dataset.promoday) - Number(b.dataset.promoday); });
+        if (!dayEls.length) return;
+        let target = dayEls[0];
+        dayEls.forEach(function (el) {
+            if (Number(el.dataset.promoday) <= todayKey) target = el;
+        });
+        dayEls.forEach(function (el) {
+            el.style.display = el === target ? "block" : "none";
+        });
+    }
+    initDailyDeal();
+
+    // 오늘 특가 마감 카운트다운 : 매일 23:59:59 마감, 자정이 지나면 다음 날 블록으로 전환
+    function initDailyCountdown() {
+        const box = $wrap.querySelector(".evtSect_3 .daily_countdown");
+        if (!box) return;
+        const hh = box.querySelector(".cd_hh");
+        const mm = box.querySelector(".cd_mm");
+        const ss = box.querySelector(".cd_ss");
+        const two = function (n) { return n < 10 ? "0" + n : String(n); };
+        let lastKey = getDayKey(getNow());
+
+        function tick() {
+            const now = getNow();
+            const key = getDayKey(now);
+            if (key !== lastKey) {
+                lastKey = key;
+                initDailyDeal();
+            }
+            const end = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59);
+            const diff = Math.max(0, Math.floor((end - now) / 1000));
+            hh.textContent = two(Math.floor(diff / 3600));
+            mm.textContent = two(Math.floor((diff % 3600) / 60));
+            ss.textContent = two(diff % 60);
+        }
+        tick();
+        setInterval(tick, 1000);
+    }
+    initDailyCountdown();
+
+    // 블랙프라이데이 마감 카운트다운
+    const EVENT_END = new Date(2026, 10, 17, 0, 0, 0); // 2026-11-17 00:00:00
+
+    function initEventCountdown() {
+        const boxes = Array.from($wrap.querySelectorAll(".evt_countdown"));
+        if (!boxes.length) return;
+        const two = function (n) { return n < 10 ? "0" + n : String(n); };
+        let timer = null;
+        function tick() {
+            const diff = Math.max(0, Math.floor((EVENT_END - getNow()) / 1000));
+            const val = {
+                ".cd_days": two(Math.floor(diff / 86400)),
+                ".cd_hours": two(Math.floor((diff % 86400) / 3600)),
+                ".cd_mins": two(Math.floor((diff % 3600) / 60)),
+                ".cd_secs": two(diff % 60),
+            };
+            boxes.forEach(function (box) {
+                Object.keys(val).forEach(function (sel) { box.querySelector(sel).textContent = val[sel]; });
+            });
+            if (diff === 0 && timer) clearInterval(timer);
+        }
+        tick();
+        timer = setInterval(tick, 1000);
+    }
+    initEventCountdown();
+    let winW = window.innerWidth;
+
+    // 이벤트 lnb
+    function stickyTabInit(opt) {
+        var o = Object.assign({
+            root: ".sticky_tab_main",   // 탭 영역 (.sticky_tab)
+            end: ".evt_footer",         // 이 요소 상단에 닿으면 hide
+            space: true,                // fixed 시 바로 앞 .sticky_tab_space로 자리 채움 (absolute 탭은 false)
+            swiper: true,               // 좌우 스크롤용 swiper 사용 여부
+            stackUnder: null,           // 이 탭 아래에 이어서 고정 (예: ".sticky_tab_main")
+        }, opt);
+
+        var $stickyTab = $wrap.querySelector(o.root);
+        if (!$stickyTab) return;
+
+        var $allTabs = $stickyTab.querySelectorAll(".sticky_tab_item");
+        var $underline = $stickyTab.querySelector(".sticky_tab_bar");
+        var $header = document.querySelector(".header");
+        var $stackUnder = o.stackUnder ? $wrap.querySelector(o.stackUnder) : null;
+
+        // fixed 될 때 자리를 채우는 placeholder (탭 바로 앞의 .sticky_tab_space)
+        var $space = o.space ? $stickyTab.previousElementSibling : null;
+        if (o.space && (!$space || !$space.classList.contains("sticky_tab_space"))) return;
+
+        // space를 쓰지 않는 탭은 고정 전 원래 위치를 기억해서 기준점으로 사용
+        var tabStartTop = null;
+
+        // 문서 기준 top 좌표 (relative 부모 안에 있어도 정확)
+        function docTop(el) {
+            return el.getBoundingClientRect().top + window.scrollY;
+        }
+
+        // 고정 전 원래 위치 측정: fixed 중이면 잠깐 해제해서 잼 (transition 없이, 화면 변화 없음)
+        function measureTabTop() {
+            if (!$stickyTab.classList.contains("fixed")) return docTop($stickyTab);
+
+            var isHidden = $stickyTab.classList.contains("hide");
+            var inlineTop = $stickyTab.style.top;
+            $stickyTab.style.transition = "none";
+            $stickyTab.classList.remove("fixed", "hide");
+            $stickyTab.style.top = "";
+
+            var top = docTop($stickyTab);
+
+            $stickyTab.classList.add("fixed");
+            if (isHidden) $stickyTab.classList.add("hide");
+            $stickyTab.style.top = inlineTop;
+            void $stickyTab.offsetHeight; // 복원 상태를 먼저 반영한 뒤 transition 되돌림
+            $stickyTab.style.transition = "";
+            return top;
+        }
+
+        // fixed 시작 기준점
+        function getStartTop() {
+            if ($space) return docTop($space);
+            // 고정 전에는 매번 갱신, 고정 중에는 기억해 둔 값 사용
+            if (tabStartTop === null || !$stickyTab.classList.contains("fixed")) {
+                tabStartTop = measureTabTop();
+            }
+            return tabStartTop;
+        }
+
+        // 탭이 가리키는 대상: data-target 우선, 없으면 #section + index
+        function getTarget(tab) {
+            var selector = tab.dataset.target || ("#section" + tab.dataset.buttonIndex);
+            return $wrap.querySelector(selector);
+        }
+
+        // 현재 보이는 탭만 필터링
+        var $tabs = Array.from($allTabs).filter((tab) => tab.offsetParent !== null);
+
+        // 보이는 탭 기준으로 보이는 섹션 추출
+        var $sections = $tabs
+            .map((tab) => {
+                var section = getTarget(tab);
+                return section && section.offsetParent !== null ? section : null;
+            })
+            .filter(Boolean); // null 제거
+
+        if (o.swiper) {
+            var $tabSlide = $stickyTab.querySelector(".sticky_tab_inner");
+            if ($tabSlide && $tabSlide.swiper && !$tabSlide.swiper.destroyed) {
+                $tabSlide.swiper.destroy(true, true);
+            }
+
+            new Swiper($tabSlide, {
+                slidesPerView: "auto",
+                loop: false,
+                freeMode: true,
+                watchOverflow: true,
+            });
+        }
+
+        function setActiveTab(index) {
+            $tabs.forEach((tab) => tab.classList.remove("active"));
+            var activeTab = $tabs[index];
+            if (!activeTab) return;
+
+            activeTab.classList.add("active");
+
+            if (o.swiper) centerActiveTab(activeTab);
+
+            // underline 요소가 있는 탭만 밑줄 이동
+            if (!$underline) return;
+
+            var tabWidth = activeTab.offsetWidth;
+            var underlineWidth = tabWidth + 6;
+            var tabLeft = activeTab.offsetLeft;
+            var tabCenter = tabLeft + activeTab.offsetWidth / 2;
+            var underlineLeft = tabCenter - underlineWidth / 2;
+
+            $underline.style.transform = "translateX(" + underlineLeft + "px)";
+            $underline.style.width = underlineWidth + "px";
+
+            requestAnimationFrame(() => {
+                $underline.style.transition = "transform 0.3s ease, width 0.3s ease";
+            });
+        }
+
+        function centerActiveTab(tab) {
+            var tabList = tab.parentElement;
+            var tabCenter = tab.offsetLeft + tab.offsetWidth / 2;
+            var containerCenter = tabList.clientWidth / 2;
+            var scrollTarget = tabCenter - containerCenter;
+            var maxScroll = tabList.scrollWidth - tabList.clientWidth;
+
+            if (scrollTarget < 0) {
+                tabList.style.transform = "translateX(0)";
+            } else if (scrollTarget > maxScroll) {
+                tabList.style.transform = "translateX(-" + maxScroll + "px)";
+            } else {
+                tabList.style.transition = "transform 0.3s ease";
+                tabList.style.transform = "translateX(-" + scrollTarget + "px)";
+            }
+        }
+
+        // stackUnder 탭이 고정되어 보이는 중인지
+        function isStackShown() {
+            return $stackUnder && $stackUnder.classList.contains("fixed") && !$stackUnder.classList.contains("hide");
+        }
+
+        // 동적으로 offset 계산 (띠배너 닫힘 여부 + 위에 고정된 탭 반영)
+        function getFixedOffset() {
+            // 위 탭이 고정 중이면 그 탭의 실제 하단 위치에 바로 붙임
+            if (isStackShown()) return $stackUnder.getBoundingClientRect().bottom;
+
+            var $banner = document.querySelector(".main_top_banner");
+            var bannerHeight = ($banner && !$banner.classList.contains("closed"))
+                ? $banner.offsetHeight
+                : 0;
+
+            return bannerHeight + ($header?.offsetHeight || 0);
+        }
+
+        // 탭 클릭 시 해당 섹션으로 이동
+        $tabs.forEach((tab) => {
+            tab.addEventListener("click", () => {
+                var section = getTarget(tab);
+
+                // 보이는 섹션만 이동
+                if (section && section.offsetParent !== null) {
+                    var targetScroll = docTop(section) - getFixedOffset() - $stickyTab.clientHeight + 1;
+                    window.scrollTo({
+                        top: targetScroll,
+                        behavior: "smooth",
+                    });
+                }
+            });
+        });
+
+        // 스크롤 시 현재 섹션에 맞게 탭 활성화
+        function updateActiveTabOnScroll() {
+            var scrollY = window.scrollY;
+            var offset = getFixedOffset() + ($stickyTab.clientHeight || 0);
+
+            for (let i = 0; i < $sections.length; i++) {
+                var section = $sections[i];
+                if (section.offsetParent === null) continue;
+
+                var sectionTop = docTop(section);
+                var sectionHeight = section.offsetHeight;
+
+                if (scrollY + offset >= sectionTop && scrollY + offset < ( sectionTop + sectionHeight) ) {
+                    setActiveTab(i);
+                    break;
+                }
+            }
+        }
+
+        // 고정 탭 위치 판단
+        function updateStickyPosition() {
+            var st = window.scrollY;
+            var headerH = $header?.offsetHeight || 0;
+            var footer = $wrap.querySelector(o.end);
+
+            // 쌓이는 탭은 위 탭 바로 아래(inline top), 메인 탭은 기존 CSS top 사용
+            var topOffset = $stackUnder ? getFixedOffset() : headerH;
+            var startPoint = getStartTop() - topOffset;
+            var endPoint = docTop(footer) - topOffset;
+
+            if (st >= startPoint && st < endPoint) {
+                $stickyTab.classList.add("fixed");
+                $stickyTab.classList.remove("hide");
+                if ($space) $space.style.height = $stickyTab.clientHeight + "px";
+            } else if (st >= endPoint) {
+                $stickyTab.classList.add("fixed");
+                $stickyTab.classList.add("hide");
+                if ($space) $space.style.height = $stickyTab.clientHeight + "px";
+            } else {
+                $stickyTab.classList.remove("fixed");
+                $stickyTab.classList.remove("hide");
+                if ($space) $space.style.height = "0";
+            }
+
+            if ($stackUnder) {
+                $stickyTab.style.top = $stickyTab.classList.contains("fixed") ? topOffset + "px" : "";
+            }
+        }
+
+        // 이벤트 등록
+        window.addEventListener("scroll", () => {
+            updateStickyPosition();
+            updateActiveTabOnScroll();
+        });
+
+        // 레이아웃이 바뀌면 원래 위치 다시 측정 후 재계산
+        function refreshLayout() {
+            if (!$space) tabStartTop = measureTabTop();
+            updateStickyPosition();
+            updateActiveTabOnScroll();
+        }
+
+        // 리사이징 (끝난 뒤 한 번만 재계산)
+        window.addEventListener("resize", debounce(refreshLayout, 200));
+
+        // 이미지 로드 완료 후 위치 보정
+        window.addEventListener("load", refreshLayout);
+
+        // 최초 실행
+        updateStickyPosition();
+        updateActiveTabOnScroll();
+    }
+
+    // 카테고리별 상품 탭
+    const evtTabInstances = {}; // selector별 Swiper 인스턴스 저장
+    const evtTabHandlers = {};  // selector별 클릭 핸들러 저장 (중복 등록 방지)
+
+    function evtTabInit(tabSelector, contSelector) {
+        var $tabWrap = document.querySelector(tabSelector);
+        var $contWrap = document.querySelector(contSelector);
+        if (!$tabWrap || !$contWrap) return;
+
+        // 기존 인스턴스가 있으면 제거
+        if (evtTabInstances[tabSelector]) {
+            evtTabInstances[tabSelector].destroy(true, true);
+            evtTabInstances[tabSelector] = null;
+        }
+
+        evtTabInstances[tabSelector] = new Swiper($tabWrap.querySelector(".swiper-container"), {
+            slidesPerView: "auto",
+            spaceBetween: 0,
+            loop: false,
+            freeMode: true,
+            watchOverflow: true,
+        });
+
+        var $slides = Array.from($tabWrap.querySelectorAll(".swiper-slide"));
+        var $tabs = Array.from($tabWrap.querySelectorAll(".tab"));
+        var $conts = Array.from($contWrap.querySelectorAll(".section_cont"));
+
+        // 탭 전환: data-cate와 같은 data-cont 콘텐츠만 active
+        function showCate(cate) {
+            $tabs.forEach(function (tab) {
+                tab.classList.toggle("active", tab.dataset.cate === cate);
+            });
+            $conts.forEach(function (cont) {
+                cont.classList.toggle("active", cont.dataset.cont === cate);
+            });
+        }
+
+        // 클릭 핸들러는 탭 영역에 하나만 등록 (다시 호출하면 기존 핸들러 제거 후 등록)
+        if (evtTabHandlers[tabSelector]) {
+            $tabWrap.removeEventListener("click", evtTabHandlers[tabSelector]);
+        }
+        evtTabHandlers[tabSelector] = function (e) {
+            var slide = e.target.closest(".swiper-slide");
+            if (slide) evtTabInstances[tabSelector].slideTo($slides.indexOf(slide));
+
+            var tab = e.target.closest(".tab");
+            if (!tab) return;
+            e.preventDefault();
+            if (tab.classList.contains("active")) return;
+            showCate(tab.dataset.cate);
+        };
+        $tabWrap.addEventListener("click", evtTabHandlers[tabSelector]);
+
+        // 초기 상태: 첫 번째 탭
+        if ($tabs[0]) showCate($tabs[0].dataset.cate);
+    }
+    evtTabInit("#tab_category", "#cont_category");
+    evtTabInit("#tab_flat", "#cont_flat");
+
+    // slide
+    function contSlideInit(elem, opt) {
+        const el = document.querySelector(elem);
+        if (!el) return;
+        const $slide = el.querySelector(".swiper-container");
+        const o = opt || {};
+        let lastW = 0;
+
+        function init() {
+
+            const w = el.offsetWidth;
+            if (w === lastW) return;
+            lastW = w;
+
+            const scale = w / 750;
+            let current = 0;
+
+            if ($slide.swiper && !$slide.swiper.destroyed) {
+                current = $slide.swiper.realIndex || 0;
+                $slide.swiper.destroy(true, true);
+            }
+            const count = $slide.querySelectorAll(".swiper-slide:not(.swiper-slide-duplicate)").length;
+            new Swiper($slide, {
+                initialSlide: current,
+                spaceBetween: (o.space || 0) * scale,
+                slidesOffsetBefore: o.auto ? 0 : (o.before || 0) * scale,
+                slidesOffsetAfter: o.auto ? 0 : (o.after || 0) * scale,
+                loop: !!o.auto,
+                loopedSlides: o.auto ? count : null,
+                slidesPerView: "auto",
+                speed: 300,
+                autoplay: o.auto ? { delay: 900, disableOnInteraction: false } : false,
+                pagination: false,
+                observe: true,
+                observeParents: true,
+                allowTouchMove: true,
+            });
+        }
+
+        init();
+        window.addEventListener("resize", debounce(init, 200));
+    }
+
+    // slide : autoplay
+    function contSlideInit2(elem, spaceBetween) {
+
+        const el = document.querySelector(elem);
+        if (!el) return;
+        const $slide = el.querySelector(".swiper-container");
+        let lastW = 0;
+
+        function init() {
+            
+            const w = el.offsetWidth;
+            if (w === lastW) return;
+            lastW = w;
+
+            let current = 0;
+            if ($slide.swiper && !$slide.swiper.destroyed) {
+                current = $slide.swiper.realIndex || 0;
+                $slide.swiper.destroy(true, true);
+            }
+
+            new Swiper($slide, {
+                initialSlide: current,
+                spaceBetween,
+                loop: true,
+                loopAdditionalSlides: 2,
+                slidesPerView: 1,
+                speed: 300,
+                autoplay: {
+                    delay: 1300,
+                    disableOnInteraction: false,
+                },
+                pagination: {
+                    el: el.querySelector(".swiper-pagination"),
+                    clickable: false,
+                },
+                observe: true,
+                observeParents: true,
+                allowTouchMove: true,
+            });
+        }
+
+        init();
+
+        window.addEventListener("resize", debounce(init, 200));
+    }
+
+    // 선착순 쿠폰 애니메이션 시작
+    function couponStackInit() {
+        const stack = document.querySelector(".evtSect_2 .cpn_stack");
+        if (!stack) return;
+        if (!("IntersectionObserver" in window)) {
+            stack.classList.add("play");
+            return;
+        }
+        const io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+                if (!entry.isIntersecting) return;
+                stack.classList.add("play");
+                io.disconnect();
+            });
+        }, { threshold: 0.5 });
+        io.observe(stack);
+    }
+
+    function bindEvents() {
+
+        stickyTabInit({ root: ".sticky_tab_main" });
+
+        // notice
+        $(".btn_evtnotice").click(function (e) {
+            e.preventDefault();
+            $(this).parents(".notice_btn_area").toggleClass("active");
+            $(this).attr("aria-expanded", $(this).parents(".notice_btn_area").hasClass("active") ? "true" : "false");
+            $(this).parents(".evt_noti_wrap").find(".notice_detail_area").slideToggle();
+        });
+    }
+
+    bindEvents();
+    couponStackInit();
+    contSlideInit2("#slide_benefit", 0);
+    contSlideInit("#slide_flat", { space: 20, auto: true });
+
+    /* -----------------------
+    * resizing
+    * -----------------------*/
+
+    function debounce(func, wait) {
+        let timeout;
+        return function () {
+            const context = this;
+            const args = arguments;
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(context, args), wait);
+        };
+    }
+});
+</script>
+
+<script>
+$(function () {
+
+    // createNotification 사용 예
+
+    // couponAlert("firstDone") 	선착순 쿠폰팩 다운로드 완료
+    // couponAlert("firstAgain")	선착순 쿠폰 이미 다운로드
+    // couponAlert("normalDone")	상시 쿠폰팩 다운로드 완료
+    // couponAlert("normalAgain")	상시 쿠폰 이미 다운로드
+    // couponAlert("needLogin") 	로그인 필요
+    // couponAlert("firstClosed")	선착순 쿠폰팩 마감
+    // couponAlert("firstNotOpen")	선착순 쿠폰팩 오픈 예정
+    // couponAlert("linkDone")  	포인트 적립 완료
+    // couponAlert("linkAgain") 	참여 기회 소진
+    // couponAlert("linkSoldout")	랜덤 포인트 소진
+
+    // 확인, 취소 지정 예시
+    // couponAlert("needLogin", {
+    //     ok: function () {
+    //         location.href = "/kr/ko/login";
+    //     },
+    //     cancel: function () {
+    //         location.href = "/kr/ko/join";
+    //     }
+    // });
+
+    // 포인트 
+    // couponAlert("linkDone", {
+    //     point: 100
+    // });
+
+    const ALERT_ACTS = {
+        // 로그인 후 이벤트 페이지로 복귀
+        login: function () {
+            location.href = "/kr/ko/login?r=" + encodeURIComponent(location.pathname + location.search);
+        },
+    };
+    const COUPON_ALERTS = {
+        firstDone: { title: "선착순 쿠폰팩 다운로드 완료", msg: "선착순 장바구니 쿠폰팩 다운로드 되었습니다.\n장바구니로 달려가 소진 전 결제하세요!", ok: "장바구니 가기" },
+        firstAgain: { title: "선착순 쿠폰팩 다운로드 완료", msg: "이미 다운로드된 쿠폰입니다.", ok: "장바구니 가기" },
+        normalDone: { title: "상시 쿠폰팩 다운로드 완료", msg: "상시 장바구니 쿠폰팩 다운로드 되었습니다.\n행복한 쇼핑되세요.", ok: "장바구니 가기" },
+        normalAgain: { title: "상시 쿠폰팩 다운로드 완료", msg: "이미 다운로드된 쿠폰입니다.", ok: "장바구니 가기" },
+        needLogin: { title: "로그인이 필요합니다", msg: "회원 구매 시, 뷰티포인트,\n사은품, 쿠폰 혜택을 받을 수 있습니다.", ok: "로그인하기", okAct: "login", cancel: "회원 가입하기" },
+        firstClosed: { title: "선착순 쿠폰팩 마감", msg: "이미 다운로드된 쿠폰입니다.", ok: "일반 쿠폰팩 받기" },
+        firstNotOpen: { title: "선착순 쿠폰팩 오픈 예정", msg: "아직 선착순 쿠폰팩이 열리지 않았습니다.\n매일 오전 10시, 오후 8시에 도전해보세요!", ok: "일반 쿠폰팩 받기", cancel: "회원 가입하기" },
+        linkDone: { title: "{point}P 적립 완료!", msg: "오늘 밤 12시면 사라져요!\n친구에게 오설록 블프 소식 알리고\n혜택을 함께 나눠보세요.", ok: "공유하기", cls: "dlg_point" },
+        linkAgain: { title: "참여 기회 소진", msg: "오늘의 랜덤 포인트 수령이 완료되었습니다.\n받은 포인트는 오늘 밤 12시면 사라져요!", ok: "장바구니 보러 가기" },
+        linkSoldout: { title: "선착순 랜덤 포인트 소진", msg: "오늘 준비된 랜덤 포인트가 모두 소진되었습니다.\n내일 오전 10시에 만나요!", ok: "닫기", cls: "dlg_noclose" },
+    };
+
+    // opt : { ok: 함수, cancel: 함수, point: 숫자 } - 모두 생략 가능
+    // ok / cancel : 이번 호출에서만 쓸 버튼 동작
+    // point : 제목·본문의 {point} 자리에 들어갈 적립 포인트 (생략 시 50)
+    function couponAlert(type, opt) {
+        const a = COUPON_ALERTS[type];
+        if (!a) return;
+        const act = opt || {};
+        // 숫자만 남기고 천 단위 쉼표
+        const pointNum = Number(String(act.point == null ? 50 : act.point).replace(/[^0-9]/g, "")) || 0;
+        const pointText = pointNum.toLocaleString("ko-KR");
+        const fill = function (s) { return s.split("{point}").join(pointText); };
+        createNotification({
+            notificationClass: "evt_dialog",
+            closeButton: a.cls !== "dlg_noclose",
+            closeBg: true, // 배경(딤)을 눌러도 닫힘
+            addHeader: { headerText: fill(a.title), headerTextAlign: "center" },
+            message: fill(a.msg),
+            singleButton: !a.cancel,
+            confirmText: a.ok,
+            confirmColor: "black",
+            cancelText: a.cancel || "",
+            cancelColor: "white",
+            onConfirm: act.ok || ALERT_ACTS[a.okAct] || function () { return true; },
+            onCancel: act.cancel || ALERT_ACTS[a.cancelAct] || function () { return false; },
+        });
+        // 해당 알럿에 변형 클래스 추가
+        if (a.cls) document.body.lastElementChild.classList.add(a.cls);
+    }
+
+    /* ============================================================================
+     * [개발 연동] 2026 블랙프라이데이 API (ITO0086-4761)
+     *   위 퍼블 영역(ALERT_ACTS · COUPON_ALERTS · couponAlert)은 수정하지 않는다.
+     *   모든 팝업은 couponAlert 로만 띄운다 (.evt_dialog · 변형 클래스가 함께 붙도록 — 퍼블 가이드)
+     *   퍼블 문구가 없는 경우는 아래에서 COUPON_ALERTS 에 항목을 추가해서 쓴다
+     *
+     *   POST /kr/ko/life/event/evt202611/blackfriday/coupon         (eventId, cpnType S|N)
+     *        200 완료 / 501 비로그인 / 502 오픈 예정(HH:30 ~ 다음 회차 전) / 503 이미 발급
+     *        504 마감(HH:05 ~ HH:29:59) / 506 쿠폰 설정 없음 / 400·500 오류
+     *   POST /kr/ko/life/event/evt202611/blackfriday/point/receive  [카톡]·[링크] → 랜덤 포인트
+     *        200 적립(body.pointAmt) / 501 비로그인 / 502 오늘 참여 완료 / 503 기간 아님 / 504 소진 / 505 오픈 전
+     *        506 혼잡 / 507 적립 실패(재시도 가능) / 508 지급 확인 중 / 500 오류
+     *   POST /kr/ko/life/event/evt202611/blackfriday/point/status   응답을 못 받았을 때 재확인용 (DB 쓰기 없음)
+     * ========================================================================== */
+    const API = {
+        coupon: "/kr/ko/life/event/evt202611/blackfriday/coupon",
+        pointReceive: "/kr/ko/life/event/evt202611/blackfriday/point/receive",
+        pointStatus: "/kr/ko/life/event/evt202611/blackfriday/point/status",
+    };
+    const EVENT_ID = $("#evtId").val();   // view.jsp hidden
+    const RECEIVE_TIMEOUT_MS = 40000;     // 뷰티포인트 API 읽기 타임아웃(30초) + 처리 여유
+
+    // [현업 확인] 카카오 공유 문구·썸네일·링크 (썸네일은 이벤트 공통 SNS 이미지 경로)
+    const SHARE = {
+        url: location.origin + "/kr/ko/life/event/view/" + EVENT_ID,
+        title: "오설록 블랙프라이데이 UP TO 50%",
+        description: "매일 오전 10시·오후 8시 선착순 장바구니 쿠폰과 랜덤 뷰티포인트를 받아보세요!",
+        imageUrl: "https://image.osulloc.com/upload/kr/ko/event/snsshare/sns_12413.jpg",
+        buttonTitle: "블프 혜택 보러가기",
+    };
+    // 랜덤 포인트 흐름 (Figma "즉시 지급" 기준) : [카톡]·[링크] 모두 같은 흐름
+    //   비로그인 → 로그인 필요 / 로그인 → 랜덤 포인트 적립 → "○○P 적립 완료!" 팝업 → [공유하기]
+    //   [공유하기] : [카톡]으로 들어오면 카카오 공유, [링크]로 들어오면 LINK_SHARE_MODE 에 따라
+    //     "native" = 휴대폰 기본 공유창(Web Share API, Figma 캡처의 공유 시트). 미지원 환경은 링크 복사 후 안내
+    //     "kakao"  = 카카오 공유로 통일
+    // [현업 확인] 링크 쪽 공유 방식
+    const LINK_SHARE_MODE = "native";
+    const IS_LOGIN = $("#loginYN").val() === "true";   // view.jsp hidden (Logics.isLogin)
+
+    // [개발 추가 · 현업 확인] 퍼블 문구가 없는 경우의 알럿 (구조는 퍼블 COUPON_ALERTS 와 동일)
+    Object.assign(COUPON_ALERTS, {
+        normalNotOpen: { title: "상시 쿠폰팩 오픈 예정", msg: "아직 상시 쿠폰팩이 열리지 않았습니다.", ok: "확인" },
+        linkNotOpen: { title: "아직 참여 시간이 아닙니다", msg: "랜덤 포인트는 매일 오전 10시부터\n받을 수 있습니다.", ok: "확인" },
+        linkNotPeriod: { title: "이벤트 기간이 아닙니다", msg: "참여 기간 : 11/02(월) 오전 10시 -\n11/16(월) 오후 11시 59분", ok: "확인" },
+        linkBusy: { title: "참여자가 많아 지연되고 있어요", msg: "잠시 후 다시 시도해 주세요.", ok: "확인" },
+        linkFailed: { title: "포인트 지급에 실패했습니다", msg: "잠시 후 다시 시도해 주세요.", ok: "확인" },
+        linkChecking: { title: "포인트 지급을 확인하고 있어요", msg: "확인 후 지급해 드리겠습니다.", ok: "확인" },
+        linkCopyFail: { title: "링크 복사에 실패했습니다", msg: "잠시 후 다시 시도해 주세요.", ok: "확인" },
+        linkCopied: { title: "링크가 복사되었습니다", msg: "친구에게 붙여넣어\n오설록 블프 소식을 알려주세요.", ok: "확인" },
+        kakaoOff: { title: "카카오톡 공유를 사용할 수 없습니다", msg: "잠시 후 다시 시도해 주세요.", ok: "확인" },
+        error: { title: "일시적인 오류가 발생했습니다", msg: "잠시 후 다시 시도해 주세요.", ok: "확인" },
+        network: { title: "네트워크 연결이 불안정합니다", msg: "다시 시도해 주세요.", ok: "확인" },
+        // Figma 최종(~10/20) 기준으로 퍼블 문구 덮어쓰기 : 마감 본문 변경, 오픈 예정은 [일반 쿠폰팩 받기] 버튼 1개
+        firstClosed: { title: "선착순 쿠폰팩 마감", msg: "선착순 쿠폰팩이 소진되었습니다.", ok: "일반 쿠폰팩 받기" },
+        firstNotOpen: { title: "선착순 쿠폰팩 오픈 예정", msg: "아직 선착순 쿠폰팩이 열리지 않았습니다.\n매일 오전 10시, 오후 8시에 도전해보세요!", ok: "일반 쿠폰팩 받기" },
+    });
+
+    // 알럿 버튼 동작 — couponAlert 의 opt.ok / opt.cancel 로 넘긴다 (true 를 돌려 알럿을 닫는다)
+    function act(fn) {
+        return function () { fn(); return true; };
+    }
+    const goCart = act(function () { location.href = "/kr/ko/shop/cart"; });
+    const goJoin = act(function () { location.href = "/kr/ko/login/joinIn"; });
+    const LOGIN_OPT = { cancel: goJoin };   // ok(로그인하기)는 퍼블 okAct "login" 사용
+
+    function post(url, data, timeoutMs) {
+        return $.ajax({ type: "POST", url: url, data: data || {}, dataType: "json", cache: false, timeout: timeoutMs || 10000 });
+    }
+
+    /* ---------------- 선착순 · 상시 쿠폰팩 ---------------- */
+    const couponBusy = { S: false, N: false };
+
+    function downloadCoupon(cpnType) {
+        if (couponBusy[cpnType]) return;   // 연타 방지
+        couponBusy[cpnType] = true;
+        post(API.coupon, { eventId: EVENT_ID, cpnType: cpnType })
+            .done(function (res) { applyCoupon(cpnType, res); })
+            .fail(function () { couponAlert("network"); })
+            .always(function () { couponBusy[cpnType] = false; });
+    }
+
+    function applyCoupon(cpnType, res) {
+        const first = cpnType === "S";
+        switch (res.code) {
+            case 200: couponAlert(first ? "firstDone" : "normalDone", { ok: goCart }); break;
+            case 503: couponAlert(first ? "firstAgain" : "normalAgain", { ok: goCart }); break;
+            case 501: couponAlert("needLogin", LOGIN_OPT); break;
+            case 502:
+                // 선착순 오픈 예정 : [일반 쿠폰팩 받기] → 상시 쿠폰 발급
+                if (first) couponAlert("firstNotOpen", { ok: act(function () { downloadCoupon("N"); }) });
+                else couponAlert("normalNotOpen");
+                break;
+            case 504: couponAlert("firstClosed", { ok: act(function () { downloadCoupon("N"); }) }); break;
+            default: couponAlert("error");
+        }
+    }
+
+    $(".btn_coupon_first").on("click", function (e) { e.preventDefault(); downloadCoupon("S"); });
+    $(".btn_coupon_normal").on("click", function (e) { e.preventDefault(); downloadCoupon("N"); });
+
+    /* ---------------- 링크 복사 · 카카오 공유 · 랜덤 포인트 ---------------- */
+    function copyText(text) {
+        if (navigator.clipboard && window.isSecureContext) {
+            return navigator.clipboard.writeText(text);
+        }
+        return new Promise(function (resolve, reject) {   // http · 구형 브라우저 대체
+            const ta = document.createElement("textarea");
+            ta.value = text; ta.setAttribute("readonly", ""); ta.style.position = "fixed"; ta.style.opacity = "0";
+            document.body.appendChild(ta); ta.select(); ta.setSelectionRange(0, text.length);
+            let ok = false; try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+            document.body.removeChild(ta); ok ? resolve() : reject();
+        });
+    }
+
+    // 카카오 공유
+    function shareKakao() {
+        if (!window.Kakao || !Kakao.isInitialized()) { couponAlert("kakaoOff"); return; }
+        const link = { mobileWebUrl: SHARE.url, webUrl: SHARE.url };
+        Kakao.Share.sendDefault({
+            objectType: "feed",
+            content: { title: SHARE.title, description: SHARE.description, imageUrl: SHARE.imageUrl, link: link },
+            buttons: [{ title: SHARE.buttonTitle, link: link }],
+        });
+    }
+
+    // 휴대폰 기본 공유창 (Web Share API). 미지원(PC 일부·일부 인앱 브라우저)이면 링크 복사 후 안내
+    function shareNative() {
+        if (navigator.share) {
+            // 사용자가 공유창을 닫으면 AbortError 로 reject 되므로 무시
+            navigator.share({ title: SHARE.title, text: SHARE.description, url: SHARE.url }).catch(function () {});
+            return;
+        }
+        copyText(SHARE.url).then(function () { couponAlert("linkCopied"); }, function () { couponAlert("linkCopyFail"); });
+    }
+
+    // 적립 완료 팝업의 [공유하기] : 들어온 버튼에 따라 공유 방식 결정
+    function shareBy(via) {
+        if (via === "kakao" || LINK_SHARE_MODE === "kakao") shareKakao();
+        else shareNative();
+    }
+
+    let pointBusy = false;
+    // via : "kakao" | "link" — 어느 버튼으로 들어왔는지 ([공유하기] 동작 구분용)
+    function receivePoint(via) {
+        if (pointBusy) return;   // 연타 방지 (서버도 ID당 1일 1회로 막음)
+        pointBusy = true;
+        post(API.pointReceive, null, RECEIVE_TIMEOUT_MS)
+            .done(function (res) { applyPoint(res, via); })
+            .fail(function () {
+                // 응답을 못 받았어도 서버는 처리했을 수 있음 → 상태 재조회
+                post(API.pointStatus)
+                    .done(function (res) {
+                        if (res.code === 502 || res.code === 508) applyPoint(res, via);
+                        else couponAlert("network");
+                    })
+                    .fail(function () { couponAlert("network"); });
+            })
+            .always(function () { pointBusy = false; });
+    }
+
+    function applyPoint(res, via) {
+        const body = res.body || {};
+        switch (res.code) {
+            case 200: couponAlert("linkDone", { point: body.pointAmt, ok: act(function () { shareBy(via); }) }); break;
+            case 502: couponAlert("linkAgain", { ok: goCart }); break;
+            case 504: couponAlert("linkSoldout"); break;
+            case 501: couponAlert("needLogin", LOGIN_OPT); break;
+            case 503: couponAlert("linkNotPeriod"); break;
+            case 505: couponAlert("linkNotOpen"); break;
+            case 506: couponAlert("linkBusy"); break;
+            case 507: couponAlert("linkFailed"); break;
+            case 508: couponAlert("linkChecking"); break;
+            default: couponAlert("error");
+        }
+    }
+
+    // [링크] : 비로그인 → 로그인 필요 / 로그인 → 링크 복사 → 랜덤 포인트 (복사에 실패하면 포인트 요청을 보내지 않는다)
+    $(".btn_share.btn_link").on("click", function (e) {
+        e.preventDefault();
+        if (!IS_LOGIN) { couponAlert("needLogin", LOGIN_OPT); return; }
+        if (pointBusy) return;
+        copyText(SHARE.url).then(function () { receivePoint("link"); }, function () { couponAlert("linkCopyFail"); });
+    });
+
+    // [카톡] : 비로그인 → 로그인 필요 / 로그인 → 랜덤 포인트 → 적립 팝업 [공유하기]에서 카카오 공유
+    $(".btn_share.btn_kakao").on("click", function (e) {
+        e.preventDefault();
+        if (!IS_LOGIN) { couponAlert("needLogin", LOGIN_OPT); return; }
+        receivePoint("kakao");
+    });
+
+});
+</script>
+
+					
+				
+				<input type="hidden" id="loginYN">
+				<input type="hidden" id="evtId">
+				<input type="hidden" id="evtTitle">
+				<input type="hidden" id="evtType">
+				<input type="hidden" id="pvarCurrentPath">
+				<input type="hidden" id="evtMonth">
+				
+			</section>
+			<!--//event_view_detail-->
+
+			<!--2. event_sns_share-->
+			<section class="event_sns_share open_share_btn">
+				<button type="button" id="open_event_share" class="share_btn"><span class="a11y_hidden">이벤트 공유하기</span></button>
+				<!--share modal-->
+				<div id="modal_share_sns" class="modal-layer-wrap modal-share-sns">
+					<div class="modal-layer">
+						<div class="layer_header">
+							<button type="button" class="btn_close_layer"><span class="a11y_hidden">공유창 닫기</span></button>
+							<p class="modal-title">공유하기</p>
+						</div>
+						<div class="layer_cont share-cont">
+							<input type="hidden" id="share-url">
+							<button type="button" onclick="javascript:sendLink();" class="btn_event_share share_kakao" title="카카오톡 공유하기" data-track-name="이벤트 카카오톡 공유"><span class="a11y_hidden">카카오톡으로 공유하기</span></button>
+							<button type="button" class="btn_event_share share_facebook x-share-facebook" title="페이스북 공유하기" data-track-name="이벤트 페이스북 공유" data-href="https://www.facebook.com/sharer/sharer.php?u=http://www.osulloc.com/kr/ko/life/event/view/12413"><span class="a11y_hidden">페이스북으로 공유하기</span></button>
+							<button type="button" id="share-btn" class="btn_event_share share_url" title="URL 공유하기" data-track-name="이벤트 URL 공유" data-clipboard-text="http://www.osulloc.com/kr/ko/life/event/view/12413"><span class="a11y_hidden">이벤트 URL 복사</span></button>
+						</div>
+					</div>
+				</div><!--//share modal-->
+			</section><!--//event_sns_share-->
+
+			<!--3. more_events-->
+			<section class="more_events">
+				<div class="section_header layout_wide">
+					<h3 class="a11y_hidden">이벤트 더 보기</h3>
+					<a href="/kr/ko/life/event/list/ing" class="link_all">전체 보기</a>
+				</div>
+				<!--more_events_list-->
+				<div class="more_events_list_wrap layout_wide">
+					<div class="banner_navigation layout_float">
+						<button type="button" class="banner_nav banner_nav_prev" tabindex="0" role="button" aria-label="Previous slide"><span class="a11y_hidden">이전 이벤트 배너 보기</span></button>
+						<button type="button" class="banner_nav banner_nav_next" tabindex="0" role="button" aria-label="Next slide"><span class="a11y_hidden">다음 이벤트 배너 보기</span></button>
+					</div>
+					<div id="more_events_list" class="more_events_list swiper-container swiper-container-initialized swiper-container-horizontal">
+						<div class="more_events_list_pagination swiper-pagination-progressbar"><span class="swiper-pagination-progressbar-fill" style="transform: translate3d(0px, 0px, 0px) scaleX(0.333333) scaleY(1); transition-duration: 420ms;"></span></div>
+							<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1260px, 0px, 0px);"><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12426" class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg" alt="11월 출석체크">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">11월 출석체크</h3>
+													<p class="evt_date">26.11.01~26.11.30</p>
+												</div>
+											</a>
+										</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12412" class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg" alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">손종원 셰프와 함께한 <br>블렌디드 티 ~33%</h3>
+													<p class="evt_date">26.10.15~26.11.15</p>
+												</div>
+											</a>
+										</div>
+								
+									
+										<div class="event_item swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12413" class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg" alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">일 년만에 돌아온, <br>오설록 블랙 프라이데이</h3>
+													<p class="evt_date">26.11.02~26.11.16</p>
+												</div>
+											</a>
+										</div>
+									
+										<div class="event_item swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12426" class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg" alt="11월 출석체크">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">11월 출석체크</h3>
+													<p class="evt_date">26.11.01~26.11.30</p>
+												</div>
+											</a>
+										</div>
+									
+										<div class="event_item swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12412" class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg" alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">손종원 셰프와 함께한 <br>블렌디드 티 ~33%</h3>
+													<p class="evt_date">26.10.15~26.11.15</p>
+												</div>
+											</a>
+										</div>
+									
+								
+							<div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12413" class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg" alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">일 년만에 돌아온, <br>오설록 블랙 프라이데이</h3>
+													<p class="evt_date">26.11.02~26.11.16</p>
+												</div>
+											</a>
+										</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12426" class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg" alt="11월 출석체크">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">11월 출석체크</h3>
+													<p class="evt_date">26.11.01~26.11.30</p>
+												</div>
+											</a>
+										</div></div>
+						<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+					</div><!--//more_events_list-->
+				</section></div><!--//more_events_list_wrap-->
+			<!--//more_events-->
+
+			<!--4. event_user_comment-->
+			<section class="event_user_comment life-customer">
+				
+					
+					
+						
+							<div class="section_header">
+								<h3 class="title">이벤트 응원하기</h3>
+							</div>
+							<form id="comment-form" name="commentForm" action="/kr/ko/life/event/12413/comment/write" class="dropzone" method="post" enctype="multipart/form-data" data-event-type="general">
+								<div class="comment-form">
+									<h4 class="a11y_hidden">댓글 작성하기</h4>
+									<div class="row">
+									
+										
+										
+											<textarea id="comment-textarea-val" cols="30" rows="5" class="textarea x-need-login" data-login-url="/kr/ko/login?r=https://www.osulloc.com/kr/ko/life/event/view/12413" readonly="">로그인이 필요합니다.</textarea>
+										
+									
+									</div>
+									
+									<div class="func">
+										
+											
+											
+										
+									</div>
+								</div>
+							</form>
+						
+					
+				 
+
+				
+				
+				<div class="comment_list comment-wrap" data-list-url="/kr/ko/life/event/12413/comment/list" data-delete-url="/kr/ko/life/event/12413/comment/delete">
+					<h4 class="blind">이벤트 댓글 목록</h4>
+				</div>
+			</section><!--//event_user_comment-->
+		
+		</main>

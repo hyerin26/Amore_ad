@@ -1,0 +1,289 @@
+{
+ "id": "29cm-056",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7236",
+ "listing_label": "SHOWCASE\n주방의 수고를 덜어내는 시간 리본제이\n손질과 정리의 번거로움을 줄이고, 요리에만 집중할 수 있도록 돕는 똑똑한 도구를 제안합니다.\n2026.11.02. ~ 11.15.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7236",
+ "description": "손질과 정리의 번거로움을 줄이고, 요리에만 집중할 수 있도록 돕는 똑똑한 도구를 제안합니다.",
+ "images": [
+  {
+   "alt": "주방의 수고를 덜어내는 시간\n리본제이",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33650acea45b5d999e8f2f078f3.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d3360b5f84eaaa2dd5ba54fac12e.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac713137b5d91b08d2855fd6.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3365a4322c0aa2d0124035dd971.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac70bc5aaa2d891d096d48ef.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac713139b5d9b3c292df4ac2.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac71318caa2d2f803b5c4f8b.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac8814eeaa2dcfdc02994992.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d33650acea45b5d999e8f2f078f3.jpg",
+ "text": "SHOWCASE\n주방의 수고를 덜어내는 시간\n리본제이\n손질과 정리의 번거로움을 줄이고, 요리에만 집중할 수 있도록 돕는 똑똑한 도구를 제안합니다.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n~60% 할인\nBENEFIT 2\n5만원 이상 구매 이벤트\n이벤트 기간에 리본제이의 모든 상품 5만원 이상 구매 시 선착순 30명에게 사은품 '투웨이 오일스프레이 1P'를 증정합니다.\n사은품 소진 시 조기 종료\n교환/반품 시 사은품 동봉 필수\n사은품의 사용 및 훼손 발견 시 교환/반품 불가\n주문번호 당 사은품 1개 증정\nCOUPON\n리본제이 10% 상품쿠폰\n사용 기간 :  - 11. 15 Sun\n*쿠폰 발급 기간 : 11. 2 Mon - 11. 15 Sun\n*일부 상품은 쿠폰 적용이 불가할 수 있습니다.",
+ "title": "주방의 수고를 덜어내는 시간 리본제이 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7236",
+   "label": "리본제이 10% 상품쿠폰 사용 기간 : - 11. 15 Sun",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7236",
+  "status": "revisited",
+  "title": "주방의 수고를 덜어내는 시간 리본제이 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 주방의 수고를 덜어내는 시간 리본제이 손질과 정리의 번거로움을 줄이고, 요리에만 집중할 수 있도록 돕는 똑똑한 도구를 제안합니다. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 ~60% 할인 BENEFIT 2 5만원 이상 구매 이벤트 이벤트 기간에 리본제이의 모든 상품 5만원 이상 구매 시 선착순 30명에게 사은품 '투웨이 오일스프레이 1P'를 증정합니다. 사은품 소진 시 조기 종료 교환/반품 시 사은품 동봉 필수 사은품의 사용 및 훼손 발견 시 교환/반품 불가 주문번호 당 사은품 1개 증정 COUPON 리본제이 10% 상품쿠폰 사용 기간 : - 11. 15 Sun *쿠폰 발급 기간 : 11. 2 Mon - 11. 15 Sun *일부 상품은 쿠폰 적용이 불가할 수 있습니다.",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33650acea45b5d999e8f2f078f3.jpg",
+   "alt": "주방의 수고를 덜어내는 시간\n리본제이",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d3360b5f84eaaa2dd5ba54fac12e.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac713137b5d91b08d2855fd6.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac713137b5d91b08d2855fd6.png?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac713137b5d91b08d2855fd6.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3365a4322c0aa2d0124035dd971.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac70bc5aaa2d891d096d48ef.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac70bc5aaa2d891d096d48ef.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac70bc5aaa2d891d096d48ef.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac713139b5d9b3c292df4ac2.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac713139b5d9b3c292df4ac2.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac713139b5d9b3c292df4ac2.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac71318caa2d2f803b5c4f8b.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac71318caa2d2f803b5c4f8b.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336ac8814eeaa2dcfdc02994992.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d336ac8814eeaa2dcfdc02994992.png?width=902&format=webp"
+   ]
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-056.html"
+}

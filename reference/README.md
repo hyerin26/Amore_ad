@@ -13,4 +13,4 @@ Output:
 - `pages/<brand>-NNN.json` - page record without html
 - `pages/<brand>-NNN.html` - rendered promotion body DOM
 
-Source data is not committed here.
+Generated index lives in `reference/data/` (175 pages: kurly 78, 29cm 94, osulloc 3).

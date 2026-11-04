@@ -1,0 +1,896 @@
+{
+ "id": "29cm-061",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7258",
+ "listing_label": "SHOWCASE\n공간에 놓인 작은 섬 아일렛\n손으로 그린 듯 자연스러운 도형들이 자유롭게 배치된 도어매트. 핸드 터프팅 기법으로 섬세한 입체감과 풍부한 볼륨감을 표현한 신상 컬렉션을 소개해요.\n20",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7258",
+ "description": "손으로 그린 듯 자연스러운 도형들이 자유롭게 배치된 도어매트. 핸드 터프팅 기법으로 섬세한 입체감과 풍부한 볼륨감을 표현한 신상 컬렉션을 소개해요.",
+ "images": [
+  {
+   "alt": "공간에 놓인 작은 섬\n아일렛",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13a3daad4798381b9006319bd13.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d3323ee9efcbb5d951e12bf817bb.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c6a733b5d9bdbd6cc0d816.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d332d33271efb5d9d5ef113ab0ae.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c65821aa2d1989b41c0564.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c65823aa2dc18b121e1cf1.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c71b75aa2d91c8a6b0cadf.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335cb8939b5d9539b680f2cd2.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb764153a08751e1c00b8b16.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fb8381d9a38f6447c0.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fd8381159b02cef1af.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7f656961986aa2de36a80c37915.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a3901a0873bb8f4a09068.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3cba087e5c8aa2fadd3.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb77c7f5a087a56f4bfc1534.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a6015a08713c970c81be6.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a11eda08723479b3ab72a.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb79eb098381c791447ba645.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3c9a0877fb8682ca6eb.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d13a3daad4798381b9006319bd13.jpg",
+ "text": "SHOWCASE\n공간에 놓인 작은 섬\n아일렛\n손으로 그린 듯 자연스러운 도형들이 자유롭게 배치된 도어매트. 핸드 터프팅 기법으로 섬세한 입체감과 풍부한 볼륨감을 표현한 신상 컬렉션을 소개해요.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n단독 발매 상품\nBENEFIT 2\n~12% 단독 할인\nBENEFIT 3\n포토 리뷰 이벤트\n이벤트 기간에 아일렛의 신제품 도어매트 구매 후 포토 리뷰를 남겨주세요. 총 5명에게 사은품 'Leather Silhouette Slippers M 사이즈'를 증정합니다.\n당첨자 발표 : 11월 20일\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\nPins Door Mat\n작은 핀들이 캔버스 위에 자유롭게 흩뿌려진 듯한 디자인이에요. 촘촘한 나일론 파일로 제작되어 도톰하고 폭신한 촉감을 느낄 수 있어요.\nBeans Door Mat\n크고 작은 콩알들이 만드는 자연스러운 흐름이 매력적인 도어매트예요. 아이보리 바탕에 블랙 도형이 어우러져 간결하면서도 리듬감 있는 분위기를 연출합니다.\nPebble Door Mat\n블랙, 아이보리 바탕 위로 블루 조약돌이 자유롭게 흩어진 디자인이에요. 촘촘한 나일론 파일로 제작되어 도톰하고 폭신한 촉감을 느낄 수 있어요.\nBlob Door Mat\n은은한 스트라이프 사이로 동그란 도형이 자유롭게 흐르는 디자인. 촘촘한 나일론 파일로 제작되어 도톰하고 폭신한 촉감을 느낄 수 있어요.\nIsle Mat\n서로 떨어진 작은 섬을 연상시키는 불규칙한 도형들이 자유롭게 배치된 디자인. 두 가지 핸드 터프팅 기법으로 섬세한 입체감과 풍부한 볼륨감을 표현했어요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "공간에 놓인 작은 섬 아일렛 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/117698",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/117698"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Pins Door Mat 10% 52,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4311721?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4311721?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "39",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Beans Door Mat 10% 52,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4347451?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4347451?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "14",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Pebble Door Mat 10% 52,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312850?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312850?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "32",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Pebble Mat (Ivory) 10% 86,400",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312904?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312904?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "33",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Blob Door Mat 10% 52,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312863?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312863?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "15",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Isle Mat (Blue) 10% 151,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312869?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312869?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "72",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "아일렛 [29CM 단독] [매트] Isle Door Mat (Murstard) 10% 76,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4347368?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4347368?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7258",
+   "label": "10",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7258",
+  "status": "revisited",
+  "title": "공간에 놓인 작은 섬 아일렛 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 공간에 놓인 작은 섬 아일렛 손으로 그린 듯 자연스러운 도형들이 자유롭게 배치된 도어매트. 핸드 터프팅 기법으로 섬세한 입체감과 풍부한 볼륨감을 표현한 신상 컬렉션을 소개해요. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 발매 상품 BENEFIT 2 ~12% 단독 할인 BENEFIT 3 포토 리뷰 이벤트 이벤트 기간에 아일렛의 신제품 도어매트 구매 후 포토 리뷰를 남겨주세요. 총 5명에게 사은품 'Leather Silhouette Slippers M 사이즈'를 증정합니다. 당첨자 발표 : 11월 20일",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "아일렛 ISLET Islet은 형태와 재료, 아이디어의 본질을 차분히 들여다보며, 그 안에서 Islet의 방향과 감각을 넓혀가고 있습니다. 섬세한 디테일과 비례 사이의 균형을 고민해, 각 작업이 하나의 흐름 안에서 같은 의미를 담아냅니다. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    2
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM Pins Door Mat 작은 핀들이 캔버스 위에 자유롭게 흩뿌려진 듯한 디자인이에요. 촘촘한 나일론 파일로 제작되어 도톰하고 폭신한 촉감을 느낄 수 있어요. 아일렛 [29CM 단독] [매트] Pins Door Mat 10% 52,200 39 Beans Door Mat 크고 작은 콩알들이 만드는 자연스러운 흐름이 매력적인 도어매트예요. 아이보리 바탕에 블랙 도형이 어우러져 간결하면서도 리듬감 있는 분위기를 연출합니다. 아일렛 [29CM 단독] [매트] Beans Door Mat 10% 52,200 14 Pebble Door Mat 블랙, 아이보리 바탕 위로 블루 조약돌이 자유롭게 흩어진 디자인이에요. 촘촘한 나일론 파일로 제작되어 도톰하고 폭신한 촉감을 느낄 수 있어요. 아일렛 [29CM 단독] [매트] Pebble Door Mat 10% 52,200 32 아일렛 [29CM 단독] [매트] Pebble Mat (Ivory) 10% 86,400 33 Blob Door Mat 은은한 스트라이프 사이로 동그란 도형이 자유롭게 흐르는 디자인. 촘촘한 나일론 파일로 제작되어 도톰하고 폭신한 촉감을 느낄 수 있어요. 아일렛 [29CM 단독] [매트] Blob Door Mat 10% 52,200 15 Isle Mat 서로 떨어진 작은 섬을 연상시키는 불규칙한 도형들이 자유롭게 배치된 디자인. 두 가지 핸드 터프팅 기법으로 섬세한 입체감과 풍부한 볼륨감을 표현했어요. 아일렛 [29CM 단독] [매트] Isle Mat (Blue) 10% 151,200 72 아일렛 [29CM 단독] [매트] Isle Door Mat (Murstard) 10% 76,500 10",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026"
+   ],
+   "relationship_indexes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13a3daad4798381b9006319bd13.jpg",
+   "alt": "공간에 놓인 작은 섬\n아일렛",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d3323ee9efcbb5d951e12bf817bb.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c6a733b5d9bdbd6cc0d816.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c6a733b5d9bdbd6cc0d816.png?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c6a733b5d9bdbd6cc0d816.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d332d33271efb5d9d5ef113ab0ae.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c65821aa2d1989b41c0564.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c65821aa2d1989b41c0564.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c65821aa2d1989b41c0564.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c65823aa2dc18b121e1cf1.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c65823aa2dc18b121e1cf1.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c65823aa2dc18b121e1cf1.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335c71b75aa2d91c8a6b0cadf.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33335c71b75aa2d91c8a6b0cadf.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33335cb8939b5d9539b680f2cd2.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33335cb8939b5d9539b680f2cd2.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb764153a08751e1c00b8b16.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb764153a08751e1c00b8b16.jpg?width=2432&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb764153a08751e1c00b8b16.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fb8381d9a38f6447c0.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fb8381d9a38f6447c0.jpg?width=1366&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fb8381d9a38f6447c0.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fd8381159b02cef1af.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fd8381159b02cef1af.jpg?width=1366&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7779fd8381159b02cef1af.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7f656961986aa2de36a80c37915.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7f656961986aa2de36a80c37915.jpg?width=2048&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7f656961986aa2de36a80c37915.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a3901a0873bb8f4a09068.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a3901a0873bb8f4a09068.jpg?width=1366&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a3901a0873bb8f4a09068.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2a9d1a42f8fb5d9adb384bd3082.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Pins Door Mat",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3cba087e5c8aa2fadd3.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3cba087e5c8aa2fadd3.jpg?width=2048&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3cba087e5c8aa2fadd3.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d3633dce773eb5d9d756d1c3d478.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Beans Door Mat ",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb77c7f5a087a56f4bfc1534.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb77c7f5a087a56f4bfc1534.jpg?width=1366&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb77c7f5a087a56f4bfc1534.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a6015a08713c970c81be6.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a6015a08713c970c81be6.jpg?width=1365&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a6015a08713c970c81be6.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2a9c10852d9b5d953c944523754.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Pebble Door Mat",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d0ee4dbb73298381814840462bf2.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Pebble Mat (Ivory)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a11eda08723479b3ab72a.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a11eda08723479b3ab72a.jpg?width=2048&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb7a11eda08723479b3ab72a.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0022",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2a9404a679baa2d334f817968a9.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Blob Door Mat",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb79eb098381c791447ba645.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb79eb098381c791447ba645.jpg?width=1366&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb79eb098381c791447ba645.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0024",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3c9a0877fb8682ca6eb.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3c9a0877fb8682ca6eb.jpg?width=1366&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d13aeb79c3c9a0877fb8682ca6eb.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0025",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2abaac6509cb5d9536a6d876dcf.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Isle Mat (Blue)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d362478e26afaa2da16a665d1837.jpg?width=300&format=webp",
+   "alt": "[29CM 단독] [매트] Isle Door Mat (Murstard)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-061.html"
+}

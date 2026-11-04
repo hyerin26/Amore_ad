@@ -1,0 +1,2561 @@
+{
+ "id": "29cm-021",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7176",
+ "listing_label": "SHOWCASE\n엄마와 아이가 함께하는 시간 슬립디노\n아이가 앉고, 엄마도 앉아요. 함께 쓰는 키즈 스툴로 매일의 순간을 나눠보세요.\n2026.11.04. ~ 11.17.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7176",
+ "description": "아이가 앉고, 엄마도 앉아요. 함께 쓰는 키즈 스툴로 매일의 순간을 나눠보세요.",
+ "images": [
+  {
+   "alt": "엄마와 아이가 함께하는 시간\n슬립디노",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7630c1ff103b5d98109e6fa3e4a.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202611/11f1d71fe8521f08b5d951047b294b63.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf63ee8aa2daf56d1bc04f2.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf68cb9b5d94d51fbf82597.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf5f075b5d9ddfc9e752370.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf57b90aa2de3f017d61b72.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf61787b5d99576a24ab078.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf52d23b5d9e301defd4d24.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf617d6aa2d3f5742c5829e.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d71fecee8b30aa2dbd6d308b3e33.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d71fef9ae5e0b5d96b00c47a08a8.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202611/11f1d7630c1ff103b5d98109e6fa3e4a.jpg",
+ "text": "SHOWCASE\n엄마와 아이가 함께하는 시간\n슬립디노\n아이가 앉고, 엄마도 앉아요. 함께 쓰는 키즈 스툴로 매일의 순간을 나눠보세요.\n2026. 11. 04. - 11. 17.\n\nBENEFIT\nBENEFIT 1\n~24% 단독 할인\n\n슬립디노\nSLEEPDINO\n사람마다 다른 취향과 이야기를 담아, 나만의 방식으로 완성하는 편안한 휴식의 공간을 제안합니다.\n브랜드 홈 바로가기\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\n패밀리 스툴\n성인과 아이 모두 편하게 앉을 수 있는 가족 스툴이에요. 튼튼한 구조와 안정감 있는 디자인이 매력적입니다.\n겨울을 더 포근하게 부드러운 패브릭 베드\n몸을 포근하게 감싸는 부드러운 실루엣의 패브릭 베드. 차가운 계절에도 따뜻한 분위기로 침실의 중심을 잡아줘요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "엄마와 아이가 함께하는 시간 슬립디노 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/40416",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/40416"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 MUSHROOM STOOL 머쉬룸 스툴 S/L 19% 153,900",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4354590?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4354590?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_LK/EK_1800 (+LIFT UP) 5% 1,738,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652438?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652438?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "104",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_Q/K_1700(+LIFT UP) 5% 1,463,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652415?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652415?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "387",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_S/SS_1100(+LIFT UP) 5% 1,311,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652407?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652407?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "167",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 RIBBON BED FRAME 리본 베드 프레임_LK/EK_1800(+LIFT UP) 10% 1,845,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653541?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653541?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "209",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 RIBBON BED FRAME 리본 베드 프레임_Q/K_1700(+LIFT UP) 10% 1,593,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653506?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653506?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "184",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 RIBBON BED FRAME 리본 베드 프레임_S/SS_1100(+LIFT UP) 10% 1,323,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653480?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653480?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "18",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 LAZY BED FRAME 레이지 베드 프레임_LK/EK_1800(+LIFT UP) 15% 1,904,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653781?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653781?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "11",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 LAZY BED FRAME 레이지 베드 프레임_Q/K_1700(+LIFT UP) 15% 1,657,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653758?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653758?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "19",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_LK/EK_1800(+LIFT UP) 15% 2,227,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652358?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652358?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "9",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_Q/K_1700(+LIFT UP) 15% 2,142,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652346?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652346?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "56",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_S/SS_1100(+LIFT UP) 15% 1,819,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652342?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652342?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY HOT WATER BAG 플러피 보온 찜질 팩 10% 38,700",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911789?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911789?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "78",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY STOOL 플러피 스툴 19% 178,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3575934?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3575934?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "83",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLOWER STOOL 플라워 스툴 19% 251,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3583555?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3583555?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "143",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노 FLUFFY SQUARE MIRROR 플러피 스퀘어 미러 10% 171,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4104537?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4104537?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "25",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4354590",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4354590?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "슬립디노",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/40416",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/40416"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "MUSHROOM STOOL 머쉬룸 스툴 S/L 19% 153,900 신상품",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4354590",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4354590?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4354590#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4354590?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": null,
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653541",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653541?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "RIBBON BED FRAME 리본 베드 프레임_LK/EK_1800(+LIFT UP) 10% 1,845,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653541",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653541?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (9)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653541#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653541?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653506",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653506?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "RIBBON BED FRAME 리본 베드 프레임_Q/K_1700(+LIFT UP) 10% 1,593,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653506",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653506?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (6)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653506#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653506?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653480",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653480?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "RIBBON BED FRAME 리본 베드 프레임_S/SS_1100(+LIFT UP) 10% 1,323,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653480",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653480?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653480#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653480?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652438",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652438?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY BED FRAME 플러피 베드 프레임_LK/EK_1800 (+LIFT UP) 5% 1,738,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652438",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652438?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "4.5 (4)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652438#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652438?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652415",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652415?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY BED FRAME 플러피 베드 프레임_Q/K_1700(+LIFT UP) 5% 1,463,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652415",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652415?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (7)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652415#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652415?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652407",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652407?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY BED FRAME 플러피 베드 프레임_S/SS_1100(+LIFT UP) 5% 1,311,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652407",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652407?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652407#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652407?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653781",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653781?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "LAZY BED FRAME 레이지 베드 프레임_LK/EK_1800(+LIFT UP) 15% 1,904,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653781",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653781?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653781#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653781?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653758",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653758?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "LAZY BED FRAME 레이지 베드 프레임_Q/K_1700(+LIFT UP) 15% 1,657,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653758",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653758?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653758#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653758?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653693",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653693?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_LK/EK_1800(+LIFT UP) 5% 836,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653693",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653693?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "94",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653693#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653693?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653676",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653676?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_Q/K_1700(+LIFT UP) 5% 674,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653676",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653676?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "113",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653676#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653676?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653610",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653610?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_S/SS_1100(+LIFT UP) 5% 532,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653610",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653610?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "130",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (23)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653610#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653610?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652358",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652358?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_LK/EK_1800(+LIFT UP) 15% 2,227,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652358",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652358?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (3)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652358#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652358?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652346",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652346?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_Q/K_1700(+LIFT UP) 15% 2,142,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652346",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652346?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652346#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652346?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652342",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652342?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_S/SS_1100(+LIFT UP) 15% 1,819,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652342",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652342?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652342#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652342?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652628",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652628?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_LK/EK_1800(+LIFT UP) 15% 2,244,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652628",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652628?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "10",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (2)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652628#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652628?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652577",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652577?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_Q/K_1700(+LIFT UP) 15% 2,074,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652577",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652577?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "41",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (2)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652577#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652577?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652520",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652520?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_S/SS_1100(+LIFT UP) 15% 1,623,500",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652520",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652520?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "37",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3652520#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3652520?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653345",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653345?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "CURVE BED FRAME 커브 베드 프레임_LK/EK_1800(+LIFT UP) 10% 1,386,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653345",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653345?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "7",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653345#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653345?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653323",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653323?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "CURVE BED FRAME 커브 베드 프레임_Q/K_1700(+LIFT UP) 10% 1,161,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653323",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653323?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (2)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653323#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653323?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653302",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653302?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "CURVE BED FRAME 커브 베드 프레임_S/SS_1100(+LIFT UP) 10% 990,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653302",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653302?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3653302#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3653302?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/2692194",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/2692194?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "커브 패밀리 베드 프레임(SS+Q, SS+K) 15% 2,346,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/2692194",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/2692194?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "46",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/2692194#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/2692194?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/2692202",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/2692202?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "커브 키즈 베드 프레임 24% 1,208,700 쿠폰",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/2692202",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/2692202?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "170",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (3)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/2692202#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/2692202?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3279922",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3279922?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "SLEEPTIGHT PREMIER MATTRESS 슬립타이트 프리미어 매트리스 (3 TYPE) 10% 1,710,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3279922",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3279922?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "99",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3279922#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3279922?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3279972",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3279972?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "SLEEPTIGHT COMFORT MATTRESS 슬립타이트 컴포트 매트리스 (2 TYPE) 10% 1,170,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3279972",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3279972?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "33",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3279972#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3279972?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3575934",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3575934?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY STOOL 플러피 스툴 19% 178,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3575934",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3575934?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (5)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3575934#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3575934?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3583555",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3583555?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLOWER STOOL 플라워 스툴 19% 251,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3583555",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3583555?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (10)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3583555#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3583555?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4104537",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4104537?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY SQUARE MIRROR 플러피 스퀘어 미러 10% 171,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4104537",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4104537?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4104537#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4104537?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911789",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911789?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "FLUFFY HOT WATER BAG 플러피 보온 찜질 팩 10% 38,700",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911789",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911789?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911789#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911789?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911779",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911779?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "ROUND TISSUE CASE l 라운드 티슈 케이스 10% 34,200",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911779",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911779?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "65",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7176",
+   "label": "5 (11)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/3911779#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/3911779?#review"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7176",
+  "status": "revisited",
+  "title": "엄마와 아이가 함께하는 시간 슬립디노 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 엄마와 아이가 함께하는 시간 슬립디노 아이가 앉고, 엄마도 앉아요. 함께 쓰는 키즈 스툴로 매일의 순간을 나눠보세요. 2026. 11. 04. - 11. 17.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 ~24% 단독 할인",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "슬립디노 SLEEPDINO 사람마다 다른 취향과 이야기를 담아, 나만의 방식으로 완성하는 편안한 휴식의 공간을 제안합니다. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1,
+    35
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011"
+   ],
+   "relationship_indexes": [
+    2
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM 패밀리 스툴 성인과 아이 모두 편하게 앉을 수 있는 가족 스툴이에요. 튼튼한 구조와 안정감 있는 디자인이 매력적입니다. 슬립디노 MUSHROOM STOOL 머쉬룸 스툴 S/L 19% 153,900 0 겨울을 더 포근하게 부드러운 패브릭 베드 몸을 포근하게 감싸는 부드러운 실루엣의 패브릭 베드. 차가운 계절에도 따뜻한 분위기로 침실의 중심을 잡아줘요. 슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_LK/EK_1800 (+LIFT UP) 5% 1,738,500 104 슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_Q/K_1700(+LIFT UP) 5% 1,463,000 387 슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_S/SS_1100(+LIFT UP) 5% 1,311,000 167 슬립디노 RIBBON BED FRAME 리본 베드 프레임_LK/EK_1800(+LIFT UP) 10% 1,845,000 209 슬립디노 RIBBON BED FRAME 리본 베드 프레임_Q/K_1700(+LIFT UP) 10% 1,593,000 184 슬립디노 RIBBON BED FRAME 리본 베드 프레임_S/SS_1100(+LIFT UP) 10% 1,323,000 18 슬립디노 LAZY BED FRAME 레이지 베드 프레임_LK/EK_1800(+LIFT UP) 15% 1,904,000 11 슬립디노 LAZY BED FRAME 레이지 베드 프레임_Q/K_1700(+LIFT UP) 15% 1,657,500 19 슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_LK/EK_1800(+LIFT UP) 15% 2,227,000 9 슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_Q/K_1700(+LIFT UP) 15% 2,142,000 56 슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_S/SS_1100(+LIFT UP) 15% 1,819,000 9 슬립디노 FLUFFY HOT WATER BAG 플러피 보온 찜질 팩 10% 38,700 78 슬립디노 FLUFFY STOOL 플러피 스툴 19% 178,200 83 슬립디노 FLOWER STOOL 플라워 스툴 19% 251,100 143 슬립디노 FLUFFY SQUARE MIRROR 플러피 스퀘어 미러 10% 171,000 25",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026",
+    "i0027"
+   ],
+   "relationship_indexes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "MUSHROOM STOOL 머쉬룸 스툴 S/L",
+    "RIBBON BED FRAME 리본 베드 프레임_LK/EK_1800(+LIFT UP)",
+    "RIBBON BED FRAME 리본 베드 프레임_Q/K_1700(+LIFT UP)",
+    "RIBBON BED FRAME 리본 베드 프레임_S/SS_1100(+LIFT UP)",
+    "FLUFFY BED FRAME 플러피 베드 프레임_LK/EK_1800 (+LIFT UP)",
+    "FLUFFY BED FRAME 플러피 베드 프레임_Q/K_1700(+LIFT UP)",
+    "FLUFFY BED FRAME 플러피 베드 프레임_S/SS_1100(+LIFT UP)",
+    "LAZY BED FRAME 레이지 베드 프레임_LK/EK_1800(+LIFT UP)",
+    "LAZY BED FRAME 레이지 베드 프레임_Q/K_1700(+LIFT UP)",
+    "BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_LK/EK_1800(+LIFT UP)",
+    "BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_Q/K_1700(+LIFT UP)",
+    "BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_S/SS_1100(+LIFT UP)",
+    "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_LK/EK_1800(+LIFT UP)",
+    "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_Q/K_1700(+LIFT UP)",
+    "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_S/SS_1100(+LIFT UP)",
+    "CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_LK/EK_1800(+LIFT UP)",
+    "CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_Q/K_1700(+LIFT UP)",
+    "CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_S/SS_1100(+LIFT UP)",
+    "CURVE BED FRAME 커브 베드 프레임_LK/EK_1800(+LIFT UP)",
+    "CURVE BED FRAME 커브 베드 프레임_Q/K_1700(+LIFT UP)",
+    "CURVE BED FRAME 커브 베드 프레임_S/SS_1100(+LIFT UP)",
+    "커브 패밀리 베드 프레임(SS+Q, SS+K)",
+    "커브 키즈 베드 프레임",
+    "SLEEPTIGHT PREMIER MATTRESS 슬립타이트 프리미어 매트리스 (3 TYPE)",
+    "SLEEPTIGHT COMFORT MATTRESS 슬립타이트 컴포트 매트리스 (2 TYPE)",
+    "FLUFFY STOOL 플러피 스툴",
+    "FLOWER STOOL 플라워 스툴",
+    "FLUFFY SQUARE MIRROR 플러피 스퀘어 미러",
+    "FLUFFY HOT WATER BAG 플러피 보온 찜질 팩",
+    "ROUND TISSUE CASE l 라운드 티슈 케이스"
+   ],
+   "text": "SHOWCASE COLLECTIONS ALL 슬립디노 MUSHROOM STOOL 머쉬룸 스툴 S/L 19% 153,900 신상품 0 0 (0) 슬립디노 RIBBON BED FRAME 리본 베드 프레임_LK/EK_1800(+LIFT UP) 10% 1,845,000 209 5 (9) 슬립디노 RIBBON BED FRAME 리본 베드 프레임_Q/K_1700(+LIFT UP) 10% 1,593,000 184 5 (6) 슬립디노 RIBBON BED FRAME 리본 베드 프레임_S/SS_1100(+LIFT UP) 10% 1,323,000 18 0 (0) 슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_LK/EK_1800 (+LIFT UP) 5% 1,738,500 104 4.5 (4) 슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_Q/K_1700(+LIFT UP) 5% 1,463,000 387 5 (7) 슬립디노 FLUFFY BED FRAME 플러피 베드 프레임_S/SS_1100(+LIFT UP) 5% 1,311,000 167 5 (1) 슬립디노 LAZY BED FRAME 레이지 베드 프레임_LK/EK_1800(+LIFT UP) 15% 1,904,000 11 0 (0) 슬립디노 LAZY BED FRAME 레이지 베드 프레임_Q/K_1700(+LIFT UP) 15% 1,657,500 19 0 (0) 슬립디노 BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_LK/EK_1800(+LIFT UP) 5% 836,000 94 0 (0) 슬립디노 BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_Q/K_1700(+LIFT UP) 5% 674,500 113 5 (1) 슬립디노 BASIC FOUNDATION BED FRAME 슬립디노 베이직 파운데이션 베드 프레임_S/SS_1100(+LIFT UP) 5% 532,000 130 5 (23) 슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_LK/EK_1800(+LIFT UP) 15% 2,227,000 9 5 (3) 슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_Q/K_1700(+LIFT UP) 15% 2,142,000 56 5 (1) 슬립디노 FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_S/SS_1100(+LIFT UP) 15% 1,819,000 9 0 (0) 슬립디노 CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_LK/EK_1800(+LIFT UP) 15% 2,244,000 10 5 (2) 슬립디노 CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_Q/K_1700(+LIFT UP) 15% 2,074,000 41 5 (2) 슬립디노 CURVE LIGHTING BED FRAME 커브 라이팅 베드 프레임_S/SS_1100(+LIFT UP) 15% 1,623,500 37 0 (0) 슬립디노 CURVE BED FRAME 커브 베드 프레임_LK/EK_1800(+LIFT UP) 10% 1,386,000 7 5 (1) 슬립디노 CURVE BED FRAME 커브 베드 프레임_Q/K_1700(+LIFT UP) 10% 1,161,000 18 5 (2) 슬립디노 CURVE BED FRAME 커브 베드 프레임_S/SS_1100(+LIFT UP) 10% 990,000 18 0 (0) 슬립디노 커브 패밀리 베드 프레임(SS+Q, SS+K) 15% 2,346,000 46 0 (0) 슬립디노 커브 키즈 베드 프레임 24% 1,208,700 쿠폰 170 5 (3) 슬립디노 SLEEPTIGHT PREMIER MATTRESS 슬립타이트 프리미어 매트리스 (3 TYPE) 10% 1,710,000 99 0 (0) 슬립디노 SLEEPTIGHT COMFORT MATTRESS 슬립타이트 컴포트 매트리스 (2 TYPE) 10% 1,170,000 33 0 (0) 슬립디노 FLUFFY STOOL 플러피 스툴 19% 178,200 83 5 (5) 슬립디노 FLOWER STOOL 플라워 스툴 19% 251,100 143 5 (10) 슬립디노 FLUFFY SQUARE MIRROR 플러피 스퀘어 미러 10% 171,000 25 0 (0) 슬립디노 FLUFFY HOT WATER BAG 플러피 보온 찜질 팩 10% 38,700 78 0 (0) 슬립디노 ROUND TISSUE CASE l 라운드 티슈 케이스 10% 34,200 65 5 (11)",
+   "dom_path": [
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0028",
+    "i0029",
+    "i0030",
+    "i0031",
+    "i0032",
+    "i0033",
+    "i0034",
+    "i0035",
+    "i0036",
+    "i0037",
+    "i0038",
+    "i0039",
+    "i0040",
+    "i0041",
+    "i0042",
+    "i0043",
+    "i0044",
+    "i0045",
+    "i0046",
+    "i0047",
+    "i0048",
+    "i0049",
+    "i0050",
+    "i0051",
+    "i0052",
+    "i0053",
+    "i0054",
+    "i0055",
+    "i0056",
+    "i0057"
+   ],
+   "relationship_indexes": [
+    0,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    27,
+    29,
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7630c1ff103b5d98109e6fa3e4a.jpg",
+   "alt": "엄마와 아이가 함께하는 시간\n슬립디노",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202611/11f1d71fe8521f08b5d951047b294b63.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf63ee8aa2daf56d1bc04f2.jpg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf63ee8aa2daf56d1bc04f2.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf63ee8aa2daf56d1bc04f2.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf68cb9b5d94d51fbf82597.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf68cb9b5d94d51fbf82597.jpg?width=3840&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf68cb9b5d94d51fbf82597.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf68cb9b5d94d51fbf82597.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf5f075b5d9ddfc9e752370.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf5f075b5d9ddfc9e752370.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf5f075b5d9ddfc9e752370.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf57b90aa2de3f017d61b72.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf57b90aa2de3f017d61b72.jpg?width=2432&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf57b90aa2de3f017d61b72.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf61787b5d99576a24ab078.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf61787b5d99576a24ab078.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf61787b5d99576a24ab078.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf52d23b5d9e301defd4d24.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf52d23b5d9e301defd4d24.jpg?width=2432&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf52d23b5d9e301defd4d24.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7631cf617d6aa2d3f5742c5829e.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf617d6aa2d3f5742c5829e.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7631cf617d6aa2d3f5742c5829e.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d71fecee8b30aa2dbd6d308b3e33.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d71fecee8b30aa2dbd6d308b3e33.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d71fecee8b30aa2dbd6d308b3e33.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d71fef9ae5e0b5d96b00c47a08a8.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d71fef9ae5e0b5d96b00c47a08a8.jpg?width=1925&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d71fef9ae5e0b5d96b00c47a08a8.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d7fd9f4cbcb6b5d903a27af5b5c1.jpg?width=300&format=webp",
+   "alt": "MUSHROOM STOOL 머쉬룸 스툴 S/L",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6923181b31a5632fa9b45adfb3.jpg?width=300&format=webp",
+   "alt": "FLUFFY BED FRAME 플러피 베드 프레임_LK/EK_1800 (+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc69155aa66fa563f51bcc50f940.jpg?width=300&format=webp",
+   "alt": "FLUFFY BED FRAME 플러피 베드 프레임_Q/K_1700(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc68e966832dab9d9729ebe7c70d.jpg?width=300&format=webp",
+   "alt": "FLUFFY BED FRAME 플러피 베드 프레임_S/SS_1100(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc63ab37ba37ab9dff8c714edef9.jpg?width=300&format=webp",
+   "alt": "RIBBON BED FRAME 리본 베드 프레임_LK/EK_1800(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc639669a5a3ab9de364ab886063.jpg?width=300&format=webp",
+   "alt": "RIBBON BED FRAME 리본 베드 프레임_Q/K_1700(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6385f9e221ab9d1f40cc9e8ea7.jpg?width=300&format=webp",
+   "alt": "RIBBON BED FRAME 리본 베드 프레임_S/SS_1100(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc698387e8f9ab9da373539a37cc.jpg?width=300&format=webp",
+   "alt": "LAZY BED FRAME 레이지 베드 프레임_LK/EK_1800(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6965b5f075a56355c05d4229d9.jpg?width=300&format=webp",
+   "alt": "LAZY BED FRAME 레이지 베드 프레임_Q/K_1700(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc682747b005ab9d5d42f9152de3.jpg?width=300&format=webp",
+   "alt": "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_LK/EK_1800(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0022",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6805bc5993ab9d4b4a40b4829a.jpg?width=300&format=webp",
+   "alt": "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_Q/K_1700(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc67e41207dba56305a3f2b4dc54.jpg?width=300&format=webp",
+   "alt": "FLUFFY LIGHTING BED FRAME 플러피 라이팅 베드 프레임_S/SS_1100(+LIFT UP)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://img.29cm.co.kr/item/202604/11f132dcccc2102a9ec5939aac24a731.jpg?width=300&format=webp",
+   "alt": "FLUFFY HOT WATER BAG 플러피 보온 찜질 팩",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0025",
+   "url": "https://img.29cm.co.kr/item/202608/11f19c521de6eb028fdc25430a5448b0.jpg?width=300&format=webp",
+   "alt": "FLUFFY STOOL 플러피 스툴",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://img.29cm.co.kr/item/202608/11f19c500ccb42648fdcef8a3fce0308.jpg?width=300&format=webp",
+   "alt": "FLOWER STOOL 플라워 스툴",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0027",
+   "url": "https://img.29cm.co.kr/item/202607/11f18993b39eea6d9645c7731051a8a7.jpg?width=300&format=webp",
+   "alt": "FLUFFY SQUARE MIRROR 플러피 스퀘어 미러",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0028",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d7fd9f4cbcb6b5d903a27af5b5c1.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0029",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc63ab37ba37ab9dff8c714edef9.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0030",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc639669a5a3ab9de364ab886063.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0031",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6385f9e221ab9d1f40cc9e8ea7.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0032",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6923181b31a5632fa9b45adfb3.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0033",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc69155aa66fa563f51bcc50f940.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0034",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc68e966832dab9d9729ebe7c70d.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0035",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc698387e8f9ab9da373539a37cc.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0036",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6965b5f075a56355c05d4229d9.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0037",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6ac203e4eda563338a68573172.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0038",
+   "url": "https://img.29cm.co.kr/item/202511/11f0c51f72f852a5a56345bc831eae9f.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0039",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6a8bcca695ab9d09530d4a407a.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0040",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc682747b005ab9d5d42f9152de3.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0041",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6805bc5993ab9d4b4a40b4829a.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0042",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc67e41207dba56305a3f2b4dc54.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0043",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc60edb3de07a563ef5690bfe192.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0044",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc60cf8b60b5a56333ee15c0ab89.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0045",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc60a57881a3ab9d2739180d9443.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0046",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc62655c89eda563593a6ce467c0.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0047",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6250a4bc2fab9db9c20e49302d.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0048",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc6231b23861a5639f7edc886d5c.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0049",
+   "url": "https://img.29cm.co.kr/item/202406/11ef2ed22d45becd8362f5a33ebb0817.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0050",
+   "url": "https://img.29cm.co.kr/item/202406/11ef2ed3455e755989fbfbafebbad400.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0051",
+   "url": "https://img.29cm.co.kr/item/202608/11f19e99a468274485e1ebdad7fc067b.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0052",
+   "url": "https://img.29cm.co.kr/item/202511/11f0cc5dbbdbbc15ab9d1de3d3581557.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0053",
+   "url": "https://img.29cm.co.kr/item/202608/11f19c521de6eb028fdc25430a5448b0.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0054",
+   "url": "https://img.29cm.co.kr/item/202608/11f19c500ccb42648fdcef8a3fce0308.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0055",
+   "url": "https://img.29cm.co.kr/item/202607/11f18993b39eea6d9645c7731051a8a7.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0056",
+   "url": "https://img.29cm.co.kr/item/202604/11f132dcccc2102a9ec5939aac24a731.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0057",
+   "url": "https://img.29cm.co.kr/item/202604/11f132d4d53790c089a0770b0c272734.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-021.html"
+}

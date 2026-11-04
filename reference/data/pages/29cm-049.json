@@ -1,0 +1,181 @@
+{
+ "id": "29cm-049",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7263",
+ "listing_label": "SHOWCASE\n아이의 내일까지 생각하는 타가\n아이의 피부에 닿는 것부터 아이들이 살아갈 환경까지. 더 나은 내일을 고민하는 타가의 베이비 더마 스킨케어를 만나보세요.\n2026.11.02. ~ 11",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7263",
+ "description": "아이의 피부에 닿는 것부터 아이들이 살아갈 환경까지. 더 나은 내일을 고민하는 타가의 베이비 더마 스킨케어를 만나보세요.",
+ "images": [
+  {
+   "alt": "아이의 내일까지 생각하는\n타가",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266565cdedb952d33a25109b742.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d265f5be3845952dd9ff0b3611ff.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266cb92d1dd952dffa6189ae273.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2664d7a3e57aa545f2318dc8eed.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266502a9149aa549b455fad6b79.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0005"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d266565cdedb952d33a25109b742.jpg",
+ "text": "SHOWCASE\n아이의 내일까지 생각하는\n타가\n아이의 피부에 닿는 것부터 아이들이 살아갈 환경까지. 더 나은 내일을 고민하는 타가의 베이비 더마 스킨케어를 만나보세요.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~43% 단독 할인\nBENEFIT 3\n1.5만원 이상 구매 이벤트\n이벤트 기간에 타가의 모든 상품 1.5만원 이상 구매 시 사은품 '시카 수딩선크림 50ml'를 증정합니다.\n사은품 소진 시 조기 종료\n주문 건의 실 결제 금액 기준\n교환/반품 시 사은품 동봉 필수\n사은품의 사용 및 훼손 발견 시 교환/반품 불가\n유통기간 27.08.06\nBENEFIT 4\n3만원 이상 구매 이벤트\n이벤트 기간에 타가의 모든 상품 3만원 이상 구매 시 사은품 '아토 바이탈 비타 립밤 3.5g'를 증정합니다.\n사은품 소진 시 조기 종료\n주문 건의 실 결제 금액 기준\n교환/반품 시 사은품 동봉 필수\n사은품의 사용 및 훼손 발견 시 교환/반품 불가\n유통기간 27.07.14",
+ "title": "아이의 내일까지 생각하는 타가 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7263",
+  "status": "revisited",
+  "title": "아이의 내일까지 생각하는 타가 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 아이의 내일까지 생각하는 타가 아이의 피부에 닿는 것부터 아이들이 살아갈 환경까지. 더 나은 내일을 고민하는 타가의 베이비 더마 스킨케어를 만나보세요. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~43% 단독 할인 BENEFIT 3 1.5만원 이상 구매 이벤트 이벤트 기간에 타가의 모든 상품 1.5만원 이상 구매 시 사은품 '시카 수딩선크림 50ml'를 증정합니다. 사은품 소진 시 조기 종료 주문 건의 실 결제 금액 기준 교환/반품 시 사은품 동봉 필수 사은품의 사용 및 훼손 발견 시 교환/반품 불가 유통기간 27.08.06 BENEFIT 4 3만원 이상 구매 이벤트 이벤트 기간에 타가의 모든 상품 3만원 이상 구매 시 사은품 '아토 바이탈 비타 립밤 3.5g'를 증정합니다. 사은품 소진 시 조기 종료 주문 건의 실 결제 금액 기준 교환/반품 시 사은품 동봉 필수 사은품의 사용 및 훼손 발견 시 교환/반품 불가 유통기간 27.07.14",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004",
+    "i0005"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266565cdedb952d33a25109b742.jpg",
+   "alt": "아이의 내일까지 생각하는\n타가",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d265f5be3845952dd9ff0b3611ff.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266cb92d1dd952dffa6189ae273.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d266cb92d1dd952dffa6189ae273.png?width=3116&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d266cb92d1dd952dffa6189ae273.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2664d7a3e57aa545f2318dc8eed.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266502a9149aa549b455fad6b79.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-049.html"
+}

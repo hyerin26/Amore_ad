@@ -1,0 +1,245 @@
+{
+ "id": "kurly-066",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://www.kurly.com/collections/8h33czqy",
+ "resolved_url": "https://www.kurly.com/collections/8h33czqy",
+ "listing_label": "261026 [마켓][특가] 프로뉴트리션 특가전",
+ "description": "💙프로뉴트리션부터 웰릿까지! - Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "샛별, 하루 배송 안내",
+   "url": "https://res.kurly.com/main/banners/deliveryInfo.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "💙프로뉴트리션부터 웰릿까지!\n\n💚내 몸에 맞춘 건강관리\n\n필터\n초기화\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n총 4건\n추천순\n신상품순\n판매량순\n혜택순\n높은 가격순\n낮은 가격순\n담기\n샛별배송\n[프로뉴트리션] 듀얼플랜 다이어트 유산균 (14일분)\n\n유산균 섭취로 다이어트까지 한번에\n\n50,000원\n25%\n37,500원\n35\n건강기능\n담기\n샛별배송\n[프로뉴트리션] 클로라인 (15일분)\n\n탄탄하고 예쁜 라인을 만드는 라인 다이어트\n\n50,000원\n25%\n37,500원\n건강기능\n담기\n샛별배송\n[웰릿] 알클리버 (14일분)\n\n하루 한 알로 챙기는 간 건강\n\n40,000원\n17%\n32,900원\n건강기능\n담기\n샛별배송\n[웰릿] 이뮨베라 (14일분)\n\n면역력, 장, 피부를 3중 케어하는 프리미엄 기능성 알로에 젤리\n\n27,900원\n22%\n21,600원\n건강기능\n컬리 고객 제도\n컬리 큐레이터\n레시피",
+ "title": "💙프로뉴트리션부터 웰릿까지! - 마켓컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "초기화",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "추천순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/8h33czqy?page=1&per_page=96&sorted_type=4",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/8h33czqy?page=1&per_page=96&sorted_type=4"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "신상품순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/8h33czqy?page=1&per_page=96&sorted_type=0",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/8h33czqy?page=1&per_page=96&sorted_type=0"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "판매량순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/8h33czqy?page=1&per_page=96&sorted_type=1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/8h33czqy?page=1&per_page=96&sorted_type=1"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "혜택순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/8h33czqy?page=1&per_page=96&sorted_type=5",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/8h33czqy?page=1&per_page=96&sorted_type=5"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "높은 가격순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/8h33czqy?page=1&per_page=96&sorted_type=3",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/8h33czqy?page=1&per_page=96&sorted_type=3"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "낮은 가격순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/8h33czqy?page=1&per_page=96&sorted_type=2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/8h33czqy?page=1&per_page=96&sorted_type=2"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "담기 샛별배송 [프로뉴트리션] 듀얼플랜 다이어트 유산균 (14일분) 유산균 섭취로 다이어트까지 한번에 50,000원 25% 37,500원 35 건강기능",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1002544428?collectionCode=8h33czqy",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1002544428?collectionCode=8h33czqy"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "담기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "담기 샛별배송 [프로뉴트리션] 클로라인 (15일분) 탄탄하고 예쁜 라인을 만드는 라인 다이어트 50,000원 25% 37,500원 건강기능",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1002544430?collectionCode=8h33czqy",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1002544430?collectionCode=8h33czqy"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "담기 샛별배송 [웰릿] 알클리버 (14일분) 하루 한 알로 챙기는 간 건강 40,000원 17% 32,900원 건강기능",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1002544434?collectionCode=8h33czqy",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1002544434?collectionCode=8h33czqy"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "담기 샛별배송 [웰릿] 이뮨베라 (14일분) 면역력, 장, 피부를 3중 케어하는 프리미엄 기능성 알로에 젤리 27,900원 22% 21,600원 건강기능",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1002544432?collectionCode=8h33czqy",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1002544432?collectionCode=8h33czqy"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "맨 위로 이동",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "샛별, 하루 배송 안내",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/user-guide/delivery",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "/user-guide/delivery"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "컬리 고객 제도",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/events/member/vip",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/events/member/vip"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "컬리 큐레이터",
+   "element": "a",
+   "destination_url": "https://lounge.kurly.com/curator-program",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://lounge.kurly.com/curator-program",
+   "window_target": "_blank"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/8h33czqy",
+   "label": "레시피",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/recipe",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.kurly.com/recipe",
+   "window_target": "_blank"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.kurly.com/collections/8h33czqy",
+  "status": "revisited",
+  "title": "💙프로뉴트리션부터 웰릿까지! - 마켓컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "💙프로뉴트리션부터 웰릿까지!",
+    "필터",
+    "[프로뉴트리션] 듀얼플랜 다이어트 유산균 (14일분)",
+    "[프로뉴트리션] 클로라인 (15일분)",
+    "[웰릿] 알클리버 (14일분)",
+    "[웰릿] 이뮨베라 (14일분)"
+   ],
+   "text": "💙프로뉴트리션부터 웰릿까지! 💚내 몸에 맞춘 건강관리 필터 초기화 총 4건 추천순 소비자 인기도 (판매량, 판매금액, 조회수 등), 상품 출시일, 수요 적합성, 상품 운영상 필요 등을 종합적으로 고려한 순서입니다. 신상품순 판매량순 혜택순 높은 가격순 낮은 가격순 담기 샛별배송 [프로뉴트리션] 듀얼플랜 다이어트 유산균 (14일분) 유산균 섭취로 다이어트까지 한번에 50,000원 25% 37,500원 35 건강기능 담기 샛별배송 [프로뉴트리션] 클로라인 (15일분) 탄탄하고 예쁜 라인을 만드는 라인 다이어트 50,000원 25% 37,500원 건강기능 담기 샛별배송 [웰릿] 알클리버 (14일분) 하루 한 알로 챙기는 간 건강 40,000원 17% 32,900원 건강기능 담기 샛별배송 [웰릿] 이뮨베라 (14일분) 면역력, 장, 피부를 3중 케어하는 프리미엄 기능성 알로에 젤리 27,900원 22% 21,600원 건강기능 컬리 고객 제도 컬리 큐레이터 레시피",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://res.kurly.com/main/banners/deliveryInfo.jpg",
+   "alt": "샛별, 하루 배송 안내",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-066.html"
+}

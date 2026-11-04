@@ -1,0 +1,784 @@
+{
+ "id": "29cm-045",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7308",
+ "listing_label": "SHOWCASE\n겨울 옷장을 여는 시간 마조네\n가을과 겨울 사이, 포근한 텍스처와 감각적인 컬러로 채운 새 계절 아이템을 만나보세요.\n2026.11.02. ~ 11.15.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7308",
+ "description": "가을과 겨울 사이, 포근한 텍스처와 감각적인 컬러로 채운 새 계절 아이템을 만나보세요.",
+ "images": [
+  {
+   "alt": "겨울 옷장을 여는 시간\n마조네",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d401e117dfbcb5d9e3a7079cc317.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d401807bf921aa2dd71d2ff13f78.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716d7deeb5d95b06f6509b81.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716da500b5d951720dceb67d.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716df25faa2db95dbfc459f5.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716df261aa2df94245e8df3d.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716d7decb5d959fa91bd99ec.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49db5d9f7f71676bb06.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49bb5d94bf5ca5946c9.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e26691aa2d632587e5c487.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e26693aa2d5bc88b5835e8.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391aa744061aa2de5548fef8c03.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391aa74404bb5d903f56a51b7fe.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87addc9b5d9635bc376339f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87b7a35aa2deddb97471624.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87b2bebb5d99fa8e8f1d2e6.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87d00adb5d9454c93d55c9f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391e84b8d11aa2d6b99d688063c.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391e84ac9adb5d901cb75043120.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391e84b17cfb5d949ed6ba887df.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39229f899d3b5d9bd827841927e.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39229f89a03aa2dc7eb61baf2b6.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39229f824d1aa2d6903af0734f6.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d401e117dfbcb5d9e3a7079cc317.jpg",
+ "text": "SHOWCASE\n겨울 옷장을 여는 시간\n마조네\n가을과 겨울 사이, 포근한 텍스처와 감각적인 컬러로 채운 새 계절 아이템을 만나보세요.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n단독 발매 상품\nBENEFIT 2\n~10% 단독 할인\nCOUPON\n마조네 윈터 워밍업 10% 상품쿠폰\n사용 기간 : 10. 30 Fri - 11. 6 Fri\n*쿠폰 발급 기간 : 10. 30 Fri - 11. 6 Fri\n*일부 상품은 쿠폰 적용이 불가할 수 있습니다.\n\n마조네\nMA JOURNÉE\n개인의 취향을 소중히 여기는 마조네는 보다 가치 있는 삶을 제안하기 위해 고민합니다. 모두가 공유할 수 있는 아이템을 제안하고 즐거운 삶의 태도를 위해 노력합니다.\n브랜드 홈 바로가기\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\nALPACA HALF DUFFLE COAT\n포근한 알파카 소재와 여유로운 실루엣이 돋보이는 후드 더플코트예요. 힙을 덮는 기장으로 겨울철 다양한 스타일링에 활용하기 좋아요.\nFLUFFY FUR VEST\n부드러운 터치감과 플러피한 텍스처가 돋보이는 퍼 베스트예요. 베이직한 디자인으로 다양한 이너와 편안하게 매치하기 좋아요.\nCORDUROY STRAIGHT PANTS\n탄탄한 코듀로이 소재와 깔끔하게 떨어지는 스트레이트 핏이 돋보이는 팬츠예요. 다양한 상의와 매치하기 좋아요.\nFLEECE MAXI SKIRT\n소프트한 후리스 소재와 스트라이프 패턴이 돋보이는 맥시 스커트예요. 여유로운 실루엣과 허리 밴딩으로 편안하게 착용하기 좋아요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "겨울 옷장을 여는 시간 마조네 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7308",
+   "label": "마조네 윈터 워밍업 10% 상품쿠폰 사용 기간 : 10. 30 Fri - 11. 6 Fri",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7308",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/4750",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/4750"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7308",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7308",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7308",
+  "status": "revisited",
+  "title": "겨울 옷장을 여는 시간 마조네 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 겨울 옷장을 여는 시간 마조네 가을과 겨울 사이, 포근한 텍스처와 감각적인 컬러로 채운 새 계절 아이템을 만나보세요. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 발매 상품 BENEFIT 2 ~10% 단독 할인 COUPON 마조네 윈터 워밍업 10% 상품쿠폰 사용 기간 : 10. 30 Fri - 11. 6 Fri *쿠폰 발급 기간 : 10. 30 Fri - 11. 6 Fri *일부 상품은 쿠폰 적용이 불가할 수 있습니다.",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마조네 MA JOURNÉE 개인의 취향을 소중히 여기는 마조네는 보다 가치 있는 삶을 제안하기 위해 고민합니다. 모두가 공유할 수 있는 아이템을 제안하고 즐거운 삶의 태도를 위해 노력합니다. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011"
+   ],
+   "relationship_indexes": [
+    3
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM ALPACA HALF DUFFLE COAT 포근한 알파카 소재와 여유로운 실루엣이 돋보이는 후드 더플코트예요. 힙을 덮는 기장으로 겨울철 다양한 스타일링에 활용하기 좋아요. FLUFFY FUR VEST 부드러운 터치감과 플러피한 텍스처가 돋보이는 퍼 베스트예요. 베이직한 디자인으로 다양한 이너와 편안하게 매치하기 좋아요. CORDUROY STRAIGHT PANTS 탄탄한 코듀로이 소재와 깔끔하게 떨어지는 스트레이트 핏이 돋보이는 팬츠예요. 다양한 상의와 매치하기 좋아요. FLEECE MAXI SKIRT 소프트한 후리스 소재와 스트라이프 패턴이 돋보이는 맥시 스커트예요. 여유로운 실루엣과 허리 밴딩으로 편안하게 착용하기 좋아요.",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE COLLECTIONS",
+   "dom_path": [
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d401e117dfbcb5d9e3a7079cc317.jpg",
+   "alt": "겨울 옷장을 여는 시간\n마조네",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d401807bf921aa2dd71d2ff13f78.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716d7deeb5d95b06f6509b81.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d402716d7deeb5d95b06f6509b81.png?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d402716d7deeb5d95b06f6509b81.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716da500b5d951720dceb67d.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d402716da500b5d951720dceb67d.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d402716da500b5d951720dceb67d.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716df25faa2db95dbfc459f5.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d402716df25faa2db95dbfc459f5.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d402716df25faa2db95dbfc459f5.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716df261aa2df94245e8df3d.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d402716df261aa2df94245e8df3d.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d402716d7decb5d959fa91bd99ec.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d402716d7decb5d959fa91bd99ec.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49db5d9f7f71676bb06.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49db5d9f7f71676bb06.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49db5d9f7f71676bb06.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49bb5d94bf5ca5946c9.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49bb5d94bf5ca5946c9.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e2b49bb5d94bf5ca5946c9.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e26691aa2d632587e5c487.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e26691aa2d632587e5c487.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e26691aa2d632587e5c487.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39194e26693aa2d5bc88b5835e8.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e26693aa2d5bc88b5835e8.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39194e26693aa2d5bc88b5835e8.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391aa744061aa2de5548fef8c03.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391aa744061aa2de5548fef8c03.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391aa744061aa2de5548fef8c03.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391aa74404bb5d903f56a51b7fe.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391aa74404bb5d903f56a51b7fe.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391aa74404bb5d903f56a51b7fe.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87addc9b5d9635bc376339f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87addc9b5d9635bc376339f.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87addc9b5d9635bc376339f.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87b7a35aa2deddb97471624.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87b7a35aa2deddb97471624.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87b7a35aa2deddb97471624.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87b2bebb5d99fa8e8f1d2e6.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87b2bebb5d99fa8e8f1d2e6.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87b2bebb5d99fa8e8f1d2e6.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391c87d00adb5d9454c93d55c9f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87d00adb5d9454c93d55c9f.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391c87d00adb5d9454c93d55c9f.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391e84b8d11aa2d6b99d688063c.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391e84b8d11aa2d6b99d688063c.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391e84b8d11aa2d6b99d688063c.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391e84ac9adb5d901cb75043120.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391e84ac9adb5d901cb75043120.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391e84ac9adb5d901cb75043120.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d391e84b17cfb5d949ed6ba887df.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d391e84b17cfb5d949ed6ba887df.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d391e84b17cfb5d949ed6ba887df.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0021",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39229f899d3b5d9bd827841927e.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39229f899d3b5d9bd827841927e.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39229f899d3b5d9bd827841927e.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0022",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39229f89a03aa2dc7eb61baf2b6.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39229f89a03aa2dc7eb61baf2b6.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39229f89a03aa2dc7eb61baf2b6.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0023",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d39229f824d1aa2d6903af0734f6.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d39229f824d1aa2d6903af0734f6.jpg?width=1335&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d39229f824d1aa2d6903af0734f6.jpg?width=1080&format=webp"
+   ]
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-045.html"
+}

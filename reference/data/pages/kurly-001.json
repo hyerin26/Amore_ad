@@ -1,0 +1,1045 @@
+{
+ "id": "kurly-001",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+ "resolved_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+ "listing_label": "지금 가입하고 최대 1만 2천원 할인 쿠폰 받아가세요!",
+ "description": "Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "[PFM] 신규 쿠폰팩_261029 쿠폰",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_intro_261102_12000원_A_mvuit4xhopjy.png",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "[PFM] 신규 쿠폰팩_261029 쿠폰",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_welcome_261019_12_000원_웹쿠폰하향_mvar3c1t0suu.png",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_welcome_ending_260102.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/250503_첫 구매 추천_MO2.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/MO_베스트상품_250804.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/07_카테고리베스트상품.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/MO_카테고리베스트상품_250804.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_가입유도페이지.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2023/0911/join/coupon/mo_블랙위크_혜택_26110_mvuix236wa26.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/MO_240709_Frame 11.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": "카카오톡 공유하기",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_kakao.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "URL 공유하기",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_url.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "첫구매 쿠폰팩\n\n베스트 상품\n\n친구초대 적립금\n\n2026 블랙위크\n\n인기 급상승\n인기 반찬\n인기 간편식\n장보기특가\n요즘 베이커리\n뷰티컬리 베스트\n더 많은 상품 보러가기\n적립금 받기\n\n공유하기\n\n카카오톡\n링크 복사\n첫구매 쿠폰팩 받기\n컬리 앱으로\n안내할게요\n\n화면의 코드를 스캔하면\n앱으로 바로 이동해요.",
+ "title": "컬리 - 마켓컬리/뷰티컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc137b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc137b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc137b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc137b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "[PFM] 신규 쿠폰팩_261029 쿠폰 받기",
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/첫구매쿠폰",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "첫구매쿠폰"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc92b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc92b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc92b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc92b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "첫구매 쿠폰팩",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/s0",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s0"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "베스트 상품",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/s1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "친구초대 적립금",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/s2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s2"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "2026 블랙위크",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/s3",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s3"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc134b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc134b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc134b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc134b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc124b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc124b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc124b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc124b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc98b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc98b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc98b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc98b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc99b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc99b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc99b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc99b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/pfmbestproduct",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "pfmbestproduct"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc60b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc60b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc60b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc60b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc63b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc63b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc63b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc63b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/market-hot-best-logic",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "market-hot-best-logic"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/pfmbestbanchan",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "pfmbestbanchan"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/pfmbestdeli",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "pfmbestdeli"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/jangbogignb",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "jangbogignb"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/915",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "915"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/pfmbeautybest",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "pfmbeautybest"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc94b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc94b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc94b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc94b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "더 많은 상품 보러가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/market-best-logic",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "market-best-logic"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc128b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc128b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc128b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc128b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc129b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc129b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc129b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc129b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "적립금 받기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/friend",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "friend"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc139b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc139b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc139b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc139b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/clay/2611/blackweek",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "destination_record_url": "https://event.kurly.com/clay/2611/blackweek",
+   "raw_target": "/clay/2611/blackweek"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc14b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc14b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc14b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc14b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc17b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc17b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc17b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc17b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "카카오톡",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/89964",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "89964"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "링크 복사",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc123b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc123b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/lc123b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc123b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "첫구매 쿠폰팩 받기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2023/0911/join/첫구매쿠폰",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "첫구매쿠폰"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "취소",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "확인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+   "label": "닫기 X",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://event.kurly.com/lego/event/2023/0911/join/coupon#lc112b1",
+  "status": "no_controls_observed",
+  "title": "컬리 - 마켓컬리/뷰티컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    47
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 첫구매 쿠폰팩 베스트 상품 친구초대 적립금 2026 블랙위크",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0002"
+   ],
+   "relationship_indexes": [
+    2,
+    9,
+    10,
+    47
+   ]
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0003"
+   ],
+   "relationship_indexes": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 전체보기 마켓 뷰티 마켓 뷰티 인기 급상승 인기 반찬 인기 간편식 장보기특가 요즘 베이커리 뷰티컬리 베스트 전체보기 전체보기 전체보기 전체보기 전체보기 전체보기 마켓 뷰티 더 많은 상품 보러가기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    6
+   ],
+   "dom_id": "s1",
+   "image_ids": [
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007"
+   ],
+   "relationship_indexes": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 적립금 받기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    7
+   ],
+   "dom_id": "s2",
+   "image_ids": [
+    "i0008"
+   ],
+   "relationship_indexes": [
+    31,
+    32,
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "share",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 마켓 뷰티 공유하기 카카오톡 링크 복사",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    8
+   ],
+   "dom_id": "s3",
+   "image_ids": [
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 첫구매 쿠폰팩 받기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    9
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    45,
+    46,
+    47
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "취소 확인",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    11,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    48,
+    49
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "닫기 X",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8,
+    12,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    50
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "컬리 앱으로 안내할게요 화면의 코드를 스캔하면 앱으로 바로 이동해요.",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_intro_261102_12000원_A_mvuit4xhopjy.png",
+   "alt": "[PFM] 신규 쿠폰팩_261029 쿠폰",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_welcome_261019_12_000원_웹쿠폰하향_mvar3c1t0suu.png",
+   "alt": "[PFM] 신규 쿠폰팩_261029 쿠폰",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_welcome_ending_260102.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/250503_첫 구매 추천_MO2.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/MO_베스트상품_250804.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/07_카테고리베스트상품.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/MO_카테고리베스트상품_250804.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/mo_가입유도페이지.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://lego.kurly.com/hdims/resize/%3E750x/quality/85/format/webp/optimize/src/event/2023/0911/join/coupon/mo_블랙위크_혜택_26110_mvuix236wa26.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://lego.kurly.com/event/2023/0911/join/coupon/MO_240709_Frame 11.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0011",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_kakao.png",
+   "alt": "카카오톡 공유하기",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0012",
+   "url": "https://res.kurly.com/images/event/common/m/ico_share_url.png",
+   "alt": "URL 공유하기",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-001.html"
+}

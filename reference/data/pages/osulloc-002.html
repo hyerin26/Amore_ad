@@ -1,0 +1,769 @@
+<main id="container" class="event event_view">
+
+		<h2 class="a11y_hidden">이벤트 상세</h2>
+		<div class="event_view_wrap">
+			
+			<!--1. event_view_detail-->
+			<section class="event_view_detail">
+				
+					
+					
+						
+
+
+
+
+
+
+<style>
+/* common style */
+ * { scroll-behavior: smooth; }
+ .event_wrap.layout_max { padding: 0; }
+ .event_wrap img,.event_wrap a { display: block; width: 100%; max-width: 100%; }
+ .event_wrap img { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; }
+ .event_wrap a { position: absolute; z-index: 2; }
+ .event_wrap .w_view { display: block !important; }
+ .event_wrap .m_view { display: none !important; }
+ .event_wrap .imgbox { position: relative; }
+ .event_wrap .evt_cont { max-width: 860px; margin: 0 auto; }
+ .event_wrap .evt_cont,.event_wrap .evtbox,.event_wrap .prdbox { position: relative; }
+ @media all and (min-width:1920.1px) {
+ .event_wrap .evt_header { left: auto; transform: none; margin: 0 auto; }
+ }
+ @media all and (max-width:860px) {
+ .event_wrap .w_view { display: none !important; }
+ .event_wrap .m_view { display: block !important; }
+ }
+ 
+/* button */
+ .event_wrap button { z-index: 3; position: absolute; display: block; border: 0; outline: 0; overflow: hidden; cursor: pointer; }
+ 
+/* event style */
+.osulloc_cal{max-width:100%;margin:0 auto}.osulloc_cal *{margin:0;padding:0}.osulloc_cal div,.osulloc_cal p{margin:0;padding:0}.osulloc_cal>div,.osulloc_cal>section{position:relative}.osulloc_cal a,.osulloc_cal img{display:block;width:100%}.osulloc_cal img{position:relative;z-index:2}.osulloc_cal a{z-index:3;cursor:pointer}.osulloc_cal .a11y_hidden{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;white-space:nowrap;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%)}.osulloc_cal .visual_section{position:relative}.osulloc_cal .btn_checkcal{z-index:3;position:absolute;top:auto;left:50%;transform:translateX(-50%);bottom:calc((164 / 963) * 100%);width:calc((319 / 860) * 100%);cursor:pointer}.osulloc_cal .btn_checkcal img{display:block;width:100%;height:auto;cursor:pointer}.osulloc_cal .calendar_section{position:relative}.osulloc_cal .calendar_box{z-index:2;position:absolute;left:calc((48 / 860) * 100%);right:calc((48 / 860) * 100%);top:calc((60 / 953) * 100%);bottom:calc((287 / 953) * 100%);mix-blend-mode:multiply}.osulloc_cal .calendar_table{position:absolute;width:100%;height:100%;left:0;right:0;top:0;bottom:0}.osulloc_cal .calendar_table .td{float:left;width:calc(100% / 7);height:100%;margin:0;font-size:0;overflow:hidden}.osulloc_cal .calendar_section .cal_number{position:absolute;z-index:5;left:0;top:auto;bottom:calc((22 / 932) * 100%);width:100%;height:calc((44 / 932) * 100%)}.osulloc_cal .calendar_section .cal_number span{position:absolute;display:block;width:calc((52 / 860) * 100%);right:calc((316 / 860) * 100%);height:100%;line-height:1;text-align:center;font-family:var(--font-family-en);font-weight:500;font-size:45px;color:#ffea95;letter-spacing:-.05em}.osulloc_cal .coupon_section :where(.btn_2,.btn_4,.btn_6){z-index:3;position:absolute;width:28.6%;height:33.6%;top:25.8%;overflow:hidden}.osulloc_cal .coupon_section .btn_2{left:5.15%}.osulloc_cal .coupon_section .btn_4{left:35.75%}.osulloc_cal .coupon_section .btn_6{left:66.35%}.osulloc_cal .calendar_section.week5 .calendar_box{top:calc((55 / 993) * 100%);bottom:calc((331 / 993) * 100%)}.osulloc_cal .calendar_section.week5 .calendar_box .tr{height:20%}.osulloc_cal .calendar_section.week5 .btn_checkcal{bottom:calc((189 / 993) * 100%)}.osulloc_cal .calendar_section.week6 .calendar_box{top:calc((55 / 1112) * 100%);bottom:calc((332 / 1112) * 100%)}.osulloc_cal .calendar_section.week6 .calendar_box .tr{width:100%;height:calc((100% / 6))}.osulloc_cal .calendar_section.week6 .btn_checkcal{bottom:calc((189 / 1112) * 100%)}.osulloc_cal .calendar_section.week6 .cal_number{bottom:calc((19 / 1112) * 100%)}@media all and (max-width:860px){.osulloc_cal .calendar_section.week5 .calendar_box{top:calc((55 / 1006) * 100%);bottom:calc((345 / 1006) * 100%)}.osulloc_cal .calendar_section.week5 .btn_checkcal{bottom:calc((180 / 995) * 100%);width:calc((462 / 860) * 100%)}.osulloc_cal .calendar_section.week6 .calendar_box{top:calc((55 / 1125) * 100%);bottom:calc((344 / 1125) * 100%)}.osulloc_cal .calendar_section.week6 .btn_checkcal{bottom:calc((180 / 1125) * 100%);width:calc((462 / 860) * 100%)}.osulloc_cal .calendar_section.week6 .cal_number{bottom:calc((16 / 1125) * 100%)}.osulloc_cal .calendar_section .cal_number{bottom:calc((22 / 1006) * 100%)}.osulloc_cal .calendar_section .cal_number span{right:calc((320 / 860) * 100%);font-size:calc((44 / 860) * 100vw)}.osulloc_cal .coupon_section :where(.btn_2,.btn_4,.btn_6){width:53%;height:19.5%}.osulloc_cal .coupon_section .btn_2{left:23.5%;top:10.85%}.osulloc_cal .coupon_section .btn_4{left:23.5%;top:40.35%}.osulloc_cal .coupon_section .btn_6{left:23.5%;top:70%}}*{box-sizing:border-box;margin:0;padding:0}.popTerms{position:fixed;width:100%;height:100vh;top:0;left:0;z-index:101;display:none}.popbg{position:absolute;width:100%;height:100%;top:0;left:0;background-color:rgba(0,0,0,.67)}.evtpopbox{position:absolute;width:100%;max-width:610px;height:550px;background-color:#fff;top:50%;left:50%;transform:translate(-50%,-50%);display:flex;flex-direction:column;align-items:center;border-top:6px solid var(--osullocGreen)}.evtpopbox h4{width:100%;margin:57px 0 30px;line-height:1;font-size:34px;font-weight:400;letter-spacing:-.05em;padding:0 40px}.evtpopbox h4::after{content:"";display:block;background-color:#000;height:1px;width:100%;margin-top:20px}.popclose{width:29px;height:29px;background-image:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/popclose.png);background-size:100%;position:absolute;top:28px;right:40px;cursor:pointer}.termsWrap{height:360px;width:calc(100% - 28px);overflow-y:overlay;overflow-x:hidden;padding:0 23px;box-sizing:border-box;margin:0 auto}.termsWrap::-webkit-scrollbar{width:4px}.termsWrap.on{overflow-y:overlay}.termsWrap::-webkit-scrollbar-track{background-color:#d8d8d8;border-radius:2px}.termsWrap::-webkit-scrollbar-thumb{background-color:var(--osullocGreen);border-radius:2px}.termsBox{width:100%;min-height:100%;background-color:#f9f9f9;box-sizing:border-box;border-radius:10px;overflow:hidden}.inputHide,.inputHideAll{display:none}.inputHide:checked~label .check,.inputHideAll:checked~label .check{background-image:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/check_on_g.png)}.termsBox>ul{padding-bottom:30px}.termsBox>ul>li{padding:0 34px}.termsBox>ul>li,li.indent{display:flex;justify-content:space-between;align-items:center}.termsBox>ul>li:first-child{padding-top:30px;padding-bottom:20px;background-color:var(--boxColor)}.termsBox>ul>li:nth-child(2){margin-top:30px!important;position:relative}.termsBox>ul>li:nth-child(2)::after{content:"";display:block;width:1px;height:15px;top:26px;left:43px;position:absolute;background-color:#d2d2d2}.termsBox>ul>li:not(:first-child){margin-top:20px}.labelcheck{height:20px;font-size:20px;letter-spacing:-.025em;font-weight:500;cursor:pointer;display:flex;align-items:center}.labelcheck .check{background-image:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/check_off.png);background-size:100% 100%;width:20px;height:20px;margin-right:10px}.labelcheck.first{color:#000}.termsBox>ul>li.indent{height:0;letter-spacing:-.025em;font-weight:500;display:flex;font-size:20px;align-items:center;color:#353535;padding-left:50px;margin-top:0;transition:.5s;overflow:hidden}.termsBox>ul>li.indent.On{height:20px;margin-top:20px}li.indent .check.prop.disable{background-image:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/check_disable.png)}li.indent .check.prop{background-image:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/check_on_g.png);background-size:100% 100%;width:20px;height:20px;margin-right:10px}.termsBox>ul>li.indent.addLi{position:relative}.termsBox>ul>li.indent.addLi.On{padding-bottom:34px;box-sizing:content-box}.termsBox>ul>li.indent.On .propbox{height:20px}p.add{position:absolute;font-size:19px;color:#757575;font-weight:500;top:30px;left:80px}.arrowdrop:not(.dropshow){width:34px;height:14px;background:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/arrow_down.png) center/24px 14px no-repeat;margin-left:auto;cursor:pointer}.arrowdrop.dropshow{width:34px;text-align:center;font-size:17px;font-weight:500;color:#b1b1b1;text-decoration:underline;cursor:pointer}.arrowdrop.on:not(.dropshow){background-image:url(https://image.osulloc.com/upload/kr/ko/event/check/202206/arrow_up.png)}.propbox{height:100%;display:flex;align-items:center}.evtpopbox form{width:100%!important;display:flex!important;flex-direction:column!important;align-items:center!important}.popTerms .button_submit{display:flex;align-items:center;justify-content:center;width:calc(100% - 80px);max-width:250px;height:56px;background-color:#000;font-size:24px;color:#fff;font-weight:400;letter-spacing:-.05em;margin:30px 0 35px;cursor:pointer;text-decoration:none}p.info{font-size:18px;font-weight:400;color:#797979;letter-spacing:-.025em;line-height:26px;width:100%;margin:0 auto 10px}.termsBox>ul>li.dropdown{display:none}.termsBox>ul>li.dropdown{flex-direction:column;padding:20px 40px;margin:0 auto;border-bottom:1px solid #b1b1b1}li.dropdown ul{list-style-type:"-";padding-left:6px}li.dropdown ul li{font-size:16px;line-height:26px;padding-left:4px;color:#6c6c6c;font-weight:400;letter-spacing:-.025em}li.dropdown ul li.strong,li.dropdown ul li.strong a,li.dropdown ul li.strong li{font-size:19px;line-height:28px;font-weight:700}li.dropdown ul li.strong a{word-break:break-all}li.dropdown>p{font-size:16px;color:#333;font-weight:500}li.dropdown li>p{display:inline-block;vertical-align:top}li.dropdown li>p a{text-decoration:none;color:#6c6c6c}li.dropdown li ul{list-style-type:"·"}.p1{width:calc(100% - 106px)}.p2{width:calc(100% - 106px)}.osulloc_cal .coupon_section .button_pop{position:absolute;display:block;width:calc((266 / 860) * 100%);height:calc((48 / 206) * 100%);top:calc((114 / 206) * 100%);left:calc((297 / 860) * 100%)}@media screen and (max-width:767px){.evtpopbox{height:400px}.evtpopbox h4{font-size:20px;text-align:left;padding:0 32px 0 20px;margin:26px 0 15px}.popclose{width:26px;height:26px;top:20px;right:32px;background-position:50% 50%;background-repeat:no-repeat;background-size:20px 20px}.termsWrap{width:calc(100% - 20px);height:297px;padding:0 20px 0 10px}.termsWrap::-webkit-scrollbar{width:2px}.termsBox>ul{padding-bottom:15px}.termsBox>ul>li:first-child{padding-top:15px;padding-bottom:10px}.labelcheck{font-size:14px}.labelcheck .check,li.indent .check.prop{width:18px;height:18px}.termsBox>ul>li{padding:0 15px}.termsBox>ul>li:nth-child(2){margin-top:15px!important}.termsBox>ul>li:nth-child(2)::after{left:24px;top:24px;height:14px}.termsBox>ul>li.indent.On{margin-top:16px}.arrowdrop:not(.dropshow){width:24px;height:10px;background-size:18px 11px}.arrowdrop.dropshow{width:26px;font-size:14px}p.add{font-size:13px;top:26px;left:55px}li.dropdown{margin-top:0!important;padding:0 10px 20px}li.dropdown>p{font-size:16px}li.dropdown ul li{font-size:14px}.termsBox>ul>li.indent{padding-left:27px;font-size:14px}.termsBox>ul>li.indent.addLi.On{padding-bottom:26px}li.dropdown ul li.strong,li.dropdown ul li.strong a,li.dropdown ul li.strong li{font-size:17px;letter-spacing:-.04em}li.dropdown li>p{display:inline}p.info{font-size:12px;line-height:18px;margin:0 auto 4px}.popTerms .button_submit{max-width:140px;height:34px;padding:0!important;font-size:14px;margin:15px 0 20px}}@media all and (max-width:860px){.osulloc_cal .coupon_section .button_pop{left:calc((74 / 860) * 100%);top:0;width:calc((714 / 860) * 100%);height:100%}}
+</style>
+<style>
+.osulloc_cal .check_header .imgbox { position: relative; }
+.osulloc_cal .evt_header { z-index: 3; }
+#check_202611 {background: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/bg.png) repeat 50% 50% / 300px 300px;}
+#check_202611 .check_header { position: relative; }
+#check_202611 .calendar_section { position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
+#check_202611 .calendar_box { left: calc((187/860)*100%); right: calc((177/860)*100%); top: calc((530/1274)*100%); bottom: calc((387/1274)*100%); width: auto; height: auto; mix-blend-mode: multiply; }
+#check_202611 .calendar_box:after { position: absolute; z-index:2; left:0; top:0; width:100%; height: 100%; content:""; display: block; background:url(https://image.osulloc.com/upload/kr/ko/event/check/202611/cover.png) no-repeat 0 0 / 100% 100%;}
+#check_202611 .tr { position: absolute; left: 0; width: 100%; height: calc((60/350)*100%); }
+#check_202611 .tr.tr_week1 { top: 0; }
+#check_202611 .tr.tr_week2 { top: calc((70/350)*100%); }
+#check_202611 .tr.tr_week3 { top: calc((140/350)*100%); }
+#check_202611 .tr.tr_week4 { top: calc((210/350)*100%); }
+#check_202611 .tr.tr_week5 { top: calc((280/350)*100%); }
+#check_202611 .td.calTd { float: none; position: absolute; top:0; width: calc((60/490)*100%); height: 100%; overflow:visible;}
+#check_202611 .td.calTd:first-of-type {left: 0;}
+#check_202611 .td.calTd:nth-of-type(2) {left: calc((70/490)*100%);}
+#check_202611 .td.calTd:nth-of-type(3) {left: calc((140/490)*100%);}
+#check_202611 .td.calTd:nth-of-type(4) {left: calc((210/490)*100%);}
+#check_202611 .td.calTd:nth-of-type(5) {left: calc((280/490)*100%);}
+#check_202611 .td.calTd:nth-of-type(6) {left: calc((350/490)*100%);}
+#check_202611 .td.calTd:nth-of-type(7) {left: calc((420/490)*100%);}
+#check_202611 .td.calTd:before { position: absolute; left: 0; top: 0; content: ""; display: block; width: 100%; aspect-ratio: 1/1; background-size: 100% 100%; background-repeat: no-repeat; background-position: 0 0; opacity: 0;}
+#check_202611 .td.calTd.ok:before { opacity: 1;}
+#check_202611 .td.calTd.day_01:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/01.png);}
+#check_202611 .td.calTd.day_02:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/02.png);}
+#check_202611 .td.calTd.day_03:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/03.png);}
+#check_202611 .td.calTd.day_04:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/04.png);}
+#check_202611 .td.calTd.day_05:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/05.png);}
+#check_202611 .td.calTd.day_06:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/06.png);}
+#check_202611 .td.calTd.day_07:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/07.png);}
+#check_202611 .td.calTd.day_08:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/08.png);}
+#check_202611 .td.calTd.day_09:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/09.png);}
+#check_202611 .td.calTd.day_10:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/10.png);}
+#check_202611 .td.calTd.day_11:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/11.png);}
+#check_202611 .td.calTd.day_12:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/12.png);}
+#check_202611 .td.calTd.day_13:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/13.png);}
+#check_202611 .td.calTd.day_14:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/14.png);}
+#check_202611 .td.calTd.day_15:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/15.png);}
+#check_202611 .td.calTd.day_16:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/16.png);}
+#check_202611 .td.calTd.day_17:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/17.png);}
+#check_202611 .td.calTd.day_18:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/18.png);}
+#check_202611 .td.calTd.day_19:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/19.png);}
+#check_202611 .td.calTd.day_20:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/20.png);}
+#check_202611 .td.calTd.day_21:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/21.png);}
+#check_202611 .td.calTd.day_22:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/22.png);}
+#check_202611 .td.calTd.day_23:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/23.png);}
+#check_202611 .td.calTd.day_24:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/24.png);}
+#check_202611 .td.calTd.day_25:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/25.png);}
+#check_202611 .td.calTd.day_26:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/26.png);}
+#check_202611 .td.calTd.day_27:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/27.png);}
+#check_202611 .td.calTd.day_28:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/28.png);}
+#check_202611 .td.calTd.day_29:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/29.png);}
+#check_202611 .td.calTd.day_30:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/30.png);}
+#check_202611 .td.calTd.day_31:before {background-image: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/day/31.png);}
+
+#check_202611 .btn_checkcal { bottom: auto; top: 0; width: calc((319/860)*100%); }
+#check_202611 .cal_number { position: absolute; z-index: 2; top: auto; right: 0; bottom: 0; display: flex; justify-content: center; align-items: center; width: 100%; height: calc((99/289) * 100%); }
+#check_202611 .cal_number span { position: relative; top: -1px; display: block; line-height: 1; text-align: center; font-weight: 500; font-size: 48px; color: #6aa7e4; letter-spacing: -0.05em; margin-left: calc((182/860)*100%); }
+@media all and (max-width:860px) {
+    #check_202611 .btn_checkcal { bottom: auto; top: 0; width: calc((459/860)*100%); }
+    #check_202611 .cal_number { height: calc((99/333) * 100%); }
+    #check_202611 .cal_number span { top: 0; font-size: 5.58vw; }
+}
+</style>
+<div id="check_202611" class="osulloc_cal event_wrap layout_full">
+    <div class="check_header layout_full">
+        <div class="imgbox evt_cont">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/w_01.png" width="860" height="373" class="w_view" alt="" draggable="false">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/m_01.png" width="860" height="311" class="m_view" alt="" draggable="false">
+            <h2 class="a11y_hidden">2026년 11월 출석체크</h2>
+            <div class="a11y_hidden">
+                <h3>조용히 다가온 연말의 페이지</h3>
+                <p>한 잔으로 가다듬는 매일의 일상</p>
+            </div>
+        </div>
+        <div class="imgbox evt_cont">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/w_02.png" width="860" height="1274" class="w_view" alt="" draggable="false">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/m_02.png" width="860" height="1249" class="m_view" alt="" draggable="false">
+            <section class="calendar_section evt_cont">
+                <div class="osulloc_cal_tbl calendar_box">
+                    <div class="osulloc_calc_tbl calendar_table">
+                        <div class="tr tr_week1">
+                            <div class="td calTd day_01"><div><span><em style="display:none;">1</em></span></div></div>
+                            <div class="td calTd day_02"><div><span><em style="display:none;">2</em></span></div></div>
+                            <div class="td calTd day_03"><div><span><em style="display:none;">3</em></span></div></div>
+                            <div class="td calTd day_04"><div><span><em style="display:none;">4</em></span></div></div>
+                            <div class="td calTd day_05"><div><span><em style="display:none;">5</em></span></div></div>
+                            <div class="td calTd day_06"><div><span><em style="display:none;">6</em></span></div></div>
+                            <div class="td calTd day_07"><div><span><em style="display:none;">7</em></span></div></div>
+                        </div>
+                        <div class="tr tr_week2">
+                            <div class="td calTd day_08"><div><span><em style="display:none;">8</em></span></div></div>
+                            <div class="td calTd day_09"><div><span><em style="display:none;">9</em></span></div></div>
+                            <div class="td calTd day_10"><div><span><em style="display:none;">10</em></span></div></div>
+                            <div class="td calTd day_11"><div><span><em style="display:none;">11</em></span></div></div>
+                            <div class="td calTd day_12"><div><span><em style="display:none;">12</em></span></div></div>
+                            <div class="td calTd day_13"><div><span><em style="display:none;">13</em></span></div></div>
+                            <div class="td calTd day_14"><div><span><em style="display:none;">14</em></span></div></div>
+                        </div>
+                        <div class="tr tr_week3">
+                            <div class="td calTd day_15"><div><span><em style="display:none;">15</em></span></div></div>
+                            <div class="td calTd day_16"><div><span><em style="display:none;">16</em></span></div></div>
+                            <div class="td calTd day_17"><div><span><em style="display:none;">17</em></span></div></div>
+                            <div class="td calTd day_18"><div><span><em style="display:none;">18</em></span></div></div>
+                            <div class="td calTd day_19"><div><span><em style="display:none;">19</em></span></div></div>
+                            <div class="td calTd day_20"><div><span><em style="display:none;">20</em></span></div></div>
+                            <div class="td calTd day_21"><div><span><em style="display:none;">21</em></span></div></div>
+                        </div>
+                        <div class="tr tr_week4">
+                            <div class="td calTd day_22"><div><span><em style="display:none;">22</em></span></div></div>
+                            <div class="td calTd day_23"><div><span><em style="display:none;">23</em></span></div></div>
+                            <div class="td calTd day_24"><div><span><em style="display:none;">24</em></span></div></div>
+                            <div class="td calTd day_25"><div><span><em style="display:none;">25</em></span></div></div>
+                            <div class="td calTd day_26"><div><span><em style="display:none;">26</em></span></div></div>
+                            <div class="td calTd day_27"><div><span><em style="display:none;">27</em></span></div></div>
+                            <div class="td calTd day_28"><div><span><em style="display:none;">28</em></span></div></div>
+                        </div>
+                        <div class="tr tr_week5">
+                            <div class="td calTd day_29"><div><span><em style="display:none;">29</em></span></div></div>
+                            <div class="td calTd day_30"><div><span><em style="display:none;">30</em></span></div></div>
+                            <div class="td">&nbsp;</div>
+                            <div class="td">&nbsp;</div>
+                            <div class="td">&nbsp;</div>
+                            <div class="td">&nbsp;</div>
+                            <div class="td">&nbsp;</div>
+                        </div>
+                    </div>
+                </div>
+                <script>
+                    document.querySelectorAll(".td.calTd em").forEach((e, i) => (e.innerHTML = i + 1))
+                </script>
+            </section>
+        </div>
+        <div class="layout_full" style="background: url(https://image.osulloc.com/upload/kr/ko/event/check/202611/bg_03.png) repeat-x 0 0 / auto 100%;">
+            <div class="imgbox evt_cont">
+                <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/w_03.png" width="860" height="289" class="w_view" alt="" draggable="false">
+                <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/m_03.png" width="860" height="333" class="m_view" alt="" draggable="false">
+
+                <button type="button" class="osulloc_cal_btn btn_checkcal">
+                    <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/btn_w@2x.png" width="319" height="69" class="w_view" alt="출석체크하기" draggable="false">
+                    <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/btn_m.png" width="459" height="99" class="m_view" alt="출석체크하기" draggable="false">
+                </button>
+                <p class="cal_number"><em class="a11y_hidden">이번 달 출석현황 총</em><span>0</span><em class="a11y_hidden">회</em></p>
+            </div>
+        </div>
+    </div>
+    <div class="coupon_section layout_full">
+        <div class="imgbox evt_cont">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/w_04.png" width="860" height="308" class="w_view" alt="꼭! 확인해주세요" draggable="false">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/m_04.png" width="860" height="309" class="m_view" alt="꼭! 확인해주세요" draggable="false">
+            <p class="a11y_hidden">로그인하여 출석체크 버튼을 클릭하시면 출석 횟수에 따라 쿠폰이 지급됩니다.</p>
+        </div>
+    </div>
+    <div class="coupon_section layout_full">
+        <div class="imgbox evt_cont">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/w_05.png" width="860" height="206" class="w_view" alt="선택 약관 동의 안내" draggable="false">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/m_05.png" width="860" height="206" class="m_view" alt="선택 약관 동의 안내" draggable="false">
+            <p class="a11y_hidden">선택약관에 모두 동의해주시면 더욱 많은 혜택과 소식을 받아보실 수 있습니다.</p>
+
+            <a href="javascript:;" class="button_pop"><span class="a11y_hidden">선택 약관 동의 바로가기</span></a>
+        </div>
+    </div>
+    <div class="coupon_section layout_full">
+        <div class="imgbox evt_cont">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/w_06.png" width="860" height="481" class="w_view" alt="출석체크 쿠폰" draggable="false">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/m_06.png" width="860" height="1580" class="m_view" alt="출석체크 쿠폰" draggable="false">
+
+            <a href="#" class="btn_2" id="btn2" title="쿠폰받기"><span class="a11y_hidden">7일 출석 : 2만원 이상 구매 시 15% 오설록몰 전용 쿠폰 받기</span></a>
+            <a href="#" class="btn_4" id="btn4" title="쿠폰받기"><span class="a11y_hidden">18일 출석 : 4만원 이상 구매 시 20% 오설록몰 전용 쿠폰 받기</span></a>
+            <a href="#" class="btn_6" id="btn6" title="쿠폰받기"><span class="a11y_hidden">30일 출석 : 7만원 이상 구매 시 30% 오설록몰 전용 쿠폰 받기</span></a>
+        </div>
+    </div>
+    <div class="layout_full" style="background: #303030">
+        <section class="notice_section evt_cont">
+            <img src="https://image.osulloc.com/upload/kr/ko/event/check/202611/footer.png" width="860" height="742" alt="" draggable="false">
+            <ul class="a11y_hidden">
+                <li>이벤트 기간 : 이 달 1일부터 말일까지</li>
+                <li>참여방법 : 이벤트 기간 내 출석체크 참여 횟수에 따라 할인쿠폰 신청 가능 *매일 ID당 1회 참여 가능</li>
+                <li>발급되는 할인 쿠폰은 온라인에서만 사용 가능합니다.</li>
+                <li>쿠폰 사용을 위해 최소 금액은 배송료를 제외한 결제금액을 기준으로 합니다. (예 : 5천원 쿠폰은 배송료 제외하고 2만원 이상 결제 시 사용가능)</li>
+                <li>입점제품(티웨어, 바이탈뷰티 등)은 쿠폰 할인에 해당하지 않습니다.</li>
+                <li>배송료는 결제금액 기준 3만원 이상부터 무료 적용됩니다.</li>
+                <li>상품할인 및 기타 할인쿠폰과 중복 할인 불가능합니다.</li>
+                <li><strong>주문취소 시 사용쿠폰의 유효기간이 만료된 경우, 재발급이 불가능하며 판매자의 귀책 취소에 한해서만 쿠폰이 재발급됩니다.</strong></li>
+                <li>쿠폰 사용기간 : 다음 달 말일까지</li>
+                <li>이벤트 관련 문의사항은 1:1 문의게시판에 남겨주세요.</li>
+                <li>IE(인터넷익스플로러) 사용 시 오류가 발생할 수 있습니다. 크롬, 사파리 등 최신 브라우저를 사용해주세요.</li>
+            </ul>
+        </section>
+    </div>
+</div>
+
+
+
+<div class="popTerms">
+    <div class="popbg"></div>
+    <div class="evtpopbox">
+        <h4>마케팅 정보 수신 / 선택 약관 동의</h4>
+        <div class="popclose"></div>
+        <div class="termsWrap">
+            <form action="">
+                <div class="termsBox">
+                    <ul>
+                        <li>
+                            <input type="checkbox" name="termsAgree" id="checkAll" class="inputHideAll">
+                            <label for="checkAll" class="labelcheck first">
+                                <div class="check"></div>
+                                [선택] 전체 약관 동의
+                            </label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="termsAgree" id="tcatCd030" class="inputHide termsPrivate">
+                            <label for="tcatCd030" class="labelcheck termsPrivateLabel">
+                                <div class="check"></div>
+                                [선택] 개인정보 수집/이용 동의
+                            </label>
+                            <div class="arrowdrop drop1 dropshow">보기</div>
+                        </li>
+                        <li class="dropdown">
+                            <ul>
+                                <li>수집되는 개인정보의 항목 : 휴대폰번호, 이메일주소, 주소</li>
+                                <li>수집 및 이용목적 : 본인 동의 시 회사 또는 제휴사의 서비스/사업 및 정책/기타 이벤트에 관한 정보 제공 및 그에 따른 경품 등 물품 배송</li>
+                                <li class="strong">보유 및 이용기간 : 동의철회 시 혹은 회원탈퇴 시까지</li>
+                            </ul>
+                            <p>고객님께서는 개인정보 수집/이용 동의에 거부할 수 있습니다. 다만, 거부하는 경우 할인, 마케팅, 프로모션 등의 정보를 받아볼 수 없습니다.</p>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="termsAgree" id="ad_agree_yn" class="inputHide inputboth">
+                            <label for="ad_agree_yn" class="labelcheck termsAd">
+                                <div class="check"></div>
+                                [선택] 광고성 정보 수신 동의
+                            </label>
+                            <div class="arrowdrop drop2"></div>
+                        </li>
+                        <li class="indent">
+                            <input type="checkbox" name="termsAgree" id="smsOptiYn" class="inputHide prop2">
+                            <label for="smsOptiYn" class="labelcheck termsAd">
+                                <div class="check"></div>
+                                [선택] 오설록몰 SMS 수신 동의
+                            </label>
+                        </li>
+                        <li class="indent">
+                            <input type="checkbox" name="termsAgree" id="emlOptiYn" class="inputHide prop2">
+                            <label for="emlOptiYn" class="labelcheck termsAd">
+                                <div class="check"></div>
+                                [선택] 오설록몰 이메일 수신 동의
+                            </label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="termsAgree" id="privateAgreeYn" class="inputHide inputboth">
+                            <label for="privateAgreeYn" class="labelcheck">
+                                <div class="check"></div>
+                                [선택] 개인정보 제공 및 국외이전 동의
+                            </label>
+                            <div class="arrowdrop drop2"></div>
+                        </li>
+                        <li class="indent">
+                            <div class="propbox">
+                                <div class="check disable prop"></div>
+                                [선택] 개인정보 제공 동의
+                            </div>
+                            <div class="arrowdrop drop1 dropshow">보기</div>
+                        </li>
+                        <li class="dropdown">
+                            <ul>
+                                <li class="strong">정보를 제공받는 자 : Meta Platforms, Inc./ GoogleInc.</li>
+                                <li>제공받는 개인정보의 항목 : 이메일, 휴대전화번호</li>
+                                <li class="strong">제공하는 목적 : 오디언스 마케팅 수행</li>
+                                <li class="strong">보유 및 이용기간 : 마케팅 수행 후 14일(Meta)/마케팅 수행 후 48시간(Google)</li>
+                            </ul>
+                            <p>고객님께서는 개인정보 제공동의에 거부할 수 있습니다. 거부하여도 회원가입에 불이익은 없습니다.</p>
+                        </li>
+                        <li class="indent addLi">
+                            <div class="propbox">
+                                <div class="check disable prop"></div>
+                                [선택] 개인정보 국외이전 동의
+                            </div>
+                            <div class="arrowdrop drop1 dropshow">보기</div>
+                            <p class="add">· 이전 대상자: 메타(페이스북), 구글</p>
+                        </li>
+                        <li class="dropdown">
+                            <ul>
+                                <li class="strong">
+                                    이전받는 자 :
+                                    <p class="p1">
+                                        MetaPlatform, Inc.<br>
+                                        1601 Willow Road<br>
+                                        Menlo Park, CA94025<br>
+                                        <a href="mailto:korealocalagent@support.faceboock.com">korealocalagent@support.faceboock.com</a>
+                                    </p>
+                                </li>
+                                <li>이전되는 국가 : 미국</li>
+                                <li>이전 항목 : 이메일, 휴대전화번호</li>
+                                <li>이전 방법 : Facebook 마케팅툴을 통해 이메일, 휴대폰 번호를 Hash처리한 후 이전 처리 예정</li>
+                                <li class="strong">이전 목적 : 페이스북 제휴 오디언스 마케팅</li>
+                                <li class="strong">
+                                    이전 시점 및 보유기간
+                                    <ul>
+                                        <li>이전 시점 : 페이스북 캠페인 대상 선정 시</li>
+                                        <li>보유 기간 : 14일</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul>
+                                <li class="strong">
+                                    이전 받는 자 :
+                                    <p class="p2">
+                                        Google Inc.<br>
+                                        1600 Amphitheatre Parkway Mountain View, CA 94043<br>
+                                        <a href="https://support.google.com/google-ads">https://support.google.com/google-ads</a>
+                                    </p>
+                                </li>
+                                <li>이전되는 국가 : 미국</li>
+                                <li>이전 항목 : 이메일, 휴대전화번호</li>
+                                <li>이전 방법 : Google 마케팅 툴을 통해 Hash 처리한 후 이전</li>
+                                <li class="strong">이전 목적 : 구글 제휴 오디언스 마케팅</li>
+                                <li class="strong">
+                                    이전시점 및 보유기간
+                                    <ul>
+                                        <li>이전 시점 : 구글 캠페인 대상 선정 시</li>
+                                        <li>보유 기간 : 48시간</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <p>고객님께서는 개인정보 국외이전 동의에 거부할 수 있습니다. 거부하여도 회원가입 시 불이익은 없습니다.</p>
+                        </li>
+                    </ul>
+                </div>
+                <a href="javascript:;" class="button_submit">수정완료</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    // @ts-check
+    $(function () {
+        // $(".button_pop").on("click", popopen);
+        $(".popclose").on("click", popclose)
+
+        function popclose() {
+            //팝업 닫기함수
+            $(".popTerms").hide()
+            document.querySelector("html").style.overflow = "visible" //스크롤바 생기기
+            $("#cdj_header").css("display", "block") //헤더 노출
+            $("#new_footer").css("z-index", "2") //푸터 노출
+            $(".dropdown").each((i, e) => $("." + e.classList[0]).slideUp()) //약관상세 드랍다운 올리기
+            $(".arrowdrop").removeClass("on") //약관상세 드랍다운 화살표
+        }
+
+        /**
+         * checkbox를 컨트롤하는 함수입니다.
+         * @param {HTMLInputElement} dom check할 dom요소
+         * @param {boolean} check
+         * @param {number | null} eq dom이 여러개일때 체크할 요소의 index
+         */
+        const propCheck = (dom, check = true, eq = null) => {
+            //체크박스 함수
+            eq ?? $(dom).prop("checked", check)
+            $(dom).eq(eq).prop("checked", check)
+        }
+
+        let isprop2chd = $(".prop2:checked").length //광고성 정보 수신 동의 하위 체크박스
+        let isallchd = $(".inputHide:checked").length //체크된 체크박스 개수
+
+        const countCheckedAd = () => {
+            let checked = 0
+            $(".prop2").each(function () {
+                if ($(this).prop("checked")) {
+                    checked++
+                }
+            })
+            return checked
+        }
+
+        const checkEach = () => {
+            if ($(".prop2").length == countCheckedAd()) {
+                propCheck(".inputboth", true, 0)
+            } else {
+                propCheck(".inputboth", false, 0)
+            }
+        }
+
+        //전체동의 체크
+        if ($("#checkAll").prop("checked")) {
+            propCheck(".inputHide")
+            $(".prop").removeClass("disable")
+        }
+        $("#checkAll").on("change", function () {
+            if ($(this).prop("checked")) {
+                propCheck(".inputHide")
+                $(".prop").removeClass("disable")
+            } else {
+                propCheck(".inputHide", false)
+                $(".prop").addClass("disable")
+            }
+            isprop2chd = $(".prop2:checked").length
+            isallchd = $(".inputHide:checked").length
+        })
+
+        //개인정보 제공 및 국외이전 동의
+        if ($(".inputboth").eq(1).prop("checked")) {
+            $(".prop").removeClass("disable")
+        }
+        $(".inputboth")
+            .eq(1)
+            .on("change", function () {
+                if ($(this).prop("checked")) {
+                    $(".prop").removeClass("disable")
+                } else {
+                    $(".prop").addClass("disable")
+                }
+            })
+
+        //광고성 정보 수신 동의
+        $(".inputboth").eq(0).prop("checked") && propCheck(".prop2") //기본값
+        $(".termsAd").on("click", function (e) {
+            e.preventDefault()
+            const private = $(".termsPrivate").prop("checked")
+            const input = $(this).siblings("input")
+            const isChecked = input.prop("checked")
+
+            if (isChecked) {
+                input.prop("checked", false)
+                input.hasClass("inputboth") ? propCheck(".prop2", false) : checkEach()
+                return
+            }
+
+            if (private) {
+                input.prop("checked", true)
+                input.hasClass("inputboth") ? propCheck(".prop2") : checkEach()
+                return
+            }
+
+            if (confirm("[선택] 개인정보 수집/이용 동의가 선행되어야 합니다.\n함께 동의하시겠습니까?")) {
+                propCheck(".termsPrivate")
+                input.prop("checked", true)
+                input.hasClass("inputboth") ? propCheck(".prop2") : checkEach()
+            }
+        })
+
+        //개인정보수집/이용동의
+        $(".termsPrivateLabel").on("click", function (e) {
+            e.preventDefault()
+            const input = $(this).siblings("input")
+            const isChecked = input.prop("checked")
+
+            if (!isChecked) {
+                input.prop("checked", true)
+                return
+            }
+
+            if (countCheckedAd() === 0) {
+                input.prop("checked", false)
+                return
+            }
+
+            if (!confirm("[선택] 광고성 정보 수신 동의 / SMS / 이메일 수신동의와 함께 동의해야합니다.\n동의하시겠습니까?")) {
+                input.prop("checked", false)
+                propCheck(".inputboth", false, 0)
+                propCheck(".prop2", false)
+            }
+        })
+
+        //광고성 정보 수신 동의 하위체크
+        $(".prop2").prop("checked") && checkEach() //기본값
+
+        //모두 체크시 전체동의 체크
+        $(".inputHide").prop("checked") && checkall() //기본값
+        $(".inputHide").on("change", checkall)
+
+        function checkall() {
+            //모두 체크시 전체동의 체크 함수
+            isallchd = $(".inputHide:checked").length
+            const allLength = $(".inputHide").length
+            isallchd >= allLength ? propCheck("#checkAll") : propCheck("#checkAll", false)
+        }
+
+        $(".arrowdrop").on("click", function (e) {
+            //약관상세 드랍다운 함수
+            const drop1 = document.querySelectorAll(".drop1")
+            const drop2 = document.querySelectorAll(".drop2")
+            drop1.forEach((el, i) => {
+                el == e.target && $(".dropdown").eq(i).slideToggle()
+            })
+            drop2.forEach((el, i) => {
+                if (el == e.target) {
+                    if (i == 0) {
+                        $(".indent").eq(0).toggleClass("On")
+                        $(".indent").eq(1).toggleClass("On")
+                    } else {
+                        $(".indent").eq(2).toggleClass("On")
+                        $(".indent").eq(3).toggleClass("On")
+                    }
+                }
+            })
+            $(this).toggleClass("on")
+            if ($(this).hasClass("on")) {
+                $(".termsWrap").addClass("on")
+            } else {
+                setTimeout(() => $(".termsWrap").removeClass("on"), 500)
+            }
+        })
+    })
+</script>
+
+					
+				
+				<input type="hidden" id="loginYN">
+				<input type="hidden" id="evtId">
+				<input type="hidden" id="evtTitle">
+				<input type="hidden" id="evtType">
+				<input type="hidden" id="pvarCurrentPath">
+				<input type="hidden" id="evtMonth">
+				
+					<input type="hidden" id="eventStatus">
+					<input type="hidden" id="attendList">
+					
+				
+			</section>
+			<!--//event_view_detail-->
+
+			<!--2. event_sns_share-->
+			<section class="event_sns_share open_share_btn">
+				<button type="button" id="open_event_share" class="share_btn"><span class="a11y_hidden">이벤트 공유하기</span></button>
+				<!--share modal-->
+				<div id="modal_share_sns" class="modal-layer-wrap modal-share-sns">
+					<div class="modal-layer">
+						<div class="layer_header">
+							<button type="button" class="btn_close_layer"><span class="a11y_hidden">공유창 닫기</span></button>
+							<p class="modal-title">공유하기</p>
+						</div>
+						<div class="layer_cont share-cont">
+							<input type="hidden" id="share-url">
+							<button type="button" onclick="javascript:sendLink();" class="btn_event_share share_kakao" title="카카오톡 공유하기" data-track-name="이벤트 카카오톡 공유"><span class="a11y_hidden">카카오톡으로 공유하기</span></button>
+							<button type="button" class="btn_event_share share_facebook x-share-facebook" title="페이스북 공유하기" data-track-name="이벤트 페이스북 공유" data-href="https://www.facebook.com/sharer/sharer.php?u=http://www.osulloc.com/kr/ko/life/event/view/12426"><span class="a11y_hidden">페이스북으로 공유하기</span></button>
+							<button type="button" id="share-btn" class="btn_event_share share_url" title="URL 공유하기" data-track-name="이벤트 URL 공유" data-clipboard-text="http://www.osulloc.com/kr/ko/life/event/view/12426"><span class="a11y_hidden">이벤트 URL 복사</span></button>
+						</div>
+					</div>
+				</div><!--//share modal-->
+			</section><!--//event_sns_share-->
+
+			<!--3. more_events-->
+			<section class="more_events">
+				<div class="section_header layout_wide">
+					<h3 class="a11y_hidden">이벤트 더 보기</h3>
+					<a href="/kr/ko/life/event/list/ing" class="link_all">전체 보기</a>
+				</div>
+				<!--more_events_list-->
+				<div class="more_events_list_wrap layout_wide">
+					<div class="banner_navigation layout_float">
+						<button type="button" class="banner_nav banner_nav_prev" tabindex="0" role="button" aria-label="Previous slide"><span class="a11y_hidden">이전 이벤트 배너 보기</span></button>
+						<button type="button" class="banner_nav banner_nav_next" tabindex="0" role="button" aria-label="Next slide"><span class="a11y_hidden">다음 이벤트 배너 보기</span></button>
+					</div>
+					<div id="more_events_list" class="more_events_list swiper-container swiper-container-initialized swiper-container-horizontal">
+						<div class="more_events_list_pagination swiper-pagination-progressbar"><span class="swiper-pagination-progressbar-fill" style="transform: translate3d(0px, 0px, 0px) scaleX(0.333333) scaleY(1); transition-duration: 420ms;"></span></div>
+							<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1260px, 0px, 0px);"><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12426" class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg" alt="11월 출석체크">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">11월 출석체크</h3>
+													<p class="evt_date">26.11.01~26.11.30</p>
+												</div>
+											</a>
+										</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12412" class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg" alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">손종원 셰프와 함께한 <br>블렌디드 티 ~33%</h3>
+													<p class="evt_date">26.10.15~26.11.15</p>
+												</div>
+											</a>
+										</div>
+								
+									
+										<div class="event_item swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12413" class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg" alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">일 년만에 돌아온, <br>오설록 블랙 프라이데이</h3>
+													<p class="evt_date">26.11.02~26.11.16</p>
+												</div>
+											</a>
+										</div>
+									
+										<div class="event_item swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12426" class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg" alt="11월 출석체크">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">11월 출석체크</h3>
+													<p class="evt_date">26.11.01~26.11.30</p>
+												</div>
+											</a>
+										</div>
+									
+										<div class="event_item swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12412" class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg" alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">손종원 셰프와 함께한 <br>블렌디드 티 ~33%</h3>
+													<p class="evt_date">26.10.15~26.11.15</p>
+												</div>
+											</a>
+										</div>
+									
+								
+							<div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12413" class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg" alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">일 년만에 돌아온, <br>오설록 블랙 프라이데이</h3>
+													<p class="evt_date">26.11.02~26.11.16</p>
+												</div>
+											</a>
+										</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 620px; margin-right: 10px;">
+											<a href="/kr/ko/life/event/view/12426" class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트">
+												<div class="evt_thumb">
+													<img src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg" alt="11월 출석체크">
+													
+													
+													
+														
+														
+													
+												</div>
+												<div class="evt_txt">
+													<h3 class="evt_title">11월 출석체크</h3>
+													<p class="evt_date">26.11.01~26.11.30</p>
+												</div>
+											</a>
+										</div></div>
+						<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+					</div><!--//more_events_list-->
+				</section></div><!--//more_events_list_wrap-->
+			<!--//more_events-->
+
+			<!--4. event_user_comment-->
+			<section class="event_user_comment life-customer">
+				
+					
+					
+						
+							<div class="section_header">
+								<h3 class="title">이벤트 응원하기</h3>
+							</div>
+							<form id="comment-form" name="commentForm" action="/kr/ko/life/event/12426/comment/write" class="dropzone" method="post" enctype="multipart/form-data" data-event-type="general">
+								<div class="comment-form">
+									<h4 class="a11y_hidden">댓글 작성하기</h4>
+									<div class="row">
+									
+										
+										
+											<textarea id="comment-textarea-val" cols="30" rows="5" class="textarea x-need-login" data-login-url="/kr/ko/login?r=https://www.osulloc.com/kr/ko/life/event/view/12426" readonly="">로그인이 필요합니다.</textarea>
+										
+									
+									</div>
+									
+									<div class="func">
+										
+											
+											
+										
+									</div>
+								</div>
+							</form>
+						
+					
+				 
+
+				
+				
+				<div class="comment_list comment-wrap" data-list-url="/kr/ko/life/event/12426/comment/list" data-delete-url="/kr/ko/life/event/12426/comment/delete">
+					<h4 class="blind">이벤트 댓글 목록</h4>
+				</div>
+			</section><!--//event_user_comment-->
+		
+		</main>

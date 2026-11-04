@@ -1,0 +1,2391 @@
+{
+ "id": "kurly-057",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+ "resolved_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+ "listing_label": "261102[패션]메가세일 [검색패션메가세일, 메가세일, 특가, 블프, 블랙프라이데이, 블랙위크, 한정특가, 슬로우롤리, 마리끌레르, 마른파이브, 베흐트, 듀이듀이, 르무통, 이에르로르, 크록스, 듀이듀이, 뮤즈12, 프렌치시크, 어나더디, 비비안, 무드문, 모노앳디, 루시다, 달링브라, 언더웨어, 브라, 패션, 패션컬리, 컬리패션, 클리어런스, 니트, 캐시미어, 한혜진, 헤디트, 아우터, 코트, 패딩, 자캣, 속옷세트, 원피스, 귀걸이, 진주귀걸이",
+ "description": "Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_1_mvucq995ifrq.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_2_mvucqciwuqg2.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "[패션신규브랜드] 입점기념 30% 쿠폰",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_4_mvucqcgc3fnq.png",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_5_mvucqcdxdpvy.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_6_mvucqcbiw6ou.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "[앱전용] [멤버스위크] 패션 20% 추가 쿠폰",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_7_mvucqc95yxov.png",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_8_mvucqc68esk4.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_10_복사본_mvuhw9x0w5ha.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_11_mvucqa16p3j7.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_12_mvucq9xhc78m.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_13_mvucq9tkzn4h.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_14_mvucq9q6kfpk.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_15_mvucqc0ek2g1.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_1_복사본_mvytcn3rpypx.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_2_복사본_mvytcn0a7lh2.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_4_복사본_mvytcmuklbp1.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_5_복사본_mvytcmquo2dc.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_3_복사본_mvytcmxt53mv.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_6_복사본_mvytcmnugmxr.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_7_복사본_mvytcmjo02ze.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_8_복사본_mvytcmdrbjyf.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_16_mvucqbxyvf1c.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": "[패션신규브랜드] 입점기념 30% 쿠폰",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_17_mvucqbvgh5gk.png",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_18_mvucqbsz0kr8.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_19_mvucqbqfsj5n.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  },
+  {
+   "alt": "tab",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_20_mvucqbnoznr1.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0026"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_21_mvucqa3qz3x1.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0027"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_22_mvucqah0mztq.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0028"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_23_mvucqaayt77y.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0029"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_24_mvucqblb2328.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0030"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_25_mvucqbiz88d6.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0031"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_26_mvucqbggpin6.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0032"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_27_mvucqbdyysf1.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0033"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_28_mvucqbbjqtkv.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0034"
+  },
+  {
+   "alt": "",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_29_mvucqb905w5l.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0035"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "메가 세일 혜택\n\n한정 특가상품\n\n인기 브랜드\n\n신규 입점 브랜드\n\n메가 세일 카테고리\n\n유의사항(상품쿠폰)\n발급된 쿠폰의 유효기간과 사용조건은 [마이컬리] - [쿠폰] 에서 확인할 수 있어요.\n본 행사와 쿠폰은 컬리의 사정에 따라 중단 또는 혜택이 변경될 수 있어요.\n장바구니·무료배송 쿠폰은 1가지만 중복 적용할 수 있어요.\n[중복 적용 불가] 상품은 장바구니 쿠폰을 적용할 수 없고 무료배송 쿠폰의 최소 주문 금액에서 제외해요.\n컬리나우 전용 쿠폰은 컬리나우 상품에만 적용할 수 있어요.\n각 쿠폰의 적용 조건은 쿠폰의 상세 정보를 꼭 확인해주세요.\n쿠폰을 적용한 주문을 취소할 때는 쿠폰 할인 금액을 제외한 결제 금액이 환불 돼요.\n쿠폰을 적용한 주문은 전체 취소·환불 시에만 쿠폰이 다시 생겨요.\n유의사항(찜쿠폰/장바구니)\n쿠폰 사용 기간은 2026.11.02 11시 ~ 2026. 11.09 11시에요.\n브랜드를 찜하신 고객님께 즉시 쿠폰을 발급해 드려요.\n발급된 쿠폰의 유효기간과 사용조건은 [마이컬리] - [쿠폰] 에서 확인할 수 있어요.\n기간 중 해지, 부정가입, 부정사용의 경우 쿠폰 회수 및 미지급 돼요.\n상품 대표 이미지 또는 기획전 내 쿠폰 및 증정 문구가 기재된 상품에 한해 적용할 수 있어요.\n컬리의 사정에 따라 일부 혜택이 중단 되거나 변경될 수 있어요.\n유의사항(멤버스)\n컬리멤버스 가입 상태인 고객에 한해 쿠폰 다운로드 및 사용이 가능해요.\n위 쿠폰 이미지를 클릭하여 다운로드 하신 고객님께 즉시 쿠폰을 발급해 드려요.\n발급된 쿠폰의 유효기간과 사용조건은 [마이컬리] - [쿠폰] 에서 확인할 수 있어요.\n기간 중 해지, 부정 가입, 부정 사용의 경우 쿠폰 회수 및 미지급 돼요.\n상품 대표 이미지 또는 기획전 내 쿠폰 및 증정 문구가 기재된 상품에 한해 적용할 수 있어요.\n컬리의 사정에 따라 일부 상품의 혜택이 중단 되거나 변경될 수 있어요.\nup to 71%\nup to 82%\nup to 81%\nup to 65%\n1차 한정 특가상품 더 보러 가기\n슬로우롤리\n마리끌레르\n베흐트\n르무통\n마른파이브\n이에르로르\n크록스\n듀이듀이\n로즈몽\n아스트라블룸\n팁토이조이\n의류\n패션잡화\n홈·이너웨어\n키즈\n~70%\n~50%\n~30%\n~70%\n~50%\n~30%\n~70%\n~50%\n~30%\n~70%\n~50%\n~30%\n추천 상품 더 보러 가기\n패션컬리 더 보러 가기\n컬리 앱으로\n안내할게요\n\n화면의 코드를 스캔하면\n앱으로 바로 이동해요.",
+ "title": "컬리 - 마켓컬리/뷰티컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc1b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc1b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc1b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc1b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc19b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc19b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc19b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc19b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "메가 세일 혜택",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/s0",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s0"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "한정 특가상품",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/s1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "인기 브랜드",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/s2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s2"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "신규 입점 브랜드",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/s3",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s3"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "메가 세일 카테고리",
+   "element": "li",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/s4",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "s4"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc3b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc3b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc3b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc3b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc4b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc4b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc4b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc4b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "[패션신규브랜드] 입점기념 30% 쿠폰 받기",
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/1102신규입점쿠폰30",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "1102신규입점쿠폰30"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc5b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc5b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc5b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc5b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc6b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc6b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc6b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc6b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc7b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc7b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc7b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc7b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "[앱전용] [멤버스위크] 패션 20% 추가 쿠폰 받기",
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/패션멤버스추가쿠폰",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "패션멤버스추가쿠폰"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc8b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc8b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc8b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc8b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc20b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc20b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc20b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc20b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc32b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc32b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc32b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc32b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc21b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc21b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc21b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc21b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc9b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc9b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc9b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc9b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc22b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc22b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc22b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc22b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150001001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150001001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150001002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150001002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150001003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150001003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150001004",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150001004"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc23b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc23b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc23b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc23b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "1차 한정 특가상품 더 보러 가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc10b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc10b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc10b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc10b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc2b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc2b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc2b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc2b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-8658",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-8658"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-8658",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-8658"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7501",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7501"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7501",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7501"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-6477",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-6477"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/2606fashion-181004005",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "2606fashion-181004005"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-6408",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-6408"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-6408",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-6408"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7611",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7611"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7611",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7611"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-6605",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-6605"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-6605",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-6605"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7222",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7222"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7222",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7222"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": null,
+   "element": "img",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7341",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7341"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/br-7341",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "br-7341"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc11b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc11b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc11b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc11b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc12b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc12b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc12b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc12b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc24b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc24b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc24b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc24b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/248001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "248001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/248002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "248002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/248003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "248003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc13b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc13b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc13b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc13b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc14b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc14b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc14b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc14b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc25b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc25b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc25b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc25b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150007001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150007001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150007002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150007002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150007003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150007003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150007004",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150007004"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc15b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc15b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc15b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc15b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc26b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc26b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc26b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc26b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150003003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150003003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150003002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150003002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150003001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150003001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc16b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc16b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc16b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc16b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc27b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc27b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc27b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc27b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150004003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150004003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150004002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150004002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150004001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150004001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc17b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc17b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc17b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc17b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc28b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc28b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc28b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc28b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150005003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150005003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150005002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150005002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150005001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150005001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc18b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc18b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc18b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc18b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc29b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc29b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc29b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc29b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150006003",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150006003"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150006002",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150006002"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "전체보기",
+   "element": "div",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150006001",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150006001"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc30b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc30b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc30b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc30b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "추천 상품 더 보러 가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/150",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "150"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "마켓",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc31b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc31b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/lc31b1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "lc31b1"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "패션컬리 더 보러 가기",
+   "element": "button",
+   "destination_url": "https://event.kurly.com/lego/event/2026/1102/fashion",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "fashion"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "취소",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "확인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+   "label": "닫기 X",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://event.kurly.com/lego/event/2026/1102/megasale",
+  "status": "no_controls_observed",
+  "title": "컬리 - 마켓컬리/뷰티컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001"
+   ],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 메가 세일 혜택 한정 특가상품 인기 브랜드 신규 입점 브랜드 메가 세일 카테고리",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0002"
+   ],
+   "relationship_indexes": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0003"
+   ],
+   "relationship_indexes": [
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": [
+    14,
+    15
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005"
+   ],
+   "relationship_indexes": [
+    16,
+    17
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0006"
+   ],
+   "relationship_indexes": [
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    8
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0007"
+   ],
+   "relationship_indexes": [
+    21,
+    22
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 유의사항(상품쿠폰) 발급된 쿠폰의 유효기간과 사용조건은 [마이컬리] - [쿠폰] 에서 확인할 수 있어요. 본 행사와 쿠폰은 컬리의 사정에 따라 중단 또는 혜택이 변경될 수 있어요. 장바구니·무료배송 쿠폰은 1가지만 중복 적용할 수 있어요. [중복 적용 불가] 상품은 장바구니 쿠폰을 적용할 수 없고 무료배송 쿠폰의 최소 주문 금액에서 제외해요. 컬리나우 전용 쿠폰은 컬리나우 상품에만 적용할 수 있어요. 각 쿠폰의 적용 조건은 쿠폰의 상세 정보를 꼭 확인해주세요. 쿠폰을 적용한 주문을 취소할 때는 쿠폰 할인 금액을 제외한 결제 금액이 환불 돼요. 쿠폰을 적용한 주문은 전체 취소·환불 시에만 쿠폰이 다시 생겨요.",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    9
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    23,
+    24
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 유의사항(찜쿠폰/장바구니) 쿠폰 사용 기간은 2026.11.02 11시 ~ 2026. 11.09 11시에요. 브랜드를 찜하신 고객님께 즉시 쿠폰을 발급해 드려요. 발급된 쿠폰의 유효기간과 사용조건은 [마이컬리] - [쿠폰] 에서 확인할 수 있어요. 기간 중 해지, 부정가입, 부정사용의 경우 쿠폰 회수 및 미지급 돼요. 상품 대표 이미지 또는 기획전 내 쿠폰 및 증정 문구가 기재된 상품에 한해 적용할 수 있어요. 컬리의 사정에 따라 일부 혜택이 중단 되거나 변경될 수 있어요.",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    10
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    25,
+    26
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 유의사항(멤버스) 컬리멤버스 가입 상태인 고객에 한해 쿠폰 다운로드 및 사용이 가능해요. 위 쿠폰 이미지를 클릭하여 다운로드 하신 고객님께 즉시 쿠폰을 발급해 드려요. 발급된 쿠폰의 유효기간과 사용조건은 [마이컬리] - [쿠폰] 에서 확인할 수 있어요. 기간 중 해지, 부정 가입, 부정 사용의 경우 쿠폰 회수 및 미지급 돼요. 상품 대표 이미지 또는 기획전 내 쿠폰 및 증정 문구가 기재된 상품에 한해 적용할 수 있어요. 컬리의 사정에 따라 일부 상품의 혜택이 중단 되거나 변경될 수 있어요.",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    4,
+    11
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    27,
+    28
+   ]
+  },
+  {
+   "id": "s12",
+   "order": 12,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 up to 71% up to 82% up to 81% up to 65% 전체보기 전체보기 전체보기 전체보기 마켓 뷰티 1차 한정 특가상품 더 보러 가기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    5
+   ],
+   "dom_id": "s1",
+   "image_ids": [
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "id": "s13",
+   "order": 13,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 슬로우롤리 마리끌레르 베흐트 르무통 마른파이브 이에르로르 크록스 듀이듀이 전체보기 전체보기 전체보기 전체보기 전체보기 전체보기 전체보기 전체보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    6
+   ],
+   "dom_id": "s2",
+   "image_ids": [
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021"
+   ],
+   "relationship_indexes": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "id": "s14",
+   "order": 14,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 마켓 뷰티 로즈몽 아스트라블룸 팁토이조이 전체보기 전체보기 전체보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    7
+   ],
+   "dom_id": "s3",
+   "image_ids": [
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026",
+    "i0027",
+    "i0028",
+    "i0029"
+   ],
+   "relationship_indexes": [
+    13,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68
+   ]
+  },
+  {
+   "id": "s15",
+   "order": 15,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "마켓 뷰티 마켓 뷰티 마켓 뷰티 의류 패션잡화 홈·이너웨어 키즈 전체보기 전체보기 전체보기 전체보기 마켓 뷰티 마켓 뷰티 ~70% ~50% ~30% 전체보기 전체보기 전체보기 마켓 뷰티 마켓 뷰티 ~70% ~50% ~30% 전체보기 전체보기 전체보기 마켓 뷰티 마켓 뷰티 ~70% ~50% ~30% 전체보기 전체보기 전체보기 마켓 뷰티 마켓 뷰티 ~70% ~50% ~30% 전체보기 전체보기 전체보기 마켓 뷰티 추천 상품 더 보러 가기 마켓 뷰티 패션컬리 더 보러 가기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    8
+   ],
+   "dom_id": "s4",
+   "image_ids": [
+    "i0030",
+    "i0031",
+    "i0032",
+    "i0033",
+    "i0034",
+    "i0035"
+   ],
+   "relationship_indexes": [
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
+   ]
+  },
+  {
+   "id": "s16",
+   "order": 16,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "취소 확인",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    10,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    113,
+    114
+   ]
+  },
+  {
+   "id": "s17",
+   "order": 17,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "닫기 X",
+   "dom_path": [
+    1,
+    1,
+    1,
+    33,
+    11,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    115
+   ]
+  },
+  {
+   "id": "s18",
+   "order": 18,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "컬리 앱으로 안내할게요 화면의 코드를 스캔하면 앱으로 바로 이동해요.",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_1_mvucq995ifrq.png",
+   "alt": "",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_2_mvucqciwuqg2.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_4_mvucqcgc3fnq.png",
+   "alt": "[패션신규브랜드] 입점기념 30% 쿠폰",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_5_mvucqcdxdpvy.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_6_mvucqcbiw6ou.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_7_mvucqc95yxov.png",
+   "alt": "[앱전용] [멤버스위크] 패션 20% 추가 쿠폰",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_8_mvucqc68esk4.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s08"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_10_복사본_mvuhw9x0w5ha.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s12"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_11_mvucqa16p3j7.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s12"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_12_mvucq9xhc78m.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s12"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0011",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_13_mvucq9tkzn4h.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s12"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0012",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_w1_14_mvucq9q6kfpk.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s12"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0013",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_15_mvucqc0ek2g1.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0014",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_1_복사본_mvytcn3rpypx.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_2_복사본_mvytcn0a7lh2.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_4_복사본_mvytcmuklbp1.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_5_복사본_mvytcmquo2dc.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_3_복사본_mvytcmxt53mv.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0019",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_6_복사본_mvytcmnugmxr.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_7_복사본_mvytcmjo02ze.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/brand_w1_8_복사본_mvytcmdrbjyf.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s13"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0022",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_16_mvucqbxyvf1c.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_17_mvucqbvgh5gk.png",
+   "alt": "[패션신규브랜드] 입점기념 30% 쿠폰",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_18_mvucqbsz0kr8.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0025",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_19_mvucqbqfsj5n.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_20_mvucqbnoznr1.png",
+   "alt": "tab",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0027",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_21_mvucqa3qz3x1.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0028",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_22_mvucqah0mztq.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0029",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_23_mvucqaayt77y.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s14"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0030",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_24_mvucqblb2328.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s15"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0031",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_25_mvucqbiz88d6.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s15"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0032",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_26_mvucqbggpin6.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s15"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0033",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_27_mvucqbdyysf1.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s15"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0034",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_28_mvucqbbjqtkv.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s15"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0035",
+   "url": "https://lego.kurly.com/event/2026/1102/megasale/m_29_mvucqb905w5l.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s15"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-057.html"
+}

@@ -1,0 +1,945 @@
+{
+ "id": "29cm-083",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7241",
+ "listing_label": "SHOWCASE\n겨울의 온기를 담은 일상 라무어\n차가운 공기 속에서도 편안함을 잃지 않는 옷. 은은한 따스함이 깃든 디자인으로 겨울 일상을 채워보세요.\nD-day2026.10.29. ~ 11.04.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7241",
+ "description": "차가운 공기 속에서도 편안함을 잃지 않는 옷. 은은한 따스함이 깃든 디자인으로 겨울 일상을 채워보세요.",
+ "images": [
+  {
+   "alt": "겨울의 온기를 담은 일상\n라무어",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26733081caaaa54a344187e3e02.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d2674226cf22aa5407d0715fc790.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26746627d30952d273b6760e4da.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2672ca71dc5aa5451e7d5f91bc3.jpg?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748daf718aa54bf573807eaba.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748db453caa54ed51928c50b6.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748db1e2aaa548bf494c577ae.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748db453daa54315ea26a6759.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c2b70ea08783345a925eb1.jpeg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c2901f8381f785123a8650.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c501258381e91d91679c9b.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c4b3018381a99b7e1792bc.jpeg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c5c4778381c1d6964162e3.jpeg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c946f183815979bd08b2f5.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212ca0a4783819bea1131024c.jpeg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c91fdd838153df10483951.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c83558a0876b608a5e1cfb.jpeg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212ca586b83813d8ec1f5fecf.jpeg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d26733081caaaa54a344187e3e02.jpg",
+ "text": "SHOWCASE\n겨울의 온기를 담은 일상\n라무어\n차가운 공기 속에서도 편안함을 잃지 않는 옷. 은은한 따스함이 깃든 디자인으로 겨울 일상을 채워보세요.\n2026. 10. 29. - 11. 04.\n\nBENEFIT\nBENEFIT 1\n단독 발매 상품\nBENEFIT 2\n~10% 단독 할인\nBENEFIT 3\n포토 리뷰 이벤트\n이벤트 기간에 라무어의 기획전 참여 상품 구매 후 포토 리뷰를 남겨주세요. 총 10명에게 사은품 'Lena knit beanie(gray, black)'를 증정합니다.\n당첨자 발표 : 11월 20일\n색상 랜덤 발송\n당첨자는 공지사항 및 개별 연락\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\nLilia v-neck knit\n톡톡하고 부드러운 울 100% 소재로 완성한 브이넥 니트예요. 자연스럽게 떨어지는 여유로운 실루엣과 담백한 디자인으로 단독 착용은 물론 다양한 아우터와 함께 연출하기 좋습니다.\nEira high-neck coat\n풍성한 헤어감과 입체적인 텍스처가 돋보이는 하프 코트. 스탠드 카라와 여유로운 실루엣으로 편안하면서도 세련된 겨울 스타일을 완성해요.\nElise utility jumper\n탄탄한 코튼 소재와 여유로운 실루엣으로 완성한 윈터 필드 자켓이에요. 허리 스트링으로 다양한 핏을 연출할 수 있어요.\nClaire raglan t-shirt\n배색 래글런 디자인이 돋보이는 티셔츠예요. 부드럽고 유연한 소재로 편안하게 입을 수 있어요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "겨울의 온기를 담은 일상 라무어 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/124761",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/124761"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 [2nd] [WOOL 100%] Lilia v-neck knit_teal blue 23% 89,510",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312883?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312883?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "354",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 [2nd] [WOOL 100%] Lilia v-neck knit_black 23% 89,510",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312885?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312885?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "196",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 [2nd] [WOOL 100%] Lilia v-neck knit_gray 23% 89,510",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312884?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312884?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "193",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 Eira high-neck coat_black 21% 301,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312876?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312876?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "121",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 Eira high-neck coat_light gray 21% 301,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312875?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312875?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "160",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 [3rd] Elise utility jumper_black 24% 163,710",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312878?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312878?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "546",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 [2nd] Elise utility jumper_light gray 24% 163,710",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312877?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312877?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "144",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 [2nd] Claire raglan t-shirt_charcoal/black 24% 47,430",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312882?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312882?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "201",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "라무어 Claire raglan t-shirt_gray/ivory 24% 47,430",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4312881?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4312881?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7241",
+   "label": "25",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7241",
+  "status": "revisited",
+  "title": "겨울의 온기를 담은 일상 라무어 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 겨울의 온기를 담은 일상 라무어 차가운 공기 속에서도 편안함을 잃지 않는 옷. 은은한 따스함이 깃든 디자인으로 겨울 일상을 채워보세요. 2026. 10. 29. - 11. 04.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 발매 상품 BENEFIT 2 ~10% 단독 할인 BENEFIT 3 포토 리뷰 이벤트 이벤트 기간에 라무어의 기획전 참여 상품 구매 후 포토 리뷰를 남겨주세요. 총 10명에게 사은품 'Lena knit beanie(gray, black)'를 증정합니다. 당첨자 발표 : 11월 20일 색상 랜덤 발송 당첨자는 공지사항 및 개별 연락",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "라무어 L'AMOUR 라무어는 담백한 미니멀 디자인에 은은한 사랑스러움을 더해, 시간이 지나도 일상에서 편안하게 꺼내 입을 수 있는 옷을 제안합니다. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    2
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM Lilia v-neck knit 톡톡하고 부드러운 울 100% 소재로 완성한 브이넥 니트예요. 자연스럽게 떨어지는 여유로운 실루엣과 담백한 디자인으로 단독 착용은 물론 다양한 아우터와 함께 연출하기 좋습니다. 라무어 [2nd] [WOOL 100%] Lilia v-neck knit_teal blue 23% 89,510 354 라무어 [2nd] [WOOL 100%] Lilia v-neck knit_black 23% 89,510 196 라무어 [2nd] [WOOL 100%] Lilia v-neck knit_gray 23% 89,510 193 Eira high-neck coat 풍성한 헤어감과 입체적인 텍스처가 돋보이는 하프 코트. 스탠드 카라와 여유로운 실루엣으로 편안하면서도 세련된 겨울 스타일을 완성해요. 라무어 Eira high-neck coat_black 21% 301,100 121 라무어 Eira high-neck coat_light gray 21% 301,100 160 Elise utility jumper 탄탄한 코튼 소재와 여유로운 실루엣으로 완성한 윈터 필드 자켓이에요. 허리 스트링으로 다양한 핏을 연출할 수 있어요. 라무어 [3rd] Elise utility jumper_black 24% 163,710 546 라무어 [2nd] Elise utility jumper_light gray 24% 163,710 144 Claire raglan t-shirt 배색 래글런 디자인이 돋보이는 티셔츠예요. 부드럽고 유연한 소재로 편안하게 입을 수 있어요. 라무어 [2nd] Claire raglan t-shirt_charcoal/black 24% 47,430 201 라무어 Claire raglan t-shirt_gray/ivory 24% 47,430 25",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0010",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0009",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026",
+    "i0027"
+   ],
+   "relationship_indexes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26733081caaaa54a344187e3e02.jpg",
+   "alt": "겨울의 온기를 담은 일상\n라무어",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d2674226cf22aa5407d0715fc790.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26746627d30952d273b6760e4da.jpg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26746627d30952d273b6760e4da.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26746627d30952d273b6760e4da.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2672ca71dc5aa5451e7d5f91bc3.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748daf718aa54bf573807eaba.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26748daf718aa54bf573807eaba.jpg?width=1925&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26748daf718aa54bf573807eaba.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748db453caa54ed51928c50b6.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26748db453caa54ed51928c50b6.jpg?width=1575&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26748db453caa54ed51928c50b6.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748db1e2aaa548bf494c577ae.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26748db1e2aaa548bf494c577ae.jpg?width=963&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26748db453daa54315ea26a6759.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26748db453daa54315ea26a6759.jpg?width=962&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c2b70ea08783345a925eb1.jpeg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c2b70ea08783345a925eb1.jpeg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c2b70ea08783345a925eb1.jpeg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c2901f8381f785123a8650.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c2901f8381f785123a8650.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c2901f8381f785123a8650.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c501258381e91d91679c9b.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c501258381e91d91679c9b.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c501258381e91d91679c9b.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c4b3018381a99b7e1792bc.jpeg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c4b3018381a99b7e1792bc.jpeg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c4b3018381a99b7e1792bc.jpeg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c5c4778381c1d6964162e3.jpeg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c5c4778381c1d6964162e3.jpeg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c5c4778381c1d6964162e3.jpeg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d102d053ab9f83812fc46bc01d9d.jpg?width=300&format=webp",
+   "alt": "[2nd] [WOOL 100%] Lilia v-neck knit_teal blue",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d102a6174a7ea087f17a41bf0435.jpg?width=300&format=webp",
+   "alt": "[2nd] [WOOL 100%] Lilia v-neck knit_black",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1023826ea33a0874ff7aaf10806.jpg?width=300&format=webp",
+   "alt": "[2nd] [WOOL 100%] Lilia v-neck knit_gray",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c946f183815979bd08b2f5.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c946f183815979bd08b2f5.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c946f183815979bd08b2f5.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212ca0a4783819bea1131024c.jpeg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212ca0a4783819bea1131024c.jpeg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212ca0a4783819bea1131024c.jpeg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d105f399a3f583812f1918c9b347.jpg?width=300&format=webp",
+   "alt": "Eira high-neck coat_black",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1051a59560ca087674eed300437.jpg?width=300&format=webp",
+   "alt": "Eira high-neck coat_light gray",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c91fdd838153df10483951.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c91fdd838153df10483951.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c91fdd838153df10483951.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0022",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212c83558a0876b608a5e1cfb.jpeg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c83558a0876b608a5e1cfb.jpeg?width=2880&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212c83558a0876b608a5e1cfb.jpeg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0023",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d103a1627f84a08761c95f8f9d44.jpg?width=300&format=webp",
+   "alt": "[3rd] Elise utility jumper_black",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d104d98173bb8381b36678090a15.jpg?width=300&format=webp",
+   "alt": "[2nd] Elise utility jumper_light gray",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0025",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d12212ca586b83813d8ec1f5fecf.jpeg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d12212ca586b83813d8ec1f5fecf.jpeg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d12212ca586b83813d8ec1f5fecf.jpeg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0026",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1024ffd5be2838103173515abb9.jpg?width=300&format=webp",
+   "alt": "[2nd] Claire raglan t-shirt_charcoal/black",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0027",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d10242a0ccca838175cf35c98fed.jpg?width=300&format=webp",
+   "alt": "Claire raglan t-shirt_gray/ivory",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-083.html"
+}

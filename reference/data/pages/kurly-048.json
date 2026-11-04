@@ -1,0 +1,277 @@
+{
+ "id": "kurly-048",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://www.kurly.com/collections/foremongbrandweek",
+ "resolved_url": "https://www.kurly.com/collections/foremongbrandweek",
+ "listing_label": "261102 [마켓][특가전] 포레몽 브랜드 특가전 [검색] 포레몽, 온수매트, 포레몽매트, 아기매트, 신생아매트, 아기온열매트, 신생아온열매트",
+ "description": "1800일의 숙면 기술, 포레몽 - Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "배너 이미지",
+   "url": "https://collection-image.kurly.com/hdims/resize/%3E1050x/quality/85/src/product-collections/43214/8bd76e29-292a-4242-8779-1c0aa791fca9.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "샛별, 하루 배송 안내",
+   "url": "https://res.kurly.com/main/banners/deliveryInfo.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "포레몽\n\n아이가 있는 가정에는 필수 온수매트!\n\n브랜드를 찜해보세요\n필터\n초기화\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n총 3건\n추천순\n신상품순\n판매량순\n혜택순\n높은 가격순\n낮은 가격순\n\n멤버스20%쿠폰\n\n담기\n판매자배송\n[포레몽] 프리미엄 온수매트 S, Q (택1)\n369,000원\n18%\n299,000원~\n213\n무료배송\n\n멤버스20%쿠폰\n\n담기\n판매자배송\n[포레몽] 베이직 온수매트 Mini, S, Q (택1)\n299,000원\n33%\n199,000원~\n246\n무료배송\n담기\n판매자배송\n[포레몽] 국내생산 무형광세탁망 (특대형 88x88) (단품)\n\n전 사이즈 사용 가능 매트 전용 세탁\n\n15,000원\n34%\n9,900원\n무료배송\n컬리 고객 제도\n컬리 큐레이터\n레시피",
+ "title": "1800일의 숙면 기술, 포레몽 - 마켓컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "배너 이미지",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/mypage/coupon?code=%ED%8F%AC%EB%A0%88%EB%AA%BD%EB%A9%A4%EB%B2%84%EC%8A%A4&couponNo=%ED%8F%AC%EB%A0%88%EB%AA%BD%EB%A9%A4%EB%B2%84%EC%8A%A4",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.kurly.com/mypage/coupon?code=%ED%8F%AC%EB%A0%88%EB%AA%BD%EB%A9%A4%EB%B2%84%EC%8A%A4&couponNo=%ED%8F%AC%EB%A0%88%EB%AA%BD%EB%A9%A4%EB%B2%84%EC%8A%A4"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "찜하기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "초기화",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "추천순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/foremongbrandweek?page=1&per_page=96&sorted_type=4",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/foremongbrandweek?page=1&per_page=96&sorted_type=4"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "신상품순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/foremongbrandweek?page=1&per_page=96&sorted_type=0",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/foremongbrandweek?page=1&per_page=96&sorted_type=0"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "판매량순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/foremongbrandweek?page=1&per_page=96&sorted_type=1",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/foremongbrandweek?page=1&per_page=96&sorted_type=1"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "혜택순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/foremongbrandweek?page=1&per_page=96&sorted_type=5",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/foremongbrandweek?page=1&per_page=96&sorted_type=5"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "높은 가격순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/foremongbrandweek?page=1&per_page=96&sorted_type=3",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/foremongbrandweek?page=1&per_page=96&sorted_type=3"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "낮은 가격순",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/collections/foremongbrandweek?page=1&per_page=96&sorted_type=2",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/collections/foremongbrandweek?page=1&per_page=96&sorted_type=2"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "멤버스20%쿠폰 담기 판매자배송 [포레몽] 프리미엄 온수매트 S, Q (택1) 369,000원 18% 299,000원~ 213 무료배송",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1001721465?collectionCode=foremongbrandweek",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1001721465?collectionCode=foremongbrandweek"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "담기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "멤버스20%쿠폰 담기 판매자배송 [포레몽] 베이직 온수매트 Mini, S, Q (택1) 299,000원 33% 199,000원~ 246 무료배송",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1001721466?collectionCode=foremongbrandweek",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1001721466?collectionCode=foremongbrandweek"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "담기 판매자배송 [포레몽] 국내생산 무형광세탁망 (특대형 88x88) (단품) 전 사이즈 사용 가능 매트 전용 세탁 15,000원 34% 9,900원 무료배송",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/goods/1001723853?collectionCode=foremongbrandweek",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "/goods/1001723853?collectionCode=foremongbrandweek"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "맨 위로 이동",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "샛별, 하루 배송 안내",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/user-guide/delivery",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "/user-guide/delivery"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "컬리 고객 제도",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/events/member/vip",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/events/member/vip"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "컬리 큐레이터",
+   "element": "a",
+   "destination_url": "https://lounge.kurly.com/curator-program",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://lounge.kurly.com/curator-program",
+   "window_target": "_blank"
+  },
+  {
+   "source_url": "https://www.kurly.com/collections/foremongbrandweek",
+   "label": "레시피",
+   "element": "a",
+   "destination_url": "https://www.kurly.com/recipe",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.kurly.com/recipe",
+   "window_target": "_blank"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.kurly.com/collections/foremongbrandweek",
+  "status": "revisited",
+  "title": "1800일의 숙면 기술, 포레몽 - 마켓컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "포레몽",
+    "필터",
+    "[포레몽] 프리미엄 온수매트 S, Q (택1)",
+    "[포레몽] 베이직 온수매트 Mini, S, Q (택1)",
+    "[포레몽] 국내생산 무형광세탁망 (특대형 88x88) (단품)"
+   ],
+   "text": "포레몽 아이가 있는 가정에는 필수 온수매트! 브랜드를 찜해보세요 필터 초기화 총 3건 추천순 소비자 인기도 (판매량, 판매금액, 조회수 등), 상품 출시일, 수요 적합성, 상품 운영상 필요 등을 종합적으로 고려한 순서입니다. 신상품순 판매량순 혜택순 높은 가격순 낮은 가격순 멤버스20%쿠폰 담기 판매자배송 [포레몽] 프리미엄 온수매트 S, Q (택1) 369,000원 18% 299,000원~ 213 무료배송 멤버스20%쿠폰 담기 판매자배송 [포레몽] 베이직 온수매트 Mini, S, Q (택1) 299,000원 33% 199,000원~ 246 무료배송 담기 판매자배송 [포레몽] 국내생산 무형광세탁망 (특대형 88x88) (단품) 전 사이즈 사용 가능 매트 전용 세탁 15,000원 34% 9,900원 무료배송 컬리 고객 제도 컬리 큐레이터 레시피",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://collection-image.kurly.com/hdims/resize/%3E1050x/quality/85/src/product-collections/43214/8bd76e29-292a-4242-8779-1c0aa791fca9.png",
+   "alt": "배너 이미지",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "alt_or_markup"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://res.kurly.com/main/banners/deliveryInfo.jpg",
+   "alt": "샛별, 하루 배송 안내",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-048.html"
+}

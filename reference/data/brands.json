@@ -1,0 +1,155 @@
+{
+ "29cm": {
+  "collected_date": "2026-11-04",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://www.29cm.co.kr/store/event",
+  "source_urls": [
+   "https://www.29cm.co.kr/store/event",
+   "https://www.29cm.co.kr/store/showcase",
+   "https://www.29cm.co.kr/"
+  ],
+  "scope": "Public promotion detail pages linked from the observed official listings and homepage",
+  "html_type": "Rendered promotion body DOM",
+  "counts": {
+   "captured": 94,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-04",
+   "source": "Archived rendered promotion HTML, live source-page revisits, and selected live click checks",
+   "counts_by_status": {
+    "unverified": 1972,
+    "declared_in_html": 6658
+   },
+   "source_revisit_counts": {
+    "revisited": 90,
+    "no_controls_observed": 4
+   },
+   "status_definitions": {
+    "declared_in_html": "Destination or control is declared in the HTML. Link type is inferred from URL or control attributes. No live click is implied.",
+    "click_verified": "A live click was performed and the resulting state observed.",
+    "unverified": "The snapshot did not expose a reliable destination. A script or application state may control the action."
+   },
+   "scope": "Promotion sources only. Product detail URLs are recorded as destinations without collecting their bodies. Identical relations within a page are collapsed."
+  },
+  "section_collection": {
+   "method": "Automatic inference from archived rendered HTML, headings and local context. DOM order may differ from visual layout.",
+   "image_method": "Uses alt text, DOM placement, and linked destinations. Image pixels and embedded text were not inspected.",
+   "section_count": 512,
+   "page_counts": {
+    "inferred_from_html": 94
+   },
+   "image_asset_count": 3787,
+   "image_tag_counts": {
+    "promotion_banner": 258,
+    "event_information": 69,
+    "unknown": 745,
+    "editorial_image": 293,
+    "product_photo": 2422
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array; matches use markup target or control label.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "kurly": {
+  "collected_date": "2026-11-04",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://www.kurly.com/market-benefit",
+  "scope": "Public Market Kurly promotions linked from the market-benefit page at collection time",
+  "html_type": "Rendered promotion body DOM",
+  "counts": {
+   "captured": 69,
+   "app_handoff": 1,
+   "body_unavailable": 8
+  },
+  "relationship_collection": {
+   "date": "2026-11-04",
+   "source": "Archived rendered promotion HTML, live source-page revisits, and selected live click checks",
+   "counts_by_status": {
+    "declared_in_html": 4502,
+    "unverified": 2131,
+    "click_verified": 1
+   },
+   "source_revisit_counts": {
+    "no_controls_observed": 9,
+    "revisited": 69
+   },
+   "status_definitions": {
+    "declared_in_html": "Destination or control is declared in the HTML. Link type is inferred from URL or control attributes. No live click is implied.",
+    "click_verified": "A live click was performed and the resulting state observed.",
+    "unverified": "The snapshot did not expose a reliable destination. A script or application state may control the action."
+   },
+   "scope": "Promotion sources only. Product detail URLs are recorded as destinations without collecting their bodies. Identical relations within a page are collapsed."
+  },
+  "section_collection": {
+   "method": "Automatic inference from archived rendered HTML, headings and local context. DOM order may differ from visual layout.",
+   "image_method": "Uses alt text, DOM placement, and linked destinations. Image pixels and embedded text were not inspected.",
+   "section_count": 167,
+   "page_counts": {
+    "inferred_from_html": 69,
+    "body_unavailable": 9
+   },
+   "image_asset_count": 547,
+   "image_tag_counts": {
+    "event_information": 11,
+    "unknown": 280,
+    "ui_asset": 145,
+    "promotion_banner": 35,
+    "product_photo": 76
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array; matches use markup target or control label.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "osulloc": {
+  "collected_date": "2026-11-04",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://www.osulloc.com/kr/ko/life/event/list/ing",
+  "source_urls": [
+   "https://www.osulloc.com/kr/ko/life/event/list/ing"
+  ],
+  "scope": "Public promotion detail pages linked from the observed official listings and homepage",
+  "html_type": "Rendered promotion body DOM",
+  "counts": {
+   "captured": 3,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-04",
+   "source": "Archived rendered promotion HTML, live source-page revisits, and selected live click checks",
+   "counts_by_status": {
+    "unverified": 52,
+    "declared_in_html": 165,
+    "click_verified": 1
+   },
+   "source_revisit_counts": {
+    "revisited": 3
+   },
+   "status_definitions": {
+    "declared_in_html": "Destination or control is declared in the HTML. Link type is inferred from URL or control attributes. No live click is implied.",
+    "click_verified": "A live click was performed and the resulting state observed.",
+    "unverified": "The snapshot did not expose a reliable destination. A script or application state may control the action."
+   },
+   "scope": "Promotion sources only. Product detail URLs are recorded as destinations without collecting their bodies. Identical relations within a page are collapsed."
+  },
+  "section_collection": {
+   "method": "Automatic inference from archived rendered HTML, headings and local context. DOM order may differ from visual layout.",
+   "image_method": "Uses alt text, DOM placement, and linked destinations. Image pixels and embedded text were not inspected.",
+   "section_count": 32,
+   "page_counts": {
+    "inferred_from_html": 3
+   },
+   "image_asset_count": 138,
+   "image_tag_counts": {
+    "promotion_banner": 8,
+    "event_information": 33,
+    "ui_asset": 14,
+    "unknown": 83
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array; matches use markup target or control label.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ }
+}

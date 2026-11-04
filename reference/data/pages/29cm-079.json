@@ -1,0 +1,156 @@
+{
+ "id": "29cm-079",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7247",
+ "listing_label": "SHOWCASE\n부드러운 클래식의 귀환 코모레비뮤지엄\n차가운 계절 위로 따스한 램 시어링과 포근한 밍크 텍스처를 겹쳐요. 익숙한 형태를 유연하게 풀어낸 새로운 겨울을 만나보세요.\n2026.10.29",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7247",
+ "description": "차가운 계절 위로 따스한 램 시어링과 포근한 밍크 텍스처를 겹쳐요. 익숙한 형태를 유연하게 풀어낸 새로운 겨울을 만나보세요.",
+ "images": [
+  {
+   "alt": "부드러운 클래식의 귀환\n코모레비뮤지엄",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271ec856ad4952dd74c369416ba.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d33a3bbcaaf7aa2dcfe15e84b4b2.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2717757dc2a952d6b8f270d9992.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33bb816d0c8b5d993141165b71d.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d271ec856ad4952dd74c369416ba.jpg",
+ "text": "SHOWCASE\n부드러운 클래식의 귀환\n코모레비뮤지엄\n차가운 계절 위로 따스한 램 시어링과 포근한 밍크 텍스처를 겹쳐요. 익숙한 형태를 유연하게 풀어낸 새로운 겨울을 만나보세요.\n2026. 10. 29. - 11. 11.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~19% 단독 할인\nBENEFIT 3\n포토 리뷰 이벤트\n이벤트 기간에 코모레비뮤지엄의 기획전 참여 상품 구매 후 포토 리뷰를 남겨주세요. 총 3명에게 사은품 '핸드메이드 3 in 1 카우레더 명함 카드 지갑 l B14'를 증정합니다.\n당첨자는 공지사항 및 개별 연락",
+ "title": "부드러운 클래식의 귀환 코모레비뮤지엄 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7247",
+  "status": "revisited",
+  "title": "부드러운 클래식의 귀환 코모레비뮤지엄 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 부드러운 클래식의 귀환 코모레비뮤지엄 차가운 계절 위로 따스한 램 시어링과 포근한 밍크 텍스처를 겹쳐요. 익숙한 형태를 유연하게 풀어낸 새로운 겨울을 만나보세요. 2026. 10. 29. - 11. 11.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~19% 단독 할인 BENEFIT 3 포토 리뷰 이벤트 이벤트 기간에 코모레비뮤지엄의 기획전 참여 상품 구매 후 포토 리뷰를 남겨주세요. 총 3명에게 사은품 '핸드메이드 3 in 1 카우레더 명함 카드 지갑 l B14'를 증정합니다. 당첨자는 공지사항 및 개별 연락",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271ec856ad4952dd74c369416ba.jpg",
+   "alt": "부드러운 클래식의 귀환\n코모레비뮤지엄",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d33a3bbcaaf7aa2dcfe15e84b4b2.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2717757dc2a952d6b8f270d9992.jpg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2717757dc2a952d6b8f270d9992.jpg?width=1024&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33bb816d0c8b5d993141165b71d.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-079.html"
+}

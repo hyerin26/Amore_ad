@@ -1,0 +1,973 @@
+{
+ "id": "29cm-026",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7292",
+ "listing_label": "SHOWCASE\n처음의 모든 순간 오브마이온\n세상에 온 소중한 아기를 위한 첫 번째 선물. 처음 입는 바디수트부터 작은 순간을 함께할 턱받이와 치발기까지, 소중한 시작을 위한 오브마이온 베이비 키트",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7292",
+ "description": "세상에 온 소중한 아기를 위한 첫 번째 선물. 처음 입는 바디수트부터 작은 순간을 함께할 턱받이와 치발기까지, 소중한 시작을 위한 오브마이온 베이비 키트를 소개합니다.",
+ "images": [
+  {
+   "alt": "처음의 모든 순간\n오브마이온",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d71fc449b9a4b5d9675c0723b0ba.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202611/11f1d721defe3420aa2dfbf96d194546.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72029424480b5d9df12653c88b2.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d720293d1410aa2da34445ae3d9d.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7202942e0c2b5d9cba8a676e8d9.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d720293cecfeaa2d779a86b493df.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7202942b962aa2d558b6669670b.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036680ce8aa2d9994182d9d22.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d720366945bab5d947dcc2fd528f.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7cb5d92fc753d7cf33.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203663c71caa2daddf45c7c30e.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036643ca8b5d94b234630807f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036654dc4aa2d17e76e90ba6f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203665c2f6aa2d9bb2107ba345.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036643ca4b5d967e3c0bacc02.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Ivory)",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d741cc43616daa2d39cd9a457bd5.jpg?width=300&format=webp",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Lime)",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74d7583a013aa2dc3d7ce2114a5.jpg?width=300&format=webp",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Pink)",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74d95ee6c56b5d9dd75867b52da.jpg?width=300&format=webp",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Blue)",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74dbfc41b8daa2dbf20454f8bcd.jpg?width=300&format=webp",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Black)",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74e059a8721aa2dd35d9c5beea0.jpg?width=300&format=webp",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "Toy ST Bodysuit",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d7501985cac5aa2db1b6f6c97299.png?width=300&format=webp",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203668f74aaa2ddff83e8db24a.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7ab5d975c78a0c1b7c.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202611/11f1d71fc449b9a4b5d9675c0723b0ba.jpg",
+ "text": "SHOWCASE\n처음의 모든 순간\n오브마이온\n세상에 온 소중한 아기를 위한 첫 번째 선물.\n처음 입는 바디수트부터 작은 순간을 함께할 턱받이와 치발기까지, 소중한 시작을 위한 오브마이온 베이비 키트를 소개합니다.\n2026. 11. 04. - 11. 10.\n\nBENEFIT\nBENEFIT 1\n단독 발매 상품\nCOUPON\n오브마이온 전용 10% 쿠폰\n사용 기간 : 11. 4 Wed - 11. 10 Tue\n*쿠폰 발급 기간 : 11. 4 Wed - 11. 10 Tue\n*일부 상품은 쿠폰 적용이 불가할 수 있습니다.\n\n오브마이온\nOF MY ON\n내 아이에게 좋은 일들만 오길 바라는 마음에서 탄생한 브랜드입니다.\n톤 다운된 컬러들의 조합으로 단정하고 힙한 무드를 담아,\n일상부터 특별한 날에도 함께할 수 있는 룩을 만듭니다.\n브랜드 홈 바로가기\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\nWelcome Baby Kit\n바디수트, 턱받이, 치발기로 구성된 웰컴베이비키트입니다. 신생아에게 필요한 아이템을 하나의 세트로 만나보세요.\n오브마이온\n[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Ivory)\n94,000\n4\n오브마이온\n[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Lime)\n94,000\n6\n오브마이온\n[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Pink)\n94,000\n3\n오브마이온\n[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Blue)\n94,000\n5\n오브마이온\n[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Black)\n94,000\n2\nToy ST Bodysuit\n장난감처럼 알록달록한 컬러 배색과 탄탄한 골지 원단이 돋보이는 아이템으로, 아이들의 장난스러운 매력을 더해줍니다.\n오브마이온\nToy ST Bodysuit\n45,000\n40\nToy ST Bonnet\n장난감에서 영감을 받은 경쾌한 컬러 배색과 스트라이프 패턴이 돋보이는 보넷입니다.\nToy ST 바디수트 또는 세트 상품과 매치하여 룩을 완성할 수 있습니다.\nToy ST Set\n장난감에서 영감을 받은 컬러 배색과 탄탄한 골지 원단으로 아이들의 장난꾸러기 같은 매력을 살려주는 상하의 세트입니다.\n각각 단독으로도 다양한 활용이 가능합니다.\nCozy Bodysuit\n부드러운 모달 원단으로 편안한 착용감을 선사하는 코지 바디수트입니다. 새롭게 추가된 컬러로 더욱 다양하게 만나보세요.\nCozy Bonnet\n부드러운 모달 원단으로 제작해 편안하게 착용할 수 있는 코지 보넷입니다. 코지 바디수트와 함께 매치해 스타일을 연출할 수 있습니다.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "처음의 모든 순간 오브마이온 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 전용 10% 쿠폰 사용 기간 : 11. 4 Wed - 11. 10 Tue",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/69883",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/69883"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Ivory) 94,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349874?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349874?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "4",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Lime) 94,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349993?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349993?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "6",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Pink) 94,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349994?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349994?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "3",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Blue) 94,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349996?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349996?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "5",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Black) 94,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349997?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349997?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "2",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 Toy ST Bodysuit 45,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349898?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349898?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "40",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 Toy ST Bonnet 15,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349905?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349905?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 Toy ST Set up 43,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349916?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349916?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "28",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7292",
+   "label": "오브마이온 Cozy Body Suit (long) 39,000",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4349986?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4349986?source=showcase"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7292",
+  "status": "revisited",
+  "title": "처음의 모든 순간 오브마이온 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 처음의 모든 순간 오브마이온 세상에 온 소중한 아기를 위한 첫 번째 선물. 처음 입는 바디수트부터 작은 순간을 함께할 턱받이와 치발기까지, 소중한 시작을 위한 오브마이온 베이비 키트를 소개합니다. 2026. 11. 04. - 11. 10.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 발매 상품 COUPON 오브마이온 전용 10% 쿠폰 사용 기간 : 11. 4 Wed - 11. 10 Tue *쿠폰 발급 기간 : 11. 4 Wed - 11. 10 Tue *일부 상품은 쿠폰 적용이 불가할 수 있습니다.",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "오브마이온 OF MY ON 내 아이에게 좋은 일들만 오길 바라는 마음에서 탄생한 브랜드입니다. 톤 다운된 컬러들의 조합으로 단정하고 힙한 무드를 담아, 일상부터 특별한 날에도 함께할 수 있는 룩을 만듭니다. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011"
+   ],
+   "relationship_indexes": [
+    3
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM Welcome Baby Kit 바디수트, 턱받이, 치발기로 구성된 웰컴베이비키트입니다. 신생아에게 필요한 아이템을 하나의 세트로 만나보세요. 오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Ivory) 94,000 4 오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Lime) 94,000 6 오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Pink) 94,000 3 오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Blue) 94,000 5 오브마이온 [29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Black) 94,000 2 Toy ST Bodysuit 장난감처럼 알록달록한 컬러 배색과 탄탄한 골지 원단이 돋보이는 아이템으로, 아이들의 장난스러운 매력을 더해줍니다. 오브마이온 Toy ST Bodysuit 45,000 40 Toy ST Bonnet 장난감에서 영감을 받은 경쾌한 컬러 배색과 스트라이프 패턴이 돋보이는 보넷입니다. Toy ST 바디수트 또는 세트 상품과 매치하여 룩을 완성할 수 있습니다. 오브마이온 Toy ST Bonnet 15,000 4 Toy ST Set 장난감에서 영감을 받은 컬러 배색과 탄탄한 골지 원단으로 아이들의 장난꾸러기 같은 매력을 살려주는 상하의 세트입니다. 각각 단독으로도 다양한 활용이 가능합니다. 오브마이온 Toy ST Set up 43,000 28 Cozy Bodysuit 부드러운 모달 원단으로 편안한 착용감을 선사하는 코지 바디수트입니다. 새롭게 추가된 컬러로 더욱 다양하게 만나보세요. 오브마이온 Cozy Body Suit (long) 39,000 28 Cozy Bonnet 부드러운 모달 원단으로 제작해 편안하게 착용할 수 있는 코지 보넷입니다. 코지 바디수트와 함께 매치해 스타일을 연출할 수 있습니다.",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0011",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0009",
+    "i0026",
+    "i0010"
+   ],
+   "relationship_indexes": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE COLLECTIONS",
+   "dom_path": [
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d71fc449b9a4b5d9675c0723b0ba.jpg",
+   "alt": "처음의 모든 순간\n오브마이온",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202611/11f1d721defe3420aa2dfbf96d194546.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72029424480b5d9df12653c88b2.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d72029424480b5d9df12653c88b2.png?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d72029424480b5d9df12653c88b2.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d720293d1410aa2da34445ae3d9d.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d720293d1410aa2da34445ae3d9d.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d720293d1410aa2da34445ae3d9d.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7202942e0c2b5d9cba8a676e8d9.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7202942e0c2b5d9cba8a676e8d9.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7202942e0c2b5d9cba8a676e8d9.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d720293cecfeaa2d779a86b493df.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d720293cecfeaa2d779a86b493df.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7202942b962aa2d558b6669670b.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7202942b962aa2d558b6669670b.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036680ce8aa2d9994182d9d22.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d72036680ce8aa2d9994182d9d22.jpg?width=1202&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d72036680ce8aa2d9994182d9d22.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d720366945bab5d947dcc2fd528f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d720366945bab5d947dcc2fd528f.jpg?width=1206&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d720366945bab5d947dcc2fd528f.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7cb5d92fc753d7cf33.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7cb5d92fc753d7cf33.jpg?width=1206&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7cb5d92fc753d7cf33.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203663c71caa2daddf45c7c30e.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7203663c71caa2daddf45c7c30e.jpg?width=1206&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7203663c71caa2daddf45c7c30e.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036643ca8b5d94b234630807f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d72036643ca8b5d94b234630807f.jpg?width=1000&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036654dc4aa2d17e76e90ba6f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d72036654dc4aa2d17e76e90ba6f.jpg?width=1000&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203665c2f6aa2d9bb2107ba345.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7203665c2f6aa2d9bb2107ba345.jpg?width=1000&format=webp"
+   ]
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d72036643ca4b5d967e3c0bacc02.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d72036643ca4b5d967e3c0bacc02.jpg?width=1000&format=webp"
+   ]
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d741cc43616daa2d39cd9a457bd5.jpg?width=300&format=webp",
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Ivory)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74d7583a013aa2dc3d7ce2114a5.jpg?width=300&format=webp",
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Lime)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74d95ee6c56b5d9dd75867b52da.jpg?width=300&format=webp",
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Pink)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74dbfc41b8daa2dbf20454f8bcd.jpg?width=300&format=webp",
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Blue)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74e059a8721aa2dd35d9c5beea0.jpg?width=300&format=webp",
+   "alt": "[29CM 단독/출산/백일 선물]_[29CM 단독/출산/백일 선물] Welcome Baby Kit (Black)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d7501985cac5aa2db1b6f6c97299.png?width=300&format=webp",
+   "alt": "Toy ST Bodysuit",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0022",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203668f74aaa2ddff83e8db24a.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7203668f74aaa2ddff83e8db24a.jpg?width=1206&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7203668f74aaa2ddff83e8db24a.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0023",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d7433d391dc2b5d9d17cdaa4e61e.png?width=300&format=webp",
+   "alt": "Toy ST Bonnet",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7ab5d975c78a0c1b7c.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7ab5d975c78a0c1b7c.jpg?width=1206&format=webp",
+    "https://img.29cm.co.kr/cms/202611/11f1d7203663ee7ab5d975c78a0c1b7c.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0025",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d75068ec7b0baa2dc1bb2317e23c.png?width=300&format=webp",
+   "alt": "Toy ST Set up",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://img.29cm.co.kr/item/202611/11f1d74d38185b85aa2d17e013a1d64b.png?width=300&format=webp",
+   "alt": "Cozy Body Suit (long)",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-026.html"
+}

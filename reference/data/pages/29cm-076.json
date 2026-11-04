@@ -1,0 +1,157 @@
+{
+ "id": "29cm-076",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7262",
+ "listing_label": "SHOWCASE\n가을을 먼저 담은 가방 모니크\n이번 시즌을 위해 준비한 신상을 가장 먼저 만나보세요. 섬세한 디자인과 깊은 색감이 담긴 컬렉션이 기다리고 있어요.\nD-day2026.10.29. ~ ",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7262",
+ "description": "이번 시즌을 위해 준비한 신상을 가장 먼저 만나보세요. 섬세한 디자인과 깊은 색감이 담긴 컬렉션이 기다리고 있어요.",
+ "images": [
+  {
+   "alt": "가을을 먼저 담은 가방\n모니크",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26a3b6ecfa5952dd1e5db0370e8.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d26a4a4c5987aa5459a99d82477e.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26aba4c39ee952d8b84c1204265.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26a349fa5a1952d27bd599c3077.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d26a3b6ecfa5952dd1e5db0370e8.jpg",
+ "text": "SHOWCASE\n가을을 먼저 담은 가방\n모니크\n이번 시즌을 위해 준비한 신상을 가장 먼저 만나보세요. 섬세한 디자인과 깊은 색감이 담긴 컬렉션이 기다리고 있어요.\n2026. 10. 29. - 11. 04.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~15% 단독 할인\nBENEFIT 3\n사은품 증정 이벤트\n이벤트 기간에 모니크의 Anse Bag 또는 Anse Bag Fur & Black 구매 시 선착순 15명에게 사은품 'Merci Bag'를 증정합니다.\n사은품 소진 시 조기 종료\n중복 증정 불가\n교환/반품 시 사은품 동봉 필수\n기본 주소지로 경품 발송",
+ "title": "가을을 먼저 담은 가방 모니크 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7262",
+  "status": "revisited",
+  "title": "가을을 먼저 담은 가방 모니크 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 가을을 먼저 담은 가방 모니크 이번 시즌을 위해 준비한 신상을 가장 먼저 만나보세요. 섬세한 디자인과 깊은 색감이 담긴 컬렉션이 기다리고 있어요. 2026. 10. 29. - 11. 04.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~15% 단독 할인 BENEFIT 3 사은품 증정 이벤트 이벤트 기간에 모니크의 Anse Bag 또는 Anse Bag Fur & Black 구매 시 선착순 15명에게 사은품 'Merci Bag'를 증정합니다. 사은품 소진 시 조기 종료 중복 증정 불가 교환/반품 시 사은품 동봉 필수 기본 주소지로 경품 발송",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26a3b6ecfa5952dd1e5db0370e8.jpg",
+   "alt": "가을을 먼저 담은 가방\n모니크",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d26a4a4c5987aa5459a99d82477e.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26aba4c39ee952d8b84c1204265.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26aba4c39ee952d8b84c1204265.png?width=2960&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26aba4c39ee952d8b84c1204265.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26a349fa5a1952d27bd599c3077.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-076.html"
+}

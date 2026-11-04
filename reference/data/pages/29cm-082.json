@@ -1,0 +1,157 @@
+{
+ "id": "29cm-082",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7243",
+ "listing_label": "SHOWCASE\n편안함 속 의외의 조합 리볼드\n풍성한 텍스처와 여유로운 실루엣으로 완성하는 겨울. 입고 싶은 대로, 자연스럽게 표현하는 나만의 스타일을 만나보세요.\n2026.10.29. ~ 11.1",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7243",
+ "description": "풍성한 텍스처와 여유로운 실루엣으로 완성하는 겨울. 입고 싶은 대로, 자연스럽게 표현하는 나만의 스타일을 만나보세요.",
+ "images": [
+  {
+   "alt": "편안함 속 의외의 조합\n리볼드",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26ba924c9ce952d353b9d7dbbb5.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d26bb5b41f27aa54bdd260624689.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26cc0870193aa544fcfbfee0007.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2783bccc515aa54c370bb7c3a53.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d26ba924c9ce952d353b9d7dbbb5.jpg",
+ "text": "SHOWCASE\n편안함 속 의외의 조합\n리볼드\n풍성한 텍스처와 여유로운 실루엣으로 완성하는 겨울. 입고 싶은 대로, 자연스럽게 표현하는 나만의 스타일을 만나보세요.\n2026. 10. 29. - 11. 12.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~20% 단독 할인\nBENEFIT 3\n포토 리뷰 이벤트\n이벤트 기간에 리볼드의 기획전 참여 상품 구매 후 포토 리뷰를 남겨주세요. 총 1명에게 사은품 'Deep V-neck CD_(Charcoal)'를 증정합니다.\n당첨자 발표 : 11월 23일\n색상 랜덤 발송\n당첨자는 공지사항 및 개별 연락",
+ "title": "편안함 속 의외의 조합 리볼드 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7243",
+  "status": "no_controls_observed",
+  "title": "편안함 속 의외의 조합 리볼드 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 편안함 속 의외의 조합 리볼드 풍성한 텍스처와 여유로운 실루엣으로 완성하는 겨울. 입고 싶은 대로, 자연스럽게 표현하는 나만의 스타일을 만나보세요. 2026. 10. 29. - 11. 12.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~20% 단독 할인 BENEFIT 3 포토 리뷰 이벤트 이벤트 기간에 리볼드의 기획전 참여 상품 구매 후 포토 리뷰를 남겨주세요. 총 1명에게 사은품 'Deep V-neck CD_(Charcoal)'를 증정합니다. 당첨자 발표 : 11월 23일 색상 랜덤 발송 당첨자는 공지사항 및 개별 연락",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26ba924c9ce952d353b9d7dbbb5.jpg",
+   "alt": "편안함 속 의외의 조합\n리볼드",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d26bb5b41f27aa54bdd260624689.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d26cc0870193aa544fcfbfee0007.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d26cc0870193aa544fcfbfee0007.png?width=3116&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d26cc0870193aa544fcfbfee0007.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2783bccc515aa54c370bb7c3a53.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-082.html"
+}

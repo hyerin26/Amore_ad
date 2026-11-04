@@ -1,0 +1,157 @@
+{
+ "id": "29cm-050",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7272",
+ "listing_label": "SHOWCASE\n감각을 정돈하는 빛 엠비아이에스\n동양적 절제미와 자연의 영감을 담은 조명 브랜드 엠비아이에스. 바움 포터블 램프의 신규 컬러 세이지 그린부터 모라 컬렉션까지, 공간에 스미는 빛을 만",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7272",
+ "description": "동양적 절제미와 자연의 영감을 담은 조명 브랜드 엠비아이에스. 바움 포터블 램프의 신규 컬러 세이지 그린부터 모라 컬렉션까지, 공간에 스미는 빛을 만나보세요.",
+ "images": [
+  {
+   "alt": "감각을 정돈하는 빛\n엠비아이에스",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d41b66e6240caa2d1bb1f64b6969.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d41b65425f08b5d90bdd79570778.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d41b72b47320b5d9451aa6f868e4.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d41b829defd3aa2d45bfd2ba08a7.jpg?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d41b66e6240caa2d1bb1f64b6969.jpg",
+ "text": "SHOWCASE\n감각을 정돈하는 빛\n엠비아이에스\n동양적 절제미와 자연의 영감을 담은 조명 브랜드 엠비아이에스. 바움 포터블 램프의 신규 컬러 세이지 그린부터 모라 컬렉션까지, 공간에 스미는 빛을 만나보세요.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n~25% 할인\nBENEFIT 2\n포토 리뷰 이벤트\n이벤트 기간에 엠비아이에스의 바움 포터블 램프 세이지 그린 구매 후 포토 리뷰를 남겨주세요. 총 1명에게 사은품 '바움 포터블 램프 (화이트)'를 증정합니다.\n당첨자 발표 : 11월 20일\n당첨자는 공지사항 및 개별 연락\n기본 주소지로 경품 발송",
+ "title": "감각을 정돈하는 빛 엠비아이에스 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7272",
+  "status": "revisited",
+  "title": "감각을 정돈하는 빛 엠비아이에스 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 감각을 정돈하는 빛 엠비아이에스 동양적 절제미와 자연의 영감을 담은 조명 브랜드 엠비아이에스. 바움 포터블 램프의 신규 컬러 세이지 그린부터 모라 컬렉션까지, 공간에 스미는 빛을 만나보세요. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 ~25% 할인 BENEFIT 2 포토 리뷰 이벤트 이벤트 기간에 엠비아이에스의 바움 포터블 램프 세이지 그린 구매 후 포토 리뷰를 남겨주세요. 총 1명에게 사은품 '바움 포터블 램프 (화이트)'를 증정합니다. 당첨자 발표 : 11월 20일 당첨자는 공지사항 및 개별 연락 기본 주소지로 경품 발송",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d41b66e6240caa2d1bb1f64b6969.jpg",
+   "alt": "감각을 정돈하는 빛\n엠비아이에스",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d41b65425f08b5d90bdd79570778.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d41b72b47320b5d9451aa6f868e4.jpg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d41b72b47320b5d9451aa6f868e4.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d41b72b47320b5d9451aa6f868e4.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d41b829defd3aa2d45bfd2ba08a7.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-050.html"
+}

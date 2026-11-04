@@ -1,0 +1,94 @@
+{
+ "id": "kurly-070",
+ "brand": "kurly",
+ "collected_date": "2026-11-04",
+ "url": "https://www.kurly.com/events/member/friend",
+ "resolved_url": "https://www.kurly.com/events/member/friend",
+ "listing_label": "261104 [PFM][마켓] 친구초대 페이지",
+ "description": "Better Life for All. 건강한 식재료부터 믿을 수 있는 뷰티, 라이프스타일 상품까지. 나와 내 가족이 사고 싶은 상품을 판매합니다. 내일 아침 문 앞에서 만나요!",
+ "images": [
+  {
+   "alt": "컬리 처음인 친구 초대하고 혜택받기",
+   "url": "https://res.kurly.com/web/images/member-benefit/friend/default/pc/PC_운영페이지_261104_상시.png",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0001"
+  }
+ ],
+ "og_image": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+ "text": "친구 초대하기",
+ "title": "컬리 - 마켓컬리/뷰티컬리",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.kurly.com/events/member/friend",
+   "label": "친구 초대하기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.kurly.com/events/member/friend",
+  "status": "revisited",
+  "title": "친구초대 - 마켓컬리"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    1,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "participation_event",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "친구 초대하기",
+   "dom_path": [
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://res.kurly.com/web/images/member-benefit/friend/default/pc/PC_운영페이지_261104_상시.png",
+   "alt": "컬리 처음인 친구 초대하고 혜택받기",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/kurly-070.html"
+}

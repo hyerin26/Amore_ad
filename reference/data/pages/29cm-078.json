@@ -1,0 +1,2033 @@
+{
+ "id": "29cm-078",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7250",
+ "listing_label": "SHOWCASE\n함께 만들어가는 겨울 요가 에이햅스\n다가올 겨울을 따스하게 담아 선물할게요. 함께 호흡하며 만드는 겨울 요가를 경험해 보세요.\nD-day2026.10.29. ~ 11.04.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7250",
+ "description": "다가올 겨울을 따스하게 담아 선물할게요. 함께 호흡하며 만드는 겨울 요가를 경험해 보세요.",
+ "images": [
+  {
+   "alt": "함께 만들어가는 겨울 요가\n에이햅스",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d27167cde4b8952d5fc2045baccc.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d2713f8fc4c0952d0bfeaef9c75b.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2ddc0952de3552edbd65d.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688c952df1fd4657de96.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688e952dffdda0cd3ad4.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2689daa545f2469970520.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2b6bfaa54899eb1f579f0.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0402c4daa548b87f20f9728.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0400624952d4b884b491519.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0402d36952dd51e0f8d1899.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0400622952df551945df3d2.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0407a71aa5425419aa8211e.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0402d38952d216783c64f08.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33657672ceaaa2d257402426aa0.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33657677ad9b5d9d192c534f16f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336e6685e0caa2df93d32dd5feb.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33602f177f2aa2da1a88927c9de.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33602f19ee3b5d9236043a7f6da.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d335c44883eeaa2d755ec7645eef.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d335c448aaddb5d999d22f404588.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d27167cde4b8952d5fc2045baccc.jpg",
+ "text": "SHOWCASE\n함께 만들어가는 겨울 요가\n에이햅스\n다가올 겨울을 따스하게 담아 선물할게요. 함께 호흡하며 만드는 겨울 요가를 경험해 보세요.\n2026. 10. 29. - 11. 04.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~15% 단독 할인\n\n에이햅스\nAHAPS\nAsanas change. The breath stays one.\n브랜드 홈 바로가기\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\n포피 플리스 오브 팬츠\n가볍지만 입자마자 따스한 온기가 감도는 폴라 플리스 소재로 완성했어요. 풍덩한 실루엣으로 편안하게 착용할 수 있어요.\n포근한 타월 테리 점프수트\n얇은 스모킹사로 한 줄 한 줄 이어 만든 허리 밴딩이 조이는 느낌 없이 편안해요. 요가는 물론 발레 웜업복으로도 좋아요.\n코즈니 와플 조거 팬츠\n가볍지만 따뜻한 기모 안감으로 완성한 와플 조거 팬츠. 편안한 실루엣으로 활용도 높게 입을 수 있어요.\n코즈니 와플 베이스 점프수트\n허리를 넓은 스모킹밴드로 디자인해 복부를 탄탄하게 잡아주면서도 답답하지 않아요.\n코즈니 와플 브이넥 커버업\n온기장과 크랍의 중간 길이로 어떤 스타일과도 자연스럽게 레이어드 되는 니트. 기분에 따라 V넥과 U넥으로 바꿔 입어보세요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "함께 만들어가는 겨울 요가 에이햅스 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/122827",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/122827"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "에이햅스 [프리오더] 포피 플리스 오브 팬츠 15% 56,430",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317352?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317352?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "223",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "에이햅스 포근한 타월 테리 요가 점프수트 10% 64,800",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4316484?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4316484?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "346",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "에이햅스 [스페셜오더] 코즈니 와플 조거팬츠 15% 50,150",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317260?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317260?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "1,955",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "에이햅스 코즈니 와플 베이스 점프수트 10% 68,400",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333149?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333149?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "169",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "에이햅스 코즈니 와플 브이넥 커버업 10% 44,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4294212?source=showcase",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4294212?source=showcase"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "239",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317395",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317395?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "에이햅스",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/122827",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/122827"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "[프리오더] 포피 플리스 페블 점프수트 15% 64,980 쿠폰",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317395",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317395?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "241",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317395#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317395?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": null,
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317400",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317400?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "[프리오더] 포피 플리스 스티치 탑 15% 32,490 쿠폰",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317400",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317400?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "37",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317400#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317400?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317352",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317352?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "[프리오더] 포피 플리스 오브 팬츠 15% 56,430 쿠폰",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317352",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317352?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317352#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317352?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333385",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333385?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "[프리오더] [2pack] 포피 플리스 스티치 탑 10% 53,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333385",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333385?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "19",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333385#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333385?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317260",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317260?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "[스페셜오더] 코즈니 와플 조거팬츠 15% 50,150 무료배송",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317260",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317260?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (160)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4317260#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4317260?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333667",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333667?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 로그 점프수트 10% 64,800",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333667",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333667?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "41",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (6)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333667#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333667?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333150",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333150?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 오버 후드 10% 53,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333150",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333150?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "221",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "4.5 (3)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333150#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333150?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333154",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333154?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 온오프 후드 10% 53,100 일시품절",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333154",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333154?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "120",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (13)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333154#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333154?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4294212",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4294212?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 브이넥 커버업 10% 44,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4294212",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4294212?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (13)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4294212#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4294212?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333149",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333149?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 베이스 점프수트 10% 68,400",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333149",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333149?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (9)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333149#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333149?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333156",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333156?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 모이 점프수트 10% 68,400",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333156",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333156?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "25",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333156#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333156?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333155",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333155?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 브리 팬츠 10% 53,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333155",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333155?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "369",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (18)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333155#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333155?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333160",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333160?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "코즈니 와플 웨이브 커버업 10% 44,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333160",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333160?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "16",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333160#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333160?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333215",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333215?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "앙고라 루즈 러플 탑 10% 47,700",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333215",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333215?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "34",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "0 (0)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333215#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333215?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333158",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333158?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "허그 슬림 후드 10% 41,400",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333158",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333158?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "63",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (3)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333158#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333158?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333157",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333157?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "듀 드롭 탑 10% 44,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333157",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333157?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "77",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (1)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4333157#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4333157?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4316484",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4316484?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "포근한 타월 테리 요가 점프수트 10% 64,800",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4316484",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4316484?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (33)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4316484#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4316484?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4257282",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4257282?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "타월테리 블루머 팬츠 [Blueberry Milk] 10% 53,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4257282",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4257282?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "62",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (2)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4257282#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4257282?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4257280",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4257280?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "타월테리 블루머 팬츠 [Green Lover] 10% 53,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4257280",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4257280?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "30",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (2)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4257280#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4257280?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4256840",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4256840?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "시즌리스 요가립 로그 점프수트 [Cotton Mauve] 10% 64,800",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4256840",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4256840?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "10",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "5 (3)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4256840#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4256840?#review"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "상품 대표 이미지",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4235563",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4235563?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "스트라이프 아코디언 점프수트 [Navy Stripe] 10% 71,100",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4235563",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4235563?"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "21",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7250",
+   "label": "4.5 (2)",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/product/catalog/4235563#review",
+   "destination_type": "product_detail",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/product/catalog/4235563?#review"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7250",
+  "status": "no_controls_observed",
+  "title": "함께 만들어가는 겨울 요가 에이햅스 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 함께 만들어가는 겨울 요가 에이햅스 다가올 겨울을 따스하게 담아 선물할게요. 함께 호흡하며 만드는 겨울 요가를 경험해 보세요. 2026. 10. 29. - 11. 04.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~15% 단독 할인",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "에이햅스 AHAPS Asanas change. The breath stays one. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1,
+    14
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011"
+   ],
+   "relationship_indexes": [
+    2
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM 포피 플리스 오브 팬츠 가볍지만 입자마자 따스한 온기가 감도는 폴라 플리스 소재로 완성했어요. 풍덩한 실루엣으로 편안하게 착용할 수 있어요. 에이햅스 [프리오더] 포피 플리스 오브 팬츠 15% 56,430 223 포근한 타월 테리 점프수트 얇은 스모킹사로 한 줄 한 줄 이어 만든 허리 밴딩이 조이는 느낌 없이 편안해요. 요가는 물론 발레 웜업복으로도 좋아요. 에이햅스 포근한 타월 테리 요가 점프수트 10% 64,800 346 코즈니 와플 조거 팬츠 가볍지만 따뜻한 기모 안감으로 완성한 와플 조거 팬츠. 편안한 실루엣으로 활용도 높게 입을 수 있어요. 에이햅스 [스페셜오더] 코즈니 와플 조거팬츠 15% 50,150 1,955 코즈니 와플 베이스 점프수트 허리를 넓은 스모킹밴드로 디자인해 복부를 탄탄하게 잡아주면서도 답답하지 않아요. 에이햅스 코즈니 와플 베이스 점프수트 10% 68,400 169 코즈니 와플 브이넥 커버업 온기장과 크랍의 중간 길이로 어떤 스타일과도 자연스럽게 레이어드 되는 니트. 기분에 따라 V넥과 U넥으로 바꿔 입어보세요. 에이햅스 코즈니 와플 브이넥 커버업 10% 44,100 239",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0011",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025"
+   ],
+   "relationship_indexes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "[프리오더] 포피 플리스 페블 점프수트",
+    "[프리오더] 포피 플리스 스티치 탑",
+    "[프리오더] 포피 플리스 오브 팬츠",
+    "[프리오더] [2pack] 포피 플리스 스티치 탑",
+    "[스페셜오더] 코즈니 와플 조거팬츠",
+    "코즈니 와플 로그 점프수트",
+    "코즈니 와플 오버 후드",
+    "코즈니 와플 온오프 후드",
+    "코즈니 와플 브이넥 커버업",
+    "코즈니 와플 베이스 점프수트",
+    "코즈니 와플 모이 점프수트",
+    "코즈니 와플 브리 팬츠",
+    "코즈니 와플 웨이브 커버업",
+    "앙고라 루즈 러플 탑",
+    "허그 슬림 후드",
+    "듀 드롭 탑",
+    "포근한 타월 테리 요가 점프수트",
+    "타월테리 블루머 팬츠 [Blueberry Milk]",
+    "타월테리 블루머 팬츠 [Green Lover]",
+    "시즌리스 요가립 로그 점프수트 [Cotton Mauve]",
+    "스트라이프 아코디언 점프수트 [Navy Stripe]"
+   ],
+   "text": "SHOWCASE COLLECTIONS 에이햅스 에이햅스 [프리오더] 포피 플리스 페블 점프수트 15% 64,980 쿠폰 241 0 (0) 에이햅스 [프리오더] 포피 플리스 스티치 탑 15% 32,490 쿠폰 37 0 (0) 에이햅스 [프리오더] 포피 플리스 오브 팬츠 15% 56,430 쿠폰 223 0 (0) 에이햅스 [프리오더] [2pack] 포피 플리스 스티치 탑 10% 53,100 19 0 (0) 에이햅스 [스페셜오더] 코즈니 와플 조거팬츠 15% 50,150 무료배송 1,955 5 (160) 에이햅스 코즈니 와플 로그 점프수트 10% 64,800 41 5 (6) 에이햅스 코즈니 와플 오버 후드 10% 53,100 221 4.5 (3) 에이햅스 코즈니 와플 온오프 후드 10% 53,100 일시품절 120 5 (13) 에이햅스 코즈니 와플 브이넥 커버업 10% 44,100 239 5 (13) 에이햅스 코즈니 와플 베이스 점프수트 10% 68,400 169 5 (9) 에이햅스 코즈니 와플 모이 점프수트 10% 68,400 25 5 (1) 에이햅스 코즈니 와플 브리 팬츠 10% 53,100 369 5 (18) 에이햅스 코즈니 와플 웨이브 커버업 10% 44,100 16 5 (1) 에이햅스 앙고라 루즈 러플 탑 10% 47,700 34 0 (0) 에이햅스 허그 슬림 후드 10% 41,400 63 5 (3) 에이햅스 듀 드롭 탑 10% 44,100 77 5 (1) 에이햅스 포근한 타월 테리 요가 점프수트 10% 64,800 346 5 (33) 에이햅스 타월테리 블루머 팬츠 [Blueberry Milk] 10% 53,100 62 5 (2) 에이햅스 타월테리 블루머 팬츠 [Green Lover] 10% 53,100 30 5 (2) 에이햅스 시즌리스 요가립 로그 점프수트 [Cotton Mauve] 10% 64,800 10 5 (3) 에이햅스 스트라이프 아코디언 점프수트 [Navy Stripe] 10% 71,100 21 4.5 (2)",
+   "dom_path": [
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0026",
+    "i0027",
+    "i0028",
+    "i0029",
+    "i0030",
+    "i0031",
+    "i0032",
+    "i0033",
+    "i0034",
+    "i0035",
+    "i0036",
+    "i0037",
+    "i0038",
+    "i0039",
+    "i0040",
+    "i0041",
+    "i0042",
+    "i0043",
+    "i0044",
+    "i0045",
+    "i0046"
+   ],
+   "relationship_indexes": [
+    0,
+    4,
+    6,
+    8,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d27167cde4b8952d5fc2045baccc.jpg",
+   "alt": "함께 만들어가는 겨울 요가\n에이햅스",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d2713f8fc4c0952d0bfeaef9c75b.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2ddc0952de3552edbd65d.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2ddc0952de3552edbd65d.png?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2ddc0952de3552edbd65d.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688c952df1fd4657de96.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688c952df1fd4657de96.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688c952df1fd4657de96.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688e952dffdda0cd3ad4.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688e952dffdda0cd3ad4.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2688e952dffdda0cd3ad4.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2689daa545f2469970520.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2689daa545f2469970520.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271c8a2b6bfaa54899eb1f579f0.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271c8a2b6bfaa54899eb1f579f0.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0402c4daa548b87f20f9728.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402c4daa548b87f20f9728.jpg?width=3465&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402c4daa548b87f20f9728.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402c4daa548b87f20f9728.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0400624952d4b884b491519.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0400624952d4b884b491519.jpg?width=3348&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0400624952d4b884b491519.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0400624952d4b884b491519.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0402d36952dd51e0f8d1899.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402d36952dd51e0f8d1899.jpg?width=2309&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402d36952dd51e0f8d1899.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0400622952df551945df3d2.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context",
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05",
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0400622952df551945df3d2.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0400622952df551945df3d2.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0407a71aa5425419aa8211e.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0407a71aa5425419aa8211e.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0407a71aa5425419aa8211e.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d271d0402d38952d216783c64f08.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402d38952d216783c64f08.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d271d0402d38952d216783c64f08.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2b7541de736aa2d6799576ecc80.jpg?width=300&format=webp",
+   "alt": "[프리오더] 포피 플리스 오브 팬츠",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33657672ceaaa2d257402426aa0.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33657672ceaaa2d257402426aa0.jpg?width=2559&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33657672ceaaa2d257402426aa0.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33657677ad9b5d9d192c534f16f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33657677ad9b5d9d192c534f16f.jpg?width=2559&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33657677ad9b5d9d192c534f16f.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0017",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/23/781fc9a6aa5045bfb71db04f37c2355b_20261023120148.jpg?width=300&format=webp",
+   "alt": "포근한 타월 테리 요가 점프수트",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d336e6685e0caa2df93d32dd5feb.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d336e6685e0caa2df93d32dd5feb.jpg?width=2432&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d336e6685e0caa2df93d32dd5feb.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0019",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d35db137cfb6aa2d1969a1cb275a.jpg?width=300&format=webp",
+   "alt": "[스페셜오더] 코즈니 와플 조거팬츠",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33602f177f2aa2da1a88927c9de.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33602f177f2aa2da1a88927c9de.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33602f177f2aa2da1a88927c9de.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0021",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d33602f19ee3b5d9236043a7f6da.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d33602f19ee3b5d9236043a7f6da.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d33602f19ee3b5d9236043a7f6da.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0022",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d29fec295259b5d9fb40b2df3144.jpg?width=300&format=webp",
+   "alt": "코즈니 와플 베이스 점프수트",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d335c44883eeaa2d755ec7645eef.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d335c44883eeaa2d755ec7645eef.jpg?width=2310&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d335c44883eeaa2d755ec7645eef.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0024",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d335c448aaddb5d999d22f404588.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d335c448aaddb5d999d22f404588.jpg?width=2560&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d335c448aaddb5d999d22f404588.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0025",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/25/8506c46dd156438e95e3fb0a2689a82f_20261025200323.jpg?width=300&format=webp",
+   "alt": "코즈니 와플 브이넥 커버업",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s06"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2b7783a7144b5d9c327202917d2.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0027",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/28/fc8fb9194b6c4c71ac43d3ba7bfa2d5b_20261028172142.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0028",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d2b7541de736aa2d6799576ecc80.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0029",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/28/21617963e9cb4234b62f9e3bdb7e1d3e_20261028172135.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0030",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d35db137cfb6aa2d1969a1cb275a.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0031",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1c469af7ef5952d3d791e359f7c.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0032",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/28/a836681ca6454983bb966f660cd0e491_20261028164556.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0033",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1d18faf8233952dd757041ffea0.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0034",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/25/8506c46dd156438e95e3fb0a2689a82f_20261025200323.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0035",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d29fec295259b5d9fb40b2df3144.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0036",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1cf30c35882952d6f73c73f9baa.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0037",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1c5124350d1952d19c25ed8ac14.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0038",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1cd8cdeabc4aa54b361a95620e7.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0039",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1c75592ffb5952db3627181380f.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0040",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1c789a07fb6aa54b119e270bf07.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0041",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/25/e34cd7339b6447a0901bafe115a61190_20261025155713.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0042",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/23/781fc9a6aa5045bfb71db04f37c2355b_20261023120148.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0043",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1c5d40ab57a952d51eeb28fda86.png?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0044",
+   "url": "https://img.29cm.co.kr/next-product/2026/10/26/56fcefbcd9a34e13a9c30e79f6b3554a_20261026200541.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0045",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1cf56a25363aa549170898e8770.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0046",
+   "url": "https://img.29cm.co.kr/item/202610/11f1d1d03983aea0952d47baa196dc01.jpg?width=600&format=webp",
+   "alt": "상품 대표 이미지",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_detail_link"
+   ],
+   "section_ids": [
+    "s07"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-078.html"
+}

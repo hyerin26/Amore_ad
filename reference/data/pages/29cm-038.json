@@ -1,0 +1,549 @@
+{
+ "id": "29cm-038",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7283",
+ "listing_label": "SHOWCASE\n깊어지는 계절의 클래식 오떼뜨\n차분한 컬러와 절제된 실루엣으로 완성하는 겨울 스타일을 소개합니다. 일상에 자연스럽게 스며드는 오떼뜨만의 감성을 만나보세요.\n2026.11.02. ~ ",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7283",
+ "description": "차분한 컬러와 절제된 실루엣으로 완성하는 겨울 스타일을 소개합니다. 일상에 자연스럽게 스며드는 오떼뜨만의 감성을 만나보세요.",
+ "images": [
+  {
+   "alt": "깊어지는 계절의 클래식\n오떼뜨",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3339a70c319b5d931fc7201401b.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d3336a0fd003b5d9ddb8fe2a361a.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb29693b5d9ddb7e65c9607.png",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d333b22025e3aa2d3d168cca20fc.png?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb2e4d6aa2d55439d3dbedd.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb22180aa2de1a14b104500.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb22182aa2dabab823b25e5.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb24894aa2d1ffde362548f.png?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfa821b5d9cb2da8559364.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf1caa2d356b086fe51b.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf33b5d9e55b261f9408.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4e12ec9b5d9ad8b7f093077.jpg?format=webp",
+   "tags": [
+    "editorial_image"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b573b5d98961c74f7662.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cd173df10db5d935716929995b.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b55aaa2dbb3c6f3428bc.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cd3d00fed4aa2d51f06de47bbb.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d3339a70c319b5d931fc7201401b.jpg",
+ "text": "SHOWCASE\n깊어지는 계절의 클래식\n오떼뜨\n차분한 컬러와 절제된 실루엣으로 완성하는 겨울 스타일을 소개합니다. 일상에 자연스럽게 스며드는 오떼뜨만의 감성을 만나보세요.\n2026. 11. 02. - 11. 15.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~66% 단독 할인\nBENEFIT 3\n포토 리뷰 이벤트\n이벤트 기간에 오떼뜨의 모든 상품 구매 후 포토 리뷰를 남겨주세요. 총 5명에게 사은품 'WOOL KNIT BEANIE & MUFFLER SET'를 증정합니다.\n당첨자 발표 : 11월 23일\n\n룩북 더보기\n\nSHOWCASE\nRECOMMEND ITEM\nBOUCLE RAM HALF FUR-COAT\n풍성한 시어링 퍼와 하이넥 디자인이 따뜻하게 감싸는 무스탕 코트. 리버시블 구성으로 양면 연출이 가능해요.\nMARGARINE WOOL WASHING FUR-COAT\n울 10% 혼방 소재로 따뜻하면서도 고급스러운 텍스처를 지닌 퍼 자켓이에요. 전체 링킹 봉제로 이음새가 깔끔하게 떨어져요.\nHOOD REVERSIBLE MUSTANG\n넉넉한 오버핏 실루엣과 후드가 만드는 편안한 캐주얼 무드. 브라운 스웨이드에 배색 트리밍을 더해 세련되게 완성했어요.\n\nSHOWCASE\nCOLLECTIONS",
+ "title": "깊어지는 계절의 클래식 오떼뜨 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7283",
+   "label": "룩북 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7283",
+  "status": "revisited",
+  "title": "깊어지는 계절의 클래식 오떼뜨 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 깊어지는 계절의 클래식 오떼뜨 차분한 컬러와 절제된 실루엣으로 완성하는 겨울 스타일을 소개합니다. 일상에 자연스럽게 스며드는 오떼뜨만의 감성을 만나보세요. 2026. 11. 02. - 11. 15.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~66% 단독 할인 BENEFIT 3 포토 리뷰 이벤트 이벤트 기간에 오떼뜨의 모든 상품 구매 후 포토 리뷰를 남겨주세요. 총 5명에게 사은품 'WOOL KNIT BEANIE & MUFFLER SET'를 증정합니다. 당첨자 발표 : 11월 23일",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "lookbook",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "룩북 더보기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE RECOMMEND ITEM BOUCLE RAM HALF FUR-COAT 풍성한 시어링 퍼와 하이넥 디자인이 따뜻하게 감싸는 무스탕 코트. 리버시블 구성으로 양면 연출이 가능해요. MARGARINE WOOL WASHING FUR-COAT 울 10% 혼방 소재로 따뜻하면서도 고급스러운 텍스처를 지닌 퍼 자켓이에요. 전체 링킹 봉제로 이음새가 깔끔하게 떨어져요. HOOD REVERSIBLE MUSTANG 넉넉한 오버핏 실루엣과 후드가 만드는 편안한 캐주얼 무드. 브라운 스웨이드에 배색 트리밍을 더해 세련되게 완성했어요.",
+   "dom_path": [
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "SHOWCASE COLLECTIONS",
+   "dom_path": [
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3339a70c319b5d931fc7201401b.jpg",
+   "alt": "깊어지는 계절의 클래식\n오떼뜨",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d3336a0fd003b5d9ddb8fe2a361a.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb29693b5d9ddb7e65c9607.png",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb29693b5d9ddb7e65c9607.png?width=2812&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb29693b5d9ddb7e65c9607.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d333b22025e3aa2d3d168cca20fc.png?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb2e4d6aa2d55439d3dbedd.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb2e4d6aa2d55439d3dbedd.png?width=1804&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb2e4d6aa2d55439d3dbedd.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb22180aa2de1a14b104500.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb22180aa2de1a14b104500.png?width=1476&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb22180aa2de1a14b104500.png?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb22182aa2dabab823b25e5.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb22182aa2dabab823b25e5.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d3344fb24894aa2d1ffde362548f.png?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d3344fb24894aa2d1ffde362548f.png?width=902&format=webp"
+   ]
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfa821b5d9cb2da8559364.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfa821b5d9cb2da8559364.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfa821b5d9cb2da8559364.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf1caa2d356b086fe51b.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf1caa2d356b086fe51b.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf1caa2d356b086fe51b.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0011",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf33b5d9e55b261f9408.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf33b5d9e55b261f9408.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4dfcf33b5d9e55b261f9408.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0012",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4e12ec9b5d9ad8b7f093077.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "editorial_image"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s04"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4e12ec9b5d9ad8b7f093077.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4e12ec9b5d9ad8b7f093077.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0013",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b573b5d98961c74f7662.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b573b5d98961c74f7662.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b573b5d98961c74f7662.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0014",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cd173df10db5d935716929995b.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cd173df10db5d935716929995b.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cd173df10db5d935716929995b.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0015",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b55aaa2dbb3c6f3428bc.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b55aaa2dbb3c6f3428bc.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cce4e2b55aaa2dbb3c6f3428bc.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0016",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d2cd3d00fed4aa2d51f06de47bbb.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s05"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d2cd3d00fed4aa2d51f06de47bbb.jpg?width=2736&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d2cd3d00fed4aa2d51f06de47bbb.jpg?width=1080&format=webp"
+   ]
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-038.html"
+}

@@ -1,0 +1,313 @@
+{
+ "id": "29cm-077",
+ "brand": "29cm",
+ "collected_date": "2026-11-04",
+ "url": "https://www.29cm.co.kr/content/showcase/7259",
+ "listing_label": "SHOWCASE\n가장 아늑한 온기 논로컬\n부드러운 색채와 포근한 질감이 겨울의 다정함을 담아냅니다. 온기가 흐르는 실루엣으로 완성하는 논로컬 윈터 컬렉션이에요.\n2026.10.29. ~ 11.11.",
+ "resolved_url": "https://www.29cm.co.kr/content/showcase/7259",
+ "description": "부드러운 색채와 포근한 질감이 겨울의 다정함을 담아냅니다. 온기가 흐르는 실루엣으로 완성하는 논로컬 윈터 컬렉션이에요.",
+ "images": [
+  {
+   "alt": "가장 아늑한 온기\n논로컬",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266de7c4803aa549b555454a4b7.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": null,
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d266e148fc95aa543b8e2ea42fb2.svg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e5e8003b952d8396e6bd8e20.jpg",
+   "tags": [
+    "promotion_banner"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266d6354b07aa54c554f44e7304.jpg?format=webp",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87bca7f952d7949271d5ab6.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87ba36d952d31501c7b7372.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87bca6baa5489e4c50d441f.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": null,
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87c18a1952d558a9da2bb1a.jpg?format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  }
+ ],
+ "og_image": "https://img.29cm.co.kr/cms/202610/11f1d266de7c4803aa549b555454a4b7.jpg",
+ "text": "SHOWCASE\n가장 아늑한 온기\n논로컬\n부드러운 색채와 포근한 질감이 겨울의 다정함을 담아냅니다. 온기가 흐르는 실루엣으로 완성하는 논로컬 윈터 컬렉션이에요.\n2026. 10. 29. - 11. 11.\n\nBENEFIT\nBENEFIT 1\n단독 선발매 상품\nBENEFIT 2\n~42% 단독 할인\nBENEFIT 3\n포토 리뷰 이벤트\n이벤트 기간에 논로컬의 26 WINTER 제품 구매 후 포토 리뷰를 남겨주세요. 총 3명에게 사은품 '니트 오버롤스 퍼피 키링'을 증정합니다.\n당첨자 발표 : 11월 13일\n색상 랜덤 발송\n\n논로컬\nNONLOCAL\nNONLOCAL(논로컬)은 natural, timeless, life라는 기본 개념을 바탕으로 클래식한 무드를 재해석합니다. 일상 속 자연스러운 아름다움을 담아내는 실루엣과 감도 있는 소재로 오랫동안 간직할 수 있는 타임리스 디자인을 추구합니다.\n브랜드 홈 바로가기",
+ "title": "가장 아늑한 온기 논로컬 - 모든 취향 곁에, 29CM",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7259",
+   "label": "브랜드 홈 바로가기",
+   "element": "a",
+   "destination_url": "https://www.29cm.co.kr/store/brand/1585",
+   "destination_type": "other_store_page",
+   "status": "declared_in_html",
+   "raw_target": "https://www.29cm.co.kr/store/brand/1585"
+  },
+  {
+   "source_url": "https://www.29cm.co.kr/content/showcase/7259",
+   "label": "브랜드 홈 바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.29cm.co.kr/content/showcase/7259",
+  "status": "no_controls_observed",
+  "title": "가장 아늑한 온기 논로컬 - 모든 취향 곁에, 29CM"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "opening_showcase",
+   "headings": [],
+   "text": "SHOWCASE 가장 아늑한 온기 논로컬 부드러운 색채와 포근한 질감이 겨울의 다정함을 담아냅니다. 온기가 흐르는 실루엣으로 완성하는 논로컬 윈터 컬렉션이에요. 2026. 10. 29. - 11. 11.",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT BENEFIT 1 단독 선발매 상품 BENEFIT 2 ~42% 단독 할인 BENEFIT 3 포토 리뷰 이벤트 이벤트 기간에 논로컬의 26 WINTER 제품 구매 후 포토 리뷰를 남겨주세요. 총 3명에게 사은품 '니트 오버롤스 퍼피 키링'을 증정합니다. 당첨자 발표 : 11월 13일 색상 랜덤 발송",
+   "dom_path": [
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0004"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": null,
+   "dom_path": [
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "content",
+   "role_evidence": "unclassified_content",
+   "headings": [],
+   "text": "논로컬 NONLOCAL NONLOCAL(논로컬)은 natural, timeless, life라는 기본 개념을 바탕으로 클래식한 무드를 재해석합니다. 일상 속 자연스러운 아름다움을 담아내는 실루엣과 감도 있는 소재로 오랫동안 간직할 수 있는 타임리스 디자인을 추구합니다. 브랜드 홈 바로가기",
+   "dom_path": [
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266de7c4803aa549b555454a4b7.jpg",
+   "alt": "가장 아늑한 온기\n논로컬",
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://asset.29cm.co.kr/cms/202610/11f1d266e148fc95aa543b8e2ea42fb2.svg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e5e8003b952d8396e6bd8e20.jpg",
+   "alt": null,
+   "tags": [
+    "promotion_banner"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d266e5e8003b952d8396e6bd8e20.jpg?width=3280&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d266e5e8003b952d8396e6bd8e20.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266d6354b07aa54c554f44e7304.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "section_context"
+   ],
+   "section_ids": [
+    "s02"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87bca7f952d7949271d5ab6.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d266e87bca7f952d7949271d5ab6.jpg?width=1925&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d266e87bca7f952d7949271d5ab6.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87ba36d952d31501c7b7372.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d266e87ba36d952d31501c7b7372.jpg?width=1575&format=webp",
+    "https://img.29cm.co.kr/cms/202610/11f1d266e87ba36d952d31501c7b7372.jpg?width=1080&format=webp"
+   ]
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87bca6baa5489e4c50d441f.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d266e87bca6baa5489e4c50d441f.jpg?width=963&format=webp"
+   ]
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.29cm.co.kr/cms/202610/11f1d266e87c18a1952d558a9da2bb1a.jpg?format=webp",
+   "alt": null,
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s03"
+   ],
+   "alternate_urls": [
+    "https://img.29cm.co.kr/cms/202610/11f1d266e87c18a1952d558a9da2bb1a.jpg?width=962&format=webp"
+   ]
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/29cm-077.html"
+}
