@@ -112,16 +112,14 @@
   "scope": "Public promotion detail pages linked from the observed official listings and homepage",
   "html_type": "Rendered promotion body DOM",
   "counts": {
-   "captured": 3,
-   "app_handoff": 0,
-   "body_unavailable": 0
+   "captured": 4
   },
   "relationship_collection": {
    "date": "2026-11-04",
    "source": "Archived rendered promotion HTML, live source-page revisits, and selected live click checks",
    "counts_by_status": {
-    "unverified": 52,
-    "declared_in_html": 165,
+    "unverified": 57,
+    "declared_in_html": 225,
     "click_verified": 1
    },
    "source_revisit_counts": {
@@ -137,20 +135,46 @@
   "section_collection": {
    "method": "Automatic inference from archived rendered HTML, headings and local context. DOM order may differ from visual layout.",
    "image_method": "Uses alt text, DOM placement, and linked destinations. Image pixels and embedded text were not inspected.",
-   "section_count": 32,
+   "section_count": 45,
    "page_counts": {
-    "inferred_from_html": 3
+    "inferred_from_html": 4
    },
-   "image_asset_count": 138,
+   "image_asset_count": 191,
    "image_tag_counts": {
-    "promotion_banner": 8,
+    "unknown": 110,
+    "product_photo": 26,
     "event_information": 33,
-    "ui_asset": 14,
-    "unknown": 83
+    "promotion_banner": 8,
+    "ui_asset": 14
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array; matches use markup target or control label.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
-  }
+  },
+  "main_refresh": {
+   "date": "2026-11-08",
+   "entry_url": "https://www.osulloc.com/kr/ko",
+   "main_reference_id": "osulloc-004",
+   "event_listing_url": "https://www.osulloc.com/kr/ko/life/event/list/ing",
+   "event_ids": [
+    "osulloc-001",
+    "osulloc-002",
+    "osulloc-003"
+   ],
+   "event_numbers": [
+    "12413",
+    "12426",
+    "12412"
+   ],
+   "new_event_detail_count": 0,
+   "method": "Browser-rendered DOM, event list currently exposes exactly these three existing events. Initial state, no OCR or participation/coupon actions.",
+   "snapshots": [
+    "12413.html",
+    "12426.html",
+    "12412.html",
+    "listing.html"
+   ]
+  },
+  "additional_page_count": 1
  },
  "kolonmall": {
   "collected_date": "2026-11-08",

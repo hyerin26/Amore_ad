@@ -1,0 +1,33 @@
+running gemma3n_e4b christmas
+error gemma3n_e4b christmas 1.765 Space inference error: {"error": "You have exceeded your free ZeroGPU quota (180s requested vs. 0s left). Try again in 0:00:00. Subscribe to Hugging Face PRO to get 40 min of ZeroGPU quota a day - https://huggingface.co/subscribe/pro?from=ZeroGPU", "duration": 10, "visible": true, "title": "ZeroGPU quota exceeded"}
+Quota reached; stopping this Space without automatic retries.
+running gemma3_12b christmas
+error gemma3_12b christmas 1.748 Space inference error: {"error": "You have exceeded your free ZeroGPU quota (180s requested vs. 0s left). Try again in 0:00:00. Subscribe to Hugging Face PRO to get 40 min of ZeroGPU quota a day - https://huggingface.co/subscribe/pro?from=ZeroGPU", "duration": 10, "visible": true, "title": "ZeroGPU quota exceeded"}
+Quota reached; stopping this Space without automatic retries.
+running qwen3vl_4b christmas
+error qwen3vl_4b christmas 1.924 Model did not run: Sorry, I encountered an error: 'You have exceeded your ZeroGPU runs limit. Subscribe to Hugging Face PRO to get 40 min of ZeroGPU quota a day - https://huggingface.co/subscribe/pro?from=ZeroGPU'
+Quota reached; stopping this Space without automatic retries.
+running qwen3_4b christmas
+error qwen3_4b christmas 1.717 Space inference error: null
+running qwen3_4b autumn
+error qwen3_4b autumn 1.731 Space inference error: null
+running qwen3_4b year_end
+error qwen3_4b year_end 1.649 Space inference error: null
+running qwen3_4b new_year
+error qwen3_4b new_year 1.721 Space inference error: null
+running qwen3_8b christmas
+error qwen3_8b christmas 1.628 Space inference error: null
+running qwen3_8b autumn
+error qwen3_8b autumn 1.657 Space inference error: null
+running qwen3_8b year_end
+error qwen3_8b year_end 1.718 Space inference error: null
+running qwen3_8b new_year
+error qwen3_8b new_year 1.639 Space inference error: null
+running qwen3_14b christmas
+error qwen3_14b christmas 1.701 Space inference error: null
+running qwen3_14b autumn
+error qwen3_14b autumn 1.667 Space inference error: null
+running qwen3_14b year_end
+error qwen3_14b year_end 1.65 Space inference error: null
+running qwen3_14b new_year
+error qwen3_14b new_year 1.659 Space inference error: null

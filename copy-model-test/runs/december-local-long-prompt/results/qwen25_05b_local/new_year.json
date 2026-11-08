@@ -1,0 +1,90 @@
+{
+  "model_key": "qwen25_05b_local",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "space": null,
+  "theme_id": "new_year",
+  "input_case": {
+    "theme_id": "new_year",
+    "theme": "신년",
+    "slot": {
+      "id": "hero",
+      "layout": "hero",
+      "fields": [
+        "title",
+        "subtitle",
+        "cta"
+      ]
+    },
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "schedule_note": "네 콘셉트 모두 12월 한 달이라는 가상 비교 조건. 가을은 계절 감성 콘셉트, 신년은 새해맞이 준비이며 행사 기간을 다른 달로 바꾸지 않는다.",
+    "references": [
+      {
+        "reference_id": "osulloc-003#s01",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "차, 미식의 발견 | Beyond Tea, Into Gourmet 차는 미식을 완성하고, 때로는 미식 그 자체가 됩니다. 손종원 셰프가 오설록 대표 블렌디드 티로 제안하는 새로운 미식의 경험"
+      },
+      {
+        "reference_id": "osulloc-002#s01",
+        "brand": "osulloc",
+        "role": "participation_event",
+        "text": "2026년 11월 출석체크 조용히 다가온 연말의 페이지 한 잔으로 가다듬는 매일의 일상 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 이번 달 출석현황 총 0 회"
+      },
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "29cm-002#s04",
+        "brand": "29cm",
+        "role": "content",
+        "text": "레이스 RRACE RRACE는 도시의 일상복을 제안합니다. 기본에 충실한 디자인 위에 브랜드만의 분위기를 더해, 다양한 일상 속에서 자연스럽게 어우러지는 실루엣을 만듭니다. 우리는 옷을 통해 입는 사람 고유의 오라가 더욱 선명하게 드러나기를 바랍니다. 브랜드 홈 바로가기"
+      }
+    ]
+  },
+  "input_sha256": "2658f93abddfff42810a9477ecff4f3cbca12097e2fb0871f62f245cb16a9426",
+  "timestamp_utc": "2026-11-08T05:52:21.873682+00:00",
+  "transport": "local llama.cpp CPU, 4 threads, Apple Silicon arm64; no external inference",
+  "sampling": "Q4_K_M; temperature=0.7, top_p=0.95, seed=42, max_tokens=1024; no JSON grammar; no history; thinking disabled",
+  "runtime_version": "version: 0.9.0-dev (build 12199, commit 372dc5ca1)\nbuilt with AppleClang 21.0.0.21000101 for Darwin arm64",
+  "weights_filename": "qwen2.5-0.5b-instruct-q4_k_m.gguf",
+  "weights_sha256": "74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db",
+  "status": "ok",
+  "raw_output": "```json\n{\n  \"theme_id\": \"new_year\",\n  \"theme\": \"신년\",\n  \"slot\": {\n    \"id\": \"hero\",\n    \"layout\": \"hero\",\n    \"fields\": [\"title\", \"subtitle\", \"cta\"]\n  },\n  \"product_facts\": {\n    \"category\": \"차 및 티 선물\",\n    \"specific_sku\": \"랑드샤 베스트 티 4종 세트\",\n    \"price\": null,\n    \"discount\": null,\n    \"gift\": null,\n    \"event_period\": {\n      \"start\": \"12월 1일\",\n      \"end\": \"12월 31일\",\n      \"display\": \"12월 한 달\",\n      \"year\": null,\n      \"provenance\": \"사용자 지정 가상 실험 조건\"\n    }\n  },\n  \"schedule_note\": \"네 콘셉트 모두 12월 한 달이라는 가상 비교 조건. 가을은 계절 감성 콘셉트, 신년은 새해맞이 준비이며 행사 기간을 다른 달로 바꾸지 않는다.\",\n  \"references\": [\n    {\n      \"reference_id\": \"osulloc-003#s01\",\n      \"brand\": \"osulloc\",\n      \"role\": \"participation_event\",\n      \"text\": \"2026년 11월 출석체크 조용히 다가온 연말의 페이지 한 잔으로 가다듬는 매일의 일상 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 이번 달 출석현황 총 0 회\",\n      \"evidence\": \"참고 이유\"\n    },\n    {\n      \"reference_id\": \"29cm-002#s04\",\n      \"brand\": \"29cm\",\n      \"role\": \"content\",\n      \"text\": \"레이스 RRACE RRACE는 도시의 일상복을 제안합니다. 기본에 충실한 디자인 위에 브랜드만의 분위기를 더해, 다양한 일상 속에서 자연스럽게 어우러지는 실루엣을 만듭니다. 우리는 옷을 통해 입는 사람 고유의 오라가 더욱 선명하게 드러나기를 바랍니다. 브랜드 홈 바로가기\"\n    }\n  ]\n}\n```",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 590,
+    "prompt_tokens": 1219,
+    "total_tokens": 1809,
+    "prompt_tokens_details": {
+      "cached_tokens": 492
+    }
+  },
+  "timings": {
+    "cache_n": 492,
+    "prompt_n": 727,
+    "prompt_ms": 836.411,
+    "prompt_per_token_ms": 1.1504965612104538,
+    "prompt_per_second": 869.1899078323935,
+    "predicted_n": 590,
+    "predicted_ms": 4805.546,
+    "predicted_per_token_ms": 8.158821731748727,
+    "predicted_per_second": 122.56671770491843
+  },
+  "elapsed_wall_seconds": 5.646
+}

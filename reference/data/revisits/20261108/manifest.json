@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-08",
+  "entry_url": "https://www.osulloc.com/kr/ko",
+  "main_reference_id": "osulloc-004",
+  "event_listing_url": "https://www.osulloc.com/kr/ko/life/event/list/ing",
+  "event_ids": [
+    "osulloc-001",
+    "osulloc-002",
+    "osulloc-003"
+  ],
+  "event_numbers": [
+    "12413",
+    "12426",
+    "12412"
+  ],
+  "new_event_detail_count": 0,
+  "method": "Browser-rendered DOM, event list currently exposes exactly these three existing events. Initial state, no OCR or participation/coupon actions.",
+  "snapshots": [
+    "12413.html",
+    "12426.html",
+    "12412.html",
+    "listing.html"
+  ]
+}

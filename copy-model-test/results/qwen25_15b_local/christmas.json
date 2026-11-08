@@ -1,0 +1,69 @@
+{
+  "model_key": "qwen25_15b_local",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "space": null,
+  "theme_id": "christmas",
+  "input_case": {
+    "theme_id": "christmas",
+    "theme": "크리스마스",
+    "concept": "크리스마스 선물과 함께하는 티타임",
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "references": [
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "osulloc-003#s06",
+        "brand": "osulloc",
+        "role": "content",
+        "text": "Find my taste 차의 맛을 따라, 나와 선물할 사람의 취향을 골라보세요 혜택 1.티 단품&티 세트 최대 30% 혜택 손종원 셰프 협업 기념 10월 15일부터 11월 15일까지 진행하는 오설록몰 이벤트 미식의 순간을 함께할 티 단품 최대 30% 다양한 미식의 세계를 만들 티 세트"
+      }
+    ]
+  },
+  "input_sha256": "b315ea400ce8c5a88a362411f04f65c1020b05de96c3415f446c6df9575d77ef",
+  "timestamp_utc": "2026-11-08T05:53:01.670427+00:00",
+  "transport": "local llama.cpp CPU, 4 threads, Apple Silicon arm64; no external inference",
+  "sampling": "Q4_K_M; temperature=0.7, top_p=0.95, seed=42, max_tokens=1024; no JSON grammar; no history; thinking disabled",
+  "runtime_version": "version: 0.9.0-dev (build 12199, commit 372dc5ca1)\nbuilt with AppleClang 21.0.0.21000101 for Darwin arm64",
+  "weights_filename": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "weights_sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+  "status": "ok",
+  "raw_output": "{\n  \"theme_id\": \"christmas\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"랑드샤 베스트 티 4종 세트\",\n  \"subtitle\": \"크리스마스 선물로 티 타임 즐기세요\",\n  \"cta\": \"구매\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s06\"],\n  \"evidence\": \"참고한 표현 구조\",\n  \"details_needed\": []\n}",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 730,
+    "total_tokens": 870,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  },
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 730,
+    "prompt_ms": 2539.736,
+    "prompt_per_token_ms": 3.479090410958904,
+    "prompt_per_second": 287.43144956798665,
+    "predicted_n": 140,
+    "predicted_ms": 2115.472,
+    "predicted_per_token_ms": 15.219223021582735,
+    "predicted_per_second": 65.70637663840503
+  },
+  "elapsed_wall_seconds": 4.667
+}

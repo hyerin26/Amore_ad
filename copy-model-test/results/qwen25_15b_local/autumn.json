@@ -1,0 +1,69 @@
+{
+  "model_key": "qwen25_15b_local",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "space": null,
+  "theme_id": "autumn",
+  "input_case": {
+    "theme_id": "autumn",
+    "theme": "가을",
+    "concept": "행사기간은 12월이며, 가을의 여운을 떠올리는 감성 콘셉트",
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "references": [
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "osulloc-003#s04",
+        "brand": "osulloc",
+        "role": "content",
+        "text": "Chef Son's tea recipes 한 잔으로 즐기던 차를, 오늘은 한 접시의 맛으로 만나보세요. Honey Pear Baesuk | 삼다 꿀배숙 오설록 삼다 꿀배 티와 함께 한국 전통 후식인 배숙을 현대적인 감성으로 재해석한 레시피를 만들어봤어요. 삼다 꿀배숙 레시피 영상 재생 "
+      }
+    ]
+  },
+  "input_sha256": "99866f6ccf3b7708ad0d65f34d4ab68e3be414727cd167ed89f4ad9b3ffef103",
+  "timestamp_utc": "2026-11-08T05:53:06.338135+00:00",
+  "transport": "local llama.cpp CPU, 4 threads, Apple Silicon arm64; no external inference",
+  "sampling": "Q4_K_M; temperature=0.7, top_p=0.95, seed=42, max_tokens=1024; no JSON grammar; no history; thinking disabled",
+  "runtime_version": "version: 0.9.0-dev (build 12199, commit 372dc5ca1)\nbuilt with AppleClang 21.0.0.21000101 for Darwin arm64",
+  "weights_filename": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "weights_sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+  "status": "ok",
+  "raw_output": "```json\n{\n  \"theme_id\": \"autumn\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"랑드샤 베스트 티 4종 세트\",\n  \"subtitle\": \"가을의 여운을 풍기는 차세트\",\n  \"cta\": \"구매하기\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s04\"],\n  \"evidence\": \"참고한 ID와 표현 구조\",\n  \"details_needed\": []\n}\n```",
+  "finish_reason": "stop",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 727,
+    "total_tokens": 869,
+    "prompt_tokens_details": {
+      "cached_tokens": 323
+    }
+  },
+  "timings": {
+    "cache_n": 323,
+    "prompt_n": 404,
+    "prompt_ms": 1500.976,
+    "prompt_per_token_ms": 3.7152871287128715,
+    "prompt_per_second": 269.1582010638411,
+    "predicted_n": 142,
+    "predicted_ms": 2140.421,
+    "predicted_per_token_ms": 15.180290780141842,
+    "predicted_per_second": 65.8748909677115
+  },
+  "elapsed_wall_seconds": 3.645
+}

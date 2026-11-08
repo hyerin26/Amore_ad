@@ -1,0 +1,70 @@
+{
+  "model_key": "qwen3_8b",
+  "model": "Qwen/Qwen3-8B",
+  "space": "Qwen/Qwen3-Demo",
+  "host": "https://qwen-qwen3-demo.hf.space",
+  "endpoint": "add_message",
+  "remote_model": "qwen3-8b",
+  "sampling": "Official demo provider-backed endpoint; thinking_budget=1K; sampling and precision not exposed; fresh session per request; no user API key",
+  "theme_id": "christmas",
+  "timestamp_utc": "2026-11-08T05:45:40.531192+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_case": {
+    "theme_id": "christmas",
+    "theme": "크리스마스",
+    "slot": {
+      "id": "hero",
+      "layout": "hero",
+      "fields": [
+        "title",
+        "subtitle",
+        "cta"
+      ]
+    },
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "schedule_note": "네 콘셉트 모두 12월 한 달이라는 가상 비교 조건. 가을은 계절 감성 콘셉트, 신년은 새해맞이 준비이며 행사 기간을 다른 달로 바꾸지 않는다.",
+    "references": [
+      {
+        "reference_id": "osulloc-001#s01",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "블랙프라이데이 마감 블랙프라이데이 마감까지 남은 시간 12 DAYS : 00 HRS : 44 MINS : 41 SECS BLACK FRIDAY UP TO 50%"
+      },
+      {
+        "reference_id": "osulloc-003#s06",
+        "brand": "osulloc",
+        "role": "content",
+        "text": "Find my taste 차의 맛을 따라, 나와 선물할 사람의 취향을 골라보세요 혜택 1.티 단품&티 세트 최대 30% 혜택 손종원 셰프 협업 기념 10월 15일부터 11월 15일까지 진행하는 오설록몰 이벤트 미식의 순간을 함께할 티 단품 최대 30% 다양한 미식의 세계를 만들 티 세트 최대 30% [쿠폰1] 1만원 이상 구매 시, 20% 할인 쿠폰 / 3만원 이상 구매 시, 30% 할인 쿠폰 (삼다 꿀배 티, 제주 삼다 영귤 티, 제주 동백꽃 티, 피치 블랙티 해당) [쿠폰2] 3만원 이상 구매 시, 20% 할인 쿠폰 / 6만원 "
+      },
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "29cm-057#s05",
+        "brand": "29cm",
+        "role": "product_list",
+        "text": "SHOWCASE RECOMMEND ITEM 양말 뚱냥이 사쉐 홀리데이 시즌을 맞아 사랑스러운 뚱냥이가 빨간 양말 속으로 쏙 들어왔어요. 소중한 사람에게 따뜻한 선물을 전해보세요. 따뜻한 뚱냥이 바디필로우 뚱냥이와 함께하는 따뜻한 겨울, 수분을 온기로 바꾸는 원단이 포근함을 더해요."
+      }
+    ]
+  },
+  "input_sha256": "7240864a2d6e664a15a8678b4b85a043728b11cd360abc9c3343322df5bf9c48",
+  "status": "error",
+  "error": "Space inference error: null",
+  "elapsed_wall_seconds": 1.628
+}

@@ -1,15 +1,22 @@
 {
   "theme_id": "new_year",
   "theme": "신년",
-  "objective": "오설록 차·티 선물의 관심과 탐색 유도",
+  "objective": "랑드샤 베스트 티 4종 세트의 관심과 탐색 유도",
+  "schedule_note": "네 콘셉트 모두 12월 한 달이라는 가상 비교 조건. 가을은 계절 감성 콘셉트, 신년은 새해맞이 준비이며 행사 기간을 다른 달로 바꾸지 않는다.",
   "audience": "계절의 티타임 또는 선물을 찾는 성인 고객",
   "product_facts": {
     "category": "차 및 티 선물",
-    "specific_sku": null,
+    "specific_sku": "랑드샤 베스트 티 4종 세트",
     "price": null,
     "discount": null,
     "gift": null,
-    "event_period": null
+    "event_period": {
+      "start": "12월 1일",
+      "end": "12월 31일",
+      "display": "12월 한 달",
+      "year": null,
+      "provenance": "사용자 지정 가상 실험 조건"
+    }
   },
   "slots": [
     {
@@ -17,7 +24,7 @@
       "layout": "hero",
       "purpose": "시즌 첫 화면",
       "suggested_reference_ids": [
-        "osulloc-001#s01"
+        "osulloc-003#s01"
       ]
     },
     {
@@ -47,14 +54,14 @@
   ],
   "references": [
     {
-      "reference_id": "osulloc-001#s01",
+      "reference_id": "osulloc-003#s01",
       "brand": "osulloc",
-      "page_title": "오설록 일 년만에 돌아온,  오설록 블랙 프라이데이",
+      "page_title": "오설록 손종원 셰프와 함께한  블렌디드 티 ~33%",
       "role": "hero",
-      "url": "https://www.osulloc.com/kr/ko/life/event/view/12413",
-      "text": "블랙프라이데이 마감 블랙프라이데이 마감까지 남은 시간 12 DAYS : 00 HRS : 44 MINS : 41 SECS BLACK FRIDAY UP TO 50%",
-      "source_file": "pages/osulloc-001.json",
-      "source_sha256": "d2dfa064c446daac7b666f292687e75ee3dd574d5d2d02f484fb6b2a3496b2db"
+      "url": "https://www.osulloc.com/kr/ko/life/event/view/12412",
+      "text": "차, 미식의 발견 | Beyond Tea, Into Gourmet 차는 미식을 완성하고, 때로는 미식 그 자체가 됩니다. 손종원 셰프가 오설록 대표 블렌디드 티로 제안하는 새로운 미식의 경험",
+      "source_file": "pages/osulloc-003.json",
+      "source_sha256": "93a6a29fbe89438e2b74caa6952437ea3e197fa821bfd65eacce2a1f9e96ed85"
     },
     {
       "reference_id": "osulloc-003#s03",
@@ -85,6 +92,16 @@
       "text": "2026년 11월 출석체크 조용히 다가온 연말의 페이지 한 잔으로 가다듬는 매일의 일상 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 이번 달 출석현황 총 0 회",
       "source_file": "pages/osulloc-002.json",
       "source_sha256": "734bdff2063ec233f577d30caac6d16e0b4bc74eaffadfd2e9c7d086138eda41"
+    },
+    {
+      "reference_id": "osulloc-004#s02",
+      "brand": "osulloc",
+      "page_title": "오설록, 차와 제주가 선사하는 삶의 아름다움 | 오설록",
+      "role": "hero",
+      "url": "https://www.osulloc.com/kr/ko",
+      "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기",
+      "source_file": "pages/osulloc-004.json",
+      "source_sha256": "04b7557b09e165cfb6311e576bb5a3a72dea04f94f7712ed13062e990c1479d9"
     },
     {
       "reference_id": "29cm-002#s04",

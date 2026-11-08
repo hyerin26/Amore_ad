@@ -1,8 +1,8 @@
 {
   "reference_dir": "work/Amore_ad/reference/data",
   "design_dir": "work/tea_source/tea_ad-main",
-  "reference_page_count": 194,
-  "searchable_section_count": 576,
+  "reference_page_count": 195,
+  "searchable_section_count": 583,
   "design_contract": {
     "repository": "https://github.com/EunseongOH/tea_ad",
     "observed_commit": "21c378f97d07c0428ef49dd2bd8b2a006b55026a",
@@ -78,7 +78,7 @@
     "tone_provenance": "차분하고 따뜻한 문체는 실험용 지침. UX_WRITING.md의 해요체 규칙은 업무 UI용이며 공식 소비자 카피 지침으로 간주하지 않음.",
     "apply_policy": "초안만 출력. 기존 구좌·상품·가격·localStorage·Undo 이력은 수정하지 않음."
   },
-  "prompt_sha256": "5909d77a7f3695b5822a65506c0b0e704ea7269a7b5380ac616edf528ac74de6",
+  "prompt_sha256": "d6c8e478fc15700286f3b4a4f8ed58190cd34d070f86272941225384a86abe28",
   "reference_dates": "기존 수집 2026-11-04, 추가 2026-11-08",
   "no_ocr": true
 }

@@ -1,0 +1,1116 @@
+<main class="event event_view" id="container">
+<h2 class="a11y_hidden">이벤트 상세</h2>
+<div class="event_view_wrap">
+<!--1. event_view_detail-->
+<section class="event_view_detail">
+<style>
+/* common */
+.event_wrap * { box-sizing: border-box; }
+.event_wrap.layout_max { padding: 0; }
+.event_wrap img,.event_wrap a { display: block; width: 100%; max-width: 100%; }
+.event_wrap img { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; cursor: default; width: 100%; height: auto; }
+.event_wrap a { position: absolute; z-index: 3; -webkit-tap-highlight-color: transparent; }
+.event_wrap button { -webkit-tap-highlight-color: transparent; }
+.event_wrap .w_view { display: block; }
+.event_wrap .m_view { display: none; }
+.event_wrap .evt_header { position: relative; }
+.event_wrap .evt_cont { position: relative; max-width: 860px; margin: 0 auto; }
+.event_wrap .evt_cont.cont_450 { max-width: 450px; }
+.event_wrap .evt_cont.cont_600 { max-width: 600px; }
+.event_wrap .evtbox,.event_wrap .prdbox, .event_wrap .oneday { position: relative; }
+.event_wrap .swiper-pagination {z-index:1;line-height:0;}
+@media all and (max-width:768px) {
+    .event_wrap .w_view { display: none; }
+    .event_wrap .m_view { display: block; }
+    .event_wrap .evt_cont.cont_450, 
+    .event_wrap .evt_cont.cont_750 { max-width: 100%; }
+}
+
+/*event wrap ------------------------ */
+.event_wrap {
+    --tab-bg-color: #191919;
+    --tab-height: 99px;
+    --tab-font-size: 28px;
+    --tab-padding: 0;
+    max-width: 750px;
+    background-color: #FFF;
+    overflow-x: hidden;
+}
+@media all and (max-width:1024px) {
+    .event_wrap { 
+        --tab-height: 70px; 
+        --tab-font-size: 19.6px; 
+        --tab-padding: 0; 
+    }
+}
+@media all and (max-width:768px) {
+    .event_wrap { 
+        --tab-height: 49.5px; 
+        --tab-font-size: 14px; 
+        --tab-padding: 0; 
+    }
+}
+/*header ------------------------ */
+.event_wrap .evt_header { left: auto; transform: none; width: 100%; max-width: 100%; margin: 0 auto; aspect-ratio: 750/700; background: linear-gradient(180deg, #767E82 10%, #AAA7A8 30%, #918D8B 50%, #545754 70%, #4E422E 90%); }
+
+/* sticky tab ------------------------ */
+.event_wrap .sticky_tab { position: relative; height: var(--tab-height); background: transparent; }
+.event_wrap .sticky_tab.fixed { z-index: 9; position: fixed; top: calc(var(--header-height)); left: 0; width: calc(100% - var(--scroll-lock-gap, 0px)); transition: top 0.3s; }
+.event_wrap .sticky_tab.fixed.hide { top: -170px !important; }
+.open_topbanner .event_wrap .sticky_tab.fixed { top: calc(var(--header-height) + var(--top-banner-height)); }
+.event_wrap .sticky_tab_inner { z-index: 1; position: relative; width: 100%; max-width: 750px; height: var(--tab-height); margin: 0 auto; padding: 0 40px; overflow: visible; background: var(--tab-bg-color); }
+.event_wrap .sticky_tab_item { position: relative; width: auto; margin: 0; margin-right: 60px; font-size: var(--tab-font-size); padding: var(--tab-padding); color: #fff; line-height: var(--tab-height); white-space: nowrap; cursor: pointer; text-align: center; letter-spacing: -0.02em; opacity: 0.7; }
+.event_wrap .sticky_tab_item.active { font-weight: var(--font-weight-bold); opacity: 1; }
+.event_wrap .sticky_tab_bar { position: absolute; bottom: 0; height: 4px; background: #fff; transition: transform 0.3s ease, width 0.3s ease; }
+@media all and (max-width:768px) {
+    .event_wrap .sticky_tab_inner { width: 100%; padding: 0 28px; }
+    .event_wrap .sticky_tab_list { gap: 0; }
+    .event_wrap .sticky_tab_item { margin-right: 40px;}
+    .event_wrap .sticky_tab_bar { height: 2px; }
+}
+@media all and (max-width:480px) {
+    .event_wrap .sticky_tab_inner { padding: 0 20px; }
+    .event_wrap .sticky_tab_item { margin-right: 30px; letter-spacing: -0.04em; }
+}
+
+/* section1 ------------------------ */
+.event_wrap .evtSect_1 .bg_1 {background: #F7EDC0;}
+.event_wrap .evtSect_1 .bg_2 {background: #F4FAE3;}
+.evtSect_1 .link_00 {left:0;top:0;width:100%;height:100%;}
+.evtSect_1 .evt_slide_wrap {position: absolute;left:50%;transform:translateX(-50%);top:calc((447/1780)*100%);width:calc((650/750)*100% - 2px);height:calc((1256/1780)*100%);overflow:hidden;}
+.evtSect_1 .img_chef {display:block;position: absolute;left:0;top:calc((452/2810)*100%);width:100%;height:auto;pointer-events:none;}
+.evtSect_1 .img_chef::-webkit-media-controls {display:none !important;}
+.evtSect_1 .img_chef::-webkit-media-controls-start-playback-button {display:none !important;-webkit-appearance:none;}
+.evtSect_1 .swiper-container {position: relative;left:-1px;width:calc(100% + 2px);}
+.evtSect_1 .swiper-pagination {position:absolute;bottom:0;width:100%;}
+.evtSect_1 .swiper-pagination-bullet {width:16px;height:16px;margin:0 7px;background-color: #4A9981;opacity:0.45;}
+.evtSect_1 .swiper-pagination-bullet-active {background-color: #2A564F;opacity:1;}
+@media all and (max-width: 768px) {
+    .evtSect_1 .swiper-pagination-bullet {width:10px;height:10px;margin:0 5px;}
+}
+@media all and (max-width: 480px) {
+    .evtSect_1 .swiper-pagination-bullet {width:8px;height:8px;margin:0 4px;}
+}
+
+/* section2 ------------------------ */
+.event_wrap .evtSect_2 .bg_1 {background: #000;} 
+.event_wrap .evtSect_2 .bg_2 {background: #B9CFFD;} 
+.event_wrap .evtSect_2 .bg_3 {background: #D8E3F9;} 
+.event_wrap .evtSect_2 .bg_4 {background: #EAF0FB;} 
+.event_wrap .evtSect_2 .bg_5 {background: #F7F7F8;} 
+.event_wrap .evtSect_2 .bg_6 {background: #FFC485;} 
+.event_wrap .evtSect_2 .bg_7 {background: #FFD3A5;} 
+.event_wrap .evtSect_2 .bg_8 {background: #FFE6CC;} 
+.event_wrap .evtSect_2 .bg_9 {background: #FFF3E5;} 
+.event_wrap .evtSect_2 .link_00 {right:2%;bottom:5%;width:50%;height:20%;}
+.evt_recipes .notice_btn_area { --arrow-x: 0; }
+.evt_recipes .notice_btn_area.title_01_1 { --arrow-x: 411; }
+.evt_recipes .notice_btn_area.title_01_2 { --arrow-x: 637; }
+.evt_recipes .notice_btn_area.title_02 { --arrow-x: 354; }
+.evt_recipes .notice_btn_area.title_03 { --arrow-x: 227; }
+.evt_recipes .btn_evtnotice { padding: 0; border: 0; background: transparent; cursor: pointer; }
+.evt_recipes .btn_evtnotice:after { content: ""; position: absolute; left: calc((var(--arrow-x) / 750)*100%); top: calc((45/140)*100%); width: calc((46/750)*100%); aspect-ratio: 1/1; border-radius: 50%; background: #FFF url(data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%2724%27%20height=%2713%27%20fill=%27none%27%20viewBox=%270%200%2024%2013%27%3E%3Cpath%20stroke=%27%23191919%27%20stroke-width=%272%27%20d=%27M22.673%2011.375c-4.49-3.644-6.836-5.919-11-10l-11%2010%27/%3E%3C/svg%3E) no-repeat center / calc((24/46)*100%) auto; transform: rotate(180deg); }
+.evt_recipes .notice_btn_area.active .btn_evtnotice:after { transform: none; }
+.evt_recipes .evt_video { position: absolute; left: calc((67.5/750)*100%); width: calc((615/750)*100%); aspect-ratio: 615/1093; overflow: hidden; }
+.evt_recipes .evt_video.video_01 { top: calc((303/1784)*100%); background: #B9CFFD; }
+.evt_recipes .evt_video.video_02 { top: calc((413/1890)*100%); background: #FFC485; }
+.evt_recipes .evt_video video { display: block; width: 100%; height: 100%; object-fit: cover; }
+.evt_recipes .evt_video .btn_play { z-index: 2; position: absolute; left: 0; top: 0; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.evt_recipes .evt_video .btn_play:before { content: ""; position: absolute; left: 50%; top: 50%; width: calc((120/615)*100%); aspect-ratio: 1/1; border-radius: 50%; background: rgba(0,0,0,0.45); transform: translate(-50%, -50%); }
+.evt_recipes .evt_video .btn_play:after { content: ""; position: absolute; left: 50%; top: 50%; width: calc((30/615)*100%); aspect-ratio: 30/36; background: #FFF; clip-path: polygon(0 0, 100% 50%, 0 100%); transform: translate(-35%, -50%); }
+.evt_recipes .evt_video.playing .btn_play { display: none; }
+
+/* section3 ------------------------ */
+.event_wrap .evtSect_3 {background: #F7EDC0;} 
+.evtSect_3 .story_slide { position: absolute; left: 0; top: calc((384/955)*100%); width: 100%; }
+.evtSect_3 .story_slide .swiper-container { padding: calc((20/750)*100%) 0 calc((30/750)*100%); }
+.evtSect_3 .story_slide .swiper-slide { width: calc((481/750)*100%); }
+.evtSect_3 .story_slide .swiper-slide:nth-child(even) { padding-top: calc((47/750)*100%); }
+.evtSect_3 .story_slide .link_00 { left: 0; top: 0; width: 100%; height: 100%; }
+.evtSect_3 .story_slide .swiper-slide img { width: calc((561/481)*100%); max-width: none; margin: calc((-36/481)*100%) 0 0 calc((-36/481)*100%); }
+.evtSect_3 .story_slide .swiper-slide:nth-child(even) img { width: calc((557/477)*100%); margin: calc((-36/477)*100%) 0 0 calc((-36/477)*100%); }
+.evtSect_3 .notice_btn_area img {background: #F7EDC0;} 
+.evtSect_3 .evt_card_wrap { position: relative; }
+.evtSect_3 .evt_card_wrap:after { content: ""; z-index: 4; position: absolute; left: calc((40/750)*100%); right: calc((40/750)*100%); top: 0; bottom: 0; margin-top: calc((50/750)*100%); box-shadow: min(1.0667vw, 8px) min(1.0667vw, 8px) min(5.3333vw, 40px) 0 rgba(0,0,0,0.1); pointer-events: none; }
+.event_wrap .evtSect_3 .link_mypage { left: calc((271/750)*100%); top: calc((50/320)*100%); width: calc((215/750)*100%); height: calc((62/320)*100%); }
+.event_wrap .evtSect_3 .link_search { left: calc((40/750)*100%); top: calc((131/320)*100%); width: calc((670/750)*100%); height: calc((106/320)*100%); }
+/* 동의 체크박스 */
+.event_wrap .evtSect_3 .inputbox { position: absolute; top: calc((503/1148)*100%); height: calc((50/1148)*100%); }
+.event_wrap .evtSect_3 .inputbox.agree_sms { --box-w: 282; left: calc((66/750)*100%); width: calc((282/750)*100%); }
+.event_wrap .evtSect_3 .inputbox.agree_privacy { --box-w: 332; left: calc((348/750)*100%); width: calc((332/750)*100%); }
+.event_wrap .evtSect_3 .inputbox input { position: absolute; left: 0; top: 0; width: 1px; height: 1px; margin: 0; opacity: 0; }
+.event_wrap .evtSect_3 .inputbox label { display: block; position: relative; width: 100%; height: 100%; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.event_wrap .evtSect_3 .inputbox label:before { content: ""; position: absolute; left: calc((10 / var(--box-w))*100%); top: 50%; width: calc((27 / var(--box-w))*100%); aspect-ratio: 27/19; transform: translateY(-50%); background: url(data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%2727%27%20height=%2719%27%20fill=%27none%27%20viewBox=%270%200%2027%2019%27%3E%3Cpath%20stroke=%27%23CFD4C8%27%20stroke-linecap=%27round%27%20stroke-linejoin=%27round%27%20stroke-width=%274%27%20d=%27M2%209.5%209.962%2017%2025%202%27/%3E%3C/svg%3E) no-repeat center / 100% 100%; }
+.event_wrap .evtSect_3 .inputbox input:checked + label:before { background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%2727%27%20height=%2719%27%20fill=%27none%27%20viewBox=%270%200%2027%2019%27%3E%3Cpath%20stroke=%27%23007067%27%20stroke-linecap=%27round%27%20stroke-linejoin=%27round%27%20stroke-width=%274%27%20d=%27M2%209.5%209.962%2017%2025%202%27/%3E%3C/svg%3E); }
+.event_wrap .evtSect_3 .inputbox input:focus-visible + label { outline: 2px solid #007067; outline-offset: 2px; }
+.event_wrap .evtSect_3 .btn_agree { position: absolute; left: calc((41/750)*100%); top: calc((992/1148)*100%); width: calc((669/750)*100%); height: calc((106/1148)*100%); padding: 0; border: 0; background: transparent; cursor: pointer; }
+
+/* section4 ------------------------ */
+.event_wrap .evtSect_4 {background:#FAE6F7;}
+.evtSect_4 .notice_btn_area img {background:#FAE6F7;}
+.event_wrap .evtSect_4 .bg_1 {background:#000;}
+.event_wrap .evtSect_4 .btn_coupon { position: absolute; left: calc((40/750)*100%); bottom: calc((20/1170)*100%); width: calc((670/750)*100%); height: calc((105/1170)*100%); padding: 0; border: 0; background: transparent; cursor: pointer; } 
+
+/* section5 ------------------------ */
+.event_wrap .evtSect_5 a {left:calc((28/750)*100%);width:calc((694/750)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 a {height:calc((340/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 .link_01 {top:calc((421/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 .link_02 {top:calc((781/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 .link_03 {top:calc((1141/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 .link_04 {top:calc((1501/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 .link_05 {top:calc((1861/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-1 .link_06 {top:calc((2221/2581)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-2 a {height:calc((340/1576)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-2 .link_01 {top:calc((0/1576)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-2 .link_02 {top:calc((360/1576)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-2 .link_03 {top:calc((720/1576)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-2 .link_04 {top:calc((1080/1576)*100%);}
+.event_wrap .evtSect_5 .prdbox_01-2 .link_05 {top:calc((1470/1576)*100%);height:calc((106/1576)*100%);}
+.event_wrap .evtSect_5 .prdbox_03 a {height:calc((340/1812)*100%);}
+.event_wrap .evtSect_5 .prdbox_03 .link_01 {top:calc((146/1812)*100%);}
+.event_wrap .evtSect_5 .prdbox_03 .link_02 {top:calc((506/1812)*100%);}
+.event_wrap .evtSect_5 .prdbox_03 .link_03 {top:calc((866/1812)*100%);}
+.event_wrap .evtSect_5 .prdbox_03 .link_04 {top:calc((1226/1812)*100%);}
+.event_wrap .evtSect_5 .prdbox_03 .link_05 {top:calc((1636/1812)*100%);height:calc((106/1812)*100%);}
+.event_wrap .evtSect_5 .prdbox_04 a {height:calc((340/1903)*100%);}
+.event_wrap .evtSect_5 .prdbox_04 .link_01 {top:calc((190/1903)*100%);}
+.event_wrap .evtSect_5 .prdbox_04 .link_02 {top:calc((550/1903)*100%);}
+.event_wrap .evtSect_5 .prdbox_04 .link_03 {top:calc((910/1903)*100%);}
+.event_wrap .evtSect_5 .prdbox_04 .link_04 {top:calc((1270/1903)*100%);}
+.event_wrap .evtSect_5 .prdbox_04 .link_05 {top:calc((1680/1903)*100%);height:calc((106/1903)*100%);}
+
+/* footer ------------------------ */
+.event_wrap .evt_footer, .event_wrap .evt_footer .notice_btn_area img {background:#e6e6e6;}
+.event_wrap .evt_footer .evt_cont {position: relative;}
+.event_wrap .notice_btn_area {position: relative;}
+.event_wrap .btn_evtnotice { z-index: 3; position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
+.event_wrap .img_expand { z-index: 2; position: absolute; left: 0; top: 0; width: 100%; height: 100%; opacity: 0; }
+.notice_btn_area.active .img_expand { opacity: 1; }
+.evt_footer .notice_btn_area {max-width: 750px;}
+.evt_footer .notice_detail_area { max-width: 860px;}
+.evt_notice_wrap {max-width:860px;padding-bottom:calc((60/860)*100%);padding-left: calc((85/860)*100%);padding-right:calc((60/860)*100%);}
+.evt_notice_wrap .evt_notice_title {display:flex;margin-bottom: calc((29/715)*100%);}
+.evt_notice_wrap .evt_notice_title span {display:inline-flex;font-weight:var(--font-weight-bold);font-size:25px;line-height:1;letter-spacing: -0.05em;}
+.evt_notice_wrap .evt_notice_title .icon {width:calc((25/715)*100%);aspect-ratio: 1/1;margin-right: calc((9/715)*100%);}
+.evt_notice_wrap .notice_para {padding-left:calc((10/715)*100%);color:#626262;letter-spacing: -0.03em;}
+.evt_notice_wrap .notice_para_title {margin-bottom: calc((18/715)*100%);font-weight:var(--font-weight-bold);font-size:20px;color:#262626;}
+.evt_notice_wrap .notice_para ul {padding-left: calc((14/705)*100%);margin-bottom: calc((33/705)*100%);}
+.evt_notice_wrap .notice_para li {position:relative;margin-bottom:calc((8/705)*100%);font-size: 19px;line-height:1.526;word-break: keep-all;overflow-wrap: break-word;}
+.evt_notice_wrap .notice_para li:before {position:absolute;left: calc(-1 * (12/705)*100%);top:0;content:"•";display:inline-block;width: 0.7em;height:calc((1em * 1.526) - 2px);line-height:calc(1em + 2px);color:#262626;}
+.evt_notice_wrap .notice_para .inner_dash_list {margin-top: 9px;}
+.evt_notice_wrap .notice_para .inner_dash_list li { font-size: 17px; line-height: 1.588;}
+.evt_notice_wrap .notice_para .inner_dash_list li:before { content:"-";height:calc((1em * 1.588) - 1px);}
+@media all and (max-width: 768px) {
+    .evt_notice_wrap {padding-bottom:calc((55/750)*100%);padding-left: calc((30/750)*100%);padding-right:calc((30/750)*100%);}
+    .evt_notice_wrap .evt_notice_title span {font-size:calc((24/750)*100vw);font-size:clamp(12px, calc((24/750)*100vw), 24px);}
+    .evt_notice_wrap .notice_para_title {font-size:calc((20/750)*100vw);font-size:clamp(11px, calc((20/750)*100vw), 20px);}
+    .evt_notice_wrap .notice_para li {font-size:calc((19/750)*100vw);font-size:clamp(10px, calc((19/750)*100vw), 19px);}
+    .evt_notice_wrap .notice_para .inner_dash_list li {font-size:calc((17/750)*100vw);font-size:clamp(8.5px, calc((17/750)*100vw), 17px);}
+}
+
+/* 이벤트 전용 토스트 ------------------------ */
+.event_wrap .x_toast_stack { width: min(calc((690/750)*100vw), 690px); max-width: none; }
+.event_wrap .x_toast.evt_toast { justify-content: flex-start; min-height: clamp(48px, 10.6667vw, 80px); padding: 0 clamp(18px, 5.0667vw, 38px); border-radius: clamp(4px, 1.0667vw, 8px); background: rgba(0,0,0,0.85); font-size: clamp(11px, 3.2vw, 24px); line-height: 1.4; color: #DADADA; letter-spacing: -0.045em;}
+.event_wrap .x_toast.evt_toast .x_toast_text { align-items: center; column-gap: clamp(8px, 2vw, 15px); color: #DADADA; }
+.event_wrap .x_toast.evt_toast .x_toast_text .design-system-icons { flex: none; width: clamp(14px, 3.3333vw, 25px); aspect-ratio: 25/17; margin: 0; font-size: 0; color: transparent; background: url(data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%2725%27%20height=%2717%27%20fill=%27none%27%20viewBox=%270%200%2025%2017%27%3E%3Cpath%20stroke=%27%23dadada%27%20stroke-linecap=%27round%27%20stroke-linejoin=%27round%27%20stroke-width=%272%27%20d=%27M1%208.5%208.962%2016%2024%201%27/%3E%3C/svg%3E) no-repeat center / contain; }
+
+/*notipop ------------------------ */
+.ui_dialog .dialog_box { max-width: 400px; }
+.ui_dialog .dialog_header { margin-bottom: 0; padding-top: 1em; padding-bottom: 0; border: 0; font-size: 1.142em; color: #333; }
+.ui_dialog .dialog_btnbox button { border-radius: 0; font-size: 1.07em; }
+.dialog_message { min-height: 1px; color: #333; line-height: 1.7; letter-spacing: -0.035em;}
+
+/*STATE ------------------------ */
+
+</style>
+<div class="event_wrap layout_full">
+<div class="layout_full evt_header_wrap">
+<div class="evt_header">
+<img alt="" draggable="false" height="700" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/evt_top_2.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/evt_top_2.webp" width="750"/>
+<h2 class="a11y_hidden">차, 미식의 발견 | Beyond Tea, Into Gourmet</h2>
+<p class="a11y_hidden">차는 미식을 완성하고, 때로는 미식 그 자체가 됩니다. 손종원 셰프가 오설록 대표 블렌디드 티로 제안하는 새로운 미식의 경험</p>
+</div>
+</div>
+<div class="sticky_tab_space" style="height: 0px;"></div>
+<div class="sticky_tab sticky_tab_main">
+<div class="sticky_tab_inner swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-free-mode">
+<div class="sticky_tab_list swiper-wrapper">
+<div class="sticky_tab_item swiper-slide active swiper-slide-active" data-button-index="1">BEST Tea 4</div>
+<div class="sticky_tab_item swiper-slide swiper-slide-next" data-button-index="2">손종원 레시피</div>
+<div class="sticky_tab_item swiper-slide" data-button-index="3">리뷰 이벤트</div>
+<div class="sticky_tab_item swiper-slide" data-button-index="4">30% 쿠폰&amp;사은품</div>
+<div class="sticky_tab_bar"></div>
+</div>
+<span aria-atomic="true" aria-live="assertive" class="swiper-notification"></span></div>
+</div>
+<div class="evtSect evtSect_1" id="section1">
+<div class="evt_cont bg_1">
+<img alt="" draggable="false" height="1780" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/01.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/01.webp" width="750"/>
+<h3 class="a11y_hidden">4 Best - Selling teas</h3>
+<p class="a11y_hidden">배와 꿀의 달큰함, 영귤의 산뜻함, 동백꽃의 화사함, 복숭아의 부드러운 향. 
+                <br/>계절과 기분에 따라 골라 마시는 오설록의 네 가지 차를 만나보세요.
+            </p>
+<ul class="a11y_hidden">
+<li>HONEY PEAR TEA 삼다 꿀배 티 : 달큰한 배 향이 생각날 때 — 배와 꿀의 향미를 담은 제주 후발효차. 마시는 한 잔에서 따뜻한 후식까지.</li>
+<li>SAMDA TANGERINE TEA 제주 삼다 영귤 티 : 산뜻하게 기분을 바꾸고 싶을 때 — 제주 영귤의 향미를 더한 후발효차. 차로도, 요리의 향으로도 즐겨보세요.</li>
+<li>JEJU CAMELLIA TEA 제주 동백꽃 티 : 꽃과 과일 향을 함께 즐기고 싶을 때 — 후발효차와 홍차에 동백꽃 향을 더한 차. 화사한 꽃 향과 새콤달콤한 여운.</li>
+<li>PEACH BLACK TEA 피치 블랙티 : 복숭아 향의 홍차가 생각날 때 — 홍차와 후발효차를 블렌딩한 티. 달콤한 향 뒤로 이어지는 홍차의 맛.</li>
+</ul>
+<div class="evt_slide_wrap" id="slide01">
+<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-2599.97px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_01.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_01.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15243">
+<span class="a11y_hidden">삼다 꿀배 티 보러 가기</span>
+</a>
+</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_02.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_02.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5662">
+<span class="a11y_hidden">제주 삼다 영귤 티 보러 가기</span>
+</a>
+</div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_03.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_03.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5664">
+<span class="a11y_hidden">제주 동백꽃 티 보러 가기</span>
+</a>
+</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_04.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_04.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15244">
+<span class="a11y_hidden">피치 블랙티 보러 가기</span>
+</a>
+</div>
+<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_01.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_01.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15243">
+<span class="a11y_hidden">삼다 꿀배 티 보러 가기</span>
+</a>
+</div>
+<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_02.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_02.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5662">
+<span class="a11y_hidden">제주 삼다 영귤 티 보러 가기</span>
+</a>
+</div>
+<div class="swiper-slide" data-swiper-slide-index="2">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_03.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_03.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5664">
+<span class="a11y_hidden">제주 동백꽃 티 보러 가기</span>
+</a>
+</div>
+<div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_04.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_04.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15244">
+<span class="a11y_hidden">피치 블랙티 보러 가기</span>
+</a>
+</div>
+<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_01.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_01.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15243">
+<span class="a11y_hidden">삼다 꿀배 티 보러 가기</span>
+</a>
+</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_02.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_02.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5662">
+<span class="a11y_hidden">제주 삼다 영귤 티 보러 가기</span>
+</a>
+</div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_03.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_03.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5664">
+<span class="a11y_hidden">제주 동백꽃 티 보러 가기</span>
+</a>
+</div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3">
+<img alt="" height="1180" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_04.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/slide_04.webp" width="650"/>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15244">
+<span class="a11y_hidden">피치 블랙티 보러 가기</span>
+</a>
+</div></div>
+<span aria-atomic="true" aria-live="assertive" class="swiper-notification"></span></div>
+<div class="swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+</div>
+</div>
+<div class="evt_cont bg_2">
+<img alt="" draggable="false" height="2810" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/02.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/02.webp" width="750"/>
+<video aria-hidden="true" autoplay="" class="img_chef" controlslist="nodownload nofullscreen noremoteplayback noplaybackrate" disablepictureinpicture="" disableremoteplayback="" height="750" loop="" muted="" playsinline="" poster="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/chef_son.webp" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section01/chef_son.mp4" width="750"></video>
+<h3 class="a11y_hidden">When Chef Son meets OSULLOC</h3>
+<p class="a11y_hidden">한국의 식문화를 새로운 시각으로 풀어내는 손종원 셰프. 
+                <br/>이번에는 오설록의 차로 배숙과 샐러드 드레싱을 만들었습니다.
+            </p>
+<div class="a11y_hidden">
+<p>“제 음식은 전통을 이해하고 존중하는 것에서 시작됩니다.”</p>
+<p>The Chef's point of view — 
+                    손종원 셰프는 배를 익혀 만드는 한국의 전통 후식 배숙을 삼다 꿀배 티로 다시 풀어내고, 
+                    즐겨 먹는 샐러드에는 제주 삼다 영귤 티를 활용한 드레싱을 더했습니다.
+                    달큰한 후식과 산뜻한 한 접시. 두 레시피의 시작에는 오설록 티가 있습니다.
+                </p>
+</div>
+</div>
+</div>
+<div class="evtSect evtSect_2" id="section2">
+<div class="evt_cont bg_1">
+<img alt="" draggable="false" height="340" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/01.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/01.webp" width="750"/>
+<h3 class="a11y_hidden">Chef Son's tea recipes</h3>
+<p class="a11y_hidden">한 잔으로 즐기던 차를, 오늘은 한 접시의 맛으로 만나보세요.</p>
+</div>
+<div class="evt_recipes">
+<div class="evt_cont bg_2">
+<img alt="" draggable="false" height="1784" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/02.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/02.webp" width="750"/>
+<h4 class="a11y_hidden">Honey Pear Baesuk | 삼다 꿀배숙</h4>
+<p class="a11y_hidden">오설록 삼다 꿀배 티와 함께 한국 전통 후식인 배숙을 현대적인 감성으로 재해석한 레시피를 만들어봤어요.</p>
+<div class="evt_video video_01">
+<video height="1093" playsinline="" poster="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/video_01.webp" preload="metadata" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/video_01.mp4" width="615"></video>
+<button class="btn_play" type="button"><span class="a11y_hidden">삼다 꿀배숙 레시피 영상 재생</span></button>
+</div>
+</div>
+<div class="evt_noti_wrap bg_3">
+<div class="evt_cont notice_btn_area title_01_1">
+<img alt="" draggable="false" height="140" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_01-1.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_01-1.webp" width="750"/>
+<h5 class="a11y_hidden">Honey Pear Tea</h5>
+<button class="btn_evtnotice" type="button">
+<span class="a11y_hidden">삼다 꿀배 티 자세히 보기</span>
+</button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" draggable="false" height="357" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_01.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_01.webp" width="750"/>
+<div class="a11y_hidden">
+<ul>
+<li>Base : 제주 후발효차</li>
+<li>Ingredients : 배·꿀</li>
+<li>Tasting Notes : 달큰한 배 향미</li>
+<li>Pairing : 디저트, 샌드위치</li>
+</ul>
+</div>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15243">
+<span class="a11y_hidden">삼다 꿀배 티 보러 가기</span>
+</a>
+</div>
+</div>
+<div class="evt_noti_wrap bg_4">
+<div class="evt_cont notice_btn_area title_02">
+<img alt="" draggable="false" height="140" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_02.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_02.webp" width="750"/>
+<h5 class="a11y_hidden">All You Need</h5>
+<button class="btn_evtnotice" type="button">
+<span class="a11y_hidden">레시피 재료 자세히 보기</span>
+</button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" draggable="false" height="319" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_02.png?ver=261013" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_02.webp?ver=261013" width="750"/>
+<div class="a11y_hidden">
+<h6>꿀배숙 재료</h6>
+<ul>
+<li>삼다 꿀배 티 : 2개</li>
+<li>물 : 500g</li>
+<li>황설탕 : 60g</li>
+<li>꿀 : 30g</li>
+<li>배 : 150g</li>
+</ul>
+<h6>삼다 꿀배 티 시럽 재료</h6>
+<ul>
+<li>삼다 꿀배 티 : 3개</li>
+<li>물 : 80g</li>
+<li>물엿 또는 꿀 : 150g</li>
+<li>설탕 : 50g</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="evt_noti_wrap bg_5">
+<div class="evt_cont notice_btn_area title_03">
+<img alt="" draggable="false" height="140" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_03.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_03.webp" width="750"/>
+<h5 class="a11y_hidden">How to</h5>
+<button class="btn_evtnotice" type="button">
+<span class="a11y_hidden">레시피 자세히 보기</span>
+</button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" draggable="false" height="826" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_03.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_03.webp" width="750"/>
+<div class="a11y_hidden">
+<ol>
+<li>물 500g에 황설탕과 꿀을 넣고 끓입니다.</li>
+<li>끓기 시작하면 삼다 꿀배 티 2개를 넣어 15분간 충분히 우립니다.</li>
+<li>우려낸 티를 넣고 함께 끓이면서, 배를 넣고 부드럽게 조린 다음, 실온에서 천천히 식힙니다.</li>
+<li>별도의 물 80g에 삼다 꿀배 티 3개를 15분간 우립니다.</li>
+<li>물엿 또는 꿀, 설탕을 끓인 뒤, 우린 차와 섞어 삼다 꿀배 티 시럽을 만듭니다.</li>
+<li>잘 식은 꿀배숙에 삼다 꿀배 티 시럽을 더해 마무리합니다.</li>
+</ol>
+<p>TIP : 삼다 꿀배 티 시럽 30g(2큰술)에 물 200ml만을 더해 배와 함께 조리면 한층 간편하게 삼다 꿀배숙을 완성할 수 있어요.</p>
+<p>TIP : 삼다 꿀배 티 시럽은 우유에 타 밀크티로 즐기거나, 환절기 따뜻한 차, 아이스크림 등 디저트, 샌드위치 등 빵류와 곁들여 다양하게 활용하세요.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="evt_recipes">
+<div class="evt_cont bg_6">
+<img alt="" draggable="false" height="1890" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/03.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/03.webp" width="750"/>
+<h4 class="a11y_hidden">Samda Tangerine tea dressing | 삼다 영귤 티 드레싱</h4>
+<p class="a11y_hidden">제가 가장 즐겨 먹는 샐러드에 제주 삼다 영귤 티를 더해 어떻게 더 맛있게 먹을 수 있을지 고민해봤어요.</p>
+<div class="evt_video video_02">
+<video height="1093" playsinline="" poster="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/video_02.webp" preload="metadata" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/video_02.mp4" width="615"></video>
+<button class="btn_play" type="button"><span class="a11y_hidden">삼다 영귤 티 드레싱 레시피 영상 재생</span></button>
+</div>
+</div>
+<div class="evt_noti_wrap bg_7">
+<div class="evt_cont notice_btn_area title_01_2">
+<img alt="" draggable="false" height="140" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_01-2.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_01-2.webp" width="750"/>
+<h5 class="a11y_hidden">Jeju Samda Tangerine Tea</h5>
+<button class="btn_evtnotice" type="button">
+<span class="a11y_hidden">제주 삼다 영귤 티 자세히 보기</span>
+</button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" draggable="false" height="357" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_04.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_04.webp" width="750"/>
+<div class="a11y_hidden">
+<ul>
+<li>Base : 후발효차</li>
+<li>Ingredients : 영귤</li>
+<li>Tasting Notes : 상큼한 귤 향미</li>
+<li>Pairing : 샐러드·반숙란</li>
+</ul>
+</div>
+<a class="link_00" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5662">
+<span class="a11y_hidden">제주 삼다 영귤 티 보러 가기</span>
+</a>
+</div>
+</div>
+<div class="evt_noti_wrap bg_8">
+<div class="evt_cont notice_btn_area title_02">
+<img alt="" draggable="false" height="140" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_02.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_02.webp" width="750"/>
+<h5 class="a11y_hidden">All You Need</h5>
+<button class="btn_evtnotice" type="button">
+<span class="a11y_hidden">레시피 재료 자세히 보기</span>
+</button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" draggable="false" height="319" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_05.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_05.webp" width="750"/>
+<div class="a11y_hidden">
+<h6>영귤 티 시럽 재료</h6>
+<ul>
+<li>제주 삼다 영귤 티 : 2개</li>
+<li>물 : 80g</li>
+<li>물엿 : 150g</li>
+<li>설탕 : 50g</li>
+<li>영귤 제스트 : 1개</li>
+</ul>
+<h6>드레싱 재료</h6>
+<ul>
+<li>영귤 티 시럽 : 40g</li>
+<li>레몬즙 : 20g</li>
+<li>올리브 오일 : 60g</li>
+<li>디종 머스타드 : 15g</li>
+<li>소금·후추 : 한 꼬집</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="evt_noti_wrap bg_9">
+<div class="evt_cont notice_btn_area title_03">
+<img alt="" draggable="false" height="140" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_03.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/title_03.webp" width="750"/>
+<h5 class="a11y_hidden">How to</h5>
+<button class="btn_evtnotice" type="button">
+<span class="a11y_hidden">레시피 자세히 보기</span>
+</button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" draggable="false" height="621" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_06.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section02/cont_06.webp" width="750"/>
+<div class="a11y_hidden">
+<ol>
+<li>물 80g에 제주 삼다 영귤 티 2개를 넣고 15분간 충분히 우립니다.</li>
+<li>물엿과 설탕을 끓인 뒤 식혀줍니다.</li>
+<li>우린 차에 영귤 제스트를 넣고 02와 충분히 섞어 영귤 티 시럽을 만듭니다.</li>
+<li>영귤 티 시럽 40g에 레몬즙, 올리브 오일, 디종 머스타드를 더합니다.</li>
+<li>소금과 후추를 한 꼬집씩 넣고 충분히 섞어 완성합니다.</li>
+</ol>
+<p>TIP : 채소 등 재료 본연의 맛을 살려주는 드레싱으로, 가벼운 샐러드, 반숙란 등 헬시 메뉴와 특히 잘 어울립니다.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="evtSect evtSect_3" id="section3">
+<!--슬라이드-->
+<div class="evt_cont">
+<img alt="" draggable="false" height="955" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/01.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/01.webp" width="750"/>
+<h3 class="a11y_hidden">Share your stories</h3>
+<p class="a11y_hidden">손종원 셰프의 레시피와 티 크리에이터 레시피를 보고, 나만의 차 이야기를 나눠보세요.</p>
+<div class="story_slide" id="storySlide">
+<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(41px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-active" style="margin-right: 10px;">
+<img alt="" draggable="false" height="567" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_01.png?ver=261012" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_01.webp?ver=261012" width="561"/>
+<a class="link_00" href="/kr/ko/magazine/teacreator/30">
+<span class="a11y_hidden">다나카 아유님의 이야기 [제주 삼다 영귤 티 &amp; 과일 케이크] 자세히 보기</span>
+</a>
+</div>
+<div class="swiper-slide swiper-slide-next" style="margin-right: 10px;">
+<img alt="" draggable="false" height="568" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_02.png?ver=261012" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_02.webp?ver=261012" width="562"/>
+<a class="link_00" href="/kr/ko/magazine/teacreator/29">
+<span class="a11y_hidden">류지혜님의 이야기 [삼다 꿀배 티 &amp; 호박 인절미] 자세히 보기</span>
+</a>
+</div>
+<div class="swiper-slide" style="margin-right: 10px;">
+<img alt="" draggable="false" height="567" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_03.png?ver=261012" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_03.webp?ver=261012" width="561"/>
+<a class="link_00" href="/kr/ko/magazine/teacreator/28">
+<span class="a11y_hidden">양현유님의 이야기 [제주 삼다 영귤 티 &amp; 쇼가야키 (생강 제육볶음)] 자세히 보기</span>
+</a>
+</div>
+<div class="swiper-slide" style="margin-right: 10px;">
+<img alt="" draggable="false" height="568" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_04.png?ver=261012" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/slide_04.webp?ver=261012" width="562"/>
+<a class="link_00" href="/kr/ko/magazine/teacreator/24">
+<span class="a11y_hidden">김지현님의 이야기 [피치 블랙티 &amp; 마카다미아/아몬드 초콜릿] 자세히 보기</span>
+</a>
+</div>
+</div>
+<span aria-atomic="true" aria-live="assertive" class="swiper-notification"></span></div>
+</div>
+</div>
+<!--수신 동의-->
+<div class="evt_cont">
+<img alt="" draggable="false" height="1148" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/02-1.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/02-1.webp" width="750"/>
+<h3 class="a11y_hidden">Event 01. 미식 티 경품 이벤트</h3>
+<p class="a11y_hidden">놓치면 아쉬운 오설록 소식 : 생일 쿠폰부터 멤버십 혜택 그리고 이벤트 당첨까지 필요한 정보만 쏙쏙! 지금 광고성 정보 수신 동의하고 경품 당첨 기회를 잡으세요.</p>
+<ul class="a11y_hidden">
+<li>참여 기간 : 10월 15일 목요일부터 11월 15일 일요일까지</li>
+<li>미션 : 개인정보 수집/이용 및 SMS 광고성 정보 수신 동의하기</li>
+<li>혜택 : 티 4종 중 2종 랜덤 발송 (추첨 30명)</li>
+<li>경품발송 : 오설록몰 마이페이지에 등록된 기본 배송지로 11월 16일 월요일에 일괄 발송됩니다.</li>
+</ul>
+<div class="inputbox agree_sms">
+
+<label for="agreeSms"><span class="a11y_hidden">SMS 수신 동의하기</span></label>
+</div>
+<div class="inputbox agree_privacy">
+
+<label for="agreePrivacy"><span class="a11y_hidden">개인정보 수집/이용 동의</span></label>
+</div>
+<button class="btn_agree" type="button"><span class="a11y_hidden">동의하고 경품 응모하기</span></button>
+</div>
+<div class="evt_noti_wrap">
+<div class="evt_cont notice_btn_area active">
+<img alt="" class="img_fold" draggable="false" height="53" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/nbtn_closed.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/nbtn_closed.webp" width="750"/>
+<img alt="" class="img_expand" draggable="false" height="53" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/nbtn_expanded.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/nbtn_expanded.webp" width="750"/>
+<button class="btn_evtnotice" type="button"><span class="a11y_hidden">개인정보 수집 이용/동의 보기</span></button>
+</div>
+<div class="evt_cont notice_detail_area">
+<img alt="" height="310" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/n_notice.png?ver=261013" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/n_notice.webp?ver=261013" width="750"/>
+</div>
+</div>
+<div class="a11y_hidden">
+<h4>개인정보 수집 이용/동의</h4>
+<ul>
+<li>수집·이용하는 개인정보 항목: 회원정보에 입력한 휴대폰번호, 기본 배송지 정보(수령인명, 주소, 연락처)</li>
+<li>수집·이용 목적: 본인 동의 시 회사 또는 제휴사의 서비스, 사업 및 정책, 이벤트에 관한 정보 제공과 그에 따른 경품 등 물품 배송</li>
+<li>보유·이용 기간: 동의 철회 또는 회원 탈퇴 시까지</li>
+<li>고객님께서는 개인정보 수집·이용 동의를 거부할 수 있으며, 거부하더라도 회원가입 및 상품 구매는 가능합니다. 다만, 해당 정보를 활용한 할인·마케팅·프로모션 안내를 받을 수 없으며, 본 이벤트의 경품 추첨 대상에서 제외됩니다.</li>
+<li>동의는 회원정보 수정 페이지에서 언제든지 철회할 수 있습니다.</li>
+</ul>
+</div>
+<!--리뷰 이벤트 ~ 1979안내 : 카드 그림자용 묶음-->
+<div class="evt_card_wrap">
+<!--리뷰 이벤트-->
+<div class="evt_cont">
+<img alt="" draggable="false" height="781" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/03.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/03.webp" width="750"/>
+<h3 class="a11y_hidden">Event 02. 리뷰 작성 페이백 + 미식권 이벤트</h3>
+<p class="a11y_hidden">오설록몰에서 티 4종 중 1종 이상 구매 후, 나만의 미식을 리뷰로 남겨주세요!</p>
+<ul class="a11y_hidden">
+<li>혜택1 : 뷰티포인트 3천 포인트 (추첨 50명)</li>
+<li>혜택2 : 오설록 티 코스 2인권 (추첨 3명)</li>
+</ul>
+</div>
+<!--미션안내-->
+<div class="evt_noti_wrap">
+<div class="evt_cont notice_btn_area">
+<img alt="" class="img_fold" draggable="false" height="67" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont1_btn_closed.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont1_btn_closed.webp" width="750"/>
+<img alt="" class="img_expand" draggable="false" height="67" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont1_btn_expanded.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont1_btn_expanded.webp" width="750"/>
+<button class="btn_evtnotice" type="button"><span class="a11y_hidden">미션 자세히 보기</span></button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" height="571" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont1.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont1.webp" width="750"/>
+</div>
+</div>
+<div class="a11y_hidden">
+<h4>리뷰 작성 이벤트 미션</h4>
+<ul>
+<li>참여 기간 : 10월 15일 목요일부터 11월 15일 일요일까지</li>
+<li>미션 : 티 4종 중 1종 이상 구매 후 리뷰 작성하기 (삼다 꿀배 티 / 제주 삼다 영귤 티 / 제주 동백꽃 티 / 피치 블랙티 中 1개 이상)</li>
+<li>혜택 : 뷰티포인트 3천 포인트 (추첨 50명), 오설록 1979 체험권 (추첨 3명)</li>
+<li>안내사항 : 뷰티포인트는 11/17(화) 일괄 적립됩니다.
+                    <br/>오설록 1979 체험권 당첨 고객님께는 등록된 기본 연락처로 문자가 발송됩니다.
+                    <br/>매장 연락 및 예약 후 11월 이내에 사용 가능합니다.
+                </li>
+</ul>
+</div>
+<!--1979안내-->
+<div class="evt_noti_wrap">
+<div class="evt_cont notice_btn_area">
+<img alt="" class="img_fold" draggable="false" height="67" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont2_btn_closed.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont2_btn_closed.webp" width="750"/>
+<img alt="" class="img_expand" draggable="false" height="67" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont2_btn_expanded.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont2_btn_expanded.webp" width="750"/>
+<button class="btn_evtnotice" type="button"><span class="a11y_hidden">오설록 1979 티 코스 자세히 보기</span></button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none;">
+<img alt="" height="1643" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont2.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/cont2.webp" width="750"/>
+</div>
+</div>
+<div class="a11y_hidden">
+<h4>오설록 1979에서 시작하는 미식</h4>
+<p>티 코스 2인권 : 78,000원 상당, 11월 이내 사용 가능</p>
+<p>명차의 깊이를 전하는 오설록 1979에서 가을의 풍미를 닮은 새로운 티코스를 선보입니다.
+                <br/>발효의 시간을 거쳐 다채로워진 어린 찻잎의 하루를 담은 ‘홍우전’과 가을 재료 디저트 페어링을 1979의 3가지 티코스로 만나보세요.
+            </p>
+<ul>
+<li>course 1. master's tea</li>
+<li>course 2. tea variation</li>
+<li>course 3. tea sweets</li>
+</ul>
+</div>
+</div>
+<!--버튼영역-->
+<div class="evt_cont">
+<img alt="" draggable="false" height="320" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/04.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section03/04.webp" width="750"/>
+<a class="link_mypage" href="/kr/ko/login?r=/kr/ko/mypage/userReview/write">
+<span class="a11y_hidden">리뷰 쓰러 가기</span>
+</a>
+<a class="link_search" href="/kr/ko/shop/search/main/product?isSet=N&amp;q=%EC%86%90%EC%A2%85%EC%9B%90%EC%85%B0%ED%94%84&amp;p=0&amp;size=24&amp;sort=ranked&amp;reviewType=&amp;searchType=product&amp;tagSearchType=">
+<span class="a11y_hidden">티 4종 보러가기</span>
+</a>
+</div>
+</div>
+<!--find my taste-->
+<div class="evtSect evtSect_4" id="section4">
+<div class="evt_cont bg_1">
+<img alt="" draggable="false" height="340" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/01.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/01.webp" width="750"/>
+<h3 class="a11y_hidden">Find my taste</h3>
+<p class="a11y_hidden">차의 맛을 따라, 나와 선물할 사람의 취향을 골라보세요</p>
+</div>
+<div class="evt_cont">
+<img alt="" draggable="false" height="1170" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/02.png?ver=261012" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/02.webp?ver=261012" width="750"/>
+<h3 class="a11y_hidden">혜택 1.티 단품&amp;티 세트 최대 30% 혜택</h3>
+<p class="a11y_hidden">손종원 셰프 협업 기념 10월 15일부터 11월 15일까지 진행하는 오설록몰 이벤트</p>
+<ul class="a11y_hidden">
+<li>미식의 순간을 함께할 티 단품 최대 30%</li>
+<li>다양한 미식의 세계를 만들 티 세트 최대 30%</li>
+</ul>
+<ul class="a11y_hidden">
+<li>[쿠폰1] 1만원 이상 구매 시, 20% 할인 쿠폰 / 3만원 이상 구매 시, 30% 할인 쿠폰 (삼다 꿀배 티, 제주 삼다 영귤 티, 제주 동백꽃 티, 피치 블랙티 해당)</li>
+<li>[쿠폰2] 3만원 이상 구매 시, 20% 할인 쿠폰 / 6만원 이상 구매 시, 30% 할인 쿠폰 (오설록몰 내 티 세트 카테고리 전 제품 해당)</li>
+</ul>
+<a class="btn_coupon" href="/kr/ko/login?r=/kr/ko/mypage/coupon/downloadList">
+<span class="a11y_hidden">모든 쿠폰 다운로드</span>
+</a>
+</div>
+<div class="evt_cont">
+<img alt="" draggable="false" height="623" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/03.png?ver=261013" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/03.webp?ver=261013" width="750"/>
+<h3 class="a11y_hidden">혜택 2.선착순 사은품 혜택</h3>
+<ul class="a11y_hidden">
+<li>3만원 이상 결제 시, 삼다 꿀배티 3입 증정</li>
+<li>6만원 이상 결제 시, 오설록 유리 머그 증정</li>
+</ul>
+</div>
+<div class="evt_noti_wrap">
+<div class="evt_cont notice_btn_area active">
+<img alt="" class="img_fold" draggable="false" height="53" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/nbtn_closed.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/nbtn_closed.webp" width="750"/>
+<img alt="" class="img_expand" draggable="false" height="53" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/nbtn_expanded.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/nbtn_expanded.webp" width="750"/>
+<button class="btn_evtnotice" type="button"><span class="a11y_hidden">사은품 유의사항 보기</span></button>
+</div>
+<div class="evt_cont notice_detail_area">
+<img alt="" height="276" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/n_notice.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/n_notice.webp" width="750"/>
+</div>
+</div>
+<div class="a11y_hidden">
+<h4>사은품 유의사항</h4>
+<ul>
+<li>실 결제금액에 대한 사은품이 발송됩니다.</li>
+<li>[할인쿠폰, 적립금, 제휴 포인트, 포장비, 배송비]는 실 결제금액에 미포함 됩니다.</li>
+<li>구매금액대별 사은품은 재고에 따라 고지 없이 변경 혹은 미제공될 수 있습니다.</li>
+<li>베이커리, 아이스크림 및 타 브랜드 상품은 해당되지 않습니다.</li>
+</ul>
+</div>
+<div aria-hidden="true" class="evt_cont">
+<img alt="" draggable="false" height="30" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/empty.png" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section04/empty.webp" width="750"/>
+</div>
+</div>
+<div class="evtSect evtSect_5" id="section5">
+<div class="evt_cont prdbox_01-1">
+<img alt="" draggable="false" height="2581" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/01-1.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/01-1.webp" width="750"/>
+<h3 class="a11y_hidden">TEA FOR EVERY MOOD | 취향에 따라 고르는 네 가지 차</h3>
+<p class="a11y_hidden">배와 꿀, 영귤, 동백꽃, 복숭아. 서로 다른 네 가지 향에서 오늘의 기분에 맞는 한 잔을 골라보세요.</p>
+<p class="a11y_hidden">SNS 입소문 급 상승! 트렌디한 피치 블랙티 조합</p>
+<p class="a11y_hidden">삼다 꿀배 + 동백꽃 티 + 피치 티</p>
+<p class="a11y_hidden">2+1 22000원</p>
+<a class="link_01" href="https://www.osulloc.com/kr/ko/shop/item/teashop/22237">
+<span class="a11y_hidden">삼다 꿀배 + 동백꽃 티 + 피치 티 보러가기</span>
+</a>
+<p class="a11y_hidden">손종원 셰프가 활용한 티 2종과 제주 동백꽃 티 구성 조합</p>
+<p class="a11y_hidden">삼다 꿀배 + 동백꽃 티 + 영귤 티</p>
+<p class="a11y_hidden">2+1 22000원</p>
+<a class="link_02" href="https://www.osulloc.com/kr/ko/shop/item/teashop/22238">
+<span class="a11y_hidden">삼다 꿀배 + 동백꽃 티 + 영귤 티 보러가기</span>
+</a>
+<p class="a11y_hidden">달큰한 배와 꿀의 향이 가득, 부드럽고 그윽한 블렌디드 티</p>
+<p class="a11y_hidden">삼다 꿀배 티</p>
+<p class="a11y_hidden">정상가 11,000원, 30% 할인가 7,700원</p>
+<a class="link_03" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15243">
+<span class="a11y_hidden">삼다 꿀배 티 보러가기</span>
+</a>
+<p class="a11y_hidden">상큼한 귤 향으로 기분 좋은 산뜻함을 주는 유기농 티</p>
+<p class="a11y_hidden">제주 삼다 영귤티</p>
+<p class="a11y_hidden">정상가 11,000원, 30% 할인가 7,700원</p>
+<a class="link_04" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5662">
+<span class="a11y_hidden">제주 삼다 영귤티 보러가기</span>
+</a>
+<p class="a11y_hidden">제주 겨울을 담은 듯한 꽃 향과 새콤달콤한 과일의 여운</p>
+<p class="a11y_hidden">제주 동백꽃 티</p>
+<p class="a11y_hidden">정상가 11,000원, 30% 할인가 7,700원</p>
+<a class="link_05" href="https://www.osulloc.com/kr/ko/shop/item/teashop/5664">
+<span class="a11y_hidden">제주 동백꽃 티 보러가기</span>
+</a>
+<p class="a11y_hidden">진한 홍차의 풍미와 달큰한 복숭아 향의 완벽한 조화</p>
+<p class="a11y_hidden">피치 블랙티</p>
+<p class="a11y_hidden">정상가 11,000원, 30% 할인가 7,700원</p>
+<a class="link_06" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15244">
+<span class="a11y_hidden">피치 블랙티 보러가기</span>
+</a>
+</div>
+<div class="evt_cont prdbox_01-2">
+<img alt="" draggable="false" height="1576" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/01-2.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/01-2.webp" width="750"/>
+<p class="a11y_hidden">달큰한 배와 꿀의 향이 가득. 삼다 꿀배 티의 피라미드 버전</p>
+<p class="a11y_hidden">달빛걷기 20입</p>
+<p class="a11y_hidden">정상가 27,000원, 20% 할인가 21,600원</p>
+<a class="link_01" href="https://www.osulloc.com/kr/ko/shop/item/teashop/17083">
+<span class="a11y_hidden">달빛걷기 20입 보러가기</span>
+</a>
+<p class="a11y_hidden">상큼한 귤 향으로 기분 좋은 티! 삼다 영귤 티의 피라미드 버전</p>
+<p class="a11y_hidden">삼다연 제주영귤 20입</p>
+<p class="a11y_hidden">정상가 27,000원, 20% 할인가 21,600원</p>
+<a class="link_02" href="https://www.osulloc.com/kr/ko/shop/item/teashop/16943">
+<span class="a11y_hidden">삼다연 제주영귤 20입 보러가기</span>
+</a>
+<p class="a11y_hidden">새콤달콤한 과일의 여운, 제주 동백꽃 티의 피라미드 버전</p>
+<p class="a11y_hidden">동백이 피는 곶자왈 20입</p>
+<p class="a11y_hidden">정상가 27,000원, 20% 할인가 21,600원</p>
+<a class="link_03" href="https://www.osulloc.com/kr/ko/shop/item/teashop/17066">
+<span class="a11y_hidden">동백이 피는 곶자왈 20입 보러가기</span>
+</a>
+<p class="a11y_hidden">진한 홍차의 달큰한 풍미, 피치 블랙티의 피라미드 버전</p>
+<p class="a11y_hidden">피치파파야 블랙티 20입</p>
+<p class="a11y_hidden">정상가 27,000원, 20% 할인가 21,600원</p>
+<a class="link_04" href="https://www.osulloc.com/kr/ko/shop/item/teashop/21767">
+<span class="a11y_hidden">피치파파야 블랙티 20입 보러가기</span>
+</a>
+<a class="link_05" href="/kr/ko/shop/search/main/product?isSet=N&amp;q=%EC%86%90%EC%A2%85%EC%9B%90%EC%85%B0%ED%94%84&amp;p=0&amp;size=24&amp;sort=ranked&amp;reviewType=&amp;searchType=product&amp;tagSearchType=">
+<span class="a11y_hidden">손종원 셰프 협업 기념 특가 보러가기</span>
+</a>
+</div>
+<div class="evt_cont prdbox_02">
+<img alt="" draggable="false" height="431" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/02.jpg?ver=261016" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/02.webp?ver=261016" width="750"/>
+<h3 class="a11y_hidden">THE GIFT OF TEA | 차의 취향을 선물하다</h3>
+<p class="a11y_hidden">앞선 4가지 차를 포함한 컬렉션부터, 피라미드 그리고 티푸드 페어링까지.
+                <br/>소중한 사람의 취향을 떠올리며 가장 어울리는 선물을 선택해 보세요.
+            </p>
+</div>
+<div class="evt_cont prdbox_03">
+<img alt="" draggable="false" height="1812" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/03.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/03.webp" width="750"/>
+<h4 class="a11y_hidden">01. 티 세트</h4>
+<p class="a11y_hidden">베스트 4종 티를 포함한 열 가지 맛, 매일 다채로운 즐거움을 한 상자로</p>
+<p class="a11y_hidden">프리미엄 티 컬렉션 10종 40입</p>
+<p class="a11y_hidden">정상가 32,000원, 30% 할인가 22,400원</p>
+<a class="link_01" href="https://www.osulloc.com/kr/ko/shop/item/teashop/15263">
+<span class="a11y_hidden">프리미엄 티 컬렉션 10종 40입 보러가기</span>
+</a>
+<p class="a11y_hidden">달콤한 쿠키와 어울리는 6가지 티, 선물하는 기쁨과 받는 설렘을 함께</p>
+<p class="a11y_hidden">딜라이트 컬렉션 오</p>
+<p class="a11y_hidden">정상가 38,000원, 30% 할인가 26,600원</p>
+<a class="link_02" href="https://www.osulloc.com/kr/ko/shop/item/teashop/22206">
+<span class="a11y_hidden">딜라이트 컬렉션 오 보러가기</span>
+</a>
+<p class="a11y_hidden">입안 가득 퍼지는 화사한 꽃 향과 새콤달콤한 여운이 남는 선물</p>
+<p class="a11y_hidden">차의 정원 9종 27입</p>
+<p class="a11y_hidden">정상가 54,000원, 30% 할인가 37,800원</p>
+<a class="link_03" href="https://www.osulloc.com/kr/ko/shop/item/teashop/21773">
+<span class="a11y_hidden">차의 정원 9종 27입 보러가기</span>
+</a>
+<p class="a11y_hidden">티 마스터가 엄선한 8가지 베스트 티로 완성한 프리미엄 큐레이션</p>
+<p class="a11y_hidden">마스터 블렌드 8종 32입</p>
+<p class="a11y_hidden">정상가 64,000원, 30% 할인가 44,800원</p>
+<a class="link_04" href="https://www.osulloc.com/kr/ko/shop/item/teashop/14123">
+<span class="a11y_hidden">마스터 블렌드 8종 32입 보러가기</span>
+</a>
+<a class="link_05" href="/kr/ko/shop/item/list?category=teashop&amp;line=198">
+<span class="a11y_hidden">티 세트 보러가기</span>
+</a>
+</div>
+<div class="evt_cont prdbox_04">
+<img alt="" draggable="false" height="1903" src="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/04.jpg" srcset="https://image.osulloc.com/upload/kr/ko/event/261015_imc/section05/prd/04.webp" width="750"/>
+<h4 class="a11y_hidden">02. 티 푸드</h4>
+<p class="a11y_hidden">오설록 베스트 티푸드 4종과 함께 달콤 쌉싸름한 미식을 선물하세요</p>
+<p class="a11y_hidden">말차 랑드샤 티푸드 셀렉션</p>
+<p class="a11y_hidden">정상가 40,000원, 20% 할인가 32,000원</p>
+<a class="link_01" href="https://www.osulloc.com/kr/ko/shop/item/bakery/22066">
+<span class="a11y_hidden">말차 랑드샤 티푸드 셀렉션 보러가기</span>
+</a>
+<p class="a11y_hidden">각기 다른 식감과 맛의 티푸드 4종, 바삭하고 상큼한 미식을 선물하세요</p>
+<p class="a11y_hidden">말차 딸기 랑드샤 티푸드 셀렉션</p>
+<p class="a11y_hidden">정상가 44,000원, 20% 할인가 35,200원</p>
+<a class="link_02" href="https://www.osulloc.com/kr/ko/shop/item/bakery/22048">
+<span class="a11y_hidden">말차 딸기 랑드샤 티푸드 셀렉션 보러가기</span>
+</a>
+<p class="a11y_hidden">말차와 버터의 조화로운 향이 매력적인 프리미엄 와플</p>
+<p class="a11y_hidden">프리미엄 녹차와플</p>
+<p class="a11y_hidden">정상가 6,000원, 15% 할인가 5,100원</p>
+<a class="link_03" href="https://www.osulloc.com/kr/ko/shop/item/bakery/19103">
+<span class="a11y_hidden">프리미엄 녹차와플 보러가기</span>
+</a>
+<p class="a11y_hidden">적당한 단맛과 기분 좋은 바삭함, 차나 커피와 페어링하기 좋은 간식</p>
+<p class="a11y_hidden">그린티 랑드샤</p>
+<p class="a11y_hidden">정상가 14,000원, 10% 할인가 12,600원</p>
+<a class="link_04" href="https://www.osulloc.com/kr/ko/shop/item/bakery/14943">
+<span class="a11y_hidden">그린티 랑드샤 보러가기</span>
+</a>
+<a class="link_05" href="/kr/ko/shop/item/list?category=bakery">
+<span class="a11y_hidden">티 푸드 보러가기</span>
+</a>
+</div>
+</div>
+<!--유의사항-->
+<div class="evt_footer evt_noti_wrap">
+<div class="evt_cont notice_btn_area">
+<img alt="" class="img_fold" draggable="false" src="https://image.osulloc.com/upload/kr/ko/event/common/notice_closed.png"/>
+<img alt="" class="img_expand" draggable="false" src="https://image.osulloc.com/upload/kr/ko/event/common/notice_open.png"/>
+<button class="btn_evtnotice" type="button"><span class="a11y_hidden">유의사항 보기</span></button>
+</div>
+<div class="evt_cont notice_detail_area" style="display: none">
+<div class="evt_notice_wrap">
+<h4 class="evt_notice_title">
+<span class="icon"><img alt="" src="https://image.osulloc.com/upload/kr/ko/event/common/notice_t.png"/></span>
+<span>유의사항</span>
+</h4>
+<div class="notice_para">
+<h5 class="notice_para_title">[이벤트 및 할인]</h5>
+<ul>
+<li>할인 및 이벤트 내용은 내부 사정에 따라 별도 고지 없이 변경되거나 조기 종료될 수 있습니다.</li>
+<li>조합 상품은 '조합 상품 할인 페이지'에서만 할인 적용되며, 개별 구매 시 할인 불가합니다.</li>
+<li>본 혜택(또는 프로모션)은 최종 소비 목적의 개인 고객을 대상으로 하며, 
+                            <br/>재판매 목적의 대량 구매는 혜택 제공 대상에서 제외됩니다.
+                        </li>
+</ul>
+</div>
+<div class="notice_para">
+<h5 class="notice_para_title">[사은품 및 쇼핑백]</h5>
+<ul>
+<li>사은품은 회원 구매 시, 1회 주문 건 기준으로 기준 충족 시 제공됩니다. 
+                            <br/>구매금액대별 사은품은 주문 건을 분할하더라도 추가 제공되지 않습니다.</li>
+<li>사은품은 한정 수량으로 소진 시 별도 고지 없이 다른 사은품으로 교체되거나, 미제공될 수 있으니, 결제 페이지 &gt; 사은품 증정 영역에서 확인 바랍니다.</li>
+<li>사은품은 구매 혜택으로 제공되는 것으로, 별도 교환/반품이 불가합니다.</li>
+<li>구매금액대별 사은품은 배송비·포장비·냉동 베이커리·입점 티웨어 금액을 제외한 실 결제 금액(정가가 아닌, 실제 고객님이 결제하는 금액) 기준으로 지급됩니다.</li>
+<li>쇼핑백은 완제품 세트(예: 러블리 티 박스) 구매 시 기본 무상 제공되며, <br/>조합 제품은 상세페이지 '사은품'란에 명시된 경우에만 증정됩니다.</li>
+<li>유료 포장 가능 여부는 제품에 따라 상이하며, 제품 상세페이지 상단에서 확인 가능합니다.</li>
+</ul>
+</div>
+<div class="notice_para">
+<h5 class="notice_para_title">[교환/반품]</h5>
+<ul>
+<li>단순 변심에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.</li>
+<li>구성품(사은품 등) 누락 시 교환/반품이 불가합니다.</li>
+<li>유료 포장된 제품은 개봉 시 반품이 불가합니다.</li>
+</ul>
+</div>
+<div class="notice_para">
+<h5 class="notice_para_title">[배송]</h5>
+<ul>
+<li>배송 일정은 택배사 사정 및 기상 상황 등에 따라 지연될 수 있습니다. <br/>배송 지연 혹은 배송 마감은 팝업이나 공지사항을 확인해주세요.</li>
+<li>분리 배송은 불가하며, 출고 지연 제품은 공지사항 또는 상세페이지 상단 안내 사항을 확인해 주세요.</li>
+<li>출고 지연 상품을 제외하고 빠른 수령을 원하실 경우, 지연 상품은 별도 주문해 주시기 바랍니다.</li>
+<li>주문 취소/변경은 결제 완료 직후에만 가능하며, 배송 준비 이후에는 불가합니다.</li>
+</ul>
+</div>
+<div class="notice_para">
+<h5 class="notice_para_title">[기타]</h5>
+<ul>
+<li>타인의 정보 무단 도용, 어뷰징 등 부정 이용이 확인될 경우 포인트·쿠폰 지급이 보류되거나 회수될 수 있습니다.</li>
+<li>본 유의사항에 명시되지 않은 사항은 오설록 서비스 이용약관 정책을 따릅니다.</li>
+<li>기타 문의 사항은 1:1 문의를 이용해 주세요.</li>
+</ul>
+</div>
+<div class="notice_para">
+<h5 class="notice_para_title">[쿠폰]</h5>
+<ul>
+<li>발급 쿠폰은 마이페이지 &gt; 보유 쿠폰에서 확인 가능합니다.</li>
+<li>쿠폰은 발급 기간/사용 기간 내에만 사용 가능하며, 사용하지 않은 경우 만료 안내 알림톡이 발송될 수 있습니다.</li>
+<li>쿠폰은 타 쿠폰·제품 할인과 중복 적용이 불가하며, 일부 제품(예: 킨토, 냉동 베이커리 등)에 사용 제한이 있을 수 있습니다.</li>
+<li>쿠폰 사용 후 교환/반품/취소 시, 쿠폰은 복원·재발급됩니다.</li>
+<li>쿠폰/포인트 등은 현금으로 환급되지 않습니다.</li>
+<li>쿠폰은 유효기간 내 결제 완료 시점 기준으로 적용됩니다.
+                            <ul class="inner_dash_list">
+<li>결제 승인 과정은 카드사 및 간편결제사(예:네이버페이, 페이코 등)의 시스템을 통해 처리되며, 
+                                    <br/>승인 지연·결제 제한·시스템 점검 등으로 인한 결제 불가 사항은 해당 결제사 정책에 따릅니다.</li>
+<li>결제 승인 과정에서 발생한 사유로 쿠폰 사용이 완료되지 않은 경우, 당사 귀책 사유로 확인되지 않는 한 쿠폰의 기간 연장 및 재발급은 어렵습니다. 
+                                    <br/>원활한 이용을 위해 유효기간 및 결제 마감 시간 이전에 여유 있게 결제를 완료해주시기 바랍니다.
+                                </li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+</section>
+<!--//event_view_detail-->
+<!--2. event_sns_share-->
+<section class="event_sns_share open_share_btn">
+<button class="share_btn" id="open_event_share" type="button"><span class="a11y_hidden">이벤트 공유하기</span></button>
+<!--share modal-->
+<div class="modal-layer-wrap modal-share-sns" id="modal_share_sns">
+<div class="modal-layer">
+<div class="layer_header">
+<button class="btn_close_layer" type="button"><span class="a11y_hidden">공유창 닫기</span></button>
+<p class="modal-title">공유하기</p>
+</div>
+<div class="layer_cont share-cont">
+
+<button class="btn_event_share share_kakao" data-track-name="이벤트 카카오톡 공유" title="카카오톡 공유하기" type="button"><span class="a11y_hidden">카카오톡으로 공유하기</span></button>
+<button class="btn_event_share share_facebook x-share-facebook" data-href="https://www.facebook.com/sharer/sharer.php?u=http://www.osulloc.com/kr/ko/life/event/view/12412" data-track-name="이벤트 페이스북 공유" title="페이스북 공유하기" type="button"><span class="a11y_hidden">페이스북으로 공유하기</span></button>
+<button class="btn_event_share share_url" data-clipboard-text="http://www.osulloc.com/kr/ko/life/event/view/12412" data-track-name="이벤트 URL 공유" id="share-btn" title="URL 공유하기" type="button"><span class="a11y_hidden">이벤트 URL 복사</span></button>
+</div>
+</div>
+</div><!--//share modal-->
+</section><!--//event_sns_share-->
+<!--3. more_events-->
+<section class="more_events">
+<div class="section_header layout_wide">
+<h3 class="a11y_hidden">이벤트 더 보기</h3>
+<a class="link_all" href="/kr/ko/life/event/list/ing">전체 보기</a>
+</div>
+<!--more_events_list-->
+<div class="more_events_list_wrap layout_wide">
+<div class="banner_navigation layout_float">
+<button aria-label="Previous slide" class="banner_nav banner_nav_prev" role="button" tabindex="0" type="button"><span class="a11y_hidden">이전 이벤트 배너 보기</span></button>
+<button aria-label="Next slide" class="banner_nav banner_nav_next" role="button" tabindex="0" type="button"><span class="a11y_hidden">다음 이벤트 배너 보기</span></button>
+</div>
+<div class="more_events_list swiper-container swiper-container-initialized swiper-container-horizontal" id="more_events_list">
+<div class="more_events_list_pagination swiper-pagination-progressbar"><span class="swiper-pagination-progressbar-fill" style="transform: translate3d(0px, 0px, 0px) scaleX(0.333333) scaleY(1); transition-duration: 420ms;"></span></div>
+<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1363px, 0px, 0px);"><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트" href="/kr/ko/life/event/view/12413">
+<div class="evt_thumb">
+<img alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이" src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">일 년만에 돌아온, <br/>오설록 블랙 프라이데이</h3>
+<p class="evt_date">26.11.02~26.11.16</p>
+</div>
+</a>
+</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트" href="/kr/ko/life/event/view/12426">
+<div class="evt_thumb">
+<img alt="11월 출석체크" src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">11월 출석체크</h3>
+<p class="evt_date">26.11.01~26.11.30</p>
+</div>
+</a>
+</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트" href="/kr/ko/life/event/view/12412">
+<div class="evt_thumb">
+<img alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%" src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">손종원 셰프와 함께한 <br/>블렌디드 티 ~33%</h3>
+<p class="evt_date">26.10.15~26.11.15</p>
+</div>
+</a>
+</div>
+<div class="event_item swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트" href="/kr/ko/life/event/view/12413">
+<div class="evt_thumb">
+<img alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이" src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">일 년만에 돌아온, <br/>오설록 블랙 프라이데이</h3>
+<p class="evt_date">26.11.02~26.11.16</p>
+</div>
+</a>
+</div>
+<div class="event_item swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트" href="/kr/ko/life/event/view/12426">
+<div class="evt_thumb">
+<img alt="11월 출석체크" src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">11월 출석체크</h3>
+<p class="evt_date">26.11.01~26.11.30</p>
+</div>
+</a>
+</div>
+<div class="event_item swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트" href="/kr/ko/life/event/view/12412">
+<div class="evt_thumb">
+<img alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%" src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">손종원 셰프와 함께한 <br/>블렌디드 티 ~33%</h3>
+<p class="evt_date">26.10.15~26.11.15</p>
+</div>
+</a>
+</div>
+<div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이/진행중 이벤트" href="/kr/ko/life/event/view/12413">
+<div class="evt_thumb">
+<img alt="일 년만에 돌아온, &lt;br&gt;오설록 블랙 프라이데이" src="https://image.osulloc.com/upload/kr/ko/adminImage/KO/QG/20261030165707357JI.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">일 년만에 돌아온, <br/>오설록 블랙 프라이데이</h3>
+<p class="evt_date">26.11.02~26.11.16</p>
+</div>
+</a>
+</div><div class="event_item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="11월 출석체크/진행중 이벤트" href="/kr/ko/life/event/view/12426">
+<div class="evt_thumb">
+<img alt="11월 출석체크" src="https://image.osulloc.com/upload/kr/ko/adminImage/RA/QY/750_20261030170007365YA.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">11월 출석체크</h3>
+<p class="evt_date">26.11.01~26.11.30</p>
+</div>
+</a>
+</div><div class="event_item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="width: 431.333px; margin-right: 23px;">
+<a class="detail_btn" data-track-name="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%/진행중 이벤트" href="/kr/ko/life/event/view/12412">
+<div class="evt_thumb">
+<img alt="손종원 셰프와 함께한 &lt;br&gt;블렌디드 티 ~33%" src="https://image.osulloc.com/upload/kr/ko/adminImage/GB/IC/20261015131131074SI.jpg"/>
+</div>
+<div class="evt_txt">
+<h3 class="evt_title">손종원 셰프와 함께한 <br/>블렌디드 티 ~33%</h3>
+<p class="evt_date">26.10.15~26.11.15</p>
+</div>
+</a>
+</div></div>
+<span aria-atomic="true" aria-live="assertive" class="swiper-notification"></span></div>
+</div><!--//more_events_list-->
+</section></div><!--//more_events_list_wrap-->
+<!--//more_events-->
+<!--4. event_user_comment-->
+<section class="event_user_comment life-customer">
+<div class="section_header">
+<h3 class="title">이벤트 응원하기</h3>
+</div>
+<form action="/kr/ko/life/event/12412/comment/write" class="dropzone" data-event-type="general" enctype="multipart/form-data" id="comment-form" method="post" name="commentForm">
+<div class="comment-form">
+<h4 class="a11y_hidden">댓글 작성하기</h4>
+<div class="row">
+
+</div>
+<div class="func">
+</div>
+</div>
+</form>
+<div class="comment_list comment-wrap" data-delete-url="/kr/ko/life/event/12412/comment/delete" data-list-url="/kr/ko/life/event/12412/comment/list">
+<h4 class="blind">이벤트 댓글 목록</h4>
+</div>
+</section><!--//event_user_comment-->
+</main>

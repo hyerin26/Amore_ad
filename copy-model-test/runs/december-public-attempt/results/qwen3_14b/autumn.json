@@ -1,0 +1,70 @@
+{
+  "model_key": "qwen3_14b",
+  "model": "Qwen/Qwen3-14B",
+  "space": "Qwen/Qwen3-Demo",
+  "host": "https://qwen-qwen3-demo.hf.space",
+  "endpoint": "add_message",
+  "remote_model": "qwen3-14b",
+  "sampling": "Official demo provider-backed endpoint; thinking_budget=1K; sampling and precision not exposed; fresh session per request; no user API key",
+  "theme_id": "autumn",
+  "timestamp_utc": "2026-11-08T05:45:48.880711+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_case": {
+    "theme_id": "autumn",
+    "theme": "가을",
+    "slot": {
+      "id": "hero",
+      "layout": "hero",
+      "fields": [
+        "title",
+        "subtitle",
+        "cta"
+      ]
+    },
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "schedule_note": "네 콘셉트 모두 12월 한 달이라는 가상 비교 조건. 가을은 계절 감성 콘셉트, 신년은 새해맞이 준비이며 행사 기간을 다른 달로 바꾸지 않는다.",
+    "references": [
+      {
+        "reference_id": "osulloc-003#s01",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "차, 미식의 발견 | Beyond Tea, Into Gourmet 차는 미식을 완성하고, 때로는 미식 그 자체가 됩니다. 손종원 셰프가 오설록 대표 블렌디드 티로 제안하는 새로운 미식의 경험"
+      },
+      {
+        "reference_id": "osulloc-003#s04",
+        "brand": "osulloc",
+        "role": "content",
+        "text": "Chef Son's tea recipes 한 잔으로 즐기던 차를, 오늘은 한 접시의 맛으로 만나보세요. Honey Pear Baesuk | 삼다 꿀배숙 오설록 삼다 꿀배 티와 함께 한국 전통 후식인 배숙을 현대적인 감성으로 재해석한 레시피를 만들어봤어요. 삼다 꿀배숙 레시피 영상 재생 Honey Pear Tea 삼다 꿀배 티 자세히 보기 Base : 제주 후발효차 Ingredients : 배·꿀 Tasting Notes : 달큰한 배 향미 Pairing : 디저트, 샌드위치 삼다 꿀배 티 보러 가기 All You Need 레시피 재"
+      },
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "29cm-041#s06",
+        "brand": "29cm",
+        "role": "product_list",
+        "text": "SHOWCASE RECOMMEND ITEM fluffy haze cardigan 알파카와 울을 섬세하게 블렌딩한 원사에 정교한 후가공을 더해 완성한 컬리 텍스처. 미니멀한 실루엣 속 자개 히든 버튼이 빈티지 감성을 더합니다. 헤더먼트 [3차 11월 30일 순차배송]_fluffy haze cardigan (beige) 17% 156,210 102 헤더먼트 [11월 14일 순차배송]_fluffy haze cardigan (yellow) 17% 15"
+      }
+    ]
+  },
+  "input_sha256": "5635e6f61b9d1eef4616bc8556a3a9af44e3111808c344156ed81f21c0f6e96d",
+  "status": "error",
+  "error": "Space inference error: null",
+  "elapsed_wall_seconds": 1.667
+}

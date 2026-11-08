@@ -13,7 +13,7 @@ Output:
 - `pages/<brand>-NNN.json` - page record without html
 - `pages/<brand>-NNN.html` - rendered promotion body DOM
 
-Generated index lives in `reference/data/` (194 records across 11 malls; originally 175 pages: kurly 78, 29cm 94, osulloc 3).
+Generated index lives in `reference/data/` (195 records across 11 malls; originally 175 pages: kurly 78, 29cm 94, osulloc 3).
 
 ## Additional promotions collected on 2026-11-08
 
@@ -186,3 +186,20 @@ print(coupon["id"], coupon["text"])
 print([image["url"] for image in coupon_images])
 print([link["destination_url"] for link in coupon_links])
 ```
+
+## 오설록 메인 및 이벤트 재확인 — 2026-11-08
+
+`osulloc-004`는 https://www.osulloc.com/kr/ko 메인 프로모션을 13개 섹션으로
+분리한 추가 레코드입니다. 전체는 195페이지·988섹션입니다. 기존 194개 레코드는 보존했습니다.
+진행 중 이벤트 목록은 기존 상세 3건(12413, 12426, 12412)만 노출했습니다.
+`data/revisits/20261108/manifest.json`과 HTML 4개에 최신 상세·목록 확인 근거를 보관합니다.
+같은 URL을 새 프로모션으로 중복 등록하지 않습니다. 최신 관찰 가격은 과거 자료이며
+문구 실험의 12월 행사 가격이나 할인으로 사용하지 않습니다.
+
+```bash
+python3 reference/validate_osulloc_refresh.py
+```
+
+브라우저에서 수집한 main.json, listing.json, 12413.json, 12426.json, 12412.json을
+입력으로 삼는 재현 코드는 `import_osulloc_refresh.py`입니다. 이미 등록된 ID는 덮어쓰지 않습니다.
+초기 DOM·alt·HTML 구조를 사용하며 이미지 OCR이나 참여/쿠폰 발급은 하지 않습니다.

@@ -1,0 +1,522 @@
+{
+  "method": "one initial sample per model/theme; deterministic checks only, no human preference scores",
+  "scope": "hero title/subtitle/cta for 4 seasons; full 4-layout prompts also prepared but not all executed",
+  "comparability": "Public demo sampling settings differ. Network/queue latency is not local inference speed. Hosted bf16/full-precision quality does not establish quantized laptop quality.",
+  "rows": [
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "space": "huggingface-projects/gemma-3-12b-it",
+      "theme_id": "autumn",
+      "status": "ok",
+      "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 12.338,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 11,
+          "subtitle": 31,
+          "cta": 8
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "autumn",
+          "id": "hero",
+          "layout": "hero",
+          "title": "가을날의 편안한 여유",
+          "subtitle": "따스한 차 한 잔으로 깊어가는 가을, 마음을 채워보세요.",
+          "cta": "선물 보러 가기",
+          "reference_ids": [
+            "osulloc-003#s01",
+            "osulloc-003#s04"
+          ],
+          "evidence": "오설록의 과거 자료에서 차를 미식 경험으로 연결하고, 따뜻하고 편안한 분위기를 조성하는 표현을 참고했습니다.",
+          "details_needed": [
+            "선물 카테고리 내 대표적인 차 종류는 무엇인가?",
+            "가을 시즌을 대표하는 차의 특징은 무엇인가?"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "space": "huggingface-projects/gemma-3-12b-it",
+      "theme_id": "christmas",
+      "status": "ok",
+      "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 21.168,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 14,
+          "subtitle": 33,
+          "cta": 8
+        },
+        "issues": [],
+        "warnings": [
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": false,
+        "output": {
+          "theme_id": "christmas",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 겨울, 향긋한 선물",
+          "subtitle": "소중한 순간을 더욱 특별하게, 오설록 티로 마음을 전하세요.",
+          "cta": "선물 보러 가기",
+          "reference_ids": [
+            "osulloc-003#s06"
+          ],
+          "evidence": "osulloc-003#s06에서 '미식의 순간을 함께할 티'라는 표현과 선물에 대한 언급을 참고하여 따뜻하고 선물에 집중된 문구를 구성했습니다.",
+          "details_needed": [
+            "시즌 차 종류 정보"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "space": "huggingface-projects/gemma-3-12b-it",
+      "theme_id": "new_year",
+      "status": "ok",
+      "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 10.29,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 11,
+          "subtitle": 26,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 2,
+        "passed": true,
+        "review_ready": false,
+        "output": {
+          "theme_id": "new_year",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 겨울, 오설록",
+          "subtitle": "싱그러운 녹차 향으로 일상에 포근함을 더하세요.",
+          "cta": "선물 찾아보기",
+          "reference_ids": [
+            "osulloc-002#s01"
+          ],
+          "evidence": "osulloc-002의 '조용히 다가온 연말'이라는 문구를 참고하여 차분하고 따뜻한 분위기를 표현하고자 했습니다.",
+          "details_needed": [
+            "시즌 차 종류 정보"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "space": "huggingface-projects/gemma-3-12b-it",
+      "theme_id": "year_end",
+      "status": "ok",
+      "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 8.425,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 12,
+          "subtitle": 32,
+          "cta": 6
+        },
+        "issues": [],
+        "warnings": [
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 3,
+        "passed": true,
+        "review_ready": false,
+        "output": {
+          "theme_id": "year_end",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 겨울 티 한 잔",
+          "subtitle": "마음까지 녹이는 오설록의 선물, 특별한 겨울을 준비하세요.",
+          "cta": "차 쇼핑하기",
+          "reference_ids": [
+            "osulloc-002#s01"
+          ],
+          "evidence": "osulloc-002의 '조용히 다가온 연말' 문구를 참고하여 차분하고 따뜻한 분위기를 표현했습니다.",
+          "details_needed": [
+            "선물 카테고리의 구체적인 상품 종류"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "space": "huggingface-projects/gemma-3n-E4B-it",
+      "theme_id": "autumn",
+      "status": "ok",
+      "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 15.004,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 13,
+          "subtitle": 26,
+          "cta": 11
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 5,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "autumn",
+          "id": "hero",
+          "layout": "hero",
+          "title": "가을, 차 한 잔의 여유",
+          "subtitle": "따스한 햇살 아래, 깊어지는 풍미를 느껴보세요.",
+          "cta": "가을 차를 만나보세요",
+          "reference_ids": [
+            "osulloc-003#s01"
+          ],
+          "evidence": "과거 자료에서 차를 통해 미식의 경험을 제안하는 분위기와 가을 시즌을 연결하여 차분하고 따뜻한 느낌을 표현했습니다.",
+          "details_needed": [
+            "확인할 사실"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "space": "huggingface-projects/gemma-3n-E4B-it",
+      "theme_id": "christmas",
+      "status": "ok",
+      "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 16.201,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 20,
+          "subtitle": 21,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [
+          "reference_season_misattribution: cited snippets do not document Christmas",
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 7,
+        "passed": true,
+        "review_ready": false,
+        "output": {
+          "theme_id": "christmas",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 겨울, 오설록으로 전하는 마음",
+          "subtitle": "소중한 사람에게, 정성 가득한 차 선물",
+          "cta": "선물 찾아보기",
+          "reference_ids": [
+            "osulloc-001#s01",
+            "osulloc-003#s06"
+          ],
+          "evidence": "과거 크리스마스 시즌 프로모션에서 따뜻한 분위기와 선물에 대한 강조, 그리고 차 선물 카테고리를 활용한 문구 스타일을 참고했습니다.",
+          "details_needed": [
+            "상품명·가격·할인·사은품·기간"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "space": "huggingface-projects/gemma-3n-E4B-it",
+      "theme_id": "new_year",
+      "status": "ok",
+      "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 13.317,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 15,
+          "subtitle": 17,
+          "cta": 12
+        },
+        "issues": [
+          "wrong_theme_id"
+        ],
+        "warnings": [
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 1,
+        "passed": false,
+        "review_ready": false,
+        "output": {
+          "theme_id": "winter_greeting",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 겨울, 오설록과 함께",
+          "subtitle": "소중한 분께 전하는 마음을 담아",
+          "cta": "선물로 마음을 전하세요",
+          "reference_ids": [
+            "osulloc-001#s01",
+            "osulloc-002#s01"
+          ],
+          "evidence": "과거 프로모션에서 시즌의 분위기를 따뜻하고 차분하게 표현하고, 선물에 대한 언급을 통해 차/티 선물 카테고리를 강조한 점을 참고했습니다.",
+          "details_needed": [
+            "시즌(겨울)에 맞는 비주얼 방향",
+            "타겟 고객층"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "space": "huggingface-projects/gemma-3n-E4B-it",
+      "theme_id": "year_end",
+      "status": "ok",
+      "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+      "elapsed_wall_seconds": 13.126,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 17,
+          "subtitle": 20,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 2,
+        "passed": true,
+        "review_ready": false,
+        "output": {
+          "theme_id": "year_end",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 겨울, 함께 나누는 마음",
+          "subtitle": "소중한 사람에게 전하는 오설록의 선물",
+          "cta": "선물 찾아보기",
+          "reference_ids": [
+            "osulloc-001#s01",
+            "osulloc-002#s01"
+          ],
+          "evidence": "과거 연말 프로모션에서 따뜻한 분위기와 선물에 대한 강조가 나타나며, 출석체크 이벤트는 연말의 일상을 되돌아보는 느낌을 준다.",
+          "details_needed": [
+            "상품 종류",
+            "가격대",
+            "선물 포장 옵션"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "qwen38_27b",
+      "model": "Qwen/Qwen3.8-27B",
+      "space": "victor/Qwen3.8-27B-free-endpoint",
+      "theme_id": "christmas",
+      "status": "error",
+      "sampling": "Hosted BF16; temperature=0.7, top_p=0.8, presence_penalty=1.5, reasoning_effort=none; max_tokens=512",
+      "elapsed_wall_seconds": 0.907,
+      "error": "HTTP Error 400: Bad Request"
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "space": "akhaliq/Qwen3-VL-4B-Instruct",
+      "theme_id": "autumn",
+      "status": "ok",
+      "sampling": "Space source sets temperature=0.7, do_sample=True, top_p=0.95; max_new_tokens=512",
+      "elapsed_wall_seconds": 6.607,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 13,
+          "subtitle": 25,
+          "cta": 4
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "autumn",
+          "id": "hero",
+          "layout": "hero",
+          "title": "가을의 향기, 한 잔으로",
+          "subtitle": "차와 티가 담아낸 계절의 따뜻함을 선물하세요.",
+          "cta": "선물하기",
+          "reference_ids": [
+            "osulloc-003#s01",
+            "29cm-041#s06"
+          ],
+          "evidence": "osulloc-003#s01의 '차, 미식의 발견' 문체를 따뜻하고 시즌별 감성으로 재해석, 29cm-041#s06의 제품 소개 형식을 참고해 시즌적 차별화 문구 구성",
+          "details_needed": [
+            "상품명",
+            "가격",
+            "할인",
+            "사은품",
+            "기간"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "space": "akhaliq/Qwen3-VL-4B-Instruct",
+      "theme_id": "christmas",
+      "status": "ok",
+      "sampling": "Space source sets temperature=0.7, do_sample=True, top_p=0.95; max_new_tokens=512",
+      "elapsed_wall_seconds": 9.758,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 14,
+          "subtitle": 27,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [
+          "weak_explicit_season_signal"
+        ],
+        "max_reference_overlap_chars": 5,
+        "passed": true,
+        "review_ready": false,
+        "output": {
+          "theme_id": "christmas",
+          "id": "hero",
+          "layout": "hero",
+          "title": "겨울에 딱 좋은 차 한 잔",
+          "subtitle": "선물로 전하는 따뜻한 향기, 함께하는 시간의 시작",
+          "cta": "선물 선택하기",
+          "reference_ids": [
+            "osulloc-003#s06",
+            "29cm-057#s05"
+          ],
+          "evidence": "osulloc-003#s06에서 '차의 맛을 따라, 나와 선물할 사람의 취향을 골라보세요'의 감성과 29cm-057#s05에서 '따뜻한 선물을 전해보세요'의 따뜻한 분위기를 참고해 시즌 차이와 선물의 감정을 강조했음",
+          "details_needed": [
+            "상품명",
+            "가격",
+            "할인",
+            "사은품",
+            "기간"
+          ]
+        }
+      }
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "space": "akhaliq/Qwen3-VL-4B-Instruct",
+      "theme_id": "new_year",
+      "status": "error",
+      "sampling": "Space source sets temperature=0.7, do_sample=True, top_p=0.95; max_new_tokens=512",
+      "elapsed_wall_seconds": 1.708,
+      "error": "Model did not run: Sorry, I encountered an error: 'You have exceeded your ZeroGPU runs limit. Subscribe to Hugging Face PRO to get 40 min of ZeroGPU quota a day - https://huggingface.co/subscribe/pro?from=ZeroGPU'"
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "space": "akhaliq/Qwen3-VL-4B-Instruct",
+      "theme_id": "year_end",
+      "status": "ok",
+      "sampling": "Space source sets temperature=0.7, do_sample=True, top_p=0.95; max_new_tokens=512",
+      "elapsed_wall_seconds": 9.406,
+      "error": null,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 13,
+          "subtitle": 36,
+          "cta": 5
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "year_end",
+          "id": "hero",
+          "layout": "hero",
+          "title": "연말의 향기, 한 잔으로",
+          "subtitle": "차와 티로 마무리하는 한 해. 따뜻한 향기로 마음을 감싸는 순간을",
+          "cta": "선물 선택",
+          "reference_ids": [
+            "osulloc-002#s01"
+          ],
+          "evidence": "연말의 향기를 강조하고, 차/티 선물 카테고리의 따뜻한 분위기를 전달하는 문구로, 출석체크 기능과 관련된 문장에서 '연말의 페이지 한 잔으로 가다듬는 매일의 일상'을 참고해 시즌 차이를 명확히 표현했습니다.",
+          "details_needed": [
+            "상품명",
+            "가격",
+            "할인",
+            "사은품",
+            "기간"
+          ]
+        }
+      }
+    }
+  ]
+}

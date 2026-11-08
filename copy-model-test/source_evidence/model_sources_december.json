@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-08",
+  "local_runtime": {
+    "repository": "https://github.com/ggml-org/llama.cpp",
+    "release": "b12199",
+    "commit": "372dc5ca1",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12199",
+    "platform": "macOS arm64",
+    "execution": "CPU only; GPU, KV and op offload disabled; 4 threads"
+  },
+  "models": [
+    {
+      "repository": "Qwen/Qwen2.5-0.5B-Instruct-GGUF",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF",
+      "observed_commit": "9217f5db79a29953eb74d5343926648285ec7e67",
+      "license": "apache-2.0",
+      "status": "local_executed"
+    },
+    {
+      "repository": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+      "observed_commit": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+      "license": "apache-2.0",
+      "status": "local_executed"
+    },
+    {
+      "repository": "google/gemma-2-2b-it",
+      "url": "https://huggingface.co/google/gemma-2-2b-it",
+      "observed_commit": "299a8560bedf22ed1c72a8a11e7dce4a7f9f51f8",
+      "license": "gemma",
+      "status": "adapter_only_quota_blocked"
+    },
+    {
+      "repository": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "observed_commit": "0cb88a4f764b7a12671c53f0838cd831a0843b95",
+      "license": "llama3.2",
+      "status": "adapter_only_quota_blocked"
+    },
+    {
+      "repository": "google/gemma-4-E4B-it",
+      "url": "https://huggingface.co/google/gemma-4-E4B-it",
+      "observed_commit": "4ecc2ba63bcac23ba4a767fc87025b1450f84c9c",
+      "license": "apache-2.0",
+      "status": "adapter_only_quota_blocked"
+    }
+  ],
+  "download_policy": "Weights and runtime remain outside the Git repository. Tokens are not saved. Initial downloads require network; local generation does not.",
+  "public_demo_attempts": "runs/december-public-attempt/results",
+  "prompt_revision": "Long multi-season instructions caused copying/theme confusion on small models. Preserve those first outputs in runs/december-local-long-prompt. Current prompts mention only the requested season and use two Osulloc snippets. No JSON grammar; raw answers unchanged."
+}
