@@ -113,7 +113,7 @@ per-page counts and a readable section inventory.
 
 ## 저장 필드와 연결 규칙
 
-전체 구조와 GitHub 업로드 방법은 [루트 README](../README.md)에 있습니다.
+전체 자료 구조는 [루트 README](../README.md)에 있습니다.
 
 ### `index.jsonl` — 전체 검색용 목록
 
