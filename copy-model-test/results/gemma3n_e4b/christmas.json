@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3n_e4b",
+  "model": "google/gemma-3n-E4B-it",
+  "space": "huggingface-projects/gemma-3n-E4B-it",
+  "host": "https://huggingface-projects-gemma-3n-e4b-it.hf.space",
+  "endpoint": "generate",
+  "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+  "theme_id": "christmas",
+  "timestamp_utc": "2026-11-08T04:58:08.330861+00:00",
+  "transport": "public Gradio SSE API, anonymous, no HF token",
+  "input_sha256": "65e0ae9f6f68c57b396d2303fd583d6685a4debd36d554381b9631ce45dd1365",
+  "status": "ok",
+  "raw_output": "```json\n{\"theme_id\":\"christmas\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 겨울, 오설록으로 전하는 마음\", \"subtitle\":\"소중한 사람에게, 정성 가득한 차 선물\", \"cta\":\"선물 찾아보기\", \"reference_ids\":[\"osulloc-001#s01\", \"osulloc-003#s06\"],\"evidence\":\"과거 크리스마스 시즌 프로모션에서 따뜻한 분위기와 선물에 대한 강조, 그리고 차 선물 카테고리를 활용한 문구 스타일을 참고했습니다.\",\"details_needed\":[\"상품명·가격·할인·사은품·기간\"]}\n```",
+  "transport_response": {
+    "event_id": "50ccf314db4045779de597f4d0ff628f",
+    "completion": [
+      "```json\n{\"theme_id\":\"christmas\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 겨울, 오설록으로 전하는 마음\", \"subtitle\":\"소중한 사람에게, 정성 가득한 차 선물\", \"cta\":\"선물 찾아보기\", \"reference_ids\":[\"osulloc-001#s01\", \"osulloc-003#s06\"],\"evidence\":\"과거 크리스마스 시즌 프로모션에서 따뜻한 분위기와 선물에 대한 강조, 그리고 차 선물 카테고리를 활용한 문구 스타일을 참고했습니다.\",\"details_needed\":[\"상품명·가격·할인·사은품·기간\"]}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 16.201
+}

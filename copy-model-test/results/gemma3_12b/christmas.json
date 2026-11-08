@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3_12b",
+  "model": "google/gemma-3-12b-it",
+  "space": "huggingface-projects/gemma-3-12b-it",
+  "host": "https://huggingface-projects-gemma-3-12b-it.hf.space",
+  "endpoint": "run",
+  "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+  "theme_id": "christmas",
+  "timestamp_utc": "2026-11-08T05:09:58.911920+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "65e0ae9f6f68c57b396d2303fd583d6685a4debd36d554381b9631ce45dd1365",
+  "status": "ok",
+  "raw_output": "```json\n{\n  \"theme_id\": \"christmas\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"따스한 겨울, 향긋한 선물\",\n  \"subtitle\": \"소중한 순간을 더욱 특별하게, 오설록 티로 마음을 전하세요.\",\n  \"cta\": \"선물 보러 가기\",\n  \"reference_ids\": [\"osulloc-003#s06\"],\n  \"evidence\": \"osulloc-003#s06에서 '미식의 순간을 함께할 티'라는 표현과 선물에 대한 언급을 참고하여 따뜻하고 선물에 집중된 문구를 구성했습니다.\",\n  \"details_needed\": [\"시즌 차 종류 정보\"]\n}\n```",
+  "transport_response": {
+    "event_id": "b260634525834883811203071c7ae97a",
+    "completion": [
+      "```json\n{\n  \"theme_id\": \"christmas\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"따스한 겨울, 향긋한 선물\",\n  \"subtitle\": \"소중한 순간을 더욱 특별하게, 오설록 티로 마음을 전하세요.\",\n  \"cta\": \"선물 보러 가기\",\n  \"reference_ids\": [\"osulloc-003#s06\"],\n  \"evidence\": \"osulloc-003#s06에서 '미식의 순간을 함께할 티'라는 표현과 선물에 대한 언급을 참고하여 따뜻하고 선물에 집중된 문구를 구성했습니다.\",\n  \"details_needed\": [\"시즌 차 종류 정보\"]\n}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 21.168
+}

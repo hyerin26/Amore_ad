@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3n_e4b",
+  "model": "google/gemma-3n-E4B-it",
+  "space": "huggingface-projects/gemma-3n-E4B-it",
+  "host": "https://huggingface-projects-gemma-3n-e4b-it.hf.space",
+  "endpoint": "generate",
+  "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+  "theme_id": "year_end",
+  "timestamp_utc": "2026-11-08T05:09:32.464620+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "4ea770f7790eb0213eafe1166e3585c0ad8bfc16972115227847776e17f4f1e0",
+  "status": "ok",
+  "raw_output": "```json\n{\"theme_id\":\"year_end\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 겨울, 함께 나누는 마음\", \"subtitle\":\"소중한 사람에게 전하는 오설록의 선물\", \"cta\":\"선물 찾아보기\", \"reference_ids\":[\"osulloc-001#s01\", \"osulloc-002#s01\"],\"evidence\":\"과거 연말 프로모션에서 따뜻한 분위기와 선물에 대한 강조가 나타나며, 출석체크 이벤트는 연말의 일상을 되돌아보는 느낌을 준다.\",\"details_needed\":[\"상품 종류\", \"가격대\", \"선물 포장 옵션\"]}\n```",
+  "transport_response": {
+    "event_id": "01e9577fbc1c45b49db32ca1c6a45bba",
+    "completion": [
+      "```json\n{\"theme_id\":\"year_end\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 겨울, 함께 나누는 마음\", \"subtitle\":\"소중한 사람에게 전하는 오설록의 선물\", \"cta\":\"선물 찾아보기\", \"reference_ids\":[\"osulloc-001#s01\", \"osulloc-002#s01\"],\"evidence\":\"과거 연말 프로모션에서 따뜻한 분위기와 선물에 대한 강조가 나타나며, 출석체크 이벤트는 연말의 일상을 되돌아보는 느낌을 준다.\",\"details_needed\":[\"상품 종류\", \"가격대\", \"선물 포장 옵션\"]}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 13.126
+}

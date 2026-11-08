@@ -1,0 +1,84 @@
+{
+  "reference_dir": "work/Amore_ad/reference/data",
+  "design_dir": "work/tea_source/tea_ad-main",
+  "reference_page_count": 194,
+  "searchable_section_count": 576,
+  "design_contract": {
+    "repository": "https://github.com/EunseongOH/tea_ad",
+    "observed_commit": "21c378f97d07c0428ef49dd2bd8b2a006b55026a",
+    "layouts": [
+      {
+        "id": "hero",
+        "name": "단일 메인 비주얼",
+        "cat": "메인·비주얼"
+      },
+      {
+        "id": "grid2",
+        "name": "2열 상품 그리드",
+        "cat": "상품 큐레이션"
+      },
+      {
+        "id": "grid3",
+        "name": "3열 상품 그리드",
+        "cat": "상품 큐레이션"
+      },
+      {
+        "id": "split",
+        "name": "강조형 비대칭 배치",
+        "cat": "상품 큐레이션"
+      },
+      {
+        "id": "benefit",
+        "name": "혜택 안내",
+        "cat": "혜택·프로모션"
+      },
+      {
+        "id": "editorial",
+        "name": "텍스트 + CTA",
+        "cat": "스토리"
+      }
+    ],
+    "copy_fields": [
+      "title",
+      "subtitle",
+      "cta"
+    ],
+    "source_files": [
+      {
+        "path": "AGENTS.md",
+        "sha256": "a4547a6af8440306fef4024c7ffb6b74ac2f84b58fc22d174e604f317f0f500c"
+      },
+      {
+        "path": "README.md",
+        "sha256": "5a0ca213e73c4be070de2aa9ec718dfd882bb217eb31bca3dac4c59a5e93d40d"
+      },
+      {
+        "path": "src/app.js",
+        "sha256": "4c48778bee1081563fe0e70747d460e6aa42c9d0e450cb3cd069fe77e67aa19c"
+      },
+      {
+        "path": "design/UX_WRITING.md",
+        "sha256": "8de2ba43aaf296d1c83c70ec9010fbef11b0e198277a6a7f0882ce7ffbd277ec"
+      },
+      {
+        "path": "docs/specs/03_DATA_STATE_CONTRACTS.md",
+        "sha256": "c2851b7c432c8877186ede8f5aece394f0e8f04af0d1c20e9e082e190fb09546"
+      },
+      {
+        "path": "docs/context/00_MASTER_CONTEXT.md",
+        "sha256": "2e142bbbbe8554bd06024473080ac36403297b8b2013e82c087403a5edfe0217"
+      }
+    ],
+    "limits": {
+      "title": 28,
+      "subtitle": 60,
+      "cta": 14
+    },
+    "limits_provenance": "이번 비교 실험용 제한. 저장소에 확정된 카피 글자 수 제한이 있다고 주장하지 않음.",
+    "tone_provenance": "차분하고 따뜻한 문체는 실험용 지침. UX_WRITING.md의 해요체 규칙은 업무 UI용이며 공식 소비자 카피 지침으로 간주하지 않음.",
+    "apply_policy": "초안만 출력. 기존 구좌·상품·가격·localStorage·Undo 이력은 수정하지 않음."
+  },
+  "prompt_sha256": "5909d77a7f3695b5822a65506c0b0e704ea7269a7b5380ac616edf528ac74de6",
+  "reference_dates": "기존 수집 2026-11-04, 추가 2026-11-08",
+  "no_ocr": true
+}

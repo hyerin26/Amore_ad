@@ -1,0 +1,105 @@
+{
+  "theme_id": "new_year",
+  "theme": "신년",
+  "objective": "오설록 차·티 선물의 관심과 탐색 유도",
+  "audience": "계절의 티타임 또는 선물을 찾는 성인 고객",
+  "product_facts": {
+    "category": "차 및 티 선물",
+    "specific_sku": null,
+    "price": null,
+    "discount": null,
+    "gift": null,
+    "event_period": null
+  },
+  "slots": [
+    {
+      "id": "hero",
+      "layout": "hero",
+      "purpose": "시즌 첫 화면",
+      "suggested_reference_ids": [
+        "osulloc-001#s01"
+      ]
+    },
+    {
+      "id": "grid2",
+      "layout": "grid2",
+      "purpose": "취향별 차·선물 탐색",
+      "suggested_reference_ids": [
+        "osulloc-003#s03"
+      ]
+    },
+    {
+      "id": "benefit",
+      "layout": "benefit",
+      "purpose": "미확정 혜택 안내의 문구 초안",
+      "suggested_reference_ids": [
+        "osulloc-001#s03"
+      ]
+    },
+    {
+      "id": "editorial",
+      "layout": "editorial",
+      "purpose": "일상의 차 경험 소개",
+      "suggested_reference_ids": [
+        "osulloc-002#s01"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference_id": "osulloc-001#s01",
+      "brand": "osulloc",
+      "page_title": "오설록 일 년만에 돌아온,  오설록 블랙 프라이데이",
+      "role": "hero",
+      "url": "https://www.osulloc.com/kr/ko/life/event/view/12413",
+      "text": "블랙프라이데이 마감 블랙프라이데이 마감까지 남은 시간 12 DAYS : 00 HRS : 44 MINS : 41 SECS BLACK FRIDAY UP TO 50%",
+      "source_file": "pages/osulloc-001.json",
+      "source_sha256": "d2dfa064c446daac7b666f292687e75ee3dd574d5d2d02f484fb6b2a3496b2db"
+    },
+    {
+      "reference_id": "osulloc-003#s03",
+      "brand": "osulloc",
+      "page_title": "오설록 손종원 셰프와 함께한  블렌디드 티 ~33%",
+      "role": "product_list",
+      "url": "https://www.osulloc.com/kr/ko/life/event/view/12412",
+      "text": "4 Best - Selling teas 배와 꿀의 달큰함, 영귤의 산뜻함, 동백꽃의 화사함, 복숭아의 부드러운 향. 계절과 기분에 따라 골라 마시는 오설록의 네 가지 차를 만나보세요. HONEY PEAR TEA 삼다 꿀배 티 : 달큰한 배 향이 생각날 때 — 배와 꿀의 향미를 담은 제주 후발효차. 마시는 한 잔에서 따뜻한 후식까지. SAMDA TANGERINE TEA 제주 삼다 영귤 티 : 산뜻하게 기분을 바꾸고 싶을 때 — 제주 영귤의 향미를 더한 후발효차. 차로도, 요리의 향으로도 즐겨보세요. JEJU CAMELLIA TEA 제주 동백꽃 티 : 꽃과 과일 향을 함께 즐기고 싶을 때 — 후발효차와 홍차에 동백꽃 향을 더한 차. 화사한 꽃 향과 새콤달콤한 여운. PEACH BLACK TEA 피치 블랙티 : 복숭아 향의 홍차가 생각날 때 — 홍차와 후발효차를 블렌딩한 티. 달콤한 향 뒤로 이어지는 홍차의 맛. 삼다 꿀배 티 보러 가기 제주 삼다 영귤 티 보러 가기 제주 동백꽃 티 보러 가기 피치 블랙티 보러 가기 삼다 꿀배 티 보러 가기 제주 삼다 영귤 티 보러 가기 제주 동백꽃 티 보러 가기 피치 블랙티 보러 가기 삼다 꿀배 티 보러 가기 제주 삼다 영귤 티 보러 가기 제주 동백꽃 티 보러 가기 피치 블랙티 보러 가기 When Chef Son m",
+      "source_file": "pages/osulloc-003.json",
+      "source_sha256": "93a6a29fbe89438e2b74caa6952437ea3e197fa821bfd65eacce2a1f9e96ed85"
+    },
+    {
+      "reference_id": "osulloc-001#s03",
+      "brand": "osulloc",
+      "page_title": "오설록 일 년만에 돌아온,  오설록 블랙 프라이데이",
+      "role": "benefit_overview",
+      "url": "https://www.osulloc.com/kr/ko/life/event/view/12413",
+      "text": "오직 오설록몰에서만! 단독 블프 이벤트 오픈 : 블프 혜택 총 정리 01. 매일 장바구니 최대 50% 쿠폰 02. 선착순 구매 금액대별 사은품 03. 매일 달라지는 하루특가 45% 04. 추천 베스트템 6600원~ 05. 친구 초대 랜덤 포인트 적립",
+      "source_file": "pages/osulloc-001.json",
+      "source_sha256": "d2dfa064c446daac7b666f292687e75ee3dd574d5d2d02f484fb6b2a3496b2db"
+    },
+    {
+      "reference_id": "osulloc-002#s01",
+      "brand": "osulloc",
+      "page_title": "오설록 11월 출석체크",
+      "role": "participation_event",
+      "url": "https://www.osulloc.com/kr/ko/life/event/view/12426",
+      "text": "2026년 11월 출석체크 조용히 다가온 연말의 페이지 한 잔으로 가다듬는 매일의 일상 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 이번 달 출석현황 총 0 회",
+      "source_file": "pages/osulloc-002.json",
+      "source_sha256": "734bdff2063ec233f577d30caac6d16e0b4bc74eaffadfd2e9c7d086138eda41"
+    },
+    {
+      "reference_id": "29cm-002#s04",
+      "brand": "29cm",
+      "page_title": "자세히 볼수록 선명해지는 것들 레이스 - 모든 취향 곁에, 29CM",
+      "role": "content",
+      "url": "https://www.29cm.co.kr/content/showcase/7304",
+      "text": "레이스 RRACE RRACE는 도시의 일상복을 제안합니다. 기본에 충실한 디자인 위에 브랜드만의 분위기를 더해, 다양한 일상 속에서 자연스럽게 어우러지는 실루엣을 만듭니다. 우리는 옷을 통해 입는 사람 고유의 오라가 더욱 선명하게 드러나기를 바랍니다. 브랜드 홈 바로가기",
+      "source_file": "pages/29cm-002.json",
+      "source_sha256": "6ccba82fcf1fe4896765b048cde3a5f0091ce30eb704a6670190d296642094ad"
+    }
+  ],
+  "retrieval": {
+    "method": "deterministic keyword/section-role retrieval with Osulloc boost",
+    "exact_season_reference_found": false,
+    "warning": "관련 사례 검색은 기존 문체와 구성 참고용. 크리스마스·신년 직접 사례가 부족할 수 있음."
+  }
+}

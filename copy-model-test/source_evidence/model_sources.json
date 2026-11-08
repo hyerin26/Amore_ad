@@ -1,0 +1,29 @@
+[
+  {
+    "model_key": "gemma3n_e4b",
+    "space_id": "huggingface-projects/gemma-3n-E4B-it",
+    "host": "https://huggingface-projects-gemma-3n-e4b-it.hf.space",
+    "space_commit": "12676b8ffa570501dbfc92054553808880077d87",
+    "app_py_sha256": "7b2c775523f7039229d078ec7798b39a321f95ff1cae59633ef7c58679e69518",
+    "weights_revision": "Space did not pin a model-weight revision in the inspected source; exact weight hash not established",
+    "api_schema_sha256": "0fcc1ec93953afe16759305c0f6798821426acae6f5995f96186c6bf1eb78504"
+  },
+  {
+    "model_key": "gemma3_12b",
+    "space_id": "huggingface-projects/gemma-3-12b-it",
+    "host": "https://huggingface-projects-gemma-3-12b-it.hf.space",
+    "space_commit": "0c1bcda755bc5bab33d547ed5f3eafb98cb1ed26",
+    "app_py_sha256": "0978c1c808b03abbce10d8ea381bd161290998889d2e619e7ed5c3a901375ee2",
+    "weights_revision": "Space did not pin a model-weight revision in the inspected source; exact weight hash not established",
+    "api_schema_sha256": "1e6f0c5f744d34fff30ff6936197c1f579ab4667f52ea404e6c99fded8e0da0b"
+  },
+  {
+    "model_key": "qwen3vl_4b",
+    "space_id": "akhaliq/Qwen3-VL-4B-Instruct",
+    "host": "https://akhaliq-qwen3-vl-4b-instruct.hf.space",
+    "space_commit": "5e60f2c5b29e047b8fe46c0713e00752a4dd07c6",
+    "app_py_sha256": "dc765a6e43aea6ccada71126026d0ba758ed5474d145219f4701d865c1cca869",
+    "weights_revision": "Space did not pin a model-weight revision in the inspected source; exact weight hash not established",
+    "api_schema_sha256": "c03b4a0b2a2d655f953bbdc0af926b88e1a5e638ba208ef16f25a465cf044343"
+  }
+]

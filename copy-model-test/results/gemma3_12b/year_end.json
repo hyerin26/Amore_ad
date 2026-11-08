@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3_12b",
+  "model": "google/gemma-3-12b-it",
+  "space": "huggingface-projects/gemma-3-12b-it",
+  "host": "https://huggingface-projects-gemma-3-12b-it.hf.space",
+  "endpoint": "run",
+  "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+  "theme_id": "year_end",
+  "timestamp_utc": "2026-11-08T05:10:32.422888+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "4ea770f7790eb0213eafe1166e3585c0ad8bfc16972115227847776e17f4f1e0",
+  "status": "ok",
+  "raw_output": "```json\n{\"theme_id\":\"year_end\",\"id\":\"hero\",\"layout\":\"hero\",\"title\":\"따스한 겨울 티 한 잔\",\"subtitle\":\"마음까지 녹이는 오설록의 선물, 특별한 겨울을 준비하세요.\",\"cta\":\"차 쇼핑하기\",\"reference_ids\":[\"osulloc-002#s01\"],\"evidence\":\"osulloc-002의 '조용히 다가온 연말' 문구를 참고하여 차분하고 따뜻한 분위기를 표현했습니다.\",\"details_needed\":[\"선물 카테고리의 구체적인 상품 종류\"]}\n```",
+  "transport_response": {
+    "event_id": "3f1b2276d77e47f696ede2ef462b0d07",
+    "completion": [
+      "```json\n{\"theme_id\":\"year_end\",\"id\":\"hero\",\"layout\":\"hero\",\"title\":\"따스한 겨울 티 한 잔\",\"subtitle\":\"마음까지 녹이는 오설록의 선물, 특별한 겨울을 준비하세요.\",\"cta\":\"차 쇼핑하기\",\"reference_ids\":[\"osulloc-002#s01\"],\"evidence\":\"osulloc-002의 '조용히 다가온 연말' 문구를 참고하여 차분하고 따뜻한 분위기를 표현했습니다.\",\"details_needed\":[\"선물 카테고리의 구체적인 상품 종류\"]}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 8.425
+}

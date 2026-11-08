@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3_12b",
+  "model": "google/gemma-3-12b-it",
+  "space": "huggingface-projects/gemma-3-12b-it",
+  "host": "https://huggingface-projects-gemma-3-12b-it.hf.space",
+  "endpoint": "run",
+  "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+  "theme_id": "autumn",
+  "timestamp_utc": "2026-11-08T05:10:20.081407+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "3152137c9c4a74b21270a81837ba2713cbf30d46057a69492206064e58dac576",
+  "status": "ok",
+  "raw_output": "```json\n{\n  \"theme_id\": \"autumn\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"가을날의 편안한 여유\",\n  \"subtitle\": \"따스한 차 한 잔으로 깊어가는 가을, 마음을 채워보세요.\",\n  \"cta\": \"선물 보러 가기\",\n  \"reference_ids\": [\"osulloc-003#s01\", \"osulloc-003#s04\"],\n  \"evidence\": \"오설록의 과거 자료에서 차를 미식 경험으로 연결하고, 따뜻하고 편안한 분위기를 조성하는 표현을 참고했습니다.\",\n  \"details_needed\": [\"선물 카테고리 내 대표적인 차 종류는 무엇인가?\", \"가을 시즌을 대표하는 차의 특징은 무엇인가?\"]\n}\n```",
+  "transport_response": {
+    "event_id": "b8b01d2a880f471e90f36542f1430156",
+    "completion": [
+      "```json\n{\n  \"theme_id\": \"autumn\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"가을날의 편안한 여유\",\n  \"subtitle\": \"따스한 차 한 잔으로 깊어가는 가을, 마음을 채워보세요.\",\n  \"cta\": \"선물 보러 가기\",\n  \"reference_ids\": [\"osulloc-003#s01\", \"osulloc-003#s04\"],\n  \"evidence\": \"오설록의 과거 자료에서 차를 미식 경험으로 연결하고, 따뜻하고 편안한 분위기를 조성하는 표현을 참고했습니다.\",\n  \"details_needed\": [\"선물 카테고리 내 대표적인 차 종류는 무엇인가?\", \"가을 시즌을 대표하는 차의 특징은 무엇인가?\"]\n}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 12.338
+}

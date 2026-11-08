@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3n_e4b",
+  "model": "google/gemma-3n-E4B-it",
+  "space": "huggingface-projects/gemma-3n-E4B-it",
+  "host": "https://huggingface-projects-gemma-3n-e4b-it.hf.space",
+  "endpoint": "generate",
+  "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+  "theme_id": "new_year",
+  "timestamp_utc": "2026-11-08T05:09:45.593963+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "cb9c2aed5d3cd0b5885da694cfbb7ba390b0ebf71ecc671afdd033196da75367",
+  "status": "ok",
+  "raw_output": "```json\n{\"theme_id\":\"winter_greeting\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 겨울, 오설록과 함께\", \"subtitle\":\"소중한 분께 전하는 마음을 담아\", \"cta\":\"선물로 마음을 전하세요\", \"reference_ids\":[\"osulloc-001#s01\", \"osulloc-002#s01\"],\"evidence\":\"과거 프로모션에서 시즌의 분위기를 따뜻하고 차분하게 표현하고, 선물에 대한 언급을 통해 차/티 선물 카테고리를 강조한 점을 참고했습니다.\",\"details_needed\":[\"시즌(겨울)에 맞는 비주얼 방향\", \"타겟 고객층\"]}\n```",
+  "transport_response": {
+    "event_id": "5de022aeb9e3455ca58872169c580d0a",
+    "completion": [
+      "```json\n{\"theme_id\":\"winter_greeting\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 겨울, 오설록과 함께\", \"subtitle\":\"소중한 분께 전하는 마음을 담아\", \"cta\":\"선물로 마음을 전하세요\", \"reference_ids\":[\"osulloc-001#s01\", \"osulloc-002#s01\"],\"evidence\":\"과거 프로모션에서 시즌의 분위기를 따뜻하고 차분하게 표현하고, 선물에 대한 언급을 통해 차/티 선물 카테고리를 강조한 점을 참고했습니다.\",\"details_needed\":[\"시즌(겨울)에 맞는 비주얼 방향\", \"타겟 고객층\"]}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 13.317
+}

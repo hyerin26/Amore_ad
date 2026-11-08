@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3_12b",
+  "model": "google/gemma-3-12b-it",
+  "space": "huggingface-projects/gemma-3-12b-it",
+  "host": "https://huggingface-projects-gemma-3-12b-it.hf.space",
+  "endpoint": "run",
+  "sampling": "Space leaves sampling at model generation defaults; bf16; max_new_tokens=512",
+  "theme_id": "new_year",
+  "timestamp_utc": "2026-11-08T05:10:40.849179+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "cb9c2aed5d3cd0b5885da694cfbb7ba390b0ebf71ecc671afdd033196da75367",
+  "status": "ok",
+  "raw_output": "```json\n{\n  \"theme_id\": \"new_year\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"따스한 겨울, 오설록\",\n  \"subtitle\": \"싱그러운 녹차 향으로 일상에 포근함을 더하세요.\",\n  \"cta\": \"선물 찾아보기\",\n  \"reference_ids\": [\"osulloc-002#s01\"],\n  \"evidence\": \"osulloc-002의 '조용히 다가온 연말'이라는 문구를 참고하여 차분하고 따뜻한 분위기를 표현하고자 했습니다.\",\n  \"details_needed\": [\"시즌 차 종류 정보\"]\n}\n```",
+  "transport_response": {
+    "event_id": "0937d72034ee48f4b193916e143c6255",
+    "completion": [
+      "```json\n{\n  \"theme_id\": \"new_year\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"따스한 겨울, 오설록\",\n  \"subtitle\": \"싱그러운 녹차 향으로 일상에 포근함을 더하세요.\",\n  \"cta\": \"선물 찾아보기\",\n  \"reference_ids\": [\"osulloc-002#s01\"],\n  \"evidence\": \"osulloc-002의 '조용히 다가온 연말'이라는 문구를 참고하여 차분하고 따뜻한 분위기를 표현하고자 했습니다.\",\n  \"details_needed\": [\"시즌 차 종류 정보\"]\n}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 10.29
+}

@@ -1,0 +1,22 @@
+{
+  "model_key": "gemma3n_e4b",
+  "model": "google/gemma-3n-E4B-it",
+  "space": "huggingface-projects/gemma-3n-E4B-it",
+  "host": "https://huggingface-projects-gemma-3n-e4b-it.hf.space",
+  "endpoint": "generate",
+  "sampling": "Space source sets do_sample=False; bf16; max_new_tokens=512",
+  "theme_id": "autumn",
+  "timestamp_utc": "2026-11-08T05:09:17.455331+00:00",
+  "transport": "public Gradio SSE API, authenticated HF free quota; token not stored",
+  "input_sha256": "3152137c9c4a74b21270a81837ba2713cbf30d46057a69492206064e58dac576",
+  "status": "ok",
+  "raw_output": "```json\n{\"theme_id\":\"autumn\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"가을, 차 한 잔의 여유\", \"subtitle\":\"따스한 햇살 아래, 깊어지는 풍미를 느껴보세요.\", \"cta\":\"가을 차를 만나보세요\", \"reference_ids\":[\"osulloc-003#s01\"],\"evidence\":\"과거 자료에서 차를 통해 미식의 경험을 제안하는 분위기와 가을 시즌을 연결하여 차분하고 따뜻한 느낌을 표현했습니다.\",\"details_needed\":[\"확인할 사실\"]}\n```",
+  "transport_response": {
+    "event_id": "069f75a500af404e8cc3392f988f8fcb",
+    "completion": [
+      "```json\n{\"theme_id\":\"autumn\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"가을, 차 한 잔의 여유\", \"subtitle\":\"따스한 햇살 아래, 깊어지는 풍미를 느껴보세요.\", \"cta\":\"가을 차를 만나보세요\", \"reference_ids\":[\"osulloc-003#s01\"],\"evidence\":\"과거 자료에서 차를 통해 미식의 경험을 제안하는 분위기와 가을 시즌을 연결하여 차분하고 따뜻한 느낌을 표현했습니다.\",\"details_needed\":[\"확인할 사실\"]}\n```",
+      null
+    ]
+  },
+  "elapsed_wall_seconds": 15.004
+}

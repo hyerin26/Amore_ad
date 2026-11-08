@@ -1,0 +1,22 @@
+cached attempt gemma3n_e4b christmas
+running gemma3n_e4b autumn
+ok gemma3n_e4b autumn 15.004 
+running gemma3n_e4b year_end
+ok gemma3n_e4b year_end 13.126 
+running gemma3n_e4b new_year
+ok gemma3n_e4b new_year 13.317 
+running gemma3_12b christmas
+ok gemma3_12b christmas 21.168 
+running gemma3_12b autumn
+ok gemma3_12b autumn 12.338 
+running gemma3_12b year_end
+ok gemma3_12b year_end 8.425 
+running gemma3_12b new_year
+ok gemma3_12b new_year 10.29 
+cached attempt qwen3vl_4b christmas
+cached attempt qwen3vl_4b autumn
+running qwen3vl_4b year_end
+ok qwen3vl_4b year_end 9.406 
+running qwen3vl_4b new_year
+error qwen3vl_4b new_year 1.708 Model did not run: Sorry, I encountered an error: 'You have exceeded your ZeroGPU runs limit. Subscribe to Hugging Face PRO to get 40 min of ZeroGPU quota a day - https://huggingface.co/subscribe/pro?from=ZeroGPU'
+Quota reached; stopping this Space without automatic retries.
