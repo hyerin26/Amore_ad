@@ -1,0 +1,5071 @@
+{
+ "id": "wconcept-003",
+ "brand": "wconcept",
+ "collected_date": "2026-11-08",
+ "url": "https://display.wconcept.co.kr/rn/promotion/111",
+ "listing_label": "쓱데이 | W컨셉(W CONCEPT)",
+ "resolved_url": "https://display.wconcept.co.kr/rn/promotion/111",
+ "description": "나만의 컨셉, 감각적 스타일링 - W컨셉",
+ "images": [
+  {
+   "alt": "",
+   "url": "https://wdiscoveryimg.wconcept.co.kr/tos-sgcomm1-v-662e29308768f11b-sg/oMYO6OetwIekZg7FYqEwPANiMFXBABA73QgQQ3~tplv-vod-noop.image",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://wdiscoveryimg.wconcept.co.kr/tos-sgcomm1-v-662e29308768f11b-sg/oMYO6OetwIekZg7FYqEwPANiMFXBABA73QgQQ3~tplv-vod-noop.image",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/02_challenge_link.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/03_eventbanner_bg.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/03_eventbanner_card.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "~63% +30% +더블5%",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028160201525_5611.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "룩캐스트",
+   "url": "https://static.wconcept.co.kr/display/images/onerror_img_product.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "레이첼콕스 24H 혜택",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261029100747129_4796.jpg",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "레이첼콕스",
+   "url": "https://static.wconcept.co.kr/display/images/onerror_img_product.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_tit.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_fade01.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_fade02.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli12.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli14.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli02.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli15.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli03.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli06.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli07.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli10.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli05.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli08.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli09.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli13.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli04.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli11.jpg",
+   "tags": [
+    "product_photo"
+   ],
+   "image_id": "i0024"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/sig_prev.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/sig_next.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0026"
+  },
+  {
+   "alt": "듀테로",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260922150850445_4864.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0027"
+  },
+  {
+   "alt": "샤드라마",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261012103148790_6722.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0028"
+  },
+  {
+   "alt": "아워코모스",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261016101608097_1684.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0029"
+  },
+  {
+   "alt": "무니드",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261027184640455_8432.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0030"
+  },
+  {
+   "alt": "로브로브",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260828140251805_2291.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0031"
+  },
+  {
+   "alt": "에트몽",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261016152256170_4333.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0032"
+  },
+  {
+   "alt": "피버",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260914163801143_6399.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0033"
+  },
+  {
+   "alt": "프론트로우",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260929162116625_7341.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0034"
+  },
+  {
+   "alt": "라메레이",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261019143749846_3236.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0035"
+  },
+  {
+   "alt": "제너럴 아이디어",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260921123143657_6054.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0036"
+  },
+  {
+   "alt": "르세지엠",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260820173927906_6102.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0037"
+  },
+  {
+   "alt": "넌즈시",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261010151203476_6458.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0038"
+  },
+  {
+   "alt": "아우어노스텔지아",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261028120944203_3756.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0039"
+  },
+  {
+   "alt": "루에브르",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261012105645022_9410.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0040"
+  },
+  {
+   "alt": "아티드",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261026142806425_5415.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0041"
+  },
+  {
+   "alt": "세나프레",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261030105223080_8663.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0042"
+  },
+  {
+   "alt": "슬로우롤리",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261030114704515_7900.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0043"
+  },
+  {
+   "alt": "오브에르",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261016110405936_3077.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0044"
+  },
+  {
+   "alt": "룬느",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20231116205152989_9379.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0045"
+  },
+  {
+   "alt": "크록스",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260306173138027_9182.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0046"
+  },
+  {
+   "alt": "베네통",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261014142219892_4344.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0047"
+  },
+  {
+   "alt": "프론투라인",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261026151815322_1325.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0048"
+  },
+  {
+   "alt": "아더템포",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260730170824766_2743.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0049"
+  },
+  {
+   "alt": "랑거",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260831151101181_5433.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0050"
+  },
+  {
+   "alt": "벨류엣",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260828155827880_4149.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0051"
+  },
+  {
+   "alt": "오브이알엘",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260909184028987_5753.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0052"
+  },
+  {
+   "alt": "더제이수",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261023100135910_2659.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0053"
+  },
+  {
+   "alt": "듀엘",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260812104956040_6345.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0054"
+  },
+  {
+   "alt": "쓱데이",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028162241824_2976.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0055"
+  },
+  {
+   "alt": "비너스",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260901094129320_8538.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0056"
+  },
+  {
+   "alt": "디어리얼",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20231108114942287_3715.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0057"
+  },
+  {
+   "alt": "티에스에이치",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261006171020026_9081.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0058"
+  },
+  {
+   "alt": "후와",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260508182538214_7219.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0059"
+  },
+  {
+   "alt": "나그참파코리아",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20251212165000454_4714.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0060"
+  },
+  {
+   "alt": "릿지서울",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261103194338201_7164.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0061"
+  },
+  {
+   "alt": "오르디",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260422145503774_9697.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0062"
+  },
+  {
+   "alt": "비프로젝트",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260921164046497_2396.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0063"
+  },
+  {
+   "alt": "더블유랩",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260807120513290_4681.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0064"
+  },
+  {
+   "alt": "컴포트랩",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261015095805629_7006.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0065"
+  },
+  {
+   "alt": "폴로랄프로렌 이너웨어",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260508182619530_4560.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0066"
+  },
+  {
+   "alt": "시모먼트",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20231109163909961_6787.jpg?RS=250",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0067"
+  },
+  {
+   "alt": "잡화 리퍼브숍",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028165323552_5918.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0068"
+  },
+  {
+   "alt": "리퍼브숍 라이프",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028165335573_9594.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0069"
+  },
+  {
+   "alt": "카테고리 아이템",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028165356469_8374.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0070"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/live/20261029162119950_8283.png?RS=670",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0071"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/live/20261029162119950_8283.png?RS=670",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0071"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/49/309061549_WQ91180.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0072"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/89/307584589_YH33237.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0073"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/48/309024748_IE64070.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0074"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/02/306110002_OV55103.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0075"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/44/308920544_GG96758.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0076"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/05/301799005_ON16126.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0077"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/79/309121579_JV23842.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0078"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/60/307329760_VE53553.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0079"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/02/307730802_DN14496.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0080"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/90/307812090_MK31755.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0081"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/49/308491349_RA33629.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0082"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/21/308493221_JR82984.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0083"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260914143703384_6272.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0084"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/49/309061549_WQ91180.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0072"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/79/309121579_JV23842.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0078"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/49/308491349_RA33629.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0082"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/85/309121585_CK44436.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0085"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/95/309018495_QU91375.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0086"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/34/308491934_PI18192.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0087"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/16/308492016_CN56057.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0088"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/92/308994092_DD17339.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0089"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/21/308493221_JR82984.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0083"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/81/309121581_EX44412.jpg?RS=417",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0090"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261023163521756_2428.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0091"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261028120632890_2880.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0092"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261103103907184_1054.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0093"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261030103414119_1901.png?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0094"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260929162116625_7341.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0095"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260901103124377_2015.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0096"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261106191728202_9578.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0097"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261104105508140_9911.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0098"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261029193953905_8638.jpg?RS=120",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0099"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028095115017_8044.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0100"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093732249_8680.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0101"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093308262_4137.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0102"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028092957023_7392.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0103"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093402743_4297.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0104"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_tit.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0105"
+  },
+  {
+   "alt": "최저가 보상제 — 다른 곳이 더 저렴하다면 차액을 최대 2만 원까지 보상해 드려요.",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li01.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0106"
+  },
+  {
+   "alt": "이달의 출석체크 — 출석만 해도 매일 W포인트를 드려요.",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li02.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0107"
+  },
+  {
+   "alt": "수신 동의 혜택 — 지금 수신 동의하면 5% 더블 쿠폰 드려요.",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li03.jpg",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0108"
+  },
+  {
+   "alt": "신규 회원 혜택 — 신규가입 쿠폰팩, W웰컴딜, 첫 구매 페이백, 더블 쿠폰 7%",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li04.jpg",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0109"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_pop.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0110"
+  },
+  {
+   "alt": "토스페이",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172707953_3270.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0111"
+  },
+  {
+   "alt": "카카오페이(머니)",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172524168_3548.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0112"
+  },
+  {
+   "alt": "삼성카드(W컨셉)",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227173057669_8534.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0113"
+  },
+  {
+   "alt": "카카오페이(NH농협카드)",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172524168_3548.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0112"
+  },
+  {
+   "alt": "토스페이(머니/계좌)",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172614836_6266.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0114"
+  },
+  {
+   "alt": "현대카드",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172058428_9446.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0115"
+  },
+  {
+   "alt": "삼성카드(LINK)",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172424460_8121.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0116"
+  },
+  {
+   "alt": "KB Pay(할인팩)",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172956888_3704.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0117"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_tit.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0118"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_li01.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0119"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_li02.png",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0120"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_bottom.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0121"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_pop.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0122"
+  },
+  {
+   "alt": "",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/09_vid_bg.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0123"
+  }
+ ],
+ "og_image": "https://wimage.wconcept.co.kr/msa/promotion/20261028182118911_4973.jpg",
+ "text": "혜택 24시간 브랜드데이 쓱데이 & 더블유위크 챌린지 쓱데이 시그니처 Click to unmute Replay 00:00 Click and hold to drag 혜택 24H 브랜드데이 오늘 주목할 브랜드 쓱데이 시그니처 패션/잡화 브랜드 아우터 특가 방한 잡화 특가 W온리 특가 홈언더/라이프 특가 뷰티 특가 균일가 혜택 라이프/뷰티 브랜드 리퍼브숍 랭킹 이벤트 혜택의 신세계 24H 혜택 [24H] 쓱데이 30% 최대 15만원 할인 쓱데이 혜택 전 카테고리 14% 최대 4만원 할인 쓱데이 15% 최대 4만원 할인 쓱데이 더블10% 최대 3만 5,000원 할인 모든 쿠폰 받기 유의사항 24시간 브랜드데이 단 하루 최대 혜택으로 만나요. 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 룩캐스트 ~63% +30% +더블5% 룩캐스트 24H 룩캐스트 LOOKAST 룩캐스트_ 30% 최대 15만원 할인 자세히 보기 오늘 주목할 브랜드 ~30% 쿠폰 혜택 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 레이첼콕스 우이 그로브 레이첼콕스 24H 혜택 레이첼콕스 RACHEL COX [24H] 쓱데이 30% 최대 15만원 할인 자세히 보기 시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요. 아우터 상의 하의 원피스 백/잡화 슈즈 액세서리 홈언더웨어 뷰티 라이프 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 패션 & 잡화 추천 브랜드 올겨울 활약할 아이템만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 듀테로 샤드라마 아워코모스 무니드 로브로브 에트몽 피버 프론트로우 라메레이 제너럴 아이디어 르세지엠 넌즈시 아우어노스텔지아 루에브르 아티드 세나프레 슬로우롤리 오브에르 룬느 크록스 베네통 프론투라인 아더템포 랑거 벨류엣 오브이알엘 더제이수 듀엘 쓱데이 15% 최대 4만원 할인 자세히 보기 아우터 혜택 매년 꺼내게 될 아이템만 모았어요. 코트 퍼 패딩 재킷 무스탕 플리스 MEN 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요. 어그/부츠 로퍼/방한슈즈 머플러 모자/바라클라바 장갑 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 W온리 오직 이곳에서만 만날 수 있어요. 백 슈즈 액세서리 아우터 니트 상의 하의 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 홈언더&라이프&키즈 기간 한정 혜택을 만나보세요. 홈언더웨어 패브릭 키친 온열가전/디지털 가구/홈데코 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 지금 주목할 뷰티 오직 지금만 있는 기회예요. 메이크업 스킨케어 헤어&바디 디바이스 센트 푸드 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 한정수량 균일가 혜택 10만원 미만 5만원 미만 푸드 뷰티/이너뷰티 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 홈언더&라이프&뷰티 브랜드 지금 주목해야할 브랜드만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 비너스 디어리얼 티에스에이치 후와 나그참파코리아 릿지서울 오르디 비프로젝트 더블유랩 컴포트랩 폴로랄프로렌 이너웨어 시모먼트 쓱데이 15% 최대 4만원 할인 자세히 보기 W라이브 금 10 . 30 일 11 . 1 월 11 . 2 화 11 . 3 수 11 . 4 목 11 . 5 금 11 . 6 라이브 종료 드파운드 ~72% + 30% 쿠폰 W라이브 다시보기 자세히 보기 실시간 랭킹 12:02 업데이트 전체 아우터 니트 팬츠 원피스 티셔츠 스커트 블라우스 셔츠 백 슈즈 액세서리 언더웨어 라운지웨어 스포츠액티브 라이프 뷰티 남성 키즈 푸드 드파운드 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 1 씨씨콜렉트 [9차][네이비 단독] 알파카 블렌드 하이넥 싱글 맥코트_C264MSG365(4color) 51 % 280,873 2 룩캐스트 [캐시미어 10%] 울 핸드메이드 드레이프 하이넥 하프 코트 / WOOL HANDMADE DRAPE HIGH NECK HALF COAT_3colors 40 % 172,368 3 룩캐스트 [4차 리오더][XS사이즈 추가] 몬드리 덕 다운 패딩 / MONDRY DUCK DOWN PADDING_2colors 69 % 99,000 4 수아레 우먼 [컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR 52 % 78,795 5 프론트로우 [Premium] Cashmere-blend Handmade Coat_3color 34 % 456,240 6 드파운드 dumble reversible jumper - light blue 24 % 226,480 7 룩캐스트 [단독][4차 리오더] 에일린 울 핸드메이드 자켓 / AILEEN WOOL HANDMADE JACKET_3colors 50 % 99,000 8 르메메 [꼬민지,유하 pick]High Neck Toggle Fur Jacket_2colors 27 % 187,501 9 올리브데올리브 [박민하PICK][단독] 벨티드 하프 발마칸 구스 다운 코트 OP6XMA670 50 % 294,525 10 드파운드 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 11 드파운드 high neck duck down short padding (4color) 20 % 286,400 12 상품 더보기 브랜드 랭킹 1~10위 11~20위 1 드파운드 바로가기 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 dumble reversible jumper - light blue 24 % 226,480 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 faux mink high-neck jacket - ivory 32 % 243,440 [단독] light duck down jumper - brown 44 % 122,080 poodle bag (5colors) 28 % 54,000 line knit gloves - charcoal 52 % 27,840 diamond quilted half jacket - black 36 % 229,120 high neck duck down short padding (4color) 20 % 286,400 dumble reversible jumper - khaki 24 % 226,480 2 룩캐스트 3 시야쥬 4 파사드패턴 5 수아레 우먼 6 프론트로우 7 하시에 8 망고매니플리즈 9 리엘 10 시티브리즈 지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요. 겨울 인기 어패럴 모아보기 [더블 쿠폰 10%] 단독 혜택 자세히 보기 가방 모아보기 [더블 쿠폰 10%] 가방 단독 혜택 자세히 보기 겨울 액세서리 모아보기 [더블 쿠폰 10%] 액세서리 & 주얼리 단독 혜택 자세히 보기 겨울 스니커즈 모아보기 [더블 쿠폰 10%] 슈즈 단독 혜택 자세히 보기 아웃도어 어패럴 모아보기 [더블 쿠폰 10%] 아웃도어 단독 혜택 자세히 보기 담을수록 커지는 혜택 토스페이 20만원 이상 결제 시 7천원 즉시할인 카카오페이(머니) 14만원 이상 결제 시 4천원 즉시할인 삼성카드(W컨셉) 7만원 이상 첫 결제 시 4만원 즉시할인 카카오페이(NH농협카드) 14만원 이상 결제 시 5천원 즉시할인 토스페이(머니/계좌) 5만원 이상 결제 시 1천원 즉시할인 현대카드 10만원 이상 결제 시 M포인트 5%사용 삼성카드(LINK) 15만원 이상 결제 시 6천원 결제일 할인 KB Pay(할인팩) 15만원 이상 결제 시 6천원 결제일 할인 첫 구매 한정 수량 특가 Replay Play 00 : 00 / 00:39 Live 00:00 Fullscreen PIP Speed 2x 1.5x 1.25x 1x 0.75x 0.5x HD HD Click and hold to drag",
+ "title": "쓱데이 | W컨셉(W CONCEPT)",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "24시간 브랜드데이",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "쓱데이 & 더블유위크 챌린지",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "쓱데이 시그니처",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "24H 브랜드데이",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "오늘 주목할 브랜드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "패션/잡화 브랜드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아우터 특가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "방한 잡화 특가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "W온리 특가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "홈언더/라이프 특가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "뷰티 특가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "균일가 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "라이프/뷰티 브랜드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "리퍼브숍",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "랭킹",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "이벤트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "[24H] 쓱데이 30% 최대 15만원 할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "전 카테고리 14% 최대 4만원 할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "쓱데이 15% 최대 4만원 할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "쓱데이 더블10% 최대 3만 5,000원 할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "모든 쿠폰 받기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "유의사항",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://event.wconcept.co.kr/event/135560",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "https://event.wconcept.co.kr/event/135560"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": " ",
+   "element": "a",
+   "destination_url": "https://event.wconcept.co.kr/event/135383",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "https://event.wconcept.co.kr/event/135383"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "10 . 30 ( 금 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "10 . 31 ( 토 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 1 ( 일 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 2 ( 월 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 3 ( 화 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 4 ( 수 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 5 ( 목 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 6 ( 금 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 7 ( 토 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11 . 8 ( 일 ) 오전 10시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "룩캐스트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "~63% +30% +더블5% 룩캐스트 24H",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "룩캐스트 LOOKAST",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "자세히 보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "레이첼콕스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "우이",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "그로브",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "레이첼콕스 24H 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "레이첼콕스 RACHEL COX",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/307456741",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/307456741"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/308579338",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/308579338"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/308914198",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/308914198"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/307463098",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/307463098"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309121228",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309121228"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/307510755",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/307510755"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309074019",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309074019"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309088278",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309088278"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309110074",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309110074"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309126308",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309126308"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309028144",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309028144"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/307584589",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/307584589"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/308892856",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/308892856"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309016878",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309016878"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://www.wconcept.co.kr/Product/309128387",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "https://www.wconcept.co.kr/Product/309128387"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "Previous slide",
+   "element": "div",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "Next slide",
+   "element": "div",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아우터",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "상의",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "하의",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "원피스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "백/잡화",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "슈즈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "액세서리",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "홈언더웨어",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "뷰티",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "라이프",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "키즈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "듀테로",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "샤드라마",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아워코모스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "무니드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "로브로브",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "에트몽",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "피버",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "프론트로우",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "라메레이",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "제너럴 아이디어",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "르세지엠",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "넌즈시",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아우어노스텔지아",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "루에브르",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아티드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "세나프레",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "슬로우롤리",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "오브에르",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "룬느",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "크록스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "베네통",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "프론투라인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아더템포",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "랑거",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "벨류엣",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "오브이알엘",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "더제이수",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "듀엘",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "쓱데이",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "코트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "퍼",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "패딩",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "재킷",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "무스탕",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "플리스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "MEN",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "어그/부츠",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "로퍼/방한슈즈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "머플러",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "모자/바라클라바",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "장갑",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "백",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "니트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "패브릭",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "키친",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "온열가전/디지털",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "가구/홈데코",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "메이크업",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "스킨케어",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "헤어&바디",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "디바이스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "센트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "푸드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "10만원 미만",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "5만원 미만",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "뷰티/이너뷰티",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "비너스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "디어리얼",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "티에스에이치",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "후와",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "나그참파코리아",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "릿지서울",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "오르디",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "비프로젝트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "더블유랩",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "컴포트랩",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "폴로랄프로렌 이너웨어",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "시모먼트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "잡화 리퍼브숍",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "리퍼브숍 라이프",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "카테고리 아이템",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "금 10 . 30",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "일 11 . 1",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "월 11 . 2",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "화 11 . 3",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "수 11 . 4",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "목 11 . 5",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "금 11 . 6",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "W라이브 다시보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "전체",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "팬츠",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "티셔츠",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "스커트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "블라우스",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "셔츠",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "언더웨어",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "라운지웨어",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "스포츠액티브",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "남성",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "드파운드 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "찜 하기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "씨씨콜렉트 [9차][네이비 단독] 알파카 블렌드 하이넥 싱글 맥코트_C264MSG365(4color) 51 % 280,873",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "룩캐스트 [캐시미어 10%] 울 핸드메이드 드레이프 하이넥 하프 코트 / WOOL HANDMADE DRAPE HIGH NECK HALF COAT_3colors 40 % 172,368",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "룩캐스트 [4차 리오더][XS사이즈 추가] 몬드리 덕 다운 패딩 / MONDRY DUCK DOWN PADDING_2colors 69 % 99,000",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "수아레 우먼 [컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR 52 % 78,795",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "프론트로우 [Premium] Cashmere-blend Handmade Coat_3color 34 % 456,240",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "드파운드 dumble reversible jumper - light blue 24 % 226,480",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "룩캐스트 [단독][4차 리오더] 에일린 울 핸드메이드 자켓 / AILEEN WOOL HANDMADE JACKET_3colors 50 % 99,000",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "르메메 [꼬민지,유하 pick]High Neck Toggle Fur Jacket_2colors 27 % 187,501",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "올리브데올리브 [박민하PICK][단독] 벨티드 하프 발마칸 구스 다운 코트 OP6XMA670 50 % 294,525",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "드파운드 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "드파운드 high neck duck down short padding (4color) 20 % 286,400",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "상품 더보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "1~10위",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "11~20위",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "1 드파운드",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "바로가기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "[티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "dumble reversible jumper - light blue 24 % 226,480",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "[선물포장] cashmere wool blended muffler (12color) 28 % 118,800",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "faux mink high-neck jacket - ivory 32 % 243,440",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "[단독] light duck down jumper - brown 44 % 122,080",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "poodle bag (5colors) 28 % 54,000",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "line knit gloves - charcoal 52 % 27,840",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "diamond quilted half jacket - black 36 % 229,120",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "high neck duck down short padding (4color) 20 % 286,400",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "dumble reversible jumper - khaki 24 % 226,480",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "2 룩캐스트",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "3 시야쥬",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "4 파사드패턴",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "5 수아레 우먼",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "6 프론트로우",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "7 하시에",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "8 망고매니플리즈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "9 리엘",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "10 시티브리즈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "겨울 인기 어패럴 모아보기 [더블 쿠폰 10%] 단독 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "가방 모아보기 [더블 쿠폰 10%] 가방 단독 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "겨울 액세서리 모아보기 [더블 쿠폰 10%] 액세서리 & 주얼리 단독 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "겨울 스니커즈 모아보기 [더블 쿠폰 10%] 슈즈 단독 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "아웃도어 어패럴 모아보기 [더블 쿠폰 10%] 아웃도어 단독 혜택",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://event.wconcept.co.kr/event/135589",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "https://event.wconcept.co.kr/event/135589"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://event.wconcept.co.kr/promo/attend",
+   "destination_type": "other",
+   "status": "declared_in_html",
+   "raw_target": "https://event.wconcept.co.kr/promo/attend"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:;"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://event.wconcept.co.kr/event/130173",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "https://event.wconcept.co.kr/event/130173"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "팝업 닫기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "토스페이 20만원 이상 결제 시 7천원 즉시할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "카카오페이(머니) 14만원 이상 결제 시 4천원 즉시할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "삼성카드(W컨셉) 7만원 이상 첫 결제 시 4만원 즉시할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "카카오페이(NH농협카드) 14만원 이상 결제 시 5천원 즉시할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "토스페이(머니/계좌) 5만원 이상 결제 시 1천원 즉시할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "현대카드 10만원 이상 결제 시 M포인트 5%사용",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "삼성카드(LINK) 15만원 이상 결제 시 6천원 결제일 할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "KB Pay(할인팩) 15만원 이상 결제 시 6천원 결제일 할인",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "http://pf.kakao.com/_nfsxnT",
+   "destination_type": "other",
+   "status": "declared_in_html",
+   "raw_target": "http://pf.kakao.com/_nfsxnT"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "a",
+   "destination_url": "https://event.wconcept.co.kr/event/135517",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "https://event.wconcept.co.kr/event/135517"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://display.wconcept.co.kr/rn/promotion/111",
+  "status": "revisited",
+  "title": "쓱데이 | W컨셉(W CONCEPT)"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [
+    "혜택의 신세계",
+    "시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요.",
+    "아우터 혜택 매년 꺼내게 될 아이템만 모았어요.",
+    "방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요.",
+    "W온리 오직 이곳에서만 만날 수 있어요.",
+    "홈언더&라이프&키즈 기간 한정 혜택을 만나보세요.",
+    "지금 주목할 뷰티 오직 지금만 있는 기회예요.",
+    "한정수량 균일가 혜택",
+    "W라이브",
+    "실시간 랭킹",
+    "브랜드 랭킹",
+    "지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요.",
+    "담을수록 커지는 혜택",
+    "첫 구매 한정 수량 특가"
+   ],
+   "text": "혜택 24시간 브랜드데이 쓱데이 & 더블유위크 챌린지 쓱데이 시그니처 Click to unmute Replay 00:00 Click and hold to drag 혜택 24H 브랜드데이 오늘 주목할 브랜드 쓱데이 시그니처 패션/잡화 브랜드 아우터 특가 방한 잡화 특가 W온리 특가 홈언더/라이프 특가 뷰티 특가 균일가 혜택 라이프/뷰티 브랜드 리퍼브숍 랭킹 이벤트 혜택의 신세계 24H 혜택 [24H] 쓱데이 30% 최대 15만원 할인 쓱데이 혜택 전 카테고리 14% 최대 4만원 할인 쓱데이 15% 최대 4만원 할인 쓱데이 더블10% 최대 3만 5,000원 할인 모든 쿠폰 받기 유의사항 24시간 브랜드데이 단 하루 최대 혜택으로 만나요. 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 룩캐스트 ~63% +30% +더블5% 룩캐스트 24H 룩캐스트 LOOKAST 룩캐스트_ 30% 최대 15만원 할인 자세히 보기 오늘 주목할 브랜드 ~30% 쿠폰 혜택 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 레이첼콕스 우이 그로브 레이첼콕스 24H 혜택 레이첼콕스 RACHEL COX [24H] 쓱데이 30% 최대 15만원 할인 자세히 보기 시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요. 아우터 상의 하의 원피스 백/잡화 슈즈 액세서리 홈언더웨어 뷰티 라이프 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 패션 & 잡화 추천 브랜드 올겨울 활약할 아이템만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 듀테로 샤드라마 아워코모스 무니드 로브로브 에트몽 피버 프론트로우 라메레이 제너럴 아이디어 르세지엠 넌즈시 아우어노스텔지아 루에브르 아티드 세나프레 슬로우롤리 오브에르 룬느 크록스 베네통 프론투라인 아더템포 랑거 벨류엣 오브이알엘 더제이수 듀엘 쓱데이 15% 최대 4만원 할인 자세히 보기 아우터 혜택 매년 꺼내게 될 아이템만 모았어요. 코트 퍼 패딩 재킷 무스탕 플리스 MEN 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요. 어그/부츠 로퍼/방한슈즈 머플러 모자/바라클라바 장갑 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 W온리 오직 이곳에서만 만날 수 있어요. 백 슈즈 액세서리 아우터 니트 상의 하의 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 홈언더&라이프&키즈 기간 한정 혜택을 만나보세요. 홈언더웨어 패브릭 키친 온열가전/디지털 가구/홈데코 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 지금 주목할 뷰티 오직 지금만 있는 기회예요. 메이크업 스킨케어 헤어&바디 디바이스 센트 푸드 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 한정수량 균일가 혜택 10만원 미만 5만원 미만 푸드 뷰티/이너뷰티 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 홈언더&라이프&뷰티 브랜드 지금 주목해야할 브랜드만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 비너스 디어리얼 티에스에이치 후와 나그참파코리아 릿지서울 오르디 비프로젝트 더블유랩 컴포트랩 폴로랄프로렌 이너웨어 시모먼트 쓱데이 15% 최대 4만원 할인 자세히 보기 W라이브 금 10 . 30 일 11 . 1 월 11 . 2 화 11 . 3 수 11 . 4 목 11 . 5 금 11 . 6 라이브 종료 드파운드 ~72% + 30% 쿠폰 W라이브 다시보기 자세히 보기 실시간 랭킹 12:02 업데이트 전체 아우터 니트 팬츠 원피스 티셔츠 스커트 블라우스 셔츠 백 슈즈 액세서리 언더웨어 라운지웨어 스포츠액티브 라이프 뷰티 남성 키즈 푸드 드파운드 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 1 씨씨콜렉트 [9차][네이비 단독] 알파카 블렌드 하이넥 싱글 맥코트_C264MSG365(4color) 51 % 280,873 2 룩캐스트 [캐시미어 10%] 울 핸드메이드 드레이프 하이넥 하프 코트 / WOOL HANDMADE DRAPE HIGH NECK HALF COAT_3colors 40 % 172,368 3 룩캐스트 [4차 리오더][XS사이즈 추가] 몬드리 덕 다운 패딩 / MONDRY DUCK DOWN PADDING_2colors 69 % 99,000 4 수아레 우먼 [컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR 52 % 78,795 5 프론트로우 [Premium] Cashmere-blend Handmade Coat_3color 34 % 456,240 6 드파운드 dumble reversible jumper - light blue 24 % 226,480 7 룩캐스트 [단독][4차 리오더] 에일린 울 핸드메이드 자켓 / AILEEN WOOL HANDMADE JACKET_3colors 50 % 99,000 8 르메메 [꼬민지,유하 pick]High Neck Toggle Fur Jacket_2colors 27 % 187,501 9 올리브데올리브 [박민하PICK][단독] 벨티드 하프 발마칸 구스 다운 코트 OP6XMA670 50 % 294,525 10 드파운드 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 11 드파운드 high neck duck down short padding (4color) 20 % 286,400 12 상품 더보기 브랜드 랭킹 1~10위 11~20위 1 드파운드 바로가기 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 dumble reversible jumper - light blue 24 % 226,480 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 faux mink high-neck jacket - ivory 32 % 243,440 [단독] light duck down jumper - brown 44 % 122,080 poodle bag (5colors) 28 % 54,000 line knit gloves - charcoal 52 % 27,840 diamond quilted half jacket - black 36 % 229,120 high neck duck down short padding (4color) 20 % 286,400 dumble reversible jumper - khaki 24 % 226,480 2 룩캐스트 3 시야쥬 4 파사드패턴 5 수아레 우먼 6 프론트로우 7 하시에 8 망고매니플리즈 9 리엘 10 시티브리즈 지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요. 겨울 인기 어패럴 모아보기 [더블 쿠폰 10%] 단독 혜택 자세히 보기 가방 모아보기 [더블 쿠폰 10%] 가방 단독 혜택 자세히 보기 겨울 액세서리 모아보기 [더블 쿠폰 10%] 액세서리 & 주얼리 단독 혜택 자세히 보기 겨울 스니커즈 모아보기 [더블 쿠폰 10%] 슈즈 단독 혜택 자세히 보기 아웃도어 어패럴 모아보기 [더블 쿠폰 10%] 아웃도어 단독 혜택 자세히 보기 담을수록 커지는 혜택 토스페이 20만원 이상 결제 시 7천원 즉시할인 카카오페이(머니) 14만원 이상 결제 시 4천원 즉시할인 삼성카드(W컨셉) 7만원 이상 첫 결제 시 4만원 즉시할인 카카오페이(NH농협카드) 14만원 이상 결제 시 5천원 즉시할인 토스페이(머니/계좌) 5만원 이상 결제 시 1천원 즉시할인 현대카드 10만원 이상 결제 시 M포인트 5%사용 삼성카드(LINK) 15만원 이상 결제 시 6천원 결제일 할인 KB Pay(할인팩) 15만원 이상 결제 시 6천원 결제일 할인 첫 구매 한정 수량 특가 Replay Play 00 : 00 / 00:39 Live 00:00 Fullscreen PIP Speed 2x 1.5x 1.25x 1x 0.75x 0.5x HD HD Click and hold to drag",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003",
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026",
+    "i0027",
+    "i0028",
+    "i0029",
+    "i0030",
+    "i0031",
+    "i0032",
+    "i0033",
+    "i0034",
+    "i0035",
+    "i0036",
+    "i0037",
+    "i0038",
+    "i0039",
+    "i0040",
+    "i0041",
+    "i0042",
+    "i0043",
+    "i0044",
+    "i0045",
+    "i0046",
+    "i0047",
+    "i0048",
+    "i0049",
+    "i0050",
+    "i0051",
+    "i0052",
+    "i0053",
+    "i0054",
+    "i0055",
+    "i0056",
+    "i0057",
+    "i0058",
+    "i0059",
+    "i0060",
+    "i0061",
+    "i0062",
+    "i0063",
+    "i0064",
+    "i0065",
+    "i0066",
+    "i0067",
+    "i0068",
+    "i0069",
+    "i0070",
+    "i0071",
+    "i0072",
+    "i0073",
+    "i0074",
+    "i0075",
+    "i0076",
+    "i0077",
+    "i0078",
+    "i0079",
+    "i0080",
+    "i0081",
+    "i0082",
+    "i0083",
+    "i0084",
+    "i0085",
+    "i0086",
+    "i0087",
+    "i0088",
+    "i0089",
+    "i0090",
+    "i0091",
+    "i0092",
+    "i0093",
+    "i0094",
+    "i0095",
+    "i0096",
+    "i0097",
+    "i0098",
+    "i0099",
+    "i0100",
+    "i0101",
+    "i0102",
+    "i0103",
+    "i0104",
+    "i0105",
+    "i0106",
+    "i0107",
+    "i0108",
+    "i0109",
+    "i0110",
+    "i0111",
+    "i0112",
+    "i0113",
+    "i0114",
+    "i0115",
+    "i0116",
+    "i0117",
+    "i0118",
+    "i0119",
+    "i0120",
+    "i0121",
+    "i0122",
+    "i0123"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://wdiscoveryimg.wconcept.co.kr/tos-sgcomm1-v-662e29308768f11b-sg/oMYO6OetwIekZg7FYqEwPANiMFXBABA73QgQQ3~tplv-vod-noop.image",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/02_challenge_link.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/03_eventbanner_bg.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/03_eventbanner_card.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028160201525_5611.jpg",
+   "alt": "~63% +30% +더블5%",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://static.wconcept.co.kr/display/images/onerror_img_product.png",
+   "alt": "룩캐스트",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261029100747129_4796.jpg",
+   "alt": "레이첼콕스 24H 혜택",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_tit.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_fade01.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_fade02.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0011",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli12.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0012",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli14.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0013",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli02.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0014",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli15.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli03.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli06.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli07.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli10.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0019",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli05.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli08.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli09.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0022",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli13.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli04.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/04_signature_sli11.jpg",
+   "alt": "",
+   "tags": [
+    "product_photo"
+   ],
+   "tag_evidence": [
+    "product_link"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0025",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/sig_prev.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0026",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/sig_next.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0027",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260922150850445_4864.jpg?RS=250",
+   "alt": "듀테로",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0028",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261012103148790_6722.jpg?RS=250",
+   "alt": "샤드라마",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0029",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261016101608097_1684.jpg?RS=250",
+   "alt": "아워코모스",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0030",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261027184640455_8432.jpg?RS=250",
+   "alt": "무니드",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0031",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260828140251805_2291.jpg?RS=250",
+   "alt": "로브로브",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0032",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261016152256170_4333.jpg?RS=250",
+   "alt": "에트몽",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0033",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260914163801143_6399.jpg?RS=250",
+   "alt": "피버",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0034",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260929162116625_7341.jpg?RS=250",
+   "alt": "프론트로우",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0035",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261019143749846_3236.jpg?RS=250",
+   "alt": "라메레이",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0036",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260921123143657_6054.jpg?RS=250",
+   "alt": "제너럴 아이디어",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0037",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260820173927906_6102.jpg?RS=250",
+   "alt": "르세지엠",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0038",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261010151203476_6458.jpg?RS=250",
+   "alt": "넌즈시",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0039",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261028120944203_3756.jpg?RS=250",
+   "alt": "아우어노스텔지아",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0040",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261012105645022_9410.jpg?RS=250",
+   "alt": "루에브르",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0041",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261026142806425_5415.jpg?RS=250",
+   "alt": "아티드",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0042",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261030105223080_8663.jpg?RS=250",
+   "alt": "세나프레",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0043",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261030114704515_7900.jpg?RS=250",
+   "alt": "슬로우롤리",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0044",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261016110405936_3077.jpg?RS=250",
+   "alt": "오브에르",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0045",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20231116205152989_9379.jpg?RS=250",
+   "alt": "룬느",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0046",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260306173138027_9182.jpg?RS=250",
+   "alt": "크록스",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0047",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261014142219892_4344.jpg?RS=250",
+   "alt": "베네통",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0048",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261026151815322_1325.jpg?RS=250",
+   "alt": "프론투라인",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0049",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260730170824766_2743.jpg?RS=250",
+   "alt": "아더템포",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0050",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260831151101181_5433.jpg?RS=250",
+   "alt": "랑거",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0051",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260828155827880_4149.jpg?RS=250",
+   "alt": "벨류엣",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0052",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260909184028987_5753.jpg?RS=250",
+   "alt": "오브이알엘",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0053",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261023100135910_2659.jpg?RS=250",
+   "alt": "더제이수",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0054",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260812104956040_6345.jpg?RS=250",
+   "alt": "듀엘",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0055",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028162241824_2976.jpg",
+   "alt": "쓱데이",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0056",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260901094129320_8538.jpg?RS=250",
+   "alt": "비너스",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0057",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20231108114942287_3715.jpg?RS=250",
+   "alt": "디어리얼",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0058",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261006171020026_9081.jpg?RS=250",
+   "alt": "티에스에이치",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0059",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260508182538214_7219.jpg?RS=250",
+   "alt": "후와",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0060",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20251212165000454_4714.jpg?RS=250",
+   "alt": "나그참파코리아",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0061",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261103194338201_7164.jpg?RS=250",
+   "alt": "릿지서울",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0062",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260422145503774_9697.jpg?RS=250",
+   "alt": "오르디",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0063",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260921164046497_2396.jpg?RS=250",
+   "alt": "비프로젝트",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0064",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260807120513290_4681.jpg?RS=250",
+   "alt": "더블유랩",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0065",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261015095805629_7006.jpg?RS=250",
+   "alt": "컴포트랩",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0066",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260508182619530_4560.jpg?RS=250",
+   "alt": "폴로랄프로렌 이너웨어",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0067",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20231109163909961_6787.jpg?RS=250",
+   "alt": "시모먼트",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0068",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028165323552_5918.jpg",
+   "alt": "잡화 리퍼브숍",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0069",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028165335573_9594.jpg",
+   "alt": "리퍼브숍 라이프",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0070",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028165356469_8374.jpg",
+   "alt": "카테고리 아이템",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0071",
+   "url": "https://wimage.wconcept.co.kr/msa/live/20261029162119950_8283.png?RS=670",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0072",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/49/309061549_WQ91180.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0073",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/89/307584589_YH33237.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0074",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/48/309024748_IE64070.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0075",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/02/306110002_OV55103.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0076",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/44/308920544_GG96758.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0077",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/05/301799005_ON16126.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0078",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/79/309121579_JV23842.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0079",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/60/307329760_VE53553.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0080",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/02/307730802_DN14496.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0081",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/90/307812090_MK31755.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0082",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/49/308491349_RA33629.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0083",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/21/308493221_JR82984.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0084",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260914143703384_6272.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0085",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/85/309121585_CK44436.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0086",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/95/309018495_QU91375.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0087",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/34/308491934_PI18192.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0088",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/16/308492016_CN56057.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0089",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/92/308994092_DD17339.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0090",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img1/81/309121581_EX44412.jpg?RS=417",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0091",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261023163521756_2428.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0092",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261028120632890_2880.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0093",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261103103907184_1054.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0094",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261030103414119_1901.png?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0095",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260929162116625_7341.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0096",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20260901103124377_2015.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0097",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261106191728202_9578.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0098",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261104105508140_9911.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0099",
+   "url": "https://wimage.wconcept.co.kr/msa/display/20261029193953905_8638.jpg?RS=120",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0100",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028095115017_8044.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0101",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093732249_8680.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0102",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093308262_4137.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0103",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028092957023_7392.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0104",
+   "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093402743_4297.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0105",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_tit.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0106",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li01.jpg",
+   "alt": "최저가 보상제 — 다른 곳이 더 저렴하다면 차액을 최대 2만 원까지 보상해 드려요.",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0107",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li02.jpg",
+   "alt": "이달의 출석체크 — 출석만 해도 매일 W포인트를 드려요.",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0108",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li03.jpg",
+   "alt": "수신 동의 혜택 — 지금 수신 동의하면 5% 더블 쿠폰 드려요.",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0109",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_li04.jpg",
+   "alt": "신규 회원 혜택 — 신규가입 쿠폰팩, W웰컴딜, 첫 구매 페이백, 더블 쿠폰 7%",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0110",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/06_benefit_pop.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0111",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172707953_3270.png",
+   "alt": "토스페이",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0112",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172524168_3548.png",
+   "alt": "카카오페이(머니)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0113",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227173057669_8534.png",
+   "alt": "삼성카드(W컨셉)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0114",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172614836_6266.png",
+   "alt": "토스페이(머니/계좌)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0115",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172058428_9446.png",
+   "alt": "현대카드",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0116",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172424460_8121.png",
+   "alt": "삼성카드(LINK)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0117",
+   "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172956888_3704.png",
+   "alt": "KB Pay(할인팩)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0118",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_tit.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0119",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_li01.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0120",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_li02.png",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0121",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_bottom.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0122",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/07_benefit_pop.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0123",
+   "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_ssgday/main/pc/09_vid_bg.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/wconcept-003.html",
+ "capture_method": "Browser-rendered public DOM; promotion root selected, scripts/trackers and hidden form values removed. Initial rendered state only; image pixels, other tabs, product bodies and live click destinations not collected."
+}

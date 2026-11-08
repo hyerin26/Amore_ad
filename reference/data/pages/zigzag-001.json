@@ -1,0 +1,154 @@
+{
+ "id": "zigzag-001",
+ "brand": "zigzag",
+ "collected_date": "2026-11-08",
+ "url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+ "listing_label": "질바이질스튜어트 얼리윈터 발매",
+ "resolved_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+ "description": "지금 사야하는 윈터 코디 아이템",
+ "images": [
+  {
+   "alt": "지그재그",
+   "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/05/02/202405020543198430_071960.webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/29/202610291359426758_056926.webp?width=1125&height=1800&quality=80&transparent=true&format=webp",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  }
+ ],
+ "og_image": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/30/202610300522545509_065880.webp?width=1377&height=1377&quality=100&transparent=true&format=webp",
+ "text": "신상할인 단독할인 질바이질스튜어트 윈터 신상 발매 스타일과 보온을 채워줄 윈터 필수템 윈터 슈즈부터 포근한 방한 액세서리까지 2026. 11. 02 - 11. 08 COUPON 질바이질스튜어트 ~15% 기획전 일부 상품 적용 불가능 질바이질스튜어트 스토어 홈 즐겨찾기 추가 유의사항 NEW BEST MORE NEW ITEM 지금 담아야 할 얼리윈터 신상❄️ [로버] 투버클 바이커 부츠 - 2colors [케빈] 시어링 토트백 - 2color [베이] 셔링 라지 쇼퍼백 [다나] 울 & 호피 리버시블 호보백 [보일] 투포켓 호보백 - 2colors [베키] 버클 빈티지 호보 숄더백 - 2colors [루니] 빈티지 워싱 미들부츠 - 2colors [도비] 시어링 버클 뮬 - 2color [로버] 투버클 바이커 부츠 - 2colors [케빈] 시어링 토트백 - 2color 전체 숄더백 토트백 크로스백/미니백 백팩 로퍼/플랫 부츠 뮬/슬리퍼 스니커즈 ACC 66개의 상품 MD 추천순 상품 더 보기 BEST ITEM 인기 아이템으로 겨울 코디 완성 BEST 29 MD 추천순 상품 더 보기 MORE 카테고리별 추천 아이템 숄더백 토트백 크로스백/미니백 백팩 로퍼/플랫 부츠 뮬/슬리퍼 스니커즈 힐 ACC 38개의 상품 MD 추천순 상품 더 보기",
+ "title": "질바이질스튜어트 얼리윈터 발매",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+   "label": "지그재그",
+   "element": "a",
+   "destination_url": "https://zigzag.kr/",
+   "destination_type": "other",
+   "status": "declared_in_html",
+   "raw_target": "https://zigzag.kr/"
+  },
+  {
+   "source_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+   "label": "스토어 홈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+   "label": "즐겨찾기 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+   "label": "MD 추천순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+   "label": "상품 더 보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+  "status": "revisited",
+  "title": "질바이질스튜어트 얼리윈터 발매"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [
+    "질바이질스튜어트",
+    "윈터 신상 발매",
+    "스타일과 보온을 채워줄 윈터 필수템",
+    "윈터 슈즈부터 포근한 방한 액세서리까지",
+    "COUPON",
+    "질바이질스튜어트",
+    "~15%",
+    "NEW ITEM",
+    "지금 담아야 할 얼리윈터 신상❄️",
+    "BEST ITEM",
+    "인기 아이템으로 겨울 코디 완성",
+    "MORE",
+    "카테고리별 추천 아이템"
+   ],
+   "text": "신상할인 단독할인 질바이질스튜어트 윈터 신상 발매 스타일과 보온을 채워줄 윈터 필수템 윈터 슈즈부터 포근한 방한 액세서리까지 2026. 11. 02 - 11. 08 COUPON 질바이질스튜어트 ~15% 기획전 일부 상품 적용 불가능 질바이질스튜어트 스토어 홈 즐겨찾기 추가 유의사항 NEW BEST MORE NEW ITEM 지금 담아야 할 얼리윈터 신상❄️ [로버] 투버클 바이커 부츠 - 2colors [케빈] 시어링 토트백 - 2color [베이] 셔링 라지 쇼퍼백 [다나] 울 & 호피 리버시블 호보백 [보일] 투포켓 호보백 - 2colors [베키] 버클 빈티지 호보 숄더백 - 2colors [루니] 빈티지 워싱 미들부츠 - 2colors [도비] 시어링 버클 뮬 - 2color [로버] 투버클 바이커 부츠 - 2colors [케빈] 시어링 토트백 - 2color 전체 숄더백 토트백 크로스백/미니백 백팩 로퍼/플랫 부츠 뮬/슬리퍼 스니커즈 ACC 66개의 상품 MD 추천순 상품 더 보기 BEST ITEM 인기 아이템으로 겨울 코디 완성 BEST 29 MD 추천순 상품 더 보기 MORE 카테고리별 추천 아이템 숄더백 토트백 크로스백/미니백 백팩 로퍼/플랫 부츠 뮬/슬리퍼 스니커즈 힐 ACC 38개의 상품 MD 추천순 상품 더 보기",
+   "dom_path": [
+    1
+   ],
+   "dom_id": "__content_editor",
+   "image_ids": [
+    "i0001",
+    "i0002"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2024/05/02/202405020543198430_071960.webp",
+   "alt": "지그재그",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/29/202610291359426758_056926.webp?width=1125&height=1800&quality=80&transparent=true&format=webp",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/zigzag-001.html",
+ "capture_method": "Browser-rendered public DOM; promotion root selected, scripts/trackers and hidden form values removed. Initial rendered state only; image pixels, other tabs, product bodies and live click destinations not collected."
+}

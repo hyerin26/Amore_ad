@@ -1,0 +1,335 @@
+{
+ "id": "dongwonmall-002",
+ "brand": "dongwonmall",
+ "collected_date": "2026-11-08",
+ "url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+ "listing_label": "26년 11월 12월 스탬프 이벤트_동원몰",
+ "resolved_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+ "description": "APP전용 스탬프 이벤트 쿠폰+쇼핑지원금 혜택  W",
+ "images": [
+  {
+   "alt": "APP전용 구매할수록 커지는 혜택 구매할때마다 찍히는 스탬프 이벤트, 모두 완료 시 쇼핑지원금 5천원 + 5만원 응모 찬스",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/pc_01.jpg?f=webp&q=80",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/flower.png?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/sparkle01.png?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "MISSION 나의 스탬프 현황은? 동원 상품 3.5만원 이상 구매 후 스탬프를 찍어보세요!",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/pc_02.jpg?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/sparkle02.png?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "보너스 5만원 적립금 놓치지 마세요! 스탬프 챌린지를 완수하면 응모권을 드려요 동원몰 적립금 50,000원, 4명 추첨",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/pc_03.jpg?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/gift.png?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/sparkle03.png?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "동원몰 적립금 50,000원, 4명 추첨",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/giftbox.png?f=webp&q=80",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "스탬프 2개 달성. 동원몰 쇼핑지원금 2,000원. 2천원 + 5만원 응모권 지급 완료. 스탬프를 몰아서 달성하셨을 경우, 이전 단계 혜택까지 일괄 지급됩니다. (MY페이지 확인)",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/popup04.png?f=webp&q=80",
+   "tags": [
+    "event_information"
+   ],
+   "image_id": "i0010"
+  }
+ ],
+ "og_image": "https://img.dongwonmall.com/dwmall/web/images/1200x630_dwm.jpg",
+ "text": "26년 11월 12월 스탬프 이벤트 (2026-11-02~ 2026-12-31 사정상 조기종료 될 수 있습니다.) 목록보기 1회차 2회차 3회차 4회차 스탬프 찍고 혜택받기 5만원 적립금 응모하기 - 스탬프 4개를 모두 받은 후 상단의 5만원 적립금 응모하기 버튼 클릭 시 응모됩니다. - 응모 후 스탬프를 받았던 주문을 취소할 시 응모 또한 자동 취소됩니다. - 당첨자는 27년 1월 중 동원몰 공지사항 및 개별연락을 통해 발표됩니다. 팝업 닫기 댓글작성 (로그인 후 작성 해 주십시오.) ( 0 / 1000byte )",
+ "title": "26년 11월 12월 스탬프 이벤트_동원몰",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+   "label": "목록보기",
+   "element": "a",
+   "destination_url": "https://www.dongwonmall.com/display/planmain.do",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "/display/planmain.do"
+  },
+  {
+   "source_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+   "label": "스탬프 찍고 혜택받기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+   "label": "5만원 적립금 응모하기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+   "label": "스탬프 2개 달성. 동원몰 쇼핑지원금 2,000원. 2천원 + 5만원 응모권 지급 완료. 스탬프를 몰아서 달성하셨을 경우, 이전 단계 혜택까지 일괄 지급됩니다. (MY페이지 확인)",
+   "element": "a",
+   "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394#;",
+   "destination_type": "anchor",
+   "status": "declared_in_html",
+   "raw_target": "#;"
+  },
+  {
+   "source_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+   "label": "팝업 닫기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106394",
+  "status": "revisited",
+  "title": "26년 11월 12월 스탬프 이벤트_동원몰"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [
+    "26년 11월 12월 스탬프 이벤트 (2026-11-02~ 2026-12-31 사정상 조기종료 될 수 있습니다.)"
+   ],
+   "text": "26년 11월 12월 스탬프 이벤트 (2026-11-02~ 2026-12-31 사정상 조기종료 될 수 있습니다.) 목록보기 1회차 2회차 3회차 4회차 스탬프 찍고 혜택받기 5만원 적립금 응모하기 - 스탬프 4개를 모두 받은 후 상단의 5만원 적립금 응모하기 버튼 클릭 시 응모됩니다. - 응모 후 스탬프를 받았던 주문을 취소할 시 응모 또한 자동 취소됩니다. - 당첨자는 27년 1월 중 동원몰 공지사항 및 개별연락을 통해 발표됩니다. 팝업 닫기 댓글작성 (로그인 후 작성 해 주십시오.) ( 0 / 1000byte )",
+   "dom_path": [
+    1
+   ],
+   "dom_id": "content",
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003",
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008",
+    "i0009",
+    "i0010"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/pc_01.jpg?f=webp&q=80",
+   "alt": "APP전용 구매할수록 커지는 혜택 구매할때마다 찍히는 스탬프 이벤트, 모두 완료 시 쇼핑지원금 5천원 + 5만원 응모 찬스",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/flower.png?f=webp&q=80",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/sparkle01.png?f=webp&q=80",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/pc_02.jpg?f=webp&q=80",
+   "alt": "MISSION 나의 스탬프 현황은? 동원 상품 3.5만원 이상 구매 후 스탬프를 찍어보세요!",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/sparkle02.png?f=webp&q=80",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/pc_03.jpg?f=webp&q=80",
+   "alt": "보너스 5만원 적립금 놓치지 마세요! 스탬프 챌린지를 완수하면 응모권을 드려요 동원몰 적립금 50,000원, 4명 추첨",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/gift.png?f=webp&q=80",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/sparkle03.png?f=webp&q=80",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/giftbox.png?f=webp&q=80",
+   "alt": "동원몰 적립금 50,000원, 4명 추첨",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://img.dongwonmall.com/dwmall/web/images/event/261020_appstamp/popup04.png?f=webp&q=80",
+   "alt": "스탬프 2개 달성. 동원몰 쇼핑지원금 2,000원. 2천원 + 5만원 응모권 지급 완료. 스탬프를 몰아서 달성하셨을 경우, 이전 단계 혜택까지 일괄 지급됩니다. (MY페이지 확인)",
+   "tags": [
+    "event_information"
+   ],
+   "tag_evidence": [
+    "alt_text"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/dongwonmall-002.html",
+ "capture_method": "Browser-rendered public DOM; promotion root selected, scripts/trackers and hidden form values removed. Initial rendered state only; image pixels, other tabs, product bodies and live click destinations not collected."
+}

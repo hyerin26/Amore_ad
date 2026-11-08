@@ -1,0 +1,726 @@
+{
+ "id": "hankkitongsal-002",
+ "brand": "hankkitongsal",
+ "collected_date": "2026-11-08",
+ "url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+ "listing_label": "한끼통살 공식몰 - 돌고돌아 한끼통살, 맛있고 즐거운 식단관리!",
+ "resolved_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+ "description": "누적판매 1억개 돌파, 온라인최저가 한끼통살 공식몰에서만, 실패없는 맛보장 식단관리",
+ "images": [
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_01.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_02.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_03.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_04.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_05.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_06.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_07.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_08.gif",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_09.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_10.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_11.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_12.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_13.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_14.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_15.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_16.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_17.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  },
+  {
+   "alt": "[세트담기] 그로서리서울 피타브레드 6종 (6개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/d9deafbc63d15ea340f5b771f9cab293.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0018"
+  },
+  {
+   "alt": "[세트담기] 그로서리서울 파니니 3종 (6개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/e0f0ee1b0cb88c0627395ec8740bffc2.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0019"
+  },
+  {
+   "alt": "[골라담기] 그로서리서울 곡물 사워도우 3봉 (9개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/539903820e3d3472795885a4a824686b.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0020"
+  },
+  {
+   "alt": "[세트담기] 그로서리서울 대만식샌드위치 3종 (12개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/db0a342a66913b764d6523a215b3186b.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0021"
+  },
+  {
+   "alt": "[세트담기] 그로서리서울 딸기블라썸&amp;말차딸기 샌드위치 (8개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/574b891a9d332f0caf9ec1bd208ed907.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0022"
+  },
+  {
+   "alt": "[골라담기] 그로서리서울 피스타치오&amp;카다이프 초코 샌드위치 (4개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/37a5d86516a2ecb92af1958c78ad0744.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0023"
+  },
+  {
+   "alt": "[골라담기] 샌드위치 6종 1+1+1 골라담기 (12개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/4083b2a1fb1b7cd7a5a3c6fa48e8a189.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0024"
+  },
+  {
+   "alt": "[골라담기] 그로서리서울 피타브레드 6종 (6개입)",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/48ea75db8b001e94ebf44d2694d10af9.jpg",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0025"
+  }
+ ],
+ "og_image": "https://hankkitongsal.com/etc/og_image.jpg",
+ "text": "맛보기 올인원세트 저당빵 최대~56% 바삭칩 반값할인 샌드위치 골라담기 [세트담기] 그로서리서울 피타브레드 6종 (6개입) 35,400원 36% 22,500 원 자세히 보기 [세트담기] 그로서리서울 파니니 3종 (6개입) 37,800원 39% 22,800 원 자세히 보기 [골라담기] 그로서리서울 곡물 사워도우 3봉 (9개입) 33,000원 45% 18,000 원 자세히 보기 [세트담기] 그로서리서울 대만식샌드위치 3종 (12개입) 66,000원 42% 37,800 원 자세히 보기 [세트담기] 그로서리서울 딸기블라썸&말차딸기 샌드위치 (8개입) 44,000원 38% 26,900 원 자세히 보기 [골라담기] 그로서리서울 피스타치오&카다이프 초코 샌드위치 (4개입) 25,900원 27% 18,900 원 자세히 보기 [골라담기] 샌드위치 6종 1+1+1 골라담기 (12개입) 22,000원 42% 12,600 원 자세히 보기 [골라담기] 그로서리서울 피타브레드 6종 (6개입) 37,800원 39% 22,800 원 자세히 보기",
+ "title": "한끼통살 공식몰 - 돌고돌아 한끼통살, 맛있고 즐거운 식단관리!",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3213",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3213"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3214",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3214"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3211",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3211"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3198",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3198"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3199",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3199"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3215",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3215"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3228",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3228"
+  },
+  {
+   "source_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+   "label": "자세히 보기",
+   "element": "a",
+   "destination_url": "https://hankkitongsal.com/product/detail.html?product_no=3209",
+   "destination_type": "product",
+   "status": "declared_in_html",
+   "raw_target": "/product/detail.html?product_no=3209"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://hankkitongsal.com/event/promotion?id=brand_open",
+  "status": "revisited",
+  "title": "한끼통살 공식몰 - 돌고돌아 한끼통살, 맛있고 즐거운 식단관리!"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "맛보기 올인원세트 저당빵 최대~56% 바삭칩 반값할인 샌드위치 골라담기 [세트담기] 그로서리서울 피타브레드 6종 (6개입) 35,400원 36% 22,500 원 자세히 보기 [세트담기] 그로서리서울 파니니 3종 (6개입) 37,800원 39% 22,800 원 자세히 보기 [골라담기] 그로서리서울 곡물 사워도우 3봉 (9개입) 33,000원 45% 18,000 원 자세히 보기 [세트담기] 그로서리서울 대만식샌드위치 3종 (12개입) 66,000원 42% 37,800 원 자세히 보기 [세트담기] 그로서리서울 딸기블라썸&말차딸기 샌드위치 (8개입) 44,000원 38% 26,900 원 자세히 보기 [골라담기] 그로서리서울 피스타치오&카다이프 초코 샌드위치 (4개입) 25,900원 27% 18,900 원 자세히 보기 [골라담기] 샌드위치 6종 1+1+1 골라담기 (12개입) 22,000원 42% 12,600 원 자세히 보기 [골라담기] 그로서리서울 피타브레드 6종 (6개입) 37,800원 39% 22,800 원 자세히 보기",
+   "dom_path": [
+    1
+   ],
+   "dom_id": "contents",
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003",
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_01.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_02.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_03.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_04.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_05.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_06.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_07.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_08.gif",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_09.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_10.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0011",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_11.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0012",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_12.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0013",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_13.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0014",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_14.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_15.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_16.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://hankkitongsal.com/web/01_hankki/02_prom/2611/261103_GRS_hub_PC_17.jpg",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0018",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/d9deafbc63d15ea340f5b771f9cab293.jpg",
+   "alt": "[세트담기] 그로서리서울 피타브레드 6종 (6개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0019",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/e0f0ee1b0cb88c0627395ec8740bffc2.jpg",
+   "alt": "[세트담기] 그로서리서울 파니니 3종 (6개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0020",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/539903820e3d3472795885a4a824686b.jpg",
+   "alt": "[골라담기] 그로서리서울 곡물 사워도우 3봉 (9개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0021",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/db0a342a66913b764d6523a215b3186b.jpg",
+   "alt": "[세트담기] 그로서리서울 대만식샌드위치 3종 (12개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0022",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/574b891a9d332f0caf9ec1bd208ed907.jpg",
+   "alt": "[세트담기] 그로서리서울 딸기블라썸&amp;말차딸기 샌드위치 (8개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0023",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/37a5d86516a2ecb92af1958c78ad0744.jpg",
+   "alt": "[골라담기] 그로서리서울 피스타치오&amp;카다이프 초코 샌드위치 (4개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0024",
+   "url": "https://hankkitongsal.com/web/product/tiny/202609/4083b2a1fb1b7cd7a5a3c6fa48e8a189.jpg",
+   "alt": "[골라담기] 샌드위치 6종 1+1+1 골라담기 (12개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0025",
+   "url": "https://hankkitongsal.com/web/product/tiny/202608/48ea75db8b001e94ebf44d2694d10af9.jpg",
+   "alt": "[골라담기] 그로서리서울 피타브레드 6종 (6개입)",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/hankkitongsal-002.html",
+ "capture_method": "Browser-rendered public DOM; promotion root selected, scripts/trackers and hidden form values removed. Initial rendered state only; image pixels, other tabs, product bodies and live click destinations not collected."
+}

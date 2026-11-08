@@ -151,5 +151,322 @@
    "relationship_indexes": "Zero-based indexes into the page relationships array; matches use markup target or control label.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
   }
+ },
+ "kolonmall": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://www.kolonmall.com/Special/259544",
+  "source_urls": [
+   "https://www.kolonmall.com/Special/259544",
+   "https://www.kolonmall.com/Special/259545"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 1,
+   "app_handoff": 0,
+   "body_unavailable": 1
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 374,
+    "unverified": 65
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 1,
+   "page_counts": {
+    "inferred_from_html": 1,
+    "body_unavailable": 1
+   },
+   "image_asset_count": 552,
+   "image_tag_counts": {
+    "unknown": 28,
+    "product_photo": 524
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "kakao_gift": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://gift.kakao.com/page/37886",
+  "source_urls": [
+   "https://gift.kakao.com/page/37886",
+   "https://gift.kakao.com/page/37071"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 2,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 290,
+    "unverified": 143
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 2,
+   "page_counts": {
+    "inferred_from_html": 2
+   },
+   "image_asset_count": 56,
+   "image_tag_counts": {
+    "unknown": 56
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "shinsegaev": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999",
+  "source_urls": [
+   "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999",
+   "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015979",
+   "https://m.shinsegaev.com/shop/initPlanShop.siv?disp_ctg_no=2610264136##",
+   "https://m.shinsegaev.com/shop/initPlanShop.siv?disp_ctg_no=2610265064##"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 4,
+   "app_handoff": 0,
+   "body_unavailable": 1
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "unverified": 275,
+    "declared_in_html": 594
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 4,
+   "page_counts": {
+    "inferred_from_html": 4,
+    "body_unavailable": 1
+   },
+   "image_asset_count": 358,
+   "image_tag_counts": {
+    "unknown": 194,
+    "event_information": 24,
+    "product_photo": 140
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "zigzag": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+  "source_urls": [
+   "https://zigzag.kr/events/6e563d56-563e-4398-ae63-d2a7683b7ed6",
+   "https://zigzag.kr/events/f286a530-5066-4ae9-a185-48121a1bd257"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 2,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 2,
+    "unverified": 6
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 2,
+   "page_counts": {
+    "inferred_from_html": 2
+   },
+   "image_asset_count": 6,
+   "image_tag_counts": {
+    "unknown": 6
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "hankkitongsal": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://hankkitongsal.com/event/promotion?id=newsale",
+  "source_urls": [
+   "https://hankkitongsal.com/event/promotion?id=newsale",
+   "https://hankkitongsal.com/event/promotion?id=brand_open"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 2,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 16,
+    "unverified": 2
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 2,
+   "page_counts": {
+    "inferred_from_html": 2
+   },
+   "image_asset_count": 46,
+   "image_tag_counts": {
+    "unknown": 46
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "dongwonmall": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641",
+  "source_urls": [
+   "https://www.dongwonmall.com/display/plan.do?seq=00000104641",
+   "https://www.dongwonmall.com/display/plan.do?seq=00000106394"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 2,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 29,
+    "unverified": 118
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 2,
+   "page_counts": {
+    "inferred_from_html": 2
+   },
+   "image_asset_count": 88,
+   "image_tag_counts": {
+    "unknown": 81,
+    "event_information": 3,
+    "product_photo": 4
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "cjthemarket": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://www.cjthemarket.com/the/event/cjsalefesta?code=TGOKYP&utm_source=google&utm_medium=sa_search&utm_campaign=salefesta_nov_2026&utm_content=pc_brand_brand_brand_salefesta&utm_term=cj%EB%8D%94%EB%A7%88%EC%BC%93&gad_source=1&gad_campaignid=20262752524&gbraid=0AAAAADf87bPm-Gr5d-2xywM5DFiCUmGmW&gclid=CjwKCAiAzKvXBhBAEiwABLl9AsXbPLKa5PWWyGNmKBRElx55pQMRBEfDRf95Cqqzb1INQIcsDl-USxoCWnMQAvD_BwE",
+  "source_urls": [
+   "https://www.cjthemarket.com/the/event/cjsalefesta?code=TGOKYP&utm_source=google&utm_medium=sa_search&utm_campaign=salefesta_nov_2026&utm_content=pc_brand_brand_brand_salefesta&utm_term=cj%EB%8D%94%EB%A7%88%EC%BC%93&gad_source=1&gad_campaignid=20262752524&gbraid=0AAAAADf87bPm-Gr5d-2xywM5DFiCUmGmW&gclid=CjwKCAiAzKvXBhBAEiwABLl9AsXbPLKa5PWWyGNmKBRElx55pQMRBEfDRf95Cqqzb1INQIcsDl-USxoCWnMQAvD_BwE"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 0,
+   "app_handoff": 1,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 7,
+    "unverified": 3
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 1,
+   "page_counts": {
+    "inferred_from_html": 1
+   },
+   "image_asset_count": 3,
+   "image_tag_counts": {
+    "event_information": 2,
+    "unknown": 1
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
+ },
+ "wconcept": {
+  "collected_date": "2026-11-08",
+  "timezone": "Asia/Seoul",
+  "source_url": "https://event.wconcept.co.kr/event/135687",
+  "source_urls": [
+   "https://event.wconcept.co.kr/event/135687",
+   "https://event.wconcept.co.kr/event/135611",
+   "https://display.wconcept.co.kr/rn/promotion/111"
+  ],
+  "scope": "Only the user-supplied promotion URLs; no listing expansion or product detail collection.",
+  "html_type": "Rendered promotion body DOM (scripts, trackers and hidden form values removed)",
+  "counts": {
+   "captured": 3,
+   "app_handoff": 0,
+   "body_unavailable": 0
+  },
+  "relationship_collection": {
+   "date": "2026-11-08",
+   "source": "Rendered DOM; no live click verification",
+   "counts_by_status": {
+    "declared_in_html": 26,
+    "unverified": 431
+   }
+  },
+  "section_collection": {
+   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
+   "section_count": 3,
+   "page_counts": {
+    "inferred_from_html": 3
+   },
+   "image_asset_count": 226,
+   "image_tag_counts": {
+    "unknown": 206,
+    "event_information": 4,
+    "product_photo": 16
+   },
+   "relationship_indexes": "Zero-based indexes into the page relationships array.",
+   "dom_path": "One-based element indexes from the archived HTML fragment root."
+  }
  }
 }

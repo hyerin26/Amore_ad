@@ -1,0 +1,763 @@
+{
+ "id": "wconcept-002",
+ "brand": "wconcept",
+ "collected_date": "2026-11-08",
+ "url": "https://event.wconcept.co.kr/event/135611",
+ "listing_label": "칩앤데일 | 카카오프렌즈 | W컨셉(W CONCEPT)",
+ "resolved_url": "https://event.wconcept.co.kr/event/135611",
+ "description": "나만의 컨셉, 감각적 스타일링 - W컨셉",
+ "images": [
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090225902_7364.png?RS=1200",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090214724_4027.png?RS=1200",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090225902_7364.png?RS=1200",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0001"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090214724_4027.png?RS=1200",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0002"
+  },
+  {
+   "alt": "카카오프렌즈",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261020172831370_8927.png?RS=240",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0003"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261028093714576_8222.png?RS=735",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0004"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261028093816443_2736.png?RS=735",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0005"
+  },
+  {
+   "alt": "",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261028093941032_2399.png?RS=735",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0006"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/55/309093255_JG10468.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0007"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/42/309093242_GG20305.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0008"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/40/309093240_GG18007.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0009"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/41/309093241_LG20403.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0010"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/45/309093245_GG96629.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/45/309093245_GG96629.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0011"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/47/309093247_GG71007.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0012"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/51/309093251_GG15941.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0013"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/48/309093248_GG84688.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0014"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/52/309093252_MG77312.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0015"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/50/309093250_GI17737.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0016"
+  },
+  {
+   "alt": "",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/49/309093249_HG22839.jpg?RS=412",
+   "tags": [
+    "unknown"
+   ],
+   "image_id": "i0017"
+  }
+ ],
+ "og_image": "https://wimage.wconcept.co.kr/msa-event/event/default/20261020171813416_6280.png",
+ "text": "HOME EVENT 칩앤데일 | 카카오프렌즈 칩앤데일 | 카카오프렌즈 W Concept Lifestyle KAKAO FRIENDS 칩앤데일ㅣ카카오프렌즈 콜라보레이션 신상출시 KAKAO FRIENDS 칩앤데일 | 카카오프렌즈 올 가을 귀여움에 폴인러브🌰 추위로부터 따뜻하게 해줄 무릎담요와 수면 조끼. 하루의 시작과 끝을 함께할 수면 파자마. 어디든 함께가는 귀요미 키링. 볼수록 기분 좋은 피규어까지. 카카오프렌즈의 신상을 W컨셉에서 만나보세요. 관련 브랜드 카카오프렌즈 HOMEWEAR 카카오프렌즈 칩앤데일 I 카카오프렌즈 무릎 담요_라이언&춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 여성용_라이언 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 남성용_춘식이 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 조끼_라이언&춘식이 15 % 33,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 GOODS 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_라이언 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_춘식이 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_라이언 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_춘식이 15 % 15,300 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_라이언 15 % 15,300 칩앤데일 | 카카오프렌즈 COUPON 더블유위크 30% 30% 5,000원 이상 구매 시, 최대 20만원 할인 5장 쿠폰 유의사항 전체 칩앤데일 BEST SALE 품절제외 MD 추천순 추천순 신상품순 판매순 할인율순 낮은가격순 높은가격순 리뷰순 상품 보기",
+ "title": "칩앤데일 | 카카오프렌즈 | W컨셉(W CONCEPT)",
+ "status": "captured",
+ "relationships": [
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "HOME",
+   "element": "a",
+   "destination_url": "https://display.wconcept.co.kr/rn/women",
+   "destination_type": "other",
+   "status": "declared_in_html",
+   "raw_target": "https://display.wconcept.co.kr/rn/women"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "EVENT",
+   "element": "a",
+   "destination_url": "https://display.wconcept.co.kr/event",
+   "destination_type": "promotion",
+   "status": "declared_in_html",
+   "raw_target": "https://display.wconcept.co.kr/event"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "찜 하기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 무릎 담요_라이언&춘식이 15 % 16,150",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 여성용_라이언 15 % 50,915",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 남성용_춘식이 15 % 50,915",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 조끼_라이언&춘식이 15 % 33,915",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_춘식이 15 % 16,150",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_라이언 15 % 16,150",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_춘식이 15 % 12,750",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_라이언 15 % 12,750",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_춘식이 15 % 15,300",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_라이언 15 % 15,300",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "쿠폰 유의사항",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "전체",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "칩앤데일",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "BEST",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "SALE",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "MD 추천순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "툴팁 열기",
+   "element": "div",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "추천순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "신상품순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "판매순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "할인율순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "낮은가격순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "높은가격순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "리뷰순",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  },
+  {
+   "source_url": "https://event.wconcept.co.kr/event/135611",
+   "label": "상품 보기",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified"
+  }
+ ],
+ "relationship_capture_status": "extracted_from_html",
+ "source_revisit": {
+  "resolved_url": "https://event.wconcept.co.kr/event/135611",
+  "status": "revisited",
+  "title": "칩앤데일 | 카카오프렌즈 | W컨셉(W CONCEPT)"
+ },
+ "sections": [
+  {
+   "id": "s01",
+   "order": 1,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [
+    "KAKAO FRIENDS",
+    "칩앤데일 | 카카오프렌즈",
+    "COUPON"
+   ],
+   "text": "HOME EVENT 칩앤데일 | 카카오프렌즈 칩앤데일 | 카카오프렌즈 W Concept Lifestyle KAKAO FRIENDS 칩앤데일ㅣ카카오프렌즈 콜라보레이션 신상출시 KAKAO FRIENDS 칩앤데일 | 카카오프렌즈 올 가을 귀여움에 폴인러브🌰 추위로부터 따뜻하게 해줄 무릎담요와 수면 조끼. 하루의 시작과 끝을 함께할 수면 파자마. 어디든 함께가는 귀요미 키링. 볼수록 기분 좋은 피규어까지. 카카오프렌즈의 신상을 W컨셉에서 만나보세요. 관련 브랜드 카카오프렌즈 HOMEWEAR 카카오프렌즈 칩앤데일 I 카카오프렌즈 무릎 담요_라이언&춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 여성용_라이언 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 남성용_춘식이 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 조끼_라이언&춘식이 15 % 33,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 GOODS 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_라이언 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_춘식이 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_라이언 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_춘식이 15 % 15,300 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_라이언 15 % 15,300 칩앤데일 | 카카오프렌즈 COUPON 더블유위크 30% 30% 5,000원 이상 구매 시, 최대 20만원 할인 5장 쿠폰 유의사항 전체 칩앤데일 BEST SALE 품절제외 MD 추천순 추천순 신상품순 판매순 할인율순 낮은가격순 높은가격순 리뷰순 상품 보기",
+   "dom_path": [
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002",
+    "i0003",
+    "i0004",
+    "i0005",
+    "i0006",
+    "i0007",
+    "i0008",
+    "i0009",
+    "i0010",
+    "i0011",
+    "i0012",
+    "i0013",
+    "i0014",
+    "i0015",
+    "i0016",
+    "i0017"
+   ],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  }
+ ],
+ "image_assets": [
+  {
+   "id": "i0001",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090225902_7364.png?RS=1200",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0002",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090214724_4027.png?RS=1200",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0003",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261020172831370_8927.png?RS=240",
+   "alt": "카카오프렌즈",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0004",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261028093714576_8222.png?RS=735",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0005",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261028093816443_2736.png?RS=735",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0006",
+   "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261028093941032_2399.png?RS=735",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0007",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/55/309093255_JG10468.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0008",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/42/309093242_GG20305.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0009",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/40/309093240_GG18007.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0010",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/41/309093241_LG20403.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0011",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/45/309093245_GG96629.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0012",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/47/309093247_GG71007.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0013",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/51/309093251_GG15941.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0014",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/48/309093248_GG84688.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0015",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/52/309093252_MG77312.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0016",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/50/309093250_GI17737.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  },
+  {
+   "id": "i0017",
+   "url": "https://product-image.wconcept.co.kr/productimg/image/img9/49/309093249_HG22839.jpg?RS=412",
+   "alt": "",
+   "tags": [
+    "unknown"
+   ],
+   "tag_evidence": [
+    "insufficient_evidence"
+   ],
+   "section_ids": [
+    "s01"
+   ],
+   "alternate_urls": []
+  }
+ ],
+ "section_status": "inferred_from_html",
+ "html_file": "pages/wconcept-002.html",
+ "capture_method": "Browser-rendered public DOM; promotion root selected, scripts/trackers and hidden form values removed. Initial rendered state only; image pixels, other tabs, product bodies and live click destinations not collected."
+}
