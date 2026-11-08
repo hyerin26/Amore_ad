@@ -11,7 +11,7 @@
    "alt": "",
    "url": "https://wdiscoveryimg.wconcept.co.kr/tos-sgcomm1-v-662e29308768f11b-sg/oMYO6OetwIekZg7FYqEwPANiMFXBABA73QgQQ3~tplv-vod-noop.image",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -19,7 +19,7 @@
    "alt": "",
    "url": "https://wdiscoveryimg.wconcept.co.kr/tos-sgcomm1-v-662e29308768f11b-sg/oMYO6OetwIekZg7FYqEwPANiMFXBABA73QgQQ3~tplv-vod-noop.image",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -859,7 +859,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028095115017_8044.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0100"
   },
@@ -867,7 +867,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093732249_8680.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0101"
   },
@@ -875,7 +875,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093308262_4137.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0102"
   },
@@ -883,7 +883,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028092957023_7392.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0103"
   },
@@ -891,7 +891,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093402743_4297.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0104"
   },
@@ -947,7 +947,7 @@
    "alt": "토스페이",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172707953_3270.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0111"
   },
@@ -955,7 +955,7 @@
    "alt": "카카오페이(머니)",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172524168_3548.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0112"
   },
@@ -963,7 +963,7 @@
    "alt": "삼성카드(W컨셉)",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227173057669_8534.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0113"
   },
@@ -971,7 +971,7 @@
    "alt": "카카오페이(NH농협카드)",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172524168_3548.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0112"
   },
@@ -979,7 +979,7 @@
    "alt": "토스페이(머니/계좌)",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172614836_6266.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0114"
   },
@@ -987,7 +987,7 @@
    "alt": "현대카드",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172058428_9446.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0115"
   },
@@ -995,7 +995,7 @@
    "alt": "삼성카드(LINK)",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172424460_8121.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0116"
   },
@@ -1003,7 +1003,7 @@
    "alt": "KB Pay(할인팩)",
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172956888_3704.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0117"
   },
@@ -1428,7 +1428,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/307456741",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/307456741"
   },
@@ -1437,7 +1437,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/308579338",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/308579338"
   },
@@ -1446,7 +1446,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/308914198",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/308914198"
   },
@@ -1455,7 +1455,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/307463098",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/307463098"
   },
@@ -1464,7 +1464,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309121228",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309121228"
   },
@@ -1473,7 +1473,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/307510755",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/307510755"
   },
@@ -1482,7 +1482,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309074019",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309074019"
   },
@@ -1491,7 +1491,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309088278",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309088278"
   },
@@ -1500,7 +1500,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309110074",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309110074"
   },
@@ -1509,7 +1509,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309126308",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309126308"
   },
@@ -1518,7 +1518,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309028144",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309028144"
   },
@@ -1527,7 +1527,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/307584589",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/307584589"
   },
@@ -1536,7 +1536,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/308892856",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/308892856"
   },
@@ -1545,7 +1545,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309016878",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309016878"
   },
@@ -1554,7 +1554,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://www.wconcept.co.kr/Product/309128387",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "https://www.wconcept.co.kr/Product/309128387"
   },
@@ -2724,7 +2724,7 @@
    "label": "",
    "element": "a",
    "destination_url": "https://event.wconcept.co.kr/promo/attend",
-   "destination_type": "other",
+   "destination_type": "external_page",
    "status": "declared_in_html",
    "raw_target": "https://event.wconcept.co.kr/promo/attend"
   },
@@ -2823,7 +2823,7 @@
    "label": "",
    "element": "a",
    "destination_url": "http://pf.kakao.com/_nfsxnT",
-   "destination_type": "other",
+   "destination_type": "external_page",
    "status": "declared_in_html",
    "raw_target": "http://pf.kakao.com/_nfsxnT"
   },
@@ -2835,6 +2835,15 @@
    "destination_type": "promotion",
    "status": "declared_in_html",
    "raw_target": "https://event.wconcept.co.kr/event/135517"
+  },
+  {
+   "source_url": "https://display.wconcept.co.kr/rn/promotion/111",
+   "label": "",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "vidSetVolume(0,'#veplayer0')"
   }
  ],
  "relationship_capture_status": "extracted_from_html",
@@ -2847,37 +2856,216 @@
   {
    "id": "s01",
    "order": 1,
-   "role": "hero",
-   "role_evidence": "position_in_dom",
-   "headings": [
-    "혜택의 신세계",
-    "시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요.",
-    "아우터 혜택 매년 꺼내게 될 아이템만 모았어요.",
-    "방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요.",
-    "W온리 오직 이곳에서만 만날 수 있어요.",
-    "홈언더&라이프&키즈 기간 한정 혜택을 만나보세요.",
-    "지금 주목할 뷰티 오직 지금만 있는 기회예요.",
-    "한정수량 균일가 혜택",
-    "W라이브",
-    "실시간 랭킹",
-    "브랜드 랭킹",
-    "지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요.",
-    "담을수록 커지는 혜택",
-    "첫 구매 한정 수량 특가"
-   ],
-   "text": "혜택 24시간 브랜드데이 쓱데이 & 더블유위크 챌린지 쓱데이 시그니처 Click to unmute Replay 00:00 Click and hold to drag 혜택 24H 브랜드데이 오늘 주목할 브랜드 쓱데이 시그니처 패션/잡화 브랜드 아우터 특가 방한 잡화 특가 W온리 특가 홈언더/라이프 특가 뷰티 특가 균일가 혜택 라이프/뷰티 브랜드 리퍼브숍 랭킹 이벤트 혜택의 신세계 24H 혜택 [24H] 쓱데이 30% 최대 15만원 할인 쓱데이 혜택 전 카테고리 14% 최대 4만원 할인 쓱데이 15% 최대 4만원 할인 쓱데이 더블10% 최대 3만 5,000원 할인 모든 쿠폰 받기 유의사항 24시간 브랜드데이 단 하루 최대 혜택으로 만나요. 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 룩캐스트 ~63% +30% +더블5% 룩캐스트 24H 룩캐스트 LOOKAST 룩캐스트_ 30% 최대 15만원 할인 자세히 보기 오늘 주목할 브랜드 ~30% 쿠폰 혜택 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 레이첼콕스 우이 그로브 레이첼콕스 24H 혜택 레이첼콕스 RACHEL COX [24H] 쓱데이 30% 최대 15만원 할인 자세히 보기 시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요. 아우터 상의 하의 원피스 백/잡화 슈즈 액세서리 홈언더웨어 뷰티 라이프 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 패션 & 잡화 추천 브랜드 올겨울 활약할 아이템만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 듀테로 샤드라마 아워코모스 무니드 로브로브 에트몽 피버 프론트로우 라메레이 제너럴 아이디어 르세지엠 넌즈시 아우어노스텔지아 루에브르 아티드 세나프레 슬로우롤리 오브에르 룬느 크록스 베네통 프론투라인 아더템포 랑거 벨류엣 오브이알엘 더제이수 듀엘 쓱데이 15% 최대 4만원 할인 자세히 보기 아우터 혜택 매년 꺼내게 될 아이템만 모았어요. 코트 퍼 패딩 재킷 무스탕 플리스 MEN 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요. 어그/부츠 로퍼/방한슈즈 머플러 모자/바라클라바 장갑 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 W온리 오직 이곳에서만 만날 수 있어요. 백 슈즈 액세서리 아우터 니트 상의 하의 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 홈언더&라이프&키즈 기간 한정 혜택을 만나보세요. 홈언더웨어 패브릭 키친 온열가전/디지털 가구/홈데코 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 지금 주목할 뷰티 오직 지금만 있는 기회예요. 메이크업 스킨케어 헤어&바디 디바이스 센트 푸드 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 한정수량 균일가 혜택 10만원 미만 5만원 미만 푸드 뷰티/이너뷰티 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요 홈언더&라이프&뷰티 브랜드 지금 주목해야할 브랜드만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 비너스 디어리얼 티에스에이치 후와 나그참파코리아 릿지서울 오르디 비프로젝트 더블유랩 컴포트랩 폴로랄프로렌 이너웨어 시모먼트 쓱데이 15% 최대 4만원 할인 자세히 보기 W라이브 금 10 . 30 일 11 . 1 월 11 . 2 화 11 . 3 수 11 . 4 목 11 . 5 금 11 . 6 라이브 종료 드파운드 ~72% + 30% 쿠폰 W라이브 다시보기 자세히 보기 실시간 랭킹 12:02 업데이트 전체 아우터 니트 팬츠 원피스 티셔츠 스커트 블라우스 셔츠 백 슈즈 액세서리 언더웨어 라운지웨어 스포츠액티브 라이프 뷰티 남성 키즈 푸드 드파운드 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 1 씨씨콜렉트 [9차][네이비 단독] 알파카 블렌드 하이넥 싱글 맥코트_C264MSG365(4color) 51 % 280,873 2 룩캐스트 [캐시미어 10%] 울 핸드메이드 드레이프 하이넥 하프 코트 / WOOL HANDMADE DRAPE HIGH NECK HALF COAT_3colors 40 % 172,368 3 룩캐스트 [4차 리오더][XS사이즈 추가] 몬드리 덕 다운 패딩 / MONDRY DUCK DOWN PADDING_2colors 69 % 99,000 4 수아레 우먼 [컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR 52 % 78,795 5 프론트로우 [Premium] Cashmere-blend Handmade Coat_3color 34 % 456,240 6 드파운드 dumble reversible jumper - light blue 24 % 226,480 7 룩캐스트 [단독][4차 리오더] 에일린 울 핸드메이드 자켓 / AILEEN WOOL HANDMADE JACKET_3colors 50 % 99,000 8 르메메 [꼬민지,유하 pick]High Neck Toggle Fur Jacket_2colors 27 % 187,501 9 올리브데올리브 [박민하PICK][단독] 벨티드 하프 발마칸 구스 다운 코트 OP6XMA670 50 % 294,525 10 드파운드 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 11 드파운드 high neck duck down short padding (4color) 20 % 286,400 12 상품 더보기 브랜드 랭킹 1~10위 11~20위 1 드파운드 바로가기 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 dumble reversible jumper - light blue 24 % 226,480 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 faux mink high-neck jacket - ivory 32 % 243,440 [단독] light duck down jumper - brown 44 % 122,080 poodle bag (5colors) 28 % 54,000 line knit gloves - charcoal 52 % 27,840 diamond quilted half jacket - black 36 % 229,120 high neck duck down short padding (4color) 20 % 286,400 dumble reversible jumper - khaki 24 % 226,480 2 룩캐스트 3 시야쥬 4 파사드패턴 5 수아레 우먼 6 프론트로우 7 하시에 8 망고매니플리즈 9 리엘 10 시티브리즈 지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요. 겨울 인기 어패럴 모아보기 [더블 쿠폰 10%] 단독 혜택 자세히 보기 가방 모아보기 [더블 쿠폰 10%] 가방 단독 혜택 자세히 보기 겨울 액세서리 모아보기 [더블 쿠폰 10%] 액세서리 & 주얼리 단독 혜택 자세히 보기 겨울 스니커즈 모아보기 [더블 쿠폰 10%] 슈즈 단독 혜택 자세히 보기 아웃도어 어패럴 모아보기 [더블 쿠폰 10%] 아웃도어 단독 혜택 자세히 보기 담을수록 커지는 혜택 토스페이 20만원 이상 결제 시 7천원 즉시할인 카카오페이(머니) 14만원 이상 결제 시 4천원 즉시할인 삼성카드(W컨셉) 7만원 이상 첫 결제 시 4만원 즉시할인 카카오페이(NH농협카드) 14만원 이상 결제 시 5천원 즉시할인 토스페이(머니/계좌) 5만원 이상 결제 시 1천원 즉시할인 현대카드 10만원 이상 결제 시 M포인트 5%사용 삼성카드(LINK) 15만원 이상 결제 시 6천원 결제일 할인 KB Pay(할인팩) 15만원 이상 결제 시 6천원 결제일 할인 첫 구매 한정 수량 특가 Replay Play 00 : 00 / 00:39 Live 00:00 Fullscreen PIP Speed 2x 1.5x 1.25x 1x 0.75x 0.5x HD HD Click and hold to drag",
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "혜택 24시간 브랜드데이 쓱데이 & 더블유위크 챌린지 쓱데이 시그니처",
    "dom_path": [
+    1,
+    1,
+    1,
     1
    ],
-   "dom_id": null,
+   "dom_id": "section1",
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "hero",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "Click to unmute Replay 00:00 Click and hold to drag",
+   "dom_path": [
+    1,
+    1,
+    1,
+    2
+   ],
+   "dom_id": "section2",
    "image_ids": [
-    "i0001",
+    "i0001"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "혜택 24H 브랜드데이 오늘 주목할 브랜드 쓱데이 시그니처 패션/잡화 브랜드 아우터 특가 방한 잡화 특가 W온리 특가 홈언더/라이프 특가 뷰티 특가 균일가 혜택 라이프/뷰티 브랜드 리퍼브숍 랭킹 이벤트",
+   "dom_path": [
+    1,
+    1,
+    1,
+    3
+   ],
+   "dom_id": "section3",
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    4,
+    5,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "혜택의 신세계"
+   ],
+   "text": "혜택의 신세계 24H 혜택 [24H] 쓱데이 30% 최대 15만원 할인 쓱데이 혜택 전 카테고리 14% 최대 4만원 할인 쓱데이 15% 최대 4만원 할인 쓱데이 더블10% 최대 3만 5,000원 할인 모든 쿠폰 받기 유의사항",
+   "dom_path": [
+    1,
+    1,
+    1,
+    4
+   ],
+   "dom_id": "section5",
+   "image_ids": [],
+   "relationship_indexes": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    5
+   ],
+   "dom_id": "section6",
+   "image_ids": [
     "i0002",
     "i0003",
-    "i0004",
+    "i0004"
+   ],
+   "relationship_indexes": [
+    23,
+    24
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "24시간 브랜드데이 단 하루 최대 혜택으로 만나요. 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 룩캐스트 ~63% +30% +더블5% 룩캐스트 24H 룩캐스트 LOOKAST 룩캐스트_ 30% 최대 15만원 할인 자세히 보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    6
+   ],
+   "dom_id": "section7",
+   "image_ids": [
     "i0005",
-    "i0006",
+    "i0006"
+   ],
+   "relationship_indexes": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "오늘 주목할 브랜드 ~30% 쿠폰 혜택 10 . 30 ( 금 ) 오전 10시 10 . 31 ( 토 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 2 ( 월 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 4 ( 수 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 6 ( 금 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 11 . 8 ( 일 ) 오전 10시 레이첼콕스 우이 그로브 레이첼콕스 24H 혜택 레이첼콕스 RACHEL COX [24H] 쓱데이 30% 최대 15만원 할인 자세히 보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    7
+   ],
+   "dom_id": "section8",
+   "image_ids": [
     "i0007",
+    "i0006"
+   ],
+   "relationship_indexes": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    40,
+    41,
+    42,
+    43,
+    44,
+    38,
+    39
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    8
+   ],
+   "dom_id": "section9",
+   "image_ids": [
     "i0008",
     "i0009",
     "i0010",
@@ -2896,7 +3084,74 @@
     "i0023",
     "i0024",
     "i0025",
-    "i0026",
+    "i0026"
+   ],
+   "relationship_indexes": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요."
+   ],
+   "text": "시그니처 키워드 모아보기 지금 주목할 대표 아이템만 모았어요. 아우터 상의 하의 원피스 백/잡화 슈즈 액세서리 홈언더웨어 뷰티 라이프 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    9
+   ],
+   "dom_id": "section10",
+   "image_ids": [],
+   "relationship_indexes": [
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "패션 & 잡화 추천 브랜드 올겨울 활약할 아이템만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 듀테로 샤드라마 아워코모스 무니드 로브로브 에트몽 피버 프론트로우 라메레이 제너럴 아이디어 르세지엠 넌즈시 아우어노스텔지아 루에브르 아티드 세나프레 슬로우롤리 오브에르 룬느 크록스 베네통 프론투라인 아더템포 랑거 벨류엣 오브이알엘 더제이수 듀엘 쓱데이 15% 최대 4만원 할인 자세히 보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    10
+   ],
+   "dom_id": "section11",
+   "image_ids": [
     "i0027",
     "i0028",
     "i0029",
@@ -2924,151 +3179,14 @@
     "i0051",
     "i0052",
     "i0053",
-    "i0054",
-    "i0055",
-    "i0056",
-    "i0057",
-    "i0058",
-    "i0059",
-    "i0060",
-    "i0061",
-    "i0062",
-    "i0063",
-    "i0064",
-    "i0065",
-    "i0066",
-    "i0067",
-    "i0068",
-    "i0069",
-    "i0070",
-    "i0071",
-    "i0072",
-    "i0073",
-    "i0074",
-    "i0075",
-    "i0076",
-    "i0077",
-    "i0078",
-    "i0079",
-    "i0080",
-    "i0081",
-    "i0082",
-    "i0083",
-    "i0084",
-    "i0085",
-    "i0086",
-    "i0087",
-    "i0088",
-    "i0089",
-    "i0090",
-    "i0091",
-    "i0092",
-    "i0093",
-    "i0094",
-    "i0095",
-    "i0096",
-    "i0097",
-    "i0098",
-    "i0099",
-    "i0100",
-    "i0101",
-    "i0102",
-    "i0103",
-    "i0104",
-    "i0105",
-    "i0106",
-    "i0107",
-    "i0108",
-    "i0109",
-    "i0110",
-    "i0111",
-    "i0112",
-    "i0113",
-    "i0114",
-    "i0115",
-    "i0116",
-    "i0117",
-    "i0118",
-    "i0119",
-    "i0120",
-    "i0121",
-    "i0122",
-    "i0123"
+    "i0054"
    ],
    "relationship_indexes": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
     25,
-    26,
     27,
-    28,
     29,
-    30,
     31,
-    32,
     33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40,
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49,
-    50,
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70,
-    71,
-    72,
     73,
     74,
     75,
@@ -3097,34 +3215,220 @@
     98,
     99,
     100,
-    101,
+    38,
+    39
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    11
+   ],
+   "dom_id": "section12",
+   "image_ids": [
+    "i0055"
+   ],
+   "relationship_indexes": [
+    101
+   ]
+  },
+  {
+   "id": "s12",
+   "order": 12,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "아우터 혜택 매년 꺼내게 될 아이템만 모았어요."
+   ],
+   "text": "아우터 혜택 매년 꺼내게 될 아이템만 모았어요. 코트 퍼 패딩 재킷 무스탕 플리스 MEN 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    12
+   ],
+   "dom_id": "section13",
+   "image_ids": [],
+   "relationship_indexes": [
     102,
     103,
     104,
     105,
     106,
     107,
-    108,
+    108
+   ]
+  },
+  {
+   "id": "s13",
+   "order": 13,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요."
+   ],
+   "text": "방한 잡화 혜택 올겨울 추위도 멋도 모두 챙겨요. 어그/부츠 로퍼/방한슈즈 머플러 모자/바라클라바 장갑 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    13
+   ],
+   "dom_id": "section14",
+   "image_ids": [],
+   "relationship_indexes": [
     109,
     110,
     111,
     112,
-    113,
+    113
+   ]
+  },
+  {
+   "id": "s14",
+   "order": 14,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "W온리 오직 이곳에서만 만날 수 있어요."
+   ],
+   "text": "W온리 오직 이곳에서만 만날 수 있어요. 백 슈즈 액세서리 아우터 니트 상의 하의 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    14
+   ],
+   "dom_id": "section15",
+   "image_ids": [],
+   "relationship_indexes": [
     114,
+    67,
+    68,
+    62,
     115,
+    63,
+    64
+   ]
+  },
+  {
+   "id": "s15",
+   "order": 15,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "홈언더&라이프&키즈 기간 한정 혜택을 만나보세요."
+   ],
+   "text": "홈언더&라이프&키즈 기간 한정 혜택을 만나보세요. 홈언더웨어 패브릭 키친 온열가전/디지털 가구/홈데코 키즈 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    15
+   ],
+   "dom_id": "section16",
+   "image_ids": [],
+   "relationship_indexes": [
+    69,
     116,
     117,
     118,
     119,
+    72
+   ]
+  },
+  {
+   "id": "s16",
+   "order": 16,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "지금 주목할 뷰티 오직 지금만 있는 기회예요."
+   ],
+   "text": "지금 주목할 뷰티 오직 지금만 있는 기회예요. 메이크업 스킨케어 헤어&바디 디바이스 센트 푸드 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    16
+   ],
+   "dom_id": "section17",
+   "image_ids": [],
+   "relationship_indexes": [
     120,
     121,
     122,
     123,
     124,
-    125,
+    125
+   ]
+  },
+  {
+   "id": "s17",
+   "order": 17,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "한정수량 균일가 혜택"
+   ],
+   "text": "한정수량 균일가 혜택 10만원 미만 5만원 미만 푸드 뷰티/이너뷰티 지금 추천 가능한 상품이 없어요 다른 카테고리 추천 상품을 확인해보세요",
+   "dom_path": [
+    1,
+    1,
+    1,
+    17
+   ],
+   "dom_id": "section18",
+   "image_ids": [],
+   "relationship_indexes": [
     126,
     127,
-    128,
+    125,
+    128
+   ]
+  },
+  {
+   "id": "s18",
+   "order": 18,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "홈언더&라이프&뷰티 브랜드 지금 주목해야할 브랜드만 모았어요. 10 . 30 ( 금 ) 오전 10시 11 . 1 ( 일 ) 오전 10시 11 . 3 ( 화 ) 오전 10시 11 . 5 ( 목 ) 오전 10시 11 . 7 ( 토 ) 오전 10시 비너스 디어리얼 티에스에이치 후와 나그참파코리아 릿지서울 오르디 비프로젝트 더블유랩 컴포트랩 폴로랄프로렌 이너웨어 시모먼트 쓱데이 15% 최대 4만원 할인 자세히 보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    18
+   ],
+   "dom_id": "section19",
+   "image_ids": [
+    "i0056",
+    "i0057",
+    "i0058",
+    "i0059",
+    "i0060",
+    "i0061",
+    "i0062",
+    "i0063",
+    "i0064",
+    "i0065",
+    "i0066",
+    "i0067"
+   ],
+   "relationship_indexes": [
+    25,
+    27,
+    29,
+    31,
+    33,
     129,
     130,
     131,
@@ -3137,9 +3441,93 @@
     138,
     139,
     140,
-    141,
-    142,
-    143,
+    38,
+    39
+   ]
+  },
+  {
+   "id": "s19",
+   "order": 19,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    19
+   ],
+   "dom_id": "section20",
+   "image_ids": [
+    "i0068"
+   ],
+   "relationship_indexes": [
+    141
+   ]
+  },
+  {
+   "id": "s20",
+   "order": 20,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    20
+   ],
+   "dom_id": "section21",
+   "image_ids": [
+    "i0069"
+   ],
+   "relationship_indexes": [
+    142
+   ]
+  },
+  {
+   "id": "s21",
+   "order": 21,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    21
+   ],
+   "dom_id": "section22",
+   "image_ids": [
+    "i0070"
+   ],
+   "relationship_indexes": [
+    143
+   ]
+  },
+  {
+   "id": "s22",
+   "order": 22,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [
+    "W라이브"
+   ],
+   "text": "W라이브 금 10 . 30 일 11 . 1 월 11 . 2 화 11 . 3 수 11 . 4 목 11 . 5 금 11 . 6 라이브 종료 드파운드 ~72% + 30% 쿠폰 W라이브 다시보기 자세히 보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    22
+   ],
+   "dom_id": "section23",
+   "image_ids": [
+    "i0071"
+   ],
+   "relationship_indexes": [
     144,
     145,
     146,
@@ -3148,16 +3536,61 @@
     149,
     150,
     151,
+    39
+   ]
+  },
+  {
+   "id": "s23",
+   "order": 23,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "실시간 랭킹"
+   ],
+   "text": "실시간 랭킹 12:02 업데이트 전체 아우터 니트 팬츠 원피스 티셔츠 스커트 블라우스 셔츠 백 슈즈 액세서리 언더웨어 라운지웨어 스포츠액티브 라이프 뷰티 남성 키즈 푸드 드파운드 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 1 씨씨콜렉트 [9차][네이비 단독] 알파카 블렌드 하이넥 싱글 맥코트_C264MSG365(4color) 51 % 280,873 2 룩캐스트 [캐시미어 10%] 울 핸드메이드 드레이프 하이넥 하프 코트 / WOOL HANDMADE DRAPE HIGH NECK HALF COAT_3colors 40 % 172,368 3 룩캐스트 [4차 리오더][XS사이즈 추가] 몬드리 덕 다운 패딩 / MONDRY DUCK DOWN PADDING_2colors 69 % 99,000 4 수아레 우먼 [컬러,사이즈 추가](우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR 52 % 78,795 5 프론트로우 [Premium] Cashmere-blend Handmade Coat_3color 34 % 456,240 6 드파운드 dumble reversible jumper - light blue 24 % 226,480 7 룩캐스트 [단독][4차 리오더] 에일린 울 핸드메이드 자켓 / AILEEN WOOL HANDMADE JACKET_3colors 50 % 99,000 8 르메메 [꼬민지,유하 pick]High Neck Toggle Fur Jacket_2colors 27 % 187,501 9 올리브데올리브 [박민하PICK][단독] 벨티드 하프 발마칸 구스 다운 코트 OP6XMA670 50 % 294,525 10 드파운드 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 11 드파운드 high neck duck down short padding (4color) 20 % 286,400 12 상품 더보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    23
+   ],
+   "dom_id": "section24",
+   "image_ids": [
+    "i0072",
+    "i0073",
+    "i0074",
+    "i0075",
+    "i0076",
+    "i0077",
+    "i0078",
+    "i0079",
+    "i0080",
+    "i0081",
+    "i0082",
+    "i0083"
+   ],
+   "relationship_indexes": [
     152,
+    62,
+    115,
     153,
+    65,
     154,
     155,
     156,
     157,
+    114,
+    67,
+    68,
     158,
     159,
     160,
+    71,
+    70,
     161,
+    72,
+    125,
+    38,
     162,
     163,
     164,
@@ -3171,12 +3604,55 @@
     172,
     173,
     174,
-    175,
+    175
+   ]
+  },
+  {
+   "id": "s24",
+   "order": 24,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "브랜드 랭킹"
+   ],
+   "text": "브랜드 랭킹 1~10위 11~20위 1 드파운드 바로가기 [티슈 PICK][단독] reversible high neck shearing mustang - brown 32 % 270,640 dumble reversible jumper - light blue 24 % 226,480 [선물포장] cashmere wool blended muffler (12color) 28 % 118,800 faux mink high-neck jacket - ivory 32 % 243,440 [단독] light duck down jumper - brown 44 % 122,080 poodle bag (5colors) 28 % 54,000 line knit gloves - charcoal 52 % 27,840 diamond quilted half jacket - black 36 % 229,120 high neck duck down short padding (4color) 20 % 286,400 dumble reversible jumper - khaki 24 % 226,480 2 룩캐스트 3 시야쥬 4 파사드패턴 5 수아레 우먼 6 프론트로우 7 하시에 8 망고매니플리즈 9 리엘 10 시티브리즈",
+   "dom_path": [
+    1,
+    1,
+    1,
+    24
+   ],
+   "dom_id": "section25",
+   "image_ids": [
+    "i0084",
+    "i0072",
+    "i0078",
+    "i0082",
+    "i0085",
+    "i0086",
+    "i0087",
+    "i0088",
+    "i0089",
+    "i0083",
+    "i0090",
+    "i0091",
+    "i0092",
+    "i0093",
+    "i0094",
+    "i0095",
+    "i0096",
+    "i0097",
+    "i0098",
+    "i0099"
+   ],
+   "relationship_indexes": [
     176,
     177,
     178,
     179,
+    38,
     180,
+    163,
     181,
     182,
     183,
@@ -3194,17 +3670,97 @@
     195,
     196,
     197,
-    198,
+    198
+   ]
+  },
+  {
+   "id": "s25",
+   "order": 25,
+   "role": "related_promotions",
+   "role_evidence": "container_markup",
+   "headings": [
+    "지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요."
+   ],
+   "text": "지금 주목할 콘텐츠 안목 있는 당신을 위해 추천해요. 겨울 인기 어패럴 모아보기 [더블 쿠폰 10%] 단독 혜택 자세히 보기 가방 모아보기 [더블 쿠폰 10%] 가방 단독 혜택 자세히 보기 겨울 액세서리 모아보기 [더블 쿠폰 10%] 액세서리 & 주얼리 단독 혜택 자세히 보기 겨울 스니커즈 모아보기 [더블 쿠폰 10%] 슈즈 단독 혜택 자세히 보기 아웃도어 어패럴 모아보기 [더블 쿠폰 10%] 아웃도어 단독 혜택 자세히 보기",
+   "dom_path": [
+    1,
+    1,
+    1,
+    25
+   ],
+   "dom_id": "section26",
+   "image_ids": [
+    "i0100",
+    "i0101",
+    "i0102",
+    "i0103",
+    "i0104"
+   ],
+   "relationship_indexes": [
     199,
+    39,
     200,
     201,
     202,
-    203,
+    203
+   ]
+  },
+  {
+   "id": "s26",
+   "order": 26,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    26
+   ],
+   "dom_id": "section28",
+   "image_ids": [
+    "i0105",
+    "i0106",
+    "i0107",
+    "i0108",
+    "i0109",
+    "i0110"
+   ],
+   "relationship_indexes": [
     204,
     205,
     206,
     207,
-    208,
+    208
+   ]
+  },
+  {
+   "id": "s27",
+   "order": 27,
+   "role": "benefit_overview",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "담을수록 커지는 혜택"
+   ],
+   "text": "담을수록 커지는 혜택 토스페이 20만원 이상 결제 시 7천원 즉시할인 카카오페이(머니) 14만원 이상 결제 시 4천원 즉시할인 삼성카드(W컨셉) 7만원 이상 첫 결제 시 4만원 즉시할인 카카오페이(NH농협카드) 14만원 이상 결제 시 5천원 즉시할인 토스페이(머니/계좌) 5만원 이상 결제 시 1천원 즉시할인 현대카드 10만원 이상 결제 시 M포인트 5%사용 삼성카드(LINK) 15만원 이상 결제 시 6천원 결제일 할인 KB Pay(할인팩) 15만원 이상 결제 시 6천원 결제일 할인",
+   "dom_path": [
+    1,
+    1,
+    1,
+    27
+   ],
+   "dom_id": "section29",
+   "image_ids": [
+    "i0111",
+    "i0112",
+    "i0113",
+    "i0114",
+    "i0115",
+    "i0116",
+    "i0117"
+   ],
+   "relationship_indexes": [
     209,
     210,
     211,
@@ -3212,9 +3768,75 @@
     213,
     214,
     215,
-    216,
+    216
+   ]
+  },
+  {
+   "id": "s28",
+   "order": 28,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "첫 구매 한정 수량 특가"
+   ],
+   "text": "첫 구매 한정 수량 특가",
+   "dom_path": [
+    1,
+    1,
+    1,
+    28
+   ],
+   "dom_id": "section30",
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s29",
+   "order": 29,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1,
+    1,
+    29
+   ],
+   "dom_id": "section31",
+   "image_ids": [
+    "i0118",
+    "i0119",
+    "i0120",
+    "i0121",
+    "i0122"
+   ],
+   "relationship_indexes": [
     217,
-    218
+    218,
+    206,
+    208
+   ]
+  },
+  {
+   "id": "s30",
+   "order": 30,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "Replay Play 00 : 00 / 00:39 Live 00:00 Fullscreen PIP Speed 2x 1.5x 1.25x 1x 0.75x 0.5x HD HD Click and hold to drag",
+   "dom_path": [
+    1,
+    1,
+    1,
+    30
+   ],
+   "dom_id": "section32",
+   "image_ids": [
+    "i0123"
+   ],
+   "relationship_indexes": [
+    219
    ]
   }
  ],
@@ -3224,13 +3846,13 @@
    "url": "https://wdiscoveryimg.wconcept.co.kr/tos-sgcomm1-v-662e29308768f11b-sg/oMYO6OetwIekZg7FYqEwPANiMFXBABA73QgQQ3~tplv-vod-noop.image",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s02"
    ],
    "alternate_urls": []
   },
@@ -3245,7 +3867,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -3260,7 +3882,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -3275,7 +3897,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -3290,7 +3912,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3305,7 +3927,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06",
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -3320,7 +3943,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -3335,7 +3958,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3350,7 +3973,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3365,7 +3988,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3380,7 +4003,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3395,7 +4018,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3410,7 +4033,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3425,7 +4048,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3440,7 +4063,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3455,7 +4078,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3470,7 +4093,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3485,7 +4108,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3500,7 +4123,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3515,7 +4138,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3530,7 +4153,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3545,7 +4168,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3560,7 +4183,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3575,7 +4198,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3590,7 +4213,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3605,7 +4228,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3620,7 +4243,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3635,7 +4258,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3650,7 +4273,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3665,7 +4288,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3680,7 +4303,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3695,7 +4318,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3710,7 +4333,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3725,7 +4348,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3740,7 +4363,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3755,7 +4378,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3770,7 +4393,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3785,7 +4408,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3800,7 +4423,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3815,7 +4438,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3830,7 +4453,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3845,7 +4468,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3860,7 +4483,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3875,7 +4498,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3890,7 +4513,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3905,7 +4528,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3920,7 +4543,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3935,7 +4558,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3950,7 +4573,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3965,7 +4588,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3980,7 +4603,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3995,7 +4618,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -4010,7 +4633,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -4025,7 +4648,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -4040,7 +4663,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s11"
    ],
    "alternate_urls": []
   },
@@ -4055,7 +4678,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4070,7 +4693,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4085,7 +4708,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4100,7 +4723,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4115,7 +4738,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4130,7 +4753,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4145,7 +4768,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4160,7 +4783,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4175,7 +4798,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4190,7 +4813,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4205,7 +4828,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4220,7 +4843,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s18"
    ],
    "alternate_urls": []
   },
@@ -4235,7 +4858,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s19"
    ],
    "alternate_urls": []
   },
@@ -4250,7 +4873,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s20"
    ],
    "alternate_urls": []
   },
@@ -4265,7 +4888,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s21"
    ],
    "alternate_urls": []
   },
@@ -4280,7 +4903,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s22"
    ],
    "alternate_urls": []
   },
@@ -4295,7 +4918,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23",
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4310,7 +4934,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4325,7 +4949,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4340,7 +4964,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4355,7 +4979,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4370,7 +4994,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4385,7 +5009,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23",
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4400,7 +5025,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4415,7 +5040,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4430,7 +5055,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23"
    ],
    "alternate_urls": []
   },
@@ -4445,7 +5070,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23",
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4460,7 +5086,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s23",
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4475,7 +5102,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4490,7 +5117,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4505,7 +5132,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4520,7 +5147,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4535,7 +5162,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4550,7 +5177,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4565,7 +5192,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4580,7 +5207,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4595,7 +5222,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4610,7 +5237,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4625,7 +5252,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4640,7 +5267,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4655,7 +5282,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4670,7 +5297,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4685,7 +5312,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4700,7 +5327,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s24"
    ],
    "alternate_urls": []
   },
@@ -4709,13 +5336,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028095115017_8044.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s25"
    ],
    "alternate_urls": []
   },
@@ -4724,13 +5351,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093732249_8680.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s25"
    ],
    "alternate_urls": []
   },
@@ -4739,13 +5366,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093308262_4137.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s25"
    ],
    "alternate_urls": []
   },
@@ -4754,13 +5381,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028092957023_7392.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s25"
    ],
    "alternate_urls": []
   },
@@ -4769,13 +5396,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/promotion/20261028093402743_4297.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s25"
    ],
    "alternate_urls": []
   },
@@ -4790,7 +5417,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s26"
    ],
    "alternate_urls": []
   },
@@ -4805,7 +5432,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s26"
    ],
    "alternate_urls": []
   },
@@ -4820,7 +5447,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s26"
    ],
    "alternate_urls": []
   },
@@ -4835,7 +5462,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s26"
    ],
    "alternate_urls": []
   },
@@ -4850,7 +5477,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s26"
    ],
    "alternate_urls": []
   },
@@ -4865,7 +5492,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s26"
    ],
    "alternate_urls": []
   },
@@ -4874,13 +5501,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172707953_3270.png",
    "alt": "토스페이",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4889,13 +5516,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172524168_3548.png",
    "alt": "카카오페이(머니)",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4904,13 +5531,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227173057669_8534.png",
    "alt": "삼성카드(W컨셉)",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4919,13 +5546,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172614836_6266.png",
    "alt": "토스페이(머니/계좌)",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4934,13 +5561,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172058428_9446.png",
    "alt": "현대카드",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4949,13 +5576,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172424460_8121.png",
    "alt": "삼성카드(LINK)",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4964,13 +5591,13 @@
    "url": "https://wimage.wconcept.co.kr/msa/emblem/20260227172956888_3704.png",
    "alt": "KB Pay(할인팩)",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s27"
    ],
    "alternate_urls": []
   },
@@ -4985,7 +5612,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s29"
    ],
    "alternate_urls": []
   },
@@ -5000,7 +5627,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s29"
    ],
    "alternate_urls": []
   },
@@ -5015,7 +5642,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s29"
    ],
    "alternate_urls": []
   },
@@ -5030,7 +5657,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s29"
    ],
    "alternate_urls": []
   },
@@ -5045,7 +5672,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s29"
    ],
    "alternate_urls": []
   },
@@ -5060,7 +5687,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s30"
    ],
    "alternate_urls": []
   }

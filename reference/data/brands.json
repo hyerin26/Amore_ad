@@ -171,22 +171,24 @@
    "date": "2026-11-08",
    "source": "Rendered DOM; no live click verification",
    "counts_by_status": {
-    "declared_in_html": 374,
-    "unverified": 65
+    "unverified": 75,
+    "declared_in_html": 375
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 1,
+   "section_count": 21,
    "page_counts": {
     "inferred_from_html": 1,
     "body_unavailable": 1
    },
    "image_asset_count": 552,
    "image_tag_counts": {
-    "unknown": 28,
-    "product_photo": 524
+    "promotion_banner": 8,
+    "product_photo": 524,
+    "event_information": 17,
+    "unknown": 3
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
@@ -216,15 +218,17 @@
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 2,
+   "section_count": 37,
    "page_counts": {
     "inferred_from_html": 2
    },
    "image_asset_count": 56,
    "image_tag_counts": {
-    "unknown": 56
+    "promotion_banner": 2,
+    "unknown": 54,
+    "event_information": 2
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
@@ -252,23 +256,25 @@
    "date": "2026-11-08",
    "source": "Rendered DOM; no live click verification",
    "counts_by_status": {
-    "unverified": 275,
+    "unverified": 347,
     "declared_in_html": 594
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 4,
+   "section_count": 79,
    "page_counts": {
     "inferred_from_html": 4,
     "body_unavailable": 1
    },
-   "image_asset_count": 358,
+   "image_asset_count": 338,
    "image_tag_counts": {
-    "unknown": 194,
-    "event_information": 24,
-    "product_photo": 140
+    "promotion_banner": 18,
+    "event_information": 36,
+    "ui_asset": 5,
+    "unknown": 65,
+    "product_photo": 214
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
@@ -294,19 +300,21 @@
    "source": "Rendered DOM; no live click verification",
    "counts_by_status": {
     "declared_in_html": 2,
-    "unverified": 6
+    "unverified": 20
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 2,
+   "section_count": 18,
    "page_counts": {
     "inferred_from_html": 2
    },
    "image_asset_count": 6,
    "image_tag_counts": {
-    "unknown": 6
+    "unknown": 2,
+    "promotion_banner": 2,
+    "event_information": 2
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
@@ -336,15 +344,17 @@
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 2,
+   "section_count": 13,
    "page_counts": {
     "inferred_from_html": 2
    },
    "image_asset_count": 46,
    "image_tag_counts": {
-    "unknown": 46
+    "promotion_banner": 2,
+    "unknown": 28,
+    "product_photo": 16
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
@@ -374,17 +384,20 @@
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 2,
+   "section_count": 22,
    "page_counts": {
     "inferred_from_html": 2
    },
    "image_asset_count": 88,
    "image_tag_counts": {
-    "unknown": 81,
-    "event_information": 3,
-    "product_photo": 4
+    "ui_asset": 3,
+    "editorial_image": 17,
+    "unknown": 59,
+    "event_information": 10,
+    "product_photo": 4,
+    "promotion_banner": 2
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",
    "dom_path": "One-based element indexes from the archived HTML fragment root."
@@ -413,9 +426,9 @@
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 1,
+   "section_count": 7,
    "page_counts": {
     "inferred_from_html": 1
    },
@@ -449,20 +462,21 @@
    "source": "Rendered DOM; no live click verification",
    "counts_by_status": {
     "declared_in_html": 26,
-    "unverified": 431
+    "unverified": 432
    }
   },
   "section_collection": {
-   "method": "Conservative DOM partition; whole promotion body retained as one section when section boundaries cannot be preserved without losing content.",
+   "method": "Automatic inference from archived rendered HTML, authored modules, headings and local context. Nested wrapper boundaries are traversed; DOM order may differ from visual layout.",
    "image_method": "HTML img/lazy attributes, srcset and inline CSS URLs; image pixels and embedded text not inspected. External CSS backgrounds may not be included.",
-   "section_count": 3,
+   "section_count": 67,
    "page_counts": {
     "inferred_from_html": 3
    },
    "image_asset_count": 226,
    "image_tag_counts": {
-    "unknown": 206,
-    "event_information": 4,
+    "promotion_banner": 21,
+    "unknown": 178,
+    "event_information": 11,
     "product_photo": 16
    },
    "relationship_indexes": "Zero-based indexes into the page relationships array.",

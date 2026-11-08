@@ -11,7 +11,7 @@
    "alt": "덴마크",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/231214_denmark/denmark_logo.png?f=webp&q=80",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0001"
   },
@@ -19,7 +19,7 @@
    "alt": "스크롤 다운",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/231002_yangban/scroll.png?f=webp&q=80",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0002"
   },
@@ -27,7 +27,7 @@
    "alt": "덴마크 그릭 요거트",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story01.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0003"
   },
@@ -35,7 +35,7 @@
    "alt": "덴마크 리코타치즈",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story02.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0004"
   },
@@ -43,7 +43,7 @@
    "alt": "덴마크 고단백 치즈",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story03.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0005"
   },
@@ -51,7 +51,7 @@
    "alt": "덴마크 하이 그릭 프로즌 요거트 아이스크림",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story04.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0006"
   },
@@ -59,7 +59,7 @@
    "alt": "그릭 베이글",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick01.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0007"
   },
@@ -67,7 +67,7 @@
    "alt": "덴마크 그릭 100g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/737/73794_1_a.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0008"
   },
@@ -75,7 +75,7 @@
    "alt": "덴마크 그릭 100g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/737/73794_1_a.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0008"
   },
@@ -83,6 +83,7 @@
    "alt": "",
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0036951/003695190_2_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0009"
@@ -91,6 +92,7 @@
    "alt": "",
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0036951/003695189_2_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0010"
@@ -99,7 +101,7 @@
    "alt": "리코타 치즈 샐러드",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick02.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0011"
   },
@@ -107,6 +109,7 @@
    "alt": "덴마크 리코타치즈 150g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/738/73892_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0012"
@@ -115,6 +118,7 @@
    "alt": "덴마크 리코타치즈 150g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/738/73892_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0012"
@@ -123,6 +127,7 @@
    "alt": "덴마크 리코타치즈 150g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/738/73892_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0012"
@@ -131,6 +136,7 @@
    "alt": "덴마크 리코타치즈 150g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/738/73892_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0012"
@@ -139,7 +145,7 @@
    "alt": "고단백 치즈 샌드위치",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick03.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0013"
   },
@@ -147,7 +153,7 @@
    "alt": "덴마크 고단백치즈 220g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003040_1_a.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0014"
   },
@@ -155,7 +161,7 @@
    "alt": "덴마크 고단백치즈 220g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003040_1_a.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0014"
   },
@@ -163,7 +169,7 @@
    "alt": "덴마크 고단백치즈 220g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003040_1_a.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0014"
   },
@@ -171,7 +177,7 @@
    "alt": "덴마크 고단백치즈 220g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003040_1_a.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0014"
   },
@@ -179,7 +185,7 @@
    "alt": "저당 요거트 아이스크림",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick04.jpg?f=webp&q=80",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "image_id": "i0015"
   },
@@ -187,6 +193,7 @@
    "alt": "하이그릭 프로즌요거트 474mL",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1002241_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0016"
@@ -195,6 +202,7 @@
    "alt": "하이그릭 프로즌요거트 피치(복숭아) 474mL",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003272_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0017"
@@ -203,6 +211,7 @@
    "alt": "",
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0040171/004017102_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0018"
@@ -211,6 +220,7 @@
    "alt": "보성 말차 초코 미니 바이트 38mL*5",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1002960_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0019"
@@ -243,6 +253,7 @@
    "alt": "덴마크 리코타치즈 150g",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/738/73892_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0012"
@@ -259,7 +270,7 @@
    "alt": "이벤트 참여방법. 덴마크 제품 구매하기, 나만의 레시피 촬영하기, MY 동원몰에서 포토 리뷰 작성하기",
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/event_approach.png?f=webp&q=80",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0024"
   },
@@ -683,7 +694,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -699,7 +710,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -715,7 +726,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -963,7 +974,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -979,7 +990,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -1091,6 +1102,7 @@
    "alt": "",
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0036951/003695190_2_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0009"
@@ -1099,6 +1111,7 @@
    "alt": "",
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0036951/003695189_2_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0010"
@@ -1139,7 +1152,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -1155,7 +1168,7 @@
    "alt": "품절",
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "image_id": "i0053"
   },
@@ -1171,6 +1184,7 @@
    "alt": "하이그릭 프로즌요거트 피치(복숭아) 474mL",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003272_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0017"
@@ -1179,6 +1193,7 @@
    "alt": "",
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0040171/004017102_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0018"
@@ -1187,6 +1202,7 @@
    "alt": "보성 말차 초코 미니 바이트 38mL*5",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1002960_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0019"
@@ -1195,6 +1211,7 @@
    "alt": "하이그릭 프로즌요거트 474mL",
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1002241_1_a.jpg?f=webp&q=80",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "image_id": "i0016"
@@ -1227,7 +1244,7 @@
    "label": "웰니스 식탁 WITH 덴마크",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#storyArea",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#storyArea"
   },
@@ -1236,7 +1253,7 @@
    "label": "덴마크 PICK 레시피",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#tabArea",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#tabArea"
   },
@@ -1245,7 +1262,7 @@
    "label": "덴마크 특가",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#featuredArea",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#featuredArea"
   },
@@ -1254,7 +1271,7 @@
    "label": "리뷰 이벤트",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#reviewEvent",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#reviewEvent"
   },
@@ -1263,7 +1280,7 @@
    "label": "내돈내산 후기",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#reviews",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#reviews"
   },
@@ -1272,7 +1289,7 @@
    "label": "상품 전체보기",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#productsArea",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#productsArea"
   },
@@ -1281,7 +1298,7 @@
    "label": "그릭 베이글 With 덴마크 그릭요거트",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#tabcont0",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#tabcont0"
   },
@@ -1290,7 +1307,7 @@
    "label": "리코타 치즈 샐러드 With 덴마크 리코타치즈",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#tabcont1",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#tabcont1"
   },
@@ -1299,7 +1316,7 @@
    "label": "고단백 치즈 샌드위치 With 덴마크 고단백치즈",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#tabcont2",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#tabcont2"
   },
@@ -1308,7 +1325,7 @@
    "label": "저당 요거트 아이스크림 With 하이그릭 프로즌",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#tabcont3",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#tabcont3"
   },
@@ -1326,7 +1343,7 @@
    "label": "새창보기",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#this",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#this"
   },
@@ -1335,7 +1352,7 @@
    "label": "장바구니",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#this",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#this"
   },
@@ -1344,7 +1361,7 @@
    "label": "찜",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#this",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#this"
   },
@@ -1524,7 +1541,7 @@
    "label": "포토 리뷰 작성하기",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/mypage/my_productReview.do",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/mypage/my_productReview.do"
   },
@@ -1533,7 +1550,7 @@
    "label": "se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/product/detail.do?productId=000563582",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/product/detail.do?productId=000563582"
   },
@@ -1542,7 +1559,7 @@
    "label": "00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/product/detail.do?productId=001029916",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/product/detail.do?productId=001029916"
   },
@@ -1551,7 +1568,7 @@
    "label": "00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/product/detail.do?productId=001454312",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/product/detail.do?productId=001454312"
   },
@@ -1560,7 +1577,7 @@
    "label": "bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/product/detail.do?productId=003582249",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/product/detail.do?productId=003582249"
   },
@@ -1585,7 +1602,7 @@
    "label": "탭1_그릭요거트",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList0",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList0"
   },
@@ -1594,7 +1611,7 @@
    "label": "탭2_리코타치즈",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList1",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList1"
   },
@@ -1603,7 +1620,7 @@
    "label": "탭3_고단백치즈",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList2",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList2"
   },
@@ -1612,7 +1629,7 @@
    "label": "탭4_하이그릭프로즌",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList3",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList3"
   },
@@ -1621,7 +1638,7 @@
    "label": "우유/유음료",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList4",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList4"
   },
@@ -1630,7 +1647,7 @@
    "label": "치즈",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList5",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList5"
   },
@@ -1639,7 +1656,7 @@
    "label": "요거트",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList6",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList6"
   },
@@ -1648,7 +1665,7 @@
    "label": "아이스크림",
    "element": "a",
    "destination_url": "https://www.dongwonmall.com/display/plan.do?seq=00000104641#planshopList7",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#planshopList7"
   },
@@ -2491,40 +2508,114 @@
   {
    "id": "s01",
    "order": 1,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [
+    "덴마크 브랜드관 (2023-12-14~ 사정상 조기종료 될 수 있습니다.)"
+   ],
+   "text": "덴마크 브랜드관 (2023-12-14~ 사정상 조기종료 될 수 있습니다.) 목록보기",
+   "dom_path": [
+    1,
+    1,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
    "role": "hero",
    "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "우리집 냉장고엔 덴마크 가 산다",
+   "dom_path": [
+    1,
+    1,
+    2,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001",
+    "i0002"
+   ],
+   "relationship_indexes": [
+    1
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "section_navigation",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "웰니스 식탁 WITH 덴마크 덴마크 PICK 레시피 덴마크 특가 리뷰 이벤트 내돈내산 후기 상품 전체보기",
+   "dom_path": [
+    1,
+    1,
+    2,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "brand_story",
+   "role_evidence": "heading_or_container",
    "headings": [
-    "덴마크 브랜드관 (2023-12-14~ 사정상 조기종료 될 수 있습니다.)",
-    "덴마크 와 함께하는 건강한 라이프 오늘도 가볍고 건강하게! 덴마크와 함께 간편하게 만드는 나만의 웰니스 식탁",
+    "덴마크 와 함께하는 건강한 라이프 오늘도 가볍고 건강하게! 덴마크와 함께 간편하게 만드는 나만의 웰니스 식탁"
+   ],
+   "text": "덴마크 와 함께하는 건강한 라이프 오늘도 가볍고 건강하게! 덴마크와 함께 간편하게 만드는 나만의 웰니스 식탁 덴마크 그릭 요거트 진하고 고소한 풍미의 정통 그릭요거트 이중 유청 분리로 꾸덕한 텍스처까지! 디저트, 샐러드, 홈카페 레시피까지 다양하게 활용 OK 덴마크 리코타치즈 국산 원유 100%로 담백하고 부드러운 맛이 매력적인 리코타치즈! 샐러드와 빵에 곁들이면 근사한 홈파티 완성 덴마크 고단백 치즈 지방은 줄이고 단백질은 채운 치즈! 1매 당 달걀 1개 분량 단백질 (5.9g) 함유, 지방은 40% 줄여 더 가볍게! 바쁜 일상 속 간편하게 채우는 단백질 덴마크 하이 그릭 프로즌 요거트 아이스크림 부담없는 70kcal, 저당&저지방 설계로 만들어 건강하게 달콤한 요거트 아이스크림! 세계 1등 덴마크산 유산균 함유까지!",
+   "dom_path": [
+    1,
+    1,
+    2,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0003",
+    "i0004",
+    "i0005",
+    "i0006"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "brand_story",
+   "role_evidence": "heading_or_container",
+   "headings": [
     "덴마크 PICK 레시피 건강하고 맛있게 즐기는 법",
     "탭1_그릭요거트",
     "탭2_리코타치즈",
     "탭3_고단백치즈",
-    "탭4_하이그릭프로즌",
-    "덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가",
-    "덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가",
-    "10% 할인 쿠폰까지!",
-    "10%",
-    "EVENT 나만의 덴마크 레시피 리뷰 콘테스트 나만 알기 아까운 최고의 덴마크 레시피는? 최대 1만원 적립금 을 드립니다",
-    "내돈내산 덴마크 후기",
-    "Fresh Mark 덴마크 상품 모아보기",
-    "우유/유음료",
-    "치즈",
-    "요거트",
-    "아이스크림"
+    "탭4_하이그릭프로즌"
    ],
-   "text": "덴마크 브랜드관 (2023-12-14~ 사정상 조기종료 될 수 있습니다.) 목록보기 우리집 냉장고엔 덴마크 가 산다 웰니스 식탁 WITH 덴마크 덴마크 PICK 레시피 덴마크 특가 리뷰 이벤트 내돈내산 후기 상품 전체보기 덴마크 와 함께하는 건강한 라이프 오늘도 가볍고 건강하게! 덴마크와 함께 간편하게 만드는 나만의 웰니스 식탁 덴마크 그릭 요거트 진하고 고소한 풍미의 정통 그릭요거트 이중 유청 분리로 꾸덕한 텍스처까지! 디저트, 샐러드, 홈카페 레시피까지 다양하게 활용 OK 덴마크 리코타치즈 국산 원유 100%로 담백하고 부드러운 맛이 매력적인 리코타치즈! 샐러드와 빵에 곁들이면 근사한 홈파티 완성 덴마크 고단백 치즈 지방은 줄이고 단백질은 채운 치즈! 1매 당 달걀 1개 분량 단백질 (5.9g) 함유, 지방은 40% 줄여 더 가볍게! 바쁜 일상 속 간편하게 채우는 단백질 덴마크 하이 그릭 프로즌 요거트 아이스크림 부담없는 70kcal, 저당&저지방 설계로 만들어 건강하게 달콤한 요거트 아이스크림! 세계 1등 덴마크산 유산균 함유까지! 덴마크 PICK 레시피 건강하고 맛있게 즐기는 법 그릭 베이글 With 덴마크 그릭요거트 리코타 치즈 샐러드 With 덴마크 리코타치즈 고단백 치즈 샌드위치 With 덴마크 고단백치즈 저당 요거트 아이스크림 With 하이그릭 프로즌 꾸덕함 가득, 든든한 브런치 건강한 고단백 그릭 베이글 베이글 위에 크림치즈 대신 덴마크 그릭요거트 듬뿍! 꾸덕한 질감에 13g 단백질까지 꽉 채워 바삭하게 구운 베이글과 완벽 조합! 견과류나 꿀, 연어 등을 살짝 올려 든든하고 건강한 브런치를 즐겨보세요! 탭1_그릭요거트 동원 덴마크 그릭 요거트 100g 3,600원 4.4 (17건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [10%적립] 동원 덴마크 그릭 요거트 100g x 3개 10,300원 4.7 (13건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 5개 15,900원 5.0 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 10개 26,900원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 고소함 폭발, 근사한 홈카페 완성 프레시 리코타 치즈 샐러드 신선한 채소 위에 몽글몽글 올리고, 상큼한 드레싱을 뿌리면 완성! 국산 원유 100%의 고소한 치즈 풍미로 입안 가득 프레시함이 팡팡! 근사한 홈카페 샐러드를 즐겨보세요! 탭2_리코타치즈 동원 덴마크 리코타치즈 150g 4,400원 4.9 (54건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 리코타치즈 150g x 3개 11,900원 5 (7건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 리코타치즈 150g x 6개 22,500원 4.8 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 리코타치즈 150g x 10개 32,900원 4.9 (9건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 부담없이 즐기는 진한 치즈 풍미 고단백 치즈 토스트 & 샌드위치 야채, 닭가슴살 등 원하는 토핑과 함께 빵 사이에 쏙~ 얹어 조화롭게! 식단 관리 중에도 치즈 풍미는 포기 못할 때, 달걀 1개분량 단백질 가득 채운 덴마크 고단백 치즈로 건강한 식단을 완성해보세요! 탭3_고단백치즈 동원 덴마크 고단백치즈 220g (22g x 10매) 5,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 고단백치즈 220g x 2개 (총 22g x 20매) 9,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 고단백치즈 220g x 3개 (총 22g x 60매) 13,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 고단백치즈 220g x 6개 (총 22g x 120매) 25,900원 5 (1건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 당 걱정 쏙 뺀 달콤상큼 디저트 초간단 저당 요아정 상큼달콤한 하이그릭 프로즌 요거트 아이스크림에 제철 과일과 바삭한 그래놀라, 달콤한 꿀까지 취향껏 듬뿍! 부담없는 당류 2g 저당 요거트 아이스크림으로 나만의 건강한 요아정을 즐겨보세요! 탭4_하이그릭프로즌 무료배송 동원 덴마크 하이그릭 프로즌요거트 474mL x 3개 17,900원 5 (13건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 하이그릭 프로즌 요거트 피치(복숭아) 474mL x 3개 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 덴마크 하이 그릭 프로즌 요거트 아이스크림 374mL x 3개 (오리지널 2개 + 피치 1개) 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [5%적립] 동원 보성 말차 초코 미니 바이트(38ml 5개입) x 4개 18,900원 5 (8건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가 덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가 동원 덴마크 2X(투엑스) 체다 슬라이스 치즈 2개 + 모짜렐라 슬라이스 치즈 2개 (총 32매) 10,000원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 그릭 요거트 400g x 3개 10,000원 5 (8건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 그릭 요거트 100g x 4개 10,000원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 리코타치즈 150g x 3개 10,000원 5 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 10% 할인 쿠폰까지! 10% 장바구니 쿠폰 3만원 이상 구매 / 최대 1만원 할인 3장 다운로드 EVENT 나만의 덴마크 레시피 리뷰 콘테스트 나만 알기 아까운 최고의 덴마크 레시피는? 최대 1만원 적립금 을 드립니다 참여대상 동원몰 회원 작성방법 덴마크 제품 구매 후 덴마크 제품을 활용한 나만의 레시피를 MY 동원몰에서 포토 리뷰 작성해주세요 작성기간 10.19(월) ~ 11.30(월) 지급일시 12.1(화) * 포토 리뷰 작성자 한정 내돈내산 덴마크 후기 se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원 00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원 00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원 bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원 se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원 00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원 00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원 bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원 se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원 00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원 00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원 bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원 Fresh Mark 덴마크 상품 모아보기 탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 우유/유음료 무료배송 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 16,800 원 5% 15,900원 4.9 (306건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 24개 10,500원 4.9 (272건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 망고 x 48개 16,800원 5 (213건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 망고 x 24개 10,500원 4.9 (246건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크얼라이브 120mL x 48개 (스위티자몽 24개 + 머스캣청포도 24개) 16,500원 4.9 (59건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크얼라이브 120mL x 48개 (스위티자몽 24개 + 블러드오렌지 24개) 16,500원 4.9 (253건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 블러드오렌지 x 48개 16,800 원 5% 15,900원 5 (249건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 머스캣청포도 x 48개 16,800 원 5% 15,900원 5 (186건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 블러드오렌지 x 24개 10,500원 5 (104건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 머스캣청포도 x 24개 10,500원 4.9 (206건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 소화가 잘되는 우유 190mL x 24개 21,000원 5 (201건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 귀리 950mL x 12개 28,000원 4.9 (67건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 귀리 950mL x 6개 17,900원 4.8 (6건) 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 귀리 950mL x 3개 9,500원 4.9 (15건) 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 귀리 950mL 3,480원 4.9 (16건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 950mL x 12개 28,000원 5 (161건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 950mL x 6개 17,900원 4.9 (40건) 90% 만족 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 아몬드 950mL x 3개 9,500원 5 (12건) 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 아몬드 950mL 3,480원 5 (20건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 무항생제인증 우유 120mL x 32개 18,500원 4.9 (127건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 190mL x 24개 + 동원 그린덴마크 귀리 190mL x 24개 28,900원 4.9 (46건) 90% 만족 밴드배송 새창보기 장바구니 찜 무료배송 [5%적립] 그린덴마크 귀리 190mL x 48개 26,900원 5 (36건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 190mL x 48개 26,900원 4.9 (50건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 대니쉬 The건강한 우유 200mL x 24개 21,900원 4.8 (45건) 90% 만족 밴드배송 새창보기 장바구니 찜 무료배송 [10% 적립] 동원 그린덴마크 귀리 190mL x 24개 15,700원 4.9 (331건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 190mL x 24개 15,700원 4.9 (525건) 85% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 유기농 배도라지 주스 120mL x 32개+ 사과푸룬 주스 120mL x 32개 31,000원 4.9 (38건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 망고 500mL x 24병 23,000원 4.9 (20건) 92% 만족 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 망고 500mL x 12병 13,000원 4.8 (13건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 스위티자몽 500mL x 24병 23,000원 5 (31건) 100% 만족 새창보기 장바구니 찜 동원 덴마크 테이크 얼라이브 제로 망고 500mL x 6병 7,500원 4.7 (6건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 스위티자몽 500mL x 12병 13,000원 5.0 (8건) 밴드배송 새창보기 장바구니 찜 동원 덴마크 테이크 얼라이브 제로 스위티자몽 500mL x 6병 7,500원 4.7 (6건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 유기농 사과푸룬 주스 120mL x 32개 18,500원 5 (52건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 유기농 배도라지 주스 120mL x 32개 18,500원 5 (30건) 85% 만족 밴드배송 새창보기 장바구니 찜 동원 덴마크 대니쉬 The 건강한 우유, 2.3L 5,600원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 All Day Milk 올데이밀크 저지방&칼슘 1A등급 국산 우유, 2.3L 5,900원 4.4 (9건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가 잘되는 우유 2.3L 7,280원 4.9 (78건) 85% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 푸르티 사과 주스 120mL x 24개 12,900원 4.9 (109건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 푸르티 포도 주스 120mL 24개 12,900원 4.9 (73건) 85% 만족 밴드배송 새창보기 장바구니 찜 [5% 적립] 동원 덴마크 유기농우유 750mL 5,300원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 딸기딸기 우유 300mL x 7개 6,300원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 푸르티 복숭아 주스 120mL x 24개 12,900원 4.9 (94건) 95% 만족 밴드배송 새창보기 장바구니 찜 탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 치즈 무료배송 동원 덴마크 산양 프로틴 슬라이스치즈 220g (11매) x 3개 22,800원 4.6 (7건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 산양 프로틴 슬라이스치즈 220g (11매) x 2개 15,400원 4.9 (18건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 산양 프로틴 슬라이스치즈 220g (11매) 8,500원 5 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓라이트 레드 20g x 50개입 37,500원 4.8 (18건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓라이트 레드 20g x 30개입 23,400원 4.9 (38건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓라이트 레드 20g x 20개입 15,900원 5 (21건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓치즈 오리지널 20g x 50개입 37,500원 4.9 (318건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓치즈 오리지널 20g x 30개입 23,400원 4.9 (92건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓치즈 오리지널 20g x 20개입 15,900원 4.9 (162건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓라이트 레드 20g x 60개입 49,700원 5 (12건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓라이트 레드 20g x 10개입 8,900원 5 (51건) 80% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [10%적립] 동원 덴마크 인포켓치즈 오리지널 20g x 60개입 49,700원 4.8 (59건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [10%적립] 동원 덴마크 인포켓치즈 오리지널 20g x 40개입 33,900원 4.8 (168건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900원 4.9 (309건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 구워먹는치즈 125g x 2개 14,000원 5 (19건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [10%적립] 동원 덴마크 구워먹는치즈 125g x 4개 27,800원 4.8 (112건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [10%적립] 동원 덴마크 구워먹는치즈 125g 7,900원 4.8 (84건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 짜지않은치즈 고칼슘&비타민 252g(18gx14매) x 3개 17,400원 4.9 (41건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 짜지않은치즈 고칼슘&비타민 252g(18gx14매) x 2개 13,960원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 짜지않은치즈 고칼슘&비타민 252g(18gx14매) 6,980원 4.9 (32건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 리코타치즈 1kg 16,900원 4.9 (10건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 소와나무 트리플슬라이스치즈 360g x 2개 (18g x 40매) 10,750원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 소와나무 트리플슬라이스치즈 360g (18g x 20매) 6,900원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [5% 적립] 동원 덴마크 어린이 고칼슘 치즈 170g x 3개 (17g x 30매) 9,900원 5 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 피자모짜렐라 슈레드치즈 1kg 11,900원 5 (133건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 모짜렐라 슬라이스 치즈 x 6개 (24g x 48매) 16,950원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 모짜렐라 슬라이스 치즈 (24g x 8매) 3,900원 5 (9건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 체다 슬라이스 치즈 x 6개 (24g x 48매) 16,950원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 체다 슬라이스 치즈 x 2개 (24g x 16매) 6,190원 4.9 (23건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 후레쉬보코치니 모짜렐라 치즈 125g x 6개 15,900원 4.9 (7건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 후레쉬보코치니 모짜렐라 치즈 125g 3,300원 4.8 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 요거트 동원 덴마크 하이 그릭 요거트 80g x 8입 5,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 그릭 요거트 80g x 4입 3,500원 4.8 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 위플러스 150mL x 16입 11,400원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 위플러스 150mL x 8입 5,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 장플러스 150mL x 16입 11,400원 5 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 장플러스 150mL x 8입 5,900원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 덴마크 요거밀 통오트 플레인 85g x 8입 6,480원 5 (21건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 하이 그릭 요거트 400g x 5개 20,900원 5 (39건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 그릭 요거트 400g 4,700원 4.8 (32건) 75% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 280mL x 10개 16,000원 4.7 (19건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 280mL x 5개 8,400원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 280mL x 3개 5,100원 5 (1건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 5개 15,900원 5.0 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 10개 26,900원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [10%적립] 동원 덴마크 하이 요구르트 100ml x 20개 9,400원 5 (17건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 100ml x 10개 4,800원 5 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 사과 275ml x 7개 8,400원 4.9 (60건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 사과 275ml x 3개 3,900원 5 (44건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 플레인 275ml x 7개 8,400원 4.9 (39건) 100% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 플레인 275ml x 3개 3,900원 4.9 (31건) 85% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 아이스크림 무료배송 동원 덴마크 하이그릭 프로즌 요거트 피치(복숭아) 474mL x 3개 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 덴마크 하이 그릭 프로즌 요거트 아이스크림 374mL x 3개 (오리지널 2개 + 피치 1개) 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [5%적립] 동원 보성 말차 초코 미니 바이트(38ml 5개입) x 4개 18,900원 5 (8건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 하이그릭 프로즌요거트 474mL x 3개 17,900원 5 (13건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 댓글작성 (로그인 후 작성 해 주십시오.) ( 0 / 1000byte )",
+   "text": "덴마크 PICK 레시피 건강하고 맛있게 즐기는 법 그릭 베이글 With 덴마크 그릭요거트 리코타 치즈 샐러드 With 덴마크 리코타치즈 고단백 치즈 샌드위치 With 덴마크 고단백치즈 저당 요거트 아이스크림 With 하이그릭 프로즌 꾸덕함 가득, 든든한 브런치 건강한 고단백 그릭 베이글 베이글 위에 크림치즈 대신 덴마크 그릭요거트 듬뿍! 꾸덕한 질감에 13g 단백질까지 꽉 채워 바삭하게 구운 베이글과 완벽 조합! 견과류나 꿀, 연어 등을 살짝 올려 든든하고 건강한 브런치를 즐겨보세요! 탭1_그릭요거트 동원 덴마크 그릭 요거트 100g 3,600원 4.4 (17건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [10%적립] 동원 덴마크 그릭 요거트 100g x 3개 10,300원 4.7 (13건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 5개 15,900원 5.0 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 10개 26,900원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 고소함 폭발, 근사한 홈카페 완성 프레시 리코타 치즈 샐러드 신선한 채소 위에 몽글몽글 올리고, 상큼한 드레싱을 뿌리면 완성! 국산 원유 100%의 고소한 치즈 풍미로 입안 가득 프레시함이 팡팡! 근사한 홈카페 샐러드를 즐겨보세요! 탭2_리코타치즈 동원 덴마크 리코타치즈 150g 4,400원 4.9 (54건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 리코타치즈 150g x 3개 11,900원 5 (7건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 리코타치즈 150g x 6개 22,500원 4.8 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 리코타치즈 150g x 10개 32,900원 4.9 (9건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 부담없이 즐기는 진한 치즈 풍미 고단백 치즈 토스트 & 샌드위치 야채, 닭가슴살 등 원하는 토핑과 함께 빵 사이에 쏙~ 얹어 조화롭게! 식단 관리 중에도 치즈 풍미는 포기 못할 때, 달걀 1개분량 단백질 가득 채운 덴마크 고단백 치즈로 건강한 식단을 완성해보세요! 탭3_고단백치즈 동원 덴마크 고단백치즈 220g (22g x 10매) 5,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 고단백치즈 220g x 2개 (총 22g x 20매) 9,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 고단백치즈 220g x 3개 (총 22g x 60매) 13,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 고단백치즈 220g x 6개 (총 22g x 120매) 25,900원 5 (1건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 당 걱정 쏙 뺀 달콤상큼 디저트 초간단 저당 요아정 상큼달콤한 하이그릭 프로즌 요거트 아이스크림에 제철 과일과 바삭한 그래놀라, 달콤한 꿀까지 취향껏 듬뿍! 부담없는 당류 2g 저당 요거트 아이스크림으로 나만의 건강한 요아정을 즐겨보세요! 탭4_하이그릭프로즌 무료배송 동원 덴마크 하이그릭 프로즌요거트 474mL x 3개 17,900원 5 (13건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 하이그릭 프로즌 요거트 피치(복숭아) 474mL x 3개 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 덴마크 하이 그릭 프로즌 요거트 아이스크림 374mL x 3개 (오리지널 2개 + 피치 1개) 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [5%적립] 동원 보성 말차 초코 미니 바이트(38ml 5개입) x 4개 18,900원 5 (8건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜",
    "dom_path": [
-    1
+    1,
+    1,
+    2,
+    5
    ],
-   "dom_id": "content",
+   "dom_id": null,
    "image_ids": [
-    "i0001",
-    "i0002",
-    "i0003",
-    "i0004",
-    "i0005",
-    "i0006",
     "i0007",
     "i0008",
     "i0009",
@@ -2537,16 +2628,197 @@
     "i0016",
     "i0017",
     "i0018",
-    "i0019",
+    "i0019"
+   ],
+   "relationship_indexes": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가",
+    "덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가"
+   ],
+   "text": "덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가 덴마크 레시피 속 그 상품, 혜택까지 더해 만나보세요! 덴마크 PICK 특가 동원 덴마크 2X(투엑스) 체다 슬라이스 치즈 2개 + 모짜렐라 슬라이스 치즈 2개 (총 32매) 10,000원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 그릭 요거트 400g x 3개 10,000원 5 (8건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 그릭 요거트 100g x 4개 10,000원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 리코타치즈 150g x 3개 10,000원 5 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜",
+   "dom_path": [
+    1,
+    1,
+    2,
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [
     "i0020",
     "i0021",
     "i0022",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    31,
+    13,
+    14,
+    15,
+    32,
+    33,
+    20
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "10% 할인 쿠폰까지!"
+   ],
+   "text": "10% 할인 쿠폰까지!",
+   "dom_path": [
+    1,
+    1,
+    2,
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "10%"
+   ],
+   "text": "10% 장바구니 쿠폰 3만원 이상 구매 / 최대 1만원 할인 3장 다운로드",
+   "dom_path": [
+    1,
+    1,
+    2,
+    8
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    34
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "participation_event",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "EVENT 나만의 덴마크 레시피 리뷰 콘테스트 나만 알기 아까운 최고의 덴마크 레시피는? 최대 1만원 적립금 을 드립니다"
+   ],
+   "text": "EVENT 나만의 덴마크 레시피 리뷰 콘테스트 나만 알기 아까운 최고의 덴마크 레시피는? 최대 1만원 적립금 을 드립니다 참여대상 동원몰 회원 작성방법 덴마크 제품 구매 후 덴마크 제품을 활용한 나만의 레시피를 MY 동원몰에서 포토 리뷰 작성해주세요 작성기간 10.19(월) ~ 11.30(월) 지급일시 12.1(화) * 포토 리뷰 작성자 한정",
+   "dom_path": [
+    1,
+    1,
+    2,
+    9
+   ],
+   "dom_id": null,
+   "image_ids": [
     "i0023",
-    "i0024",
+    "i0024"
+   ],
+   "relationship_indexes": [
+    35
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [
+    "내돈내산 덴마크 후기"
+   ],
+   "text": "내돈내산 덴마크 후기 se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원 00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원 00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원 bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원 se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원 00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원 00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원 bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원 se**** 고객님의 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 인포켓은 언제나 맛있쥬 여러개 렌지에 돌려 한개씩 나눠먹으니 가족들이 더 달라고 하네요 두,세개는 한번에 먹을수 있어요 다만 줄어드는게 슬플뿐~ㅎ 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900 원 00**** 고객님의 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 탄산 좋아하던 아이들이 얼라이브 먹으니 다른 음료를 안먹어서 엄 마 마음으로 더무 좋네요 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 15,900 원 00**** 고객님의 동원 그린덴마크 아몬드 190mL x 24개 다이어트 중이라 라떼 만들때 우유대신 먹으려고 구매했어요 당류가 2그람 들어 있어서 좀 아쉽긴한데, 그래서 달달하니 라떼 타먹기 좋아요. 배송 빠릅니다.요거 하나에 샷하나 넣으면 50칼로리 언저리로 라떼 쌉가능 동원 그린덴마크 아몬드 190mL x 24개 15,700 원 bo**** 고객님의 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 이 우유 진짜 숨은 라떼 맛집이에요 제가 먹어본 우유 중에 이게 라떼랑 제일 잘어울리는 것 같아요 동원 덴마크 소화가 잘되는 우유 180mL x 24개 (멸균) 21,900 원",
+   "dom_path": [
+    1,
+    1,
+    2,
+    10
+   ],
+   "dom_id": null,
+   "image_ids": [
     "i0025",
     "i0026",
     "i0027",
-    "i0028",
+    "i0028"
+   ],
+   "relationship_indexes": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [
+    "Fresh Mark 덴마크 상품 모아보기"
+   ],
+   "text": "Fresh Mark 덴마크 상품 모아보기",
+   "dom_path": [
+    1,
+    1,
+    2,
+    11
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s12",
+   "order": 12,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "우유/유음료"
+   ],
+   "text": "탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 우유/유음료 무료배송 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 48개 16,800 원 5% 15,900원 4.9 (306건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 스위티자몽 x 24개 10,500원 4.9 (272건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 망고 x 48개 16,800원 5 (213건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 망고 x 24개 10,500원 4.9 (246건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크얼라이브 120mL x 48개 (스위티자몽 24개 + 머스캣청포도 24개) 16,500원 4.9 (59건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크얼라이브 120mL x 48개 (스위티자몽 24개 + 블러드오렌지 24개) 16,500원 4.9 (253건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 블러드오렌지 x 48개 16,800 원 5% 15,900원 5 (249건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 머스캣청포도 x 48개 16,800 원 5% 15,900원 5 (186건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 블러드오렌지 x 24개 10,500원 5 (104건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 120mL 머스캣청포도 x 24개 10,500원 4.9 (206건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 소화가 잘되는 우유 190mL x 24개 21,000원 5 (201건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 귀리 950mL x 12개 28,000원 4.9 (67건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 귀리 950mL x 6개 17,900원 4.8 (6건) 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 귀리 950mL x 3개 9,500원 4.9 (15건) 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 귀리 950mL 3,480원 4.9 (16건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 950mL x 12개 28,000원 5 (161건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 950mL x 6개 17,900원 4.9 (40건) 90% 만족 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 아몬드 950mL x 3개 9,500원 5 (12건) 밴드배송 새창보기 장바구니 찜 동원 그린덴마크 아몬드 950mL 3,480원 5 (20건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 무항생제인증 우유 120mL x 32개 18,500원 4.9 (127건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 190mL x 24개 + 동원 그린덴마크 귀리 190mL x 24개 28,900원 4.9 (46건) 90% 만족 밴드배송 새창보기 장바구니 찜 무료배송 [5%적립] 그린덴마크 귀리 190mL x 48개 26,900원 5 (36건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 190mL x 48개 26,900원 4.9 (50건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 대니쉬 The건강한 우유 200mL x 24개 21,900원 4.8 (45건) 90% 만족 밴드배송 새창보기 장바구니 찜 무료배송 [10% 적립] 동원 그린덴마크 귀리 190mL x 24개 15,700원 4.9 (331건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 그린덴마크 아몬드 190mL x 24개 15,700원 4.9 (525건) 85% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 유기농 배도라지 주스 120mL x 32개+ 사과푸룬 주스 120mL x 32개 31,000원 4.9 (38건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 망고 500mL x 24병 23,000원 4.9 (20건) 92% 만족 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 망고 500mL x 12병 13,000원 4.8 (13건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 스위티자몽 500mL x 24병 23,000원 5 (31건) 100% 만족 새창보기 장바구니 찜 동원 덴마크 테이크 얼라이브 제로 망고 500mL x 6병 7,500원 4.7 (6건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 테이크 얼라이브 제로 스위티자몽 500mL x 12병 13,000원 5.0 (8건) 밴드배송 새창보기 장바구니 찜 동원 덴마크 테이크 얼라이브 제로 스위티자몽 500mL x 6병 7,500원 4.7 (6건) 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 유기농 사과푸룬 주스 120mL x 32개 18,500원 5 (52건) 92% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 유기농 배도라지 주스 120mL x 32개 18,500원 5 (30건) 85% 만족 밴드배송 새창보기 장바구니 찜 동원 덴마크 대니쉬 The 건강한 우유, 2.3L 5,600원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 All Day Milk 올데이밀크 저지방&칼슘 1A등급 국산 우유, 2.3L 5,900원 4.4 (9건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가 잘되는 우유 2.3L 7,280원 4.9 (78건) 85% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 푸르티 사과 주스 120mL x 24개 12,900원 4.9 (109건) 95% 만족 밴드배송 새창보기 장바구니 찜 무료배송 동원 덴마크 푸르티 포도 주스 120mL 24개 12,900원 4.9 (73건) 85% 만족 밴드배송 새창보기 장바구니 찜 [5% 적립] 동원 덴마크 유기농우유 750mL 5,300원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 딸기딸기 우유 300mL x 7개 6,300원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 푸르티 복숭아 주스 120mL x 24개 12,900원 4.9 (94건) 95% 만족 밴드배송 새창보기 장바구니 찜",
+   "dom_path": [
+    1,
+    1,
+    3
+   ],
+   "dom_id": "planshopList4",
+   "image_ids": [
     "i0029",
     "i0030",
     "i0031",
@@ -2574,73 +2846,9 @@
     "i0053",
     "i0054",
     "i0055",
-    "i0056",
-    "i0057",
-    "i0058",
-    "i0059",
-    "i0060",
-    "i0061",
-    "i0062",
-    "i0063",
-    "i0064",
-    "i0065",
-    "i0066",
-    "i0067",
-    "i0068",
-    "i0069",
-    "i0070",
-    "i0071",
-    "i0072",
-    "i0073",
-    "i0074",
-    "i0075",
-    "i0076",
-    "i0077",
-    "i0078"
+    "i0056"
    ],
    "relationship_indexes": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40,
-    41,
     42,
     43,
     44,
@@ -2650,6 +2858,9 @@
     48,
     49,
     50,
+    13,
+    14,
+    15,
     51,
     52,
     53,
@@ -2691,8 +2902,54 @@
     89,
     90,
     91,
-    92,
+    92
+   ]
+  },
+  {
+   "id": "s13",
+   "order": 13,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "치즈"
+   ],
+   "text": "탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 치즈 무료배송 동원 덴마크 산양 프로틴 슬라이스치즈 220g (11매) x 3개 22,800원 4.6 (7건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 산양 프로틴 슬라이스치즈 220g (11매) x 2개 15,400원 4.9 (18건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 산양 프로틴 슬라이스치즈 220g (11매) 8,500원 5 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓라이트 레드 20g x 50개입 37,500원 4.8 (18건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓라이트 레드 20g x 30개입 23,400원 4.9 (38건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓라이트 레드 20g x 20개입 15,900원 5 (21건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓치즈 오리지널 20g x 50개입 37,500원 4.9 (318건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓치즈 오리지널 20g x 30개입 23,400원 4.9 (92건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓치즈 오리지널 20g x 20개입 15,900원 4.9 (162건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 인포켓라이트 레드 20g x 60개입 49,700원 5 (12건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓라이트 레드 20g x 10개입 8,900원 5 (51건) 80% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [10%적립] 동원 덴마크 인포켓치즈 오리지널 20g x 60개입 49,700원 4.8 (59건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [10%적립] 동원 덴마크 인포켓치즈 오리지널 20g x 40개입 33,900원 4.8 (168건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 인포켓치즈 오리지널 20g x 10개입 8,900원 4.9 (309건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 구워먹는치즈 125g x 2개 14,000원 5 (19건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [10%적립] 동원 덴마크 구워먹는치즈 125g x 4개 27,800원 4.8 (112건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [10%적립] 동원 덴마크 구워먹는치즈 125g 7,900원 4.8 (84건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 짜지않은치즈 고칼슘&비타민 252g(18gx14매) x 3개 17,400원 4.9 (41건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 짜지않은치즈 고칼슘&비타민 252g(18gx14매) x 2개 13,960원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 짜지않은치즈 고칼슘&비타민 252g(18gx14매) 6,980원 4.9 (32건) 90% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 리코타치즈 1kg 16,900원 4.9 (10건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 소와나무 트리플슬라이스치즈 360g x 2개 (18g x 40매) 10,750원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 소와나무 트리플슬라이스치즈 360g (18g x 20매) 6,900원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [5% 적립] 동원 덴마크 어린이 고칼슘 치즈 170g x 3개 (17g x 30매) 9,900원 5 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 피자모짜렐라 슈레드치즈 1kg 11,900원 5 (133건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 모짜렐라 슬라이스 치즈 x 6개 (24g x 48매) 16,950원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 모짜렐라 슬라이스 치즈 (24g x 8매) 3,900원 5 (9건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 체다 슬라이스 치즈 x 6개 (24g x 48매) 16,950원 5 (6건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 2X(투엑스) 체다 슬라이스 치즈 x 2개 (24g x 16매) 6,190원 4.9 (23건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 후레쉬보코치니 모짜렐라 치즈 125g x 6개 15,900원 4.9 (7건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 후레쉬보코치니 모짜렐라 치즈 125g 3,300원 4.8 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜",
+   "dom_path": [
+    1,
+    1,
+    4
+   ],
+   "dom_id": "planshopList5",
+   "image_ids": [
+    "i0057",
+    "i0058",
+    "i0059",
+    "i0060",
+    "i0061",
+    "i0062",
+    "i0063",
+    "i0064",
+    "i0065",
+    "i0066",
+    "i0067",
+    "i0068",
+    "i0069",
+    "i0053",
+    "i0070"
+   ],
+   "relationship_indexes": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
     93,
+    13,
+    14,
+    15,
     94,
     95,
     96,
@@ -2722,8 +2979,51 @@
     120,
     121,
     122,
-    123,
+    123
+   ]
+  },
+  {
+   "id": "s14",
+   "order": 14,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "요거트"
+   ],
+   "text": "탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 요거트 동원 덴마크 하이 그릭 요거트 80g x 8입 5,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 그릭 요거트 80g x 4입 3,500원 4.8 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 위플러스 150mL x 16입 11,400원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 위플러스 150mL x 8입 5,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 장플러스 150mL x 16입 11,400원 5 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 소화가잘되는 우유로 만든 요구르트 장플러스 150mL x 8입 5,900원 5 (2건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 덴마크 요거밀 통오트 플레인 85g x 8입 6,480원 5 (21건) 95% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 하이 그릭 요거트 400g x 5개 20,900원 5 (39건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 그릭 요거트 400g 4,700원 4.8 (32건) 75% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 280mL x 10개 16,000원 4.7 (19건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 280mL x 5개 8,400원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 280mL x 3개 5,100원 5 (1건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 5개 15,900원 5.0 (3건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 그릭 요거트 100g x 10개 26,900원 5 (4건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 [10%적립] 동원 덴마크 하이 요구르트 100ml x 20개 9,400원 5 (17건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 하이 요구르트 100ml x 10개 4,800원 5 (5건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 사과 275ml x 7개 8,400원 4.9 (60건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 사과 275ml x 3개 3,900원 5 (44건) 92% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 플레인 275ml x 7개 8,400원 4.9 (39건) 100% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 동원 덴마크 드링킹 요구르트 플레인 275ml x 3개 3,900원 4.9 (31건) 85% 만족 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜",
+   "dom_path": [
+    1,
+    1,
+    5
+   ],
+   "dom_id": "planshopList6",
+   "image_ids": [
+    "i0071",
+    "i0072",
+    "i0073",
+    "i0074",
+    "i0021",
+    "i0075",
+    "i0009",
+    "i0010",
+    "i0076",
+    "i0077",
+    "i0053",
+    "i0078"
+   ],
+   "relationship_indexes": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
     124,
+    13,
+    14,
+    15,
     125,
     126,
     127,
@@ -2735,6 +3035,8 @@
     133,
     134,
     135,
+    17,
+    18,
     136,
     137,
     138,
@@ -2742,6 +3044,61 @@
     140,
     141
    ]
+  },
+  {
+   "id": "s15",
+   "order": 15,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [
+    "아이스크림"
+   ],
+   "text": "탭1_그릭요거트 탭2_리코타치즈 탭3_고단백치즈 탭4_하이그릭프로즌 우유/유음료 치즈 요거트 아이스크림 아이스크림 무료배송 동원 덴마크 하이그릭 프로즌 요거트 피치(복숭아) 474mL x 3개 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 덴마크 하이 그릭 프로즌 요거트 아이스크림 374mL x 3개 (오리지널 2개 + 피치 1개) 18,900원 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 [5%적립] 동원 보성 말차 초코 미니 바이트(38ml 5개입) x 4개 18,900원 5 (8건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜 무료배송 동원 덴마크 하이그릭 프로즌요거트 474mL x 3개 17,900원 5 (13건) 밴드프레시 내일(월) 새벽 새창보기 장바구니 찜",
+   "dom_path": [
+    1,
+    1,
+    6
+   ],
+   "dom_id": "planshopList7",
+   "image_ids": [
+    "i0017",
+    "i0018",
+    "i0019",
+    "i0016"
+   ],
+   "relationship_indexes": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    28,
+    13,
+    14,
+    15,
+    29,
+    30,
+    27
+   ]
+  },
+  {
+   "id": "s16",
+   "order": 16,
+   "role": "participation_event",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "댓글작성 (로그인 후 작성 해 주십시오.) ( 0 / 1000byte )",
+   "dom_path": [
+    1,
+    1,
+    7
+   ],
+   "dom_id": "comments_area",
+   "image_ids": [],
+   "relationship_indexes": []
   }
  ],
  "image_assets": [
@@ -2750,13 +3107,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/231214_denmark/denmark_logo.png?f=webp&q=80",
    "alt": "덴마크",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s02"
    ],
    "alternate_urls": []
   },
@@ -2765,13 +3122,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/231002_yangban/scroll.png?f=webp&q=80",
    "alt": "스크롤 다운",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s02"
    ],
    "alternate_urls": []
   },
@@ -2780,13 +3137,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story01.jpg?f=webp&q=80",
    "alt": "덴마크 그릭 요거트",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s04"
    ],
    "alternate_urls": []
   },
@@ -2795,13 +3152,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story02.jpg?f=webp&q=80",
    "alt": "덴마크 리코타치즈",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s04"
    ],
    "alternate_urls": []
   },
@@ -2810,13 +3167,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story03.jpg?f=webp&q=80",
    "alt": "덴마크 고단백 치즈",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s04"
    ],
    "alternate_urls": []
   },
@@ -2825,13 +3182,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/story04.jpg?f=webp&q=80",
    "alt": "덴마크 하이 그릭 프로즌 요거트 아이스크림",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s04"
    ],
    "alternate_urls": []
   },
@@ -2840,13 +3197,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick01.jpg?f=webp&q=80",
    "alt": "그릭 베이글",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2855,13 +3212,13 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/737/73794_1_a.jpg?f=webp&q=80",
    "alt": "덴마크 그릭 100g",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2870,13 +3227,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0036951/003695190_2_a.jpg?f=webp&q=80",
    "alt": "",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -2885,13 +3245,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0036951/003695189_2_a.jpg?f=webp&q=80",
    "alt": "",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -2900,13 +3263,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick02.jpg?f=webp&q=80",
    "alt": "리코타 치즈 샐러드",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2915,13 +3278,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/738/73892_1_a.jpg?f=webp&q=80",
    "alt": "덴마크 리코타치즈 150g",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2930,13 +3296,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick03.jpg?f=webp&q=80",
    "alt": "고단백 치즈 샌드위치",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2945,13 +3311,13 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003040_1_a.jpg?f=webp&q=80",
    "alt": "덴마크 고단백치즈 220g",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2960,13 +3326,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/pick04.jpg?f=webp&q=80",
    "alt": "저당 요거트 아이스크림",
    "tags": [
-    "unknown"
+    "editorial_image"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2975,13 +3341,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1002241_1_a.jpg?f=webp&q=80",
    "alt": "하이그릭 프로즌요거트 474mL",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -2990,13 +3359,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1003272_1_a.jpg?f=webp&q=80",
    "alt": "하이그릭 프로즌요거트 피치(복숭아) 474mL",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3005,13 +3377,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/product_img/main/0040171/004017102_1_a.jpg?f=webp&q=80",
    "alt": "",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3020,13 +3395,16 @@
    "url": "https://img.dongwonmall.com/dwmall/static_root/model_img/main/100/1002960_1_a.jpg?f=webp&q=80",
    "alt": "보성 말차 초코 미니 바이트 38mL*5",
    "tags": [
+    "editorial_image",
     "unknown"
    ],
    "tag_evidence": [
+    "section_context",
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3041,7 +3419,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3056,7 +3434,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06",
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3071,7 +3450,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3086,7 +3465,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s09"
    ],
    "alternate_urls": []
   },
@@ -3095,13 +3474,13 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/event/brand_common/261015_denmark/event_approach.png?f=webp&q=80",
    "alt": "이벤트 참여방법. 덴마크 제품 구매하기, 나만의 레시피 촬영하기, MY 동원몰에서 포토 리뷰 작성하기",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s09"
    ],
    "alternate_urls": []
   },
@@ -3116,7 +3495,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3131,7 +3510,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3146,7 +3525,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3161,7 +3540,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
    "alternate_urls": []
   },
@@ -3176,7 +3555,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3191,7 +3570,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3206,7 +3585,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3221,7 +3600,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3236,7 +3615,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3251,7 +3630,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3266,7 +3645,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3281,7 +3660,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3296,7 +3675,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3311,7 +3690,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3326,7 +3705,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3341,7 +3720,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3356,7 +3735,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3371,7 +3750,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3386,7 +3765,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3401,7 +3780,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3416,7 +3795,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3431,7 +3810,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3446,7 +3825,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3461,7 +3840,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3476,7 +3855,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3491,7 +3870,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3506,7 +3885,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3521,7 +3900,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3530,13 +3909,15 @@
    "url": "https://img.dongwonmall.com/dwmall/web/images/icon/ico_soldout.png",
    "alt": "품절",
    "tags": [
-    "unknown"
+    "ui_asset"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s12",
+    "s13",
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3551,7 +3932,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3566,7 +3947,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3581,7 +3962,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s12"
    ],
    "alternate_urls": []
   },
@@ -3596,7 +3977,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3611,7 +3992,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3626,7 +4007,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3641,7 +4022,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3656,7 +4037,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3671,7 +4052,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3686,7 +4067,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3701,7 +4082,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3716,7 +4097,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3731,7 +4112,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3746,7 +4127,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3761,7 +4142,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3776,7 +4157,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3791,7 +4172,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s13"
    ],
    "alternate_urls": []
   },
@@ -3806,7 +4187,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3821,7 +4202,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3836,7 +4217,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3851,7 +4232,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3866,7 +4247,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3881,7 +4262,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3896,7 +4277,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   },
@@ -3911,7 +4292,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s14"
    ],
    "alternate_urls": []
   }

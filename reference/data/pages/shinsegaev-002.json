@@ -11,7 +11,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-signature/ssg-signature-visual-2x.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -443,7 +443,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-signature/ssg-signature-landing-banner-2x.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0036"
   },
@@ -451,7 +451,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-signature/ssg-signature-ai-notice-2x.png",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0037"
   },
@@ -459,161 +459,81 @@
    "alt": "BYREDO [쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/425/261030192837425.jpg?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "image_id": "i0038"
-  },
-  {
-   "alt": "BYREDO [쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/425/261030192837425.jpg?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0039"
   },
   {
    "alt": "MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/442/261015189676442.jpg?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0040"
-  },
-  {
-   "alt": "MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/442/261015189676442.jpg?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0041"
+   "image_id": "i0039"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/947/261007187849947.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0042"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/947/261007187849947.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0043"
+   "image_id": "i0040"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/930/261007187849930.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0044"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/930/261007187849930.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0045"
+   "image_id": "i0041"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/204/261104193883204.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0046"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/204/261104193883204.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0047"
+   "image_id": "i0042"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/206/261104193883206.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0048"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/206/261104193883206.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0049"
+   "image_id": "i0043"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/209/261104193883209.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0050"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/209/261104193883209.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0051"
+   "image_id": "i0044"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 프리지아 바디 듀오 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/908/261007187849908.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0052"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 프리지아 바디 듀오 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/908/261007187849908.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0053"
+   "image_id": "i0045"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 바디 듀오 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/917/261007187849917.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0054"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 바디 듀오 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/917/261007187849917.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0055"
+   "image_id": "i0046"
   },
   {
    "alt": "Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 | 신세계V",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/921/261007187849921.png?RS=450&SP=1&QT=20",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
-   "image_id": "i0056"
-  },
-  {
-   "alt": "Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 | 신세계V",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/921/261007187849921.png?RS=450&SP=1",
-   "tags": [
-    "unknown"
-   ],
-   "image_id": "i0057"
+   "image_id": "i0047"
   }
  ],
  "og_image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1030/476/30/261000000790476_20261027155010.jpg",
@@ -670,7 +590,7 @@
    "label": "마스터 시그니처",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771#eventSection01",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection01"
   },
@@ -679,7 +599,7 @@
    "label": "시그니처",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771#eventSection02",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection02"
   },
@@ -688,7 +608,7 @@
    "label": "연관 이벤트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771#eventSection03",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection03"
   },
@@ -697,7 +617,7 @@
    "label": "쓱데이 상품 모아보기",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771#eventSection04",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection04"
   },
@@ -722,7 +642,7 @@
    "label": "에브리데이 셋업 여성",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610072075",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610072075"
   },
@@ -731,7 +651,7 @@
    "label": "가먼트다잉 집업 후디 여성 차콜",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609043312",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609043312"
   },
@@ -740,7 +660,7 @@
    "label": "가먼트다잉 팬츠 여성 차콜",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609043316",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609043316"
   },
@@ -749,7 +669,7 @@
    "label": "가먼트다잉 집업 후디 여성 블랙",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609043313",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609043313"
   },
@@ -758,7 +678,7 @@
    "label": "가먼트다잉 팬츠 여성 블랙",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609043317",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609043317"
   },
@@ -767,7 +687,7 @@
    "label": "가먼트다잉 집업 후디 여성 브라운",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609043311",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609043311"
   },
@@ -776,7 +696,7 @@
    "label": "가먼트다잉 팬츠 여성 브라운",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609043315",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609043315"
   },
@@ -817,7 +737,7 @@
    "label": "에브리데이 셋업 남성",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610072076",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610072076"
   },
@@ -826,7 +746,7 @@
    "label": "가먼트다잉 집업 후디 남성 블랙",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609052728",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609052728"
   },
@@ -835,7 +755,7 @@
    "label": "가먼트다잉 팬츠 남성 블랙",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609052730",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609052730"
   },
@@ -844,7 +764,7 @@
    "label": "가먼트다잉 집업 후디 남성 차콜",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609052727",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609052727"
   },
@@ -853,7 +773,7 @@
    "label": "가먼트다잉 팬츠 남성 차콜",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609052729",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609052729"
   },
@@ -862,7 +782,7 @@
    "label": "[단독/선물포장] 프리지아 오 드 코롱 100ml",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610065332",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610065332"
   },
@@ -871,7 +791,7 @@
    "label": "[단독/선물포장] 멜로그라노 오 드 코롱 100ml",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610065340",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610065340"
   },
@@ -880,7 +800,7 @@
    "label": "[단독/선물포장] 로사 가데니아 오 드 코롱 100ml",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610065336",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610065336"
   },
@@ -889,7 +809,7 @@
    "label": "STUDIO TOMBOY 오버핏 패딩 베스트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2606942290",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2606942290"
   },
@@ -898,7 +818,7 @@
    "label": "VOICE OF VOICES 스탠드 카라 신세틱 퍼 자켓",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608997142",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608997142"
   },
@@ -907,7 +827,7 @@
    "label": "VOICE OF VOICES 울 트윌 토글 후디드 코트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608006213",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608006213"
   },
@@ -916,7 +836,7 @@
    "label": "DELLA LANA 알파카 블렌드 노카라 숏 코트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2512692410",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2512692410"
   },
@@ -925,7 +845,7 @@
    "label": "DELLA LANA 캐시미어 블렌드 케이프 숏 코트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2512692401",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2512692401"
   },
@@ -934,7 +854,7 @@
    "label": "ILAIL 퍼 후디 숏 다운 점퍼",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609034504",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609034504"
   },
@@ -943,7 +863,7 @@
    "label": "STUDIO TOMBOY 카라배색 패딩 맥 코트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607965329",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607965329"
   },
@@ -976,7 +896,7 @@
    "label": "JUST AS I AM [단독] 아이엠 N1 샴푸 480ml + N1 토닉 100ml + 스칼프샷 100ml",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610065883",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610065883"
   },
@@ -985,7 +905,7 @@
    "label": "SWISS PERFECTION [단독 / 사은품증정] 밸런싱 워터 + 수딩 훼이셜 로션 세트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610062455",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610062455"
   },
@@ -994,7 +914,7 @@
    "label": "LAURA MERCIER [단독 / 사은품증정] 로라메르시에 앰버 바닐라 바디 크림 + 바디 워시 세트 + GWP + 쇼핑백 세트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610059400",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610059400"
   },
@@ -1003,7 +923,7 @@
    "label": "MEMO PARIS [단독 / 사은품증정] 인레 오 드 퍼퓸 75ml",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610062422",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610062422"
   },
@@ -1012,7 +932,7 @@
    "label": "SANTA MARIA NOVELLA [단독 / 선물포장] 멜로그라노 인 테라코타 + 카르타 다르메니아(페이퍼 인센스) 세트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610065359",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610065359"
   },
@@ -1021,7 +941,7 @@
    "label": "BYREDO [단독 / 사은품증정] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610072233",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610072233"
   },
@@ -1073,7 +993,8 @@
    "element": "button",
    "destination_url": null,
    "destination_type": "unknown",
-   "status": "unverified"
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610072233`,`VV10000001`, `[쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트`);"
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
@@ -1095,6 +1016,15 @@
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610076531`,`VV10000001`, `[쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트`);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
    "label": "MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 5% 459,800 484,000 5 (7)",
    "element": "a",
    "destination_url": null,
@@ -1110,6 +1040,15 @@
    "destination_type": "unknown",
    "status": "unverified",
    "raw_target": "javascript:void(0);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065359`,`VV10000001`, `[쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트`);"
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
@@ -1131,6 +1070,15 @@
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065353`,`VV10000001`, `[쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트`);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
    "label": "Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 5% 174,800 184,000 5 (1)",
    "element": "a",
    "destination_url": null,
@@ -1146,6 +1094,15 @@
    "destination_type": "unknown",
    "status": "unverified",
    "raw_target": "javascript:void(0);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065332`,`VV10000001`, `[쓱데이] 프리지아 오드코롱 100ml + 사은품 세트`);"
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
@@ -1167,6 +1124,15 @@
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065336`,`VV10000001`, `[쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트`);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
    "label": "Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (3)",
    "element": "a",
    "destination_url": null,
@@ -1182,6 +1148,15 @@
    "destination_type": "unknown",
    "status": "unverified",
    "raw_target": "javascript:void(0);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065340`,`VV10000001`, `[쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트`);"
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
@@ -1203,6 +1178,15 @@
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065342`,`VV10000001`, `[쓱데이] 프리지아 바디 듀오`);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
    "label": "Santa Maria Novella [쓱데이] 프리지아 바디 듀오 5% 146,300 154,000 5 (1)",
    "element": "a",
    "destination_url": null,
@@ -1218,6 +1202,15 @@
    "destination_type": "unknown",
    "status": "unverified",
    "raw_target": "javascript:void(0);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065347`,`VV10000001`, `[쓱데이] 로사 가데니아 바디 듀오`);"
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
@@ -1239,6 +1232,15 @@
   },
   {
    "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
+   "label": "위시리스트에 추가",
+   "element": "button",
+   "destination_url": null,
+   "destination_type": "unknown",
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wish($(this),`2610065349`,`VV10000001`, `[쓱데이] 멜로그라노 바디 듀오`);"
+  },
+  {
+   "source_url": "https://m.shinsegaev.com/shop/initMagazineDetail.siv?disp_ctg_no=2610266771##",
    "label": "Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 5% 146,300 154,000",
    "element": "a",
    "destination_url": null,
@@ -1257,18 +1259,119 @@
   {
    "id": "s01",
    "order": 1,
-   "role": "hero",
-   "role_evidence": "position_in_dom",
+   "role": "content",
+   "role_evidence": "container_markup",
    "headings": [
     "신세계V 시그니처 갤러리에 어서 오세요"
    ],
-   "text": "신세계V 시그니처 갤러리에 어서 오세요 공유 연중 최대 혜택 시그니처 큐레이션 첫 구매 고객 혜택 쓱데이 모아보기 대한민국 쓱데이 신세계V 시그니처 갤러리, 쓱데이를 빛낼 시그니처 아이템 큐레이션 어서 오세요, 신세계V 시그니처 갤러리 SHINSEGAE V Signature Gallery 대한민국 시그니처 세일, 쓱데이. 신세계V에서 연중 최대 혜택으로 만나는 패션&뷰티 대표 브랜드별 아이템을 모았습니다. 10.30 - 11.08 마스터 시그니처 시그니처 연관 이벤트 쓱데이 상품 모아보기 MASTER SIGNATURE 쓱데이를 대표하는 마스터 시그니처. 오직 쓱데이를 위해 단독 기획한 컬렉션. 특별한 혜택과 함께 한정 수량으로 선보이는 컬렉션입니다. 2026 대한민국 쓱데이 Master Signature 스튜디오 톰보이 에브리데이 셋업 영상 (여성, 남성) 에브리데이 셋업 STUDIO TOMBOY 패션 마스터 시그니처를 소개합니다. 지금부터 겨울까지 쭉 활용하기 좋은 스튜디오 톰보이의 에센셜 셋업(후디 & 팬츠)입니다. 스튜디오 톰보이의 시그니처인 오버사이즈 핏으로 스타일리시하면서도 편안하게 착용할 수 있죠. 블랙, 차콜, 브라운의 3가지 머스트 해브 컬러로 구성되어 다양한 아이템과 믹스매치하기에도 좋습니다. *남성용은 블랙, 차콜 2가지 컬러 오직 쓱데이를 위해 단독 기획한 셋업으로 최대 53% 혜택과 함께 만나보세요. MASTERSIGNATURE — 01 STUDIO TOMBOY STYLING No.1 후드 2WAY 집업으로 완성하는 다양한 레이어드 스타일링 DETAIL No.2 팬츠 허리 이중 밴드와 옆선 무봉제 디테일로 오래도록 변형 없이 편안하게 착용 COLOR No.3 가먼트 다잉을 적용해 자연스럽고 고급스러운 컬러감 [쓱데이 한정] 단독 기획 스페셜 WOMEN 에브리데이 셋업 여성 가먼트다잉 집업 후디 여성 차콜 가먼트다잉 팬츠 여성 차콜 가먼트다잉 집업 후디 여성 블랙 가먼트다잉 팬츠 여성 블랙 가먼트다잉 집업 후디 여성 브라운 가먼트다잉 팬츠 여성 브라운 MEN 에브리데이 셋업 남성 가먼트다잉 집업 후디 남성 블랙 가먼트다잉 팬츠 남성 블랙 가먼트다잉 집업 후디 남성 차콜 가먼트다잉 팬츠 남성 차콜 산타마리아노벨라 대표 향수 기프트 영상 대표 향수 기프트 SANTA MARIA NOVELLA 뷰티 마스터 시그니처를 소개합니다. 산타마리아노벨라를 대표하는 베스트 향수 3종으로 구성한 기프트 패키지입니다. 하나의 패키지 안에는 100ml 오드코롱 1종, 미니 향수 체험분 1종, 베스트 바디 제품 2종으로 구성되어 있어요. 기프트 박스와 쇼핑백까지 함께 드려요. 오직 쓱데이를 위해 단독 기획한 특별한 기프트 세트입니다. 향수는 프리지아, 멜로그라노, 로사가데니아 3가지 중 선택할 수 있어요. 소중한 사람을 위한 특별한 선물로 추천합니다. MASTERSIGNATURE — 02 SANTA MARIA NOVELLA GIFT No.1 리본 기프트 박스와 쇼핑백으로 완성하는 특별한 선물 FRAGRANCES No.2 산타마리아노벨라의 시그니처 오드코롱 3종, 프리지아, 멜로그라노, 로사 가데니아 BODY CARE No.3 함께 제공되는 베스트 바디 제품 2종으로 완성하는 특별한 경험 [쓱데이 한정] 단독 기획 스페셜 [단독/선물포장] 프리지아 오 드 코롱 100ml [단독/선물포장] 멜로그라노 오 드 코롱 100ml [단독/선물포장] 로사 가데니아 오 드 코롱 100ml SIGNATURE 신세계V를 대표하는 시그니처 아이템. 신세계V 안목으로 검증한 대표 브랜드별 베스트셀러를 가장 매력적인 구성 또는 혜택으로 선보이는 컬렉션입니다. 2026 대한민국 쓱데이 Signature Item STUDIO TOMBOY 오버핏 패딩 베스트 VOICE OF VOICES 스탠드 카라 신세틱 퍼 자켓 VOICE OF VOICES 울 트윌 토글 후디드 코트 DELLA LANA 알파카 블렌드 노카라 숏 코트 DELLA LANA 캐시미어 블렌드 케이프 숏 코트 ILAIL 퍼 후디 숏 다운 점퍼 STUDIO TOMBOY 카라배색 패딩 맥 코트 STUDIO TOMBOY 오버핏 패딩 베스트 VOICE OF VOICES 스탠드 카라 신세틱 퍼 자켓 이전 상품 다음 상품 JUST AS I AM [단독] 아이엠 N1 샴푸 480ml + N1 토닉 100ml + 스칼프샷 100ml SWISS PERFECTION [단독 / 사은품증정] 밸런싱 워터 + 수딩 훼이셜 로션 세트 LAURA MERCIER [단독 / 사은품증정] 로라메르시에 앰버 바닐라 바디 크림 + 바디 워시 세트 + GWP + 쇼핑백 세트 MEMO PARIS [단독 / 사은품증정] 인레 오 드 퍼퓸 75ml SANTA MARIA NOVELLA [단독 / 선물포장] 멜로그라노 인 테라코타 + 카르타 다르메니아(페이퍼 인센스) 세트 BYREDO [단독 / 사은품증정] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 JUST AS I AM [단독] 아이엠 N1 샴푸 480ml + N1 토닉 100ml + 스칼프샷 100ml SWISS PERFECTION [단독 / 사은품증정] 밸런싱 워터 + 수딩 훼이셜 로션 세트 이전 상품 다음 상품 시그니처 브랜드 라인업 한눈에 보기 [패션] 델라라나, 뷰오리, 보브, 스튜디오 톰보이, 어그, 에르노, 일라일 [뷰티] 딥티크, 로라메르시에, 메모파리, 바이레도, 비디비치, 산타마리아노벨라, 스위스퍼펙션, 아워글래스, 연작, 저스트 애즈 아이엠 연관 이벤트 첫구매 고객이라면 최대 1만 포인트 증정, 혜택 보러가기 AI로 제작된 이미지/가상인물이 포함되어 있습니다. [시그니처] 뷰티 [시그니처] 뷰티 [시그니처] 패션 [클리어런스] 프래그런스 [클리어런스] 색조/스킨케어 [클리어런스] 헤어/바디 [클리어런스] 패션 WOMEN [클리어런스] 패션 MEN 품절 제외 MD추천순 MD추천순 인기상품순 신상품순 리뷰순 할인율순 낮은가격순 높은가격순 [시그니처] 뷰티 BYREDO [쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 5% 462,650 487,000 5 (4) MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 5% 459,800 484,000 5 (7) Santa Maria Novella [쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트 5% 161,500 170,000 5 (5) Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 5% 174,800 184,000 5 (1) Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (5) Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (3) Santa Maria Novella [쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (4) Santa Maria Novella [쓱데이] 프리지아 바디 듀오 5% 146,300 154,000 5 (1) Santa Maria Novella [쓱데이] 로사 가데니아 바디 듀오 5% 146,300 154,000 Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 5% 146,300 154,000",
+   "text": "신세계V 시그니처 갤러리에 어서 오세요 공유",
    "dom_path": [
+    1,
     1
    ],
    "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "연중 최대 혜택 시그니처 큐레이션 첫 구매 고객 혜택 쓱데이 모아보기",
+   "dom_path": [
+    1,
+    2,
+    2,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "hero",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "대한민국 쓱데이 신세계V 시그니처 갤러리, 쓱데이를 빛낼 시그니처 아이템 큐레이션",
+   "dom_path": [
+    1,
+    2,
+    2,
+    2
+   ],
+   "dom_id": null,
    "image_ids": [
-    "i0001",
+    "i0001"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "brand_story",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "어서 오세요, 신세계V 시그니처 갤러리 SHINSEGAE V Signature Gallery 대한민국 시그니처 세일, 쓱데이. 신세계V에서 연중 최대 혜택으로 만나는 패션&뷰티 대표 브랜드별 아이템을 모았습니다. 10.30 - 11.08",
+   "dom_path": [
+    1,
+    2,
+    2,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "마스터 시그니처 시그니처 연관 이벤트 쓱데이 상품 모아보기",
+   "dom_path": [
+    1,
+    2,
+    2,
+    4,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "MASTER SIGNATURE 쓱데이를 대표하는 마스터 시그니처. 오직 쓱데이를 위해 단독 기획한 컬렉션. 특별한 혜택과 함께 한정 수량으로 선보이는 컬렉션입니다. 2026 대한민국 쓱데이 Master Signature 스튜디오 톰보이 에브리데이 셋업 영상 (여성, 남성) 에브리데이 셋업 STUDIO TOMBOY 패션 마스터 시그니처를 소개합니다. 지금부터 겨울까지 쭉 활용하기 좋은 스튜디오 톰보이의 에센셜 셋업(후디 & 팬츠)입니다. 스튜디오 톰보이의 시그니처인 오버사이즈 핏으로 스타일리시하면서도 편안하게 착용할 수 있죠. 블랙, 차콜, 브라운의 3가지 머스트 해브 컬러로 구성되어 다양한 아이템과 믹스매치하기에도 좋습니다. *남성용은 블랙, 차콜 2가지 컬러 오직 쓱데이를 위해 단독 기획한 셋업으로 최대 53% 혜택과 함께 만나보세요. MASTERSIGNATURE — 01 STUDIO TOMBOY STYLING No.1 후드 2WAY 집업으로 완성하는 다양한 레이어드 스타일링 DETAIL No.2 팬츠 허리 이중 밴드와 옆선 무봉제 디테일로 오래도록 변형 없이 편안하게 착용 COLOR No.3 가먼트 다잉을 적용해 자연스럽고 고급스러운 컬러감 [쓱데이 한정] 단독 기획 스페셜 WOMEN 에브리데이 셋업 여성 가먼트다잉 집업 후디 여성 차콜 가먼트다잉 팬츠 여성 차콜 가먼트다잉 집업 후디 여성 블랙 가먼트다잉 팬츠 여성 블랙 가먼트다잉 집업 후디 여성 브라운 가먼트다잉 팬츠 여성 브라운 MEN 에브리데이 셋업 남성 가먼트다잉 집업 후디 남성 블랙 가먼트다잉 팬츠 남성 블랙 가먼트다잉 집업 후디 남성 차콜 가먼트다잉 팬츠 남성 차콜 산타마리아노벨라 대표 향수 기프트 영상 대표 향수 기프트 SANTA MARIA NOVELLA 뷰티 마스터 시그니처를 소개합니다. 산타마리아노벨라를 대표하는 베스트 향수 3종으로 구성한 기프트 패키지입니다. 하나의 패키지 안에는 100ml 오드코롱 1종, 미니 향수 체험분 1종, 베스트 바디 제품 2종으로 구성되어 있어요. 기프트 박스와 쇼핑백까지 함께 드려요. 오직 쓱데이를 위해 단독 기획한 특별한 기프트 세트입니다. 향수는 프리지아, 멜로그라노, 로사가데니아 3가지 중 선택할 수 있어요. 소중한 사람을 위한 특별한 선물로 추천합니다. MASTERSIGNATURE — 02 SANTA MARIA NOVELLA GIFT No.1 리본 기프트 박스와 쇼핑백으로 완성하는 특별한 선물 FRAGRANCES No.2 산타마리아노벨라의 시그니처 오드코롱 3종, 프리지아, 멜로그라노, 로사 가데니아 BODY CARE No.3 함께 제공되는 베스트 바디 제품 2종으로 완성하는 특별한 경험 [쓱데이 한정] 단독 기획 스페셜 [단독/선물포장] 프리지아 오 드 코롱 100ml [단독/선물포장] 멜로그라노 오 드 코롱 100ml [단독/선물포장] 로사 가데니아 오 드 코롱 100ml",
+   "dom_path": [
+    1,
+    2,
+    2,
+    4,
+    2
+   ],
+   "dom_id": "eventSection01",
+   "image_ids": [
     "i0002",
     "i0003",
     "i0004",
@@ -1286,56 +1389,9 @@
     "i0016",
     "i0017",
     "i0018",
-    "i0019",
-    "i0020",
-    "i0021",
-    "i0022",
-    "i0023",
-    "i0024",
-    "i0025",
-    "i0026",
-    "i0027",
-    "i0028",
-    "i0029",
-    "i0030",
-    "i0031",
-    "i0032",
-    "i0033",
-    "i0034",
-    "i0035",
-    "i0036",
-    "i0037",
-    "i0038",
-    "i0039",
-    "i0040",
-    "i0041",
-    "i0042",
-    "i0043",
-    "i0044",
-    "i0045",
-    "i0046",
-    "i0047",
-    "i0048",
-    "i0049",
-    "i0050",
-    "i0051",
-    "i0052",
-    "i0053",
-    "i0054",
-    "i0055",
-    "i0056",
-    "i0057"
+    "i0019"
    ],
    "relationship_indexes": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
     9,
     10,
     11,
@@ -1356,7 +1412,43 @@
     26,
     27,
     28,
-    29,
+    29
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "SIGNATURE 신세계V를 대표하는 시그니처 아이템. 신세계V 안목으로 검증한 대표 브랜드별 베스트셀러를 가장 매력적인 구성 또는 혜택으로 선보이는 컬렉션입니다. 2026 대한민국 쓱데이 Signature Item STUDIO TOMBOY 오버핏 패딩 베스트 VOICE OF VOICES 스탠드 카라 신세틱 퍼 자켓 VOICE OF VOICES 울 트윌 토글 후디드 코트 DELLA LANA 알파카 블렌드 노카라 숏 코트 DELLA LANA 캐시미어 블렌드 케이프 숏 코트 ILAIL 퍼 후디 숏 다운 점퍼 STUDIO TOMBOY 카라배색 패딩 맥 코트 STUDIO TOMBOY 오버핏 패딩 베스트 VOICE OF VOICES 스탠드 카라 신세틱 퍼 자켓 이전 상품 다음 상품 JUST AS I AM [단독] 아이엠 N1 샴푸 480ml + N1 토닉 100ml + 스칼프샷 100ml SWISS PERFECTION [단독 / 사은품증정] 밸런싱 워터 + 수딩 훼이셜 로션 세트 LAURA MERCIER [단독 / 사은품증정] 로라메르시에 앰버 바닐라 바디 크림 + 바디 워시 세트 + GWP + 쇼핑백 세트 MEMO PARIS [단독 / 사은품증정] 인레 오 드 퍼퓸 75ml SANTA MARIA NOVELLA [단독 / 선물포장] 멜로그라노 인 테라코타 + 카르타 다르메니아(페이퍼 인센스) 세트 BYREDO [단독 / 사은품증정] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 JUST AS I AM [단독] 아이엠 N1 샴푸 480ml + N1 토닉 100ml + 스칼프샷 100ml SWISS PERFECTION [단독 / 사은품증정] 밸런싱 워터 + 수딩 훼이셜 로션 세트 이전 상품 다음 상품 시그니처 브랜드 라인업 한눈에 보기 [패션] 델라라나, 뷰오리, 보브, 스튜디오 톰보이, 어그, 에르노, 일라일 [뷰티] 딥티크, 로라메르시에, 메모파리, 바이레도, 비디비치, 산타마리아노벨라, 스위스퍼펙션, 아워글래스, 연작, 저스트 애즈 아이엠",
+   "dom_path": [
+    1,
+    2,
+    2,
+    4,
+    3
+   ],
+   "dom_id": "eventSection02",
+   "image_ids": [
+    "i0020",
+    "i0021",
+    "i0022",
+    "i0023",
+    "i0024",
+    "i0025",
+    "i0026",
+    "i0027",
+    "i0028",
+    "i0029",
+    "i0030",
+    "i0031",
+    "i0032",
+    "i0033",
+    "i0034",
+    "i0035"
+   ],
+   "relationship_indexes": [
     30,
     31,
     32,
@@ -1366,6 +1458,12 @@
     36,
     37,
     38,
+    9,
+    10,
+    18,
+    19,
+    20,
+    21,
     39,
     40,
     41,
@@ -1373,10 +1471,75 @@
     43,
     44,
     45,
-    46,
-    47,
+    46
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "related_promotions",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "연관 이벤트 첫구매 고객이라면 최대 1만 포인트 증정, 혜택 보러가기 AI로 제작된 이미지/가상인물이 포함되어 있습니다.",
+   "dom_path": [
+    1,
+    2,
+    2,
+    4,
+    4
+   ],
+   "dom_id": "eventSection03",
+   "image_ids": [
+    "i0036",
+    "i0037"
+   ],
+   "relationship_indexes": [
+    47
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "[시그니처] 뷰티 [시그니처] 뷰티 [시그니처] 패션 [클리어런스] 프래그런스 [클리어런스] 색조/스킨케어 [클리어런스] 헤어/바디 [클리어런스] 패션 WOMEN [클리어런스] 패션 MEN 품절 제외 MD추천순 MD추천순 인기상품순 신상품순 리뷰순 할인율순 낮은가격순 높은가격순",
+   "dom_path": [
+    1,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
     48,
-    49,
+    49
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [],
+   "text": "[시그니처] 뷰티 BYREDO [쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 5% 462,650 487,000 5 (4) MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 5% 459,800 484,000 5 (7) Santa Maria Novella [쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트 5% 161,500 170,000 5 (5) Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 5% 174,800 184,000 5 (1) Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (5) Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (3) Santa Maria Novella [쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트 5% 223,250 235,000 5 (4) Santa Maria Novella [쓱데이] 프리지아 바디 듀오 5% 146,300 154,000 5 (1) Santa Maria Novella [쓱데이] 로사 가데니아 바디 듀오 5% 146,300 154,000 Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 5% 146,300 154,000",
+   "dom_path": [
+    1,
+    4
+   ],
+   "dom_id": "prmGdLst",
+   "image_ids": [
+    "i0038",
+    "i0039",
+    "i0040",
+    "i0041",
+    "i0042",
+    "i0043",
+    "i0044",
+    "i0045",
+    "i0046",
+    "i0047"
+   ],
+   "relationship_indexes": [
     50,
     51,
     52,
@@ -1397,7 +1560,16 @@
     67,
     68,
     69,
-    70
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
    ]
   }
  ],
@@ -1407,13 +1579,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-signature/ssg-signature-visual-2x.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -1428,7 +1600,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1443,7 +1615,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1458,7 +1630,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1473,7 +1645,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1488,7 +1660,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1503,7 +1675,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1518,7 +1690,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1533,7 +1705,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1548,7 +1720,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1563,7 +1735,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1578,7 +1750,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1593,7 +1765,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1608,7 +1780,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1623,7 +1795,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1638,7 +1810,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1653,7 +1825,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1668,7 +1840,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1683,7 +1855,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -1698,7 +1870,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1713,7 +1885,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1728,7 +1900,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1743,7 +1915,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1758,7 +1930,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1773,7 +1945,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1788,7 +1960,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1803,7 +1975,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1818,7 +1990,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1833,7 +2005,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1848,7 +2020,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1863,7 +2035,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1878,7 +2050,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1893,7 +2065,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1908,7 +2080,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1923,7 +2095,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -1932,13 +2104,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-signature/ssg-signature-landing-banner-2x.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -1947,13 +2119,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-signature/ssg-signature-ai-notice-2x.png",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -1962,300 +2134,170 @@
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/425/261030192837425.jpg?RS=450&SP=1&QT=20",
    "alt": "BYREDO [쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/425/261030192837425.jpg?RS=450&SP=1"
+   ]
   },
   {
    "id": "i0039",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/425/261030192837425.jpg?RS=450&SP=1",
-   "alt": "BYREDO [쓱데이] 바이레도 블랑쉬 바디듀오 225ml*2 + 블랑쉬 EDP 50ml + 디럭스 기프트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0040",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/442/261015189676442.jpg?RS=450&SP=1&QT=20",
    "alt": "MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/442/261015189676442.jpg?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0041",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/442/261015189676442.jpg?RS=450&SP=1",
-   "alt": "MAISON FRANCIS KURKDJIAN [쓱데이] 메종 프란시스 커정 디스커버리 컬렉션 미니어처 세트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0042",
+   "id": "i0040",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/947/261007187849947.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/947/261007187849947.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0043",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/947/261007187849947.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 멜로그라노 인 테라코타 + 페이퍼 인센스 세트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0044",
+   "id": "i0041",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/930/261007187849930.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/930/261007187849930.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0045",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/930/261007187849930.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 로사 가네니아 캔들 + 왁스 타블렛 세트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0046",
+   "id": "i0042",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/204/261104193883204.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/204/261104193883204.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0047",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/204/261104193883204.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0048",
+   "id": "i0043",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/206/261104193883206.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/206/261104193883206.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0049",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/206/261104193883206.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 오드코롱 100ml + 사은품 세트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0050",
+   "id": "i0044",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/209/261104193883209.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/209/261104193883209.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0051",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/209/261104193883209.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 멜로그라노 오드코롱 100ml + 사은품 세트 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0052",
+   "id": "i0045",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/908/261007187849908.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 프리지아 바디 듀오 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/908/261007187849908.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0053",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/908/261007187849908.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 프리지아 바디 듀오 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0054",
+   "id": "i0046",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/917/261007187849917.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 바디 듀오 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/917/261007187849917.png?RS=450&SP=1"
+   ]
   },
   {
-   "id": "i0055",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/917/261007187849917.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 로사 가데니아 바디 듀오 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0056",
+   "id": "i0047",
    "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/921/261007187849921.png?RS=450&SP=1&QT=20",
    "alt": "Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 | 신세계V",
    "tags": [
-    "unknown"
+    "product_photo"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s10"
    ],
-   "alternate_urls": []
-  },
-  {
-   "id": "i0057",
-   "url": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/921/261007187849921.png?RS=450&SP=1",
-   "alt": "Santa Maria Novella [쓱데이] 멜로그라노 바디 듀오 | 신세계V",
-   "tags": [
-    "unknown"
-   ],
-   "tag_evidence": [
-    "insufficient_evidence"
-   ],
-   "section_ids": [
-    "s01"
-   ],
-   "alternate_urls": []
+   "alternate_urls": [
+    "https://image.shinsegaev.com/upload/C00001/s3/goods/org/921/261007187849921.png?RS=450&SP=1"
+   ]
   }
  ],
  "section_status": "inferred_from_html",

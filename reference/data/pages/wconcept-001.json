@@ -11,7 +11,7 @@
    "alt": "",
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-1.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -19,7 +19,7 @@
    "alt": "",
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-2.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0002"
   },
@@ -27,7 +27,7 @@
    "alt": "",
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-3.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0003"
   },
@@ -35,7 +35,7 @@
    "alt": "",
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-4.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0004"
   },
@@ -651,7 +651,7 @@
    "alt": "시몬스",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134755804_6415.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0079"
   },
@@ -659,7 +659,7 @@
    "alt": "아르떼미데",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134810969_4309.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0080"
   },
@@ -667,7 +667,7 @@
    "alt": "마틸라",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134927623_7021.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0081"
   },
@@ -675,7 +675,7 @@
    "alt": "카카오프렌즈",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134940783_2237.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0082"
   },
@@ -683,7 +683,7 @@
    "alt": "비비홈",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135005571_2985.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0083"
   },
@@ -691,7 +691,7 @@
    "alt": "아르페지오베이직",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135026030_9567.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0084"
   },
@@ -699,7 +699,7 @@
    "alt": "에프에프 컬렉티브",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135046583_2491.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0085"
   },
@@ -707,7 +707,7 @@
    "alt": "메종드히로안",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135100738_9941.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0086"
   }
@@ -722,7 +722,7 @@
    "label": "HOME",
    "element": "a",
    "destination_url": "https://display.wconcept.co.kr/rn/women",
-   "destination_type": "other",
+   "destination_type": "external_page",
    "status": "declared_in_html",
    "raw_target": "https://display.wconcept.co.kr/rn/women"
   },
@@ -2386,27 +2386,117 @@
   {
    "id": "s01",
    "order": 1,
-   "role": "hero",
-   "role_evidence": "position_in_dom",
-   "headings": [
-    "COUPON",
-    "나의 라이프스타일을 담아",
-    "FABRIC",
-    "KITCHEN",
-    "DIGITAL",
-    "INTERIOR"
-   ],
-   "text": "HOME EVENT Now And Only Now And Only COUPON 가전/디지털 10% 쿠폰 10% 1만원 이상 구매 시, 최대 10만원 할인 3장 쓱데이 30% 쿠폰 30% 1만원 이상 구매 시, 최대 30만원 할인 3장 [LIFE] 가구/인테리어 30% 30% 5,000원 이상 구매 시, 최대 30만원 할인 5장 쓱데이 더블10% 10% 1만원 이상 구매 시, 최대 4만원 할인 5장 쿠폰 모두 받기 24시간 브랜드세일 금 10.30 토 10.31 일 11.1 월 11.2 화 11.3 수 11.4 목 11.5 금 11.6 토 11.7 일 11.8 매일 오전 10시 한정 특가 21:52:39 남음 ~55%+더블10%쿠폰 오리고 ORIGO [LIFE] 가구/인테리어 12% 최대 100,000 원 할인 오리고 [26FW] 플리스 블랭킷 8 color 3 size 41 % 21,208 오리고 [단독] 오리고 담요 플리스 블랭킷_샌드모스/코코넛쉘 2color (S/M/L 사이즈 택1) 47 % 19,008 오리고 [26FW] 플리스 쿠션커버 50x50 7 color 47 % 20,592 오리고 [26FW] 플리스 후드 블랭킷 3color 34 % 50,160 오리고 [26FW] 플리스 오픈토 실내화 4color 34 % 25,696 오리고 [26FW] 플리스 와이드 실내화 4 color 34 % 21,120 오리고 벨보아 5mm 초극세사 침대패드 8color 2size 56 % 61,600 오리고 여행용 목베개 기내용 목쿠션 허리베개 3color 42 % 38,808 오리고 강아지 플리스 망토 블랭킷 3color 2size 38 % 46,200 오리고 [26FW] 플리스 강아지 고양이 펫방석 4color 2size 38 % 60,984 오리고 오리고 쿠션솜 8,000 오리고 플리스 양털 실내화 4color 2size 34 % 21,120 오리고 셔벗 삼각 등받이 쿠션 소형 (솜포함/ 9 color ) 47 % 31,152 오리고 [선물포장] 쿠션 테리 린넨 실내화 4color 2size 29 % 20,416 오리고 토퍼 패드 오가닉코튼 8 color 42 % 113,256 오리고 셔벗 삼각 등받이 쿠션 중형 (솜포함/ 9 color ) 47 % 52,272 오리고 30수 면 누빔 패드 방석 4color 47 % 15,312 오리고 셔벗 삼각 등받이 쿠션 대형 (솜포함/ 9 color ) 47 % 60,720 오리고 20수 컴포트 원피스 앞치마 4color 38 % 33,264 오리고 [26FW] 플리스 스트랩 파우치 3color 36 % 16,641 오리고 40수 면트윌 솔리드 누빔패드 SS, Q 7colors 34 % 55,440 오리고 고밀도 60수 바이오워싱 프리미엄 차렵이불 사계절/극세사 2size 3color 47 % 137,280 오리고 사계절 소프트 모달 차렵 이불 6color 2size 51 % 89,056 오리고 핸드메이드 면 발매트 겸 다용도 러그 5color 2 size 38 % 17,248 오리고 식탁 벤치 의자 얇은 원형 방석 12 color 34 % 12,496 오리고 리본 메밀 경추 목베개 4 color 51 % 28,512 오리고 롱쿠션 바디필로우 오가닉코튼 4color 47 % 63,360 오리고 [단독] 플리스 블랭킷 L [2P] 24 % 108,944 오리고 26 F/W 플리스 양털 층간소음 실내화 홈 슬리퍼 4 color 37 % 20,047 오리고 솔리드 수제면 롱 베개 겸 쿠션 커버 30x60 9 color 56 % 19,360 상품 전체보기 W ONLY 오직 W컨셉에서만 만나보세요. 오르디 [단독]로렌 에어터치 컬러우븐 60수 듀얼 코튼 차렵이불세트 4컬러 60 % 68,670 윙플라 [W컨셉 단독]윙플라 핸드메이드 시그니처 스퀘어 (스프링클팜스/올리브) 50 % 115,000 윙플라 [W컨셉 단독]윙플라 핸드메이드 시그니처 라운드&스퀘어 세트 (스프링클팜스/올리브) 54 % 184,000 윙플라 [W컨셉 단독]윙플라 핸드메이드 시그니처 라운드 (스프링클팜스/올리브) 49 % 89,000 쿠쿠 [올스텐 내솥] 쿠쿠 트윈프레셔 마스터셰프 6인용 올스텐 IH전기압력밥솥 그레이스 아이보리 (LHTAR) 56 % 306,092 오니프 [W컨셉 단독] stool 20 % 143,200 오니프 [W컨셉 단독] 깊은 시간 책꽂이 블랙 에디션 20 % 151,200 리드볼트 오딧 24인치 + 오딧 29인치 캐리어 스페셜 번들 27 % 603,075 리빙크리에이터 [W컨셉 단독]루틴 리셋 세트 (4colors) 42 % 36,587 리빙크리에이터 [W컨셉 단독상품] 지켜텐 480ml+리크러리 세트 (2colors) 23 % 31,671 소프트서브 [단독 선발매] [선물포장] 쥬얼 애플 아이폰 케이스 31 % 32,359 소프트서브 [단독 선발매] [선물포장] 옐로우 블룸 아이폰 케이스 31 % 32,359 왈왈스튜디오 [W컨셉 단독]데일리 모닝 도자기 식판 + 김그릇 세트 14 % 40,076 시라쿠스 [W컨셉 단독] 시라쿠스 레터링 4p 선물세트(쇼핑백) 43 % 59,280 퐁드타블레 [W컨셉 단독]Breeze green fizz set / 브리즈 그린 피즈 세트 24 % 29,182 니코트 [W컨셉 단독][무배/선물포장] 니코트 에브리데이 면기&앞접시 4P 세트 45 % 30,375 니코트 [W컨셉 단독][무배/선물포장] 니코트 에브리데이 파스타볼&앞접시 4P 세트 41 % 30,375 라귀올 [W컨셉 단독구성][선물포장] 장네론 라귀올 티포크&치즈커터 2p 세트 (12color) 5 % 58,900 덴비 [W컨셉 단독] 헤리티지 오차드 2인조 세트 (10P) 62 % 226,180 덴비 [W컨셉 단독] 헤리티지 파빌리온 2인조 세트 (10P) 63 % 220,160 오리고 [단독] 오리고 담요 플리스 블랭킷_샌드모스/코코넛쉘 2color (S/M/L 사이즈 택1) 47 % 19,008 오리고 [단독] 플리스 발매트+주방매트 [2P] + 플리스 오픈토 실내화 [1P] 23 % 112,464 오리고 [단독] 플리스 발매트+주방매트 [2P] 25 % 80,784 오리고 [단독] 플리스 블랭킷 L [2P] 24 % 108,944 오리고 [단독] 플리스 블랭킷 M [2P] 25 % 80,784 메종드룸룸 [단독][NEW컬러출시] 1+1 아이소메트릭 알러지케어 플리스 블랭킷 2colors 33 % 58,100 메종드룸룸 [w컨셉 단독] 1+1 스테이 사계절 먼지없는 루프 워셔블 발매트+주방매트 30 % 44,450 더블유그린 [블랙컬러 단독] 말랑말랑 폴카 도트 규조토 발매트 56 % 13,800 더블유그린 [블랙컬러 단독]뽀송뽀송 폴카 도트 규조토 주방매트 51 % 22,800 나의 라이프스타일을 담아 겨울가전 겨울 베딩 겨울 머그/텀블러 겨울 홈데코 겨울 도시락 겨울 요리템 KD navien 원격 DC 온열매트 카본 숙면매트 전기매트 난방매트 44 % 184,140 VOAR 보아르 더글라스 가열식 가습기 물멍 분리세척 대용량 통유리 무드등 스텐 가습기 20 % 119,000 CUCKOO 쿠쿠 물멍 무드등 7중 안전장치 3L 가열식 가습기 (화이트) 53 % 174,975 IMETEC [이메텍] 이탈리아 프리미엄 전자파안심 순면 전기요 IMD-015A(1인용/적색곰) 37 % 99,800 NORDIC SLEEP 노르딕슬립 카본 매트 에센셜 (전기매트) 22 % 179,000 OA 오아 듀얼글로우 가습기 사무실 초음파 휴대용 탁상용 미니 소형 책상 무드등 USB 15 % 44,900 LEZEN 듀웰 미니 0.7L 3단 무드등 초음파 가습기 LZHD-MM100 60 % 19,440 PLUS MINUS ZERO 플러스마이너스제로 리플렉트 카본히터 700 18 % 269,000 KD navien AI 숙면매트 슬림형 온수매트 베이지 37 % 386,100 PLUS MINUS ZERO 플러스마이너스제로 리플렉트 에코히터 REH-400A 10 % 169,000 vivihome [알러쉴드] 런던 탄소 열선 60수 고밀도 순면 전기매트 2컬러 57 % 62,370 Gitden 2026FW 탄소매트 전기요 깃든 온 (싱글/더블) 29 % 113,520 FABRIC 블랭킷 차렵이불 침대패드 매트리스패드 토퍼 러그 커튼 룸슈즈 ORIGO [26FW] 플리스 블랭킷 8 color 3 size 41 % 21,208 vivihome 몽그리 겨울 담요 블랭킷 4컬러 43 % 15,498 W’GREEN 부클 도트 블랭킷 담요 쇼파 덮개 침대 35 % 34,228 MAISON DE ROOMROOM [단독][NEW컬러출시] 1+1 아이소메트릭 알러지케어 플리스 블랭킷 2colors 33 % 58,100 SOSU 쏘 웜, 털빠짐 없는 두꺼운 극세사 양면 밍크 담요 무릎담요 (17color) 77 % 8,910 VERDE 해피퍼피 양면 니트 블랭킷 3size 3color 국내생산 45 % 32,680 KIM’S COLLECT My Flower 블랭킷 소파 담요 니트 블랭킷 44 % 51,943 hanbit carpet 몽글촉촉 꽈배기 극세사 양털 니트 담요 3size 7colors 51 % 14,534 JAJU [JAJU/자주] 밍크 플리스 고중량 블랭킷 140x170cm 웜그레이 30 % 25,100 MRON 소프트 태슬 밍크 극세사 담요 소파 블랭킷 2color 2size 36 % 19,048 Gitden 먼지없는 멜로우 패딩 양면 캠핑담요 S/L 2Size 29 % 33,440 SHAREROOM 루엘드파리 밍크 극세사 담요 스트라이프 블랭킷 - 3color 35 % 54,782 KITCHEN 보관용기/도시락 텀블러 식기/그릇 팬/솥/냄비 조리도구 컵/잔 주방수납/정리 커트러리 COCOLOCKER [Best] 캔디팟 칸칸분리 도시락통 (+채반1개, 깍지2개 증정) (4color) 14 % 23,900 SiliPot 국내생산 실리콘지퍼백 3P 세트 (소,중,대) 68 % 25,130 LocknLock 슬림 도시락(젓가락+가방 포함 3colors) 22 % 23,134 allevo 알레보 디엣지 플러스 전자레인지 내열유리밥용기 냉동밥보관용기 380ml 6P 1세트 14 % 34,314 LIVINGCREATOR 원형 지켜텐 컬러스텐용기 270ml (4color) 런치박스 도시락 밀폐용기 15 % 14,875 WECK WECK 몰드 741 370ml 유리병 4개 (+뚜껑 옵션 선택) 31 % 14,801 LIVINGCREATOR 푸쉬락(지켜락) 400ml (15color) 접이식 실리콘 용기 냉동밥 보관 23 % 12,928 THERMOS 써모스 스테인리스 일체형 콤팩트 보온도시락 TKLF-1200F 19 % 56,700 LocknLock [1+1]뚜껑까지 유리! 더 큐브 내열유리용기 2개세트 모음(6sizes) 27 % 9,890 THERMOS 써모스 스테인리스 일체형 대용량 보온도시락 TKLH-1500 18 % 61,200 COCOLOCKER [New] 캔디팟 뉴트럴 칸칸분리 도시락통 (+채반1개, 깍지2개 증정) (3color) 14 % 23,900 DIGITAL 음향가전 디지털기기 생활가전 주방가전 SAMSUNG 삼성전자 갤럭시 버즈 온 클립형 귀찌 오픈형 무선 블루투스 이어폰 SM-U600 (인증점) 299,000 HYM HYM LUMI-S 루미에스 턴테이블 블루투스 스피커 12 % 339,000 BOSE [적립금10%+커버케이스+리유저블백 증정] BOSE 보스 QC 울트라 헤드폰 2세대 10 % 467,100 Marshall 마샬 MIDDLETONII (미들톤2) 블랙&브래스 499,000 SAMSUNG 갤럭시 버즈3 FE / 버즈4 / 버즈4 프로 무선 블루투스 이어폰 20 % 159,000 SONY 소니 노이즈캔슬링 무선 블루투스 헤드폰 WH-CH730N 5 % 189,000 SONY 소니 노이즈캔슬링 블루투스 헤드폰 WH-1000XM5 25 % 387,778 SHOKZ 공식 국내 정품 샥즈 오픈핏2+ 플러스 무선 블루투스 이어폰 T921 289,000 JBL 삼성공식파트너 JBL WAVE BEAM2 블루투스 이어폰 노이즈캔슬링 커널형 9 % 49,700 Harman Kardon 삼성공식파트너 하만카돈 루나 핸디형 포터블 휴대용 블루투스 스피커 LUNA 19 % 120,000 INTERIOR 겨울 홈데코 욕실용품 정리용품 청소/세탁용품 조명 거울 캔들/디퓨저 티슈케이스 pouppet 엉금 행운거북이 티슈 커버 18 % 32,271 pouppet Cutie Bunny Room Shoes (Black) 20 % 28,728 youlikehome Gift box) 트리 퍼 테이블 램프 tree fur table lamp - Pink 20 % 55,200 kikou 퍼리 리본 리스 (실버 체인 에디션)-S (2Colors) 14 % 30,960 MMOF 모스 코스터_3색상 10 % 8,100 pocoar [선물 포장]Mini Mug - Apple Tree 술잔 2P SET 20 % 30,400 VIA K STUDIO [W컨셉 단독 컬러] Balloon 강아지 포터블 LED 조명_ 11color (선물포장) 36 % 25,168 Liberteco 리베르떼코 프리미엄 코듀로이 어도러블 슬리퍼 실내화 28 % 20,000 OLRA Silent fabric wall clock_BLACK 10 % 69,300 Glossy Sweety stripe sofa tissue cover(yellow) 14 % 47,300 youlikehome 선물포장) 반려 산타 미니 몽글 트리퍼 듀오 santa mini tree fur set 14 % 27,520 ARTY PARTY 2way 호텔식 미니 크리스마스 팟 트리 PE100 커버포함 3사이즈 45 60 90 18 % 43,900 FURNITURE 몬타나 [MONTANA] PANTON WIRE SINGLE D35 ROSEHIP 5 % 294,500 시몬스 [추가12%쿠폰][2개묶음] D2178A. 뷰티레스트 바이브. 퀸+퀸 침대 25 % 7,965,000 스테이엠 스테이엠 모듈에디션 07 멀티장식장 (1x2) 사틴블랙 10 % 838,300 오니프 웨이브 우드 사이드 테이블 20 % 159,200 바미르 Briar burl wood sofa table (브리어 벌우드 소파 테이블) 29 % 445,000 하우스레시피 바인 가방걸이 스탠드 행거 2colors 41 % 22,792 한샘 데일리 스탠드 가방걸이 행거 (2colors) 23 % 37,900 누노즈 누노즈 메사 빈티지 체어 원목 암체어 식탁의자 카페 테이블 의자 다이닝 패브릭 인테리어 nunoz 15 % 135,020 까사미아 알로아 2인소파 15 % 1,351,500 루밍 ARTEK stool 60 birch sky blue 500,000 마켓비 마켓비 심플리 협탁 BC032 12 % 125,840 씨밀렉스 쌓아서 조합하는 래폴드 서랍장 400(L) 4단 14 % 90,988 윈터에센셜 W컨셉에서 만나보세요 바로가기 KITCHEN W컨셉에서 만나보세요 바로가기 쓱데이 리퍼브샵 W컨셉에서 만나보세요 바로가기 리빙셀렉트 W컨셉에서 만나보세요 바로가기 패브릭셀렉트샵 W컨셉에서 만나보세요 바로가기 관련 브랜드 시몬스 아르떼미데 마틸라 카카오프렌즈 관련 브랜드 비비홈 아르페지오베이직 에프에프 컬렉티브 메종드히로안 전체 패브릭 계절가전 주방가전 홈데코 주방용품 생활용품 가구 조명 생활가전 트래블 디지털기기 폰케이스 우/양산 반려동물 품절제외 MD 추천순 추천순 신상품순 판매순 할인율순 낮은가격순 높은가격순 리뷰순 상품 보기",
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "HOME EVENT Now And Only",
    "dom_path": [
+    1,
     1
    ],
    "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "Now And Only",
+   "dom_path": [
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    3,
+    1,
+    1
+   ],
+   "dom_id": "section1",
    "image_ids": [
     "i0001",
     "i0002",
     "i0003",
-    "i0004",
-    "i0005",
+    "i0004"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "COUPON"
+   ],
+   "text": "COUPON 가전/디지털 10% 쿠폰 10% 1만원 이상 구매 시, 최대 10만원 할인 3장 쓱데이 30% 쿠폰 30% 1만원 이상 구매 시, 최대 30만원 할인 3장 [LIFE] 가구/인테리어 30% 30% 5,000원 이상 구매 시, 최대 30만원 할인 5장 쓱데이 더블10% 10% 1만원 이상 구매 시, 최대 4만원 할인 5장 쿠폰 모두 받기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    2
+   ],
+   "dom_id": "section2",
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    4
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    3,
+    1,
+    3
+   ],
+   "dom_id": "section3",
+   "image_ids": [
+    "i0005"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "sale_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "24시간 브랜드세일 금 10.30 토 10.31 일 11.1 월 11.2 화 11.3 수 11.4 목 11.5 금 11.6 토 11.7 일 11.8 매일 오전 10시 한정 특가 21:52:39 남음 ~55%+더블10%쿠폰 오리고 ORIGO [LIFE] 가구/인테리어 12% 최대 100,000 원 할인 오리고 [26FW] 플리스 블랭킷 8 color 3 size 41 % 21,208 오리고 [단독] 오리고 담요 플리스 블랭킷_샌드모스/코코넛쉘 2color (S/M/L 사이즈 택1) 47 % 19,008 오리고 [26FW] 플리스 쿠션커버 50x50 7 color 47 % 20,592 오리고 [26FW] 플리스 후드 블랭킷 3color 34 % 50,160 오리고 [26FW] 플리스 오픈토 실내화 4color 34 % 25,696 오리고 [26FW] 플리스 와이드 실내화 4 color 34 % 21,120 오리고 벨보아 5mm 초극세사 침대패드 8color 2size 56 % 61,600 오리고 여행용 목베개 기내용 목쿠션 허리베개 3color 42 % 38,808 오리고 강아지 플리스 망토 블랭킷 3color 2size 38 % 46,200 오리고 [26FW] 플리스 강아지 고양이 펫방석 4color 2size 38 % 60,984 오리고 오리고 쿠션솜 8,000 오리고 플리스 양털 실내화 4color 2size 34 % 21,120 오리고 셔벗 삼각 등받이 쿠션 소형 (솜포함/ 9 color ) 47 % 31,152 오리고 [선물포장] 쿠션 테리 린넨 실내화 4color 2size 29 % 20,416 오리고 토퍼 패드 오가닉코튼 8 color 42 % 113,256 오리고 셔벗 삼각 등받이 쿠션 중형 (솜포함/ 9 color ) 47 % 52,272 오리고 30수 면 누빔 패드 방석 4color 47 % 15,312 오리고 셔벗 삼각 등받이 쿠션 대형 (솜포함/ 9 color ) 47 % 60,720 오리고 20수 컴포트 원피스 앞치마 4color 38 % 33,264 오리고 [26FW] 플리스 스트랩 파우치 3color 36 % 16,641 오리고 40수 면트윌 솔리드 누빔패드 SS, Q 7colors 34 % 55,440 오리고 고밀도 60수 바이오워싱 프리미엄 차렵이불 사계절/극세사 2size 3color 47 % 137,280 오리고 사계절 소프트 모달 차렵 이불 6color 2size 51 % 89,056 오리고 핸드메이드 면 발매트 겸 다용도 러그 5color 2 size 38 % 17,248 오리고 식탁 벤치 의자 얇은 원형 방석 12 color 34 % 12,496 오리고 리본 메밀 경추 목베개 4 color 51 % 28,512 오리고 롱쿠션 바디필로우 오가닉코튼 4color 47 % 63,360 오리고 [단독] 플리스 블랭킷 L [2P] 24 % 108,944 오리고 26 F/W 플리스 양털 층간소음 실내화 홈 슬리퍼 4 color 37 % 20,047 오리고 솔리드 수제면 롱 베개 겸 쿠션 커버 30x60 9 color 56 % 19,360 상품 전체보기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    4
+   ],
+   "dom_id": "section4",
+   "image_ids": [
     "i0006",
     "i0007",
     "i0008",
@@ -2438,63 +2528,9 @@
     "i0034",
     "i0035",
     "i0036",
-    "i0037",
-    "i0038",
-    "i0039",
-    "i0040",
-    "i0041",
-    "i0042",
-    "i0043",
-    "i0044",
-    "i0045",
-    "i0046",
-    "i0047",
-    "i0048",
-    "i0049",
-    "i0050",
-    "i0051",
-    "i0052",
-    "i0053",
-    "i0054",
-    "i0055",
-    "i0056",
-    "i0057",
-    "i0058",
-    "i0059",
-    "i0060",
-    "i0061",
-    "i0062",
-    "i0063",
-    "i0064",
-    "i0065",
-    "i0066",
-    "i0067",
-    "i0068",
-    "i0069",
-    "i0070",
-    "i0071",
-    "i0072",
-    "i0073",
-    "i0074",
-    "i0075",
-    "i0076",
-    "i0077",
-    "i0078",
-    "i0079",
-    "i0080",
-    "i0081",
-    "i0082",
-    "i0083",
-    "i0084",
-    "i0085",
-    "i0086"
+    "i0037"
    ],
    "relationship_indexes": [
-    0,
-    1,
-    2,
-    3,
-    4,
     5,
     6,
     7,
@@ -2507,7 +2543,9 @@
     14,
     15,
     16,
+    2,
     17,
+    3,
     18,
     19,
     20,
@@ -2537,8 +2575,77 @@
     44,
     45,
     46,
-    47,
+    47
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    3,
+    1,
+    5
+   ],
+   "dom_id": "section5",
+   "image_ids": [
+    "i0038"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "W ONLY 오직 W컨셉에서만 만나보세요. 오르디 [단독]로렌 에어터치 컬러우븐 60수 듀얼 코튼 차렵이불세트 4컬러 60 % 68,670 윙플라 [W컨셉 단독]윙플라 핸드메이드 시그니처 스퀘어 (스프링클팜스/올리브) 50 % 115,000 윙플라 [W컨셉 단독]윙플라 핸드메이드 시그니처 라운드&스퀘어 세트 (스프링클팜스/올리브) 54 % 184,000 윙플라 [W컨셉 단독]윙플라 핸드메이드 시그니처 라운드 (스프링클팜스/올리브) 49 % 89,000 쿠쿠 [올스텐 내솥] 쿠쿠 트윈프레셔 마스터셰프 6인용 올스텐 IH전기압력밥솥 그레이스 아이보리 (LHTAR) 56 % 306,092 오니프 [W컨셉 단독] stool 20 % 143,200 오니프 [W컨셉 단독] 깊은 시간 책꽂이 블랙 에디션 20 % 151,200 리드볼트 오딧 24인치 + 오딧 29인치 캐리어 스페셜 번들 27 % 603,075 리빙크리에이터 [W컨셉 단독]루틴 리셋 세트 (4colors) 42 % 36,587 리빙크리에이터 [W컨셉 단독상품] 지켜텐 480ml+리크러리 세트 (2colors) 23 % 31,671 소프트서브 [단독 선발매] [선물포장] 쥬얼 애플 아이폰 케이스 31 % 32,359 소프트서브 [단독 선발매] [선물포장] 옐로우 블룸 아이폰 케이스 31 % 32,359 왈왈스튜디오 [W컨셉 단독]데일리 모닝 도자기 식판 + 김그릇 세트 14 % 40,076 시라쿠스 [W컨셉 단독] 시라쿠스 레터링 4p 선물세트(쇼핑백) 43 % 59,280 퐁드타블레 [W컨셉 단독]Breeze green fizz set / 브리즈 그린 피즈 세트 24 % 29,182 니코트 [W컨셉 단독][무배/선물포장] 니코트 에브리데이 면기&앞접시 4P 세트 45 % 30,375 니코트 [W컨셉 단독][무배/선물포장] 니코트 에브리데이 파스타볼&앞접시 4P 세트 41 % 30,375 라귀올 [W컨셉 단독구성][선물포장] 장네론 라귀올 티포크&치즈커터 2p 세트 (12color) 5 % 58,900 덴비 [W컨셉 단독] 헤리티지 오차드 2인조 세트 (10P) 62 % 226,180 덴비 [W컨셉 단독] 헤리티지 파빌리온 2인조 세트 (10P) 63 % 220,160 오리고 [단독] 오리고 담요 플리스 블랭킷_샌드모스/코코넛쉘 2color (S/M/L 사이즈 택1) 47 % 19,008 오리고 [단독] 플리스 발매트+주방매트 [2P] + 플리스 오픈토 실내화 [1P] 23 % 112,464 오리고 [단독] 플리스 발매트+주방매트 [2P] 25 % 80,784 오리고 [단독] 플리스 블랭킷 L [2P] 24 % 108,944 오리고 [단독] 플리스 블랭킷 M [2P] 25 % 80,784 메종드룸룸 [단독][NEW컬러출시] 1+1 아이소메트릭 알러지케어 플리스 블랭킷 2colors 33 % 58,100 메종드룸룸 [w컨셉 단독] 1+1 스테이 사계절 먼지없는 루프 워셔블 발매트+주방매트 30 % 44,450 더블유그린 [블랙컬러 단독] 말랑말랑 폴카 도트 규조토 발매트 56 % 13,800 더블유그린 [블랙컬러 단독]뽀송뽀송 폴카 도트 규조토 주방매트 51 % 22,800",
+   "dom_path": [
+    1,
+    3,
+    1,
+    6
+   ],
+   "dom_id": "section6",
+   "image_ids": [
+    "i0039",
+    "i0040",
+    "i0041",
+    "i0042",
+    "i0043",
+    "i0044",
+    "i0045",
+    "i0046",
+    "i0047",
+    "i0048",
+    "i0049",
+    "i0050",
+    "i0051",
+    "i0052",
+    "i0053",
+    "i0054",
+    "i0055",
+    "i0056",
+    "i0057",
+    "i0058",
+    "i0009",
+    "i0059",
+    "i0060",
+    "i0035",
+    "i0061",
+    "i0062",
+    "i0063",
+    "i0064",
+    "i0065"
+   ],
+   "relationship_indexes": [
+    2,
     48,
+    3,
     49,
     50,
     51,
@@ -2558,13 +2665,54 @@
     65,
     66,
     67,
+    18,
     68,
     69,
+    44,
     70,
     71,
     72,
     73,
-    74,
+    74
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    3,
+    1,
+    7
+   ],
+   "dom_id": "section7",
+   "image_ids": [
+    "i0066"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "나의 라이프스타일을 담아"
+   ],
+   "text": "나의 라이프스타일을 담아 겨울가전 겨울 베딩 겨울 머그/텀블러 겨울 홈데코 겨울 도시락 겨울 요리템 KD navien 원격 DC 온열매트 카본 숙면매트 전기매트 난방매트 44 % 184,140 VOAR 보아르 더글라스 가열식 가습기 물멍 분리세척 대용량 통유리 무드등 스텐 가습기 20 % 119,000 CUCKOO 쿠쿠 물멍 무드등 7중 안전장치 3L 가열식 가습기 (화이트) 53 % 174,975 IMETEC [이메텍] 이탈리아 프리미엄 전자파안심 순면 전기요 IMD-015A(1인용/적색곰) 37 % 99,800 NORDIC SLEEP 노르딕슬립 카본 매트 에센셜 (전기매트) 22 % 179,000 OA 오아 듀얼글로우 가습기 사무실 초음파 휴대용 탁상용 미니 소형 책상 무드등 USB 15 % 44,900 LEZEN 듀웰 미니 0.7L 3단 무드등 초음파 가습기 LZHD-MM100 60 % 19,440 PLUS MINUS ZERO 플러스마이너스제로 리플렉트 카본히터 700 18 % 269,000 KD navien AI 숙면매트 슬림형 온수매트 베이지 37 % 386,100 PLUS MINUS ZERO 플러스마이너스제로 리플렉트 에코히터 REH-400A 10 % 169,000 vivihome [알러쉴드] 런던 탄소 열선 60수 고밀도 순면 전기매트 2컬러 57 % 62,370 Gitden 2026FW 탄소매트 전기요 깃든 온 (싱글/더블) 29 % 113,520",
+   "dom_path": [
+    1,
+    3,
+    1,
+    8
+   ],
+   "dom_id": "section8",
+   "image_ids": [],
+   "relationship_indexes": [
     75,
     76,
     77,
@@ -2583,6 +2731,27 @@
     90,
     91,
     92,
+    2
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "FABRIC"
+   ],
+   "text": "FABRIC 블랭킷 차렵이불 침대패드 매트리스패드 토퍼 러그 커튼 룸슈즈 ORIGO [26FW] 플리스 블랭킷 8 color 3 size 41 % 21,208 vivihome 몽그리 겨울 담요 블랭킷 4컬러 43 % 15,498 W’GREEN 부클 도트 블랭킷 담요 쇼파 덮개 침대 35 % 34,228 MAISON DE ROOMROOM [단독][NEW컬러출시] 1+1 아이소메트릭 알러지케어 플리스 블랭킷 2colors 33 % 58,100 SOSU 쏘 웜, 털빠짐 없는 두꺼운 극세사 양면 밍크 담요 무릎담요 (17color) 77 % 8,910 VERDE 해피퍼피 양면 니트 블랭킷 3size 3color 국내생산 45 % 32,680 KIM’S COLLECT My Flower 블랭킷 소파 담요 니트 블랭킷 44 % 51,943 hanbit carpet 몽글촉촉 꽈배기 극세사 양털 니트 담요 3size 7colors 51 % 14,534 JAJU [JAJU/자주] 밍크 플리스 고중량 블랭킷 140x170cm 웜그레이 30 % 25,100 MRON 소프트 태슬 밍크 극세사 담요 소파 블랭킷 2color 2size 36 % 19,048 Gitden 먼지없는 멜로우 패딩 양면 캠핑담요 S/L 2Size 29 % 33,440 SHAREROOM 루엘드파리 밍크 극세사 담요 스트라이프 블랭킷 - 3color 35 % 54,782",
+   "dom_path": [
+    1,
+    3,
+    1,
+    9
+   ],
+   "dom_id": "section9",
+   "image_ids": [],
+   "relationship_indexes": [
     93,
     94,
     95,
@@ -2603,6 +2772,27 @@
     110,
     111,
     112,
+    2
+   ]
+  },
+  {
+   "id": "s12",
+   "order": 12,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "KITCHEN"
+   ],
+   "text": "KITCHEN 보관용기/도시락 텀블러 식기/그릇 팬/솥/냄비 조리도구 컵/잔 주방수납/정리 커트러리 COCOLOCKER [Best] 캔디팟 칸칸분리 도시락통 (+채반1개, 깍지2개 증정) (4color) 14 % 23,900 SiliPot 국내생산 실리콘지퍼백 3P 세트 (소,중,대) 68 % 25,130 LocknLock 슬림 도시락(젓가락+가방 포함 3colors) 22 % 23,134 allevo 알레보 디엣지 플러스 전자레인지 내열유리밥용기 냉동밥보관용기 380ml 6P 1세트 14 % 34,314 LIVINGCREATOR 원형 지켜텐 컬러스텐용기 270ml (4color) 런치박스 도시락 밀폐용기 15 % 14,875 WECK WECK 몰드 741 370ml 유리병 4개 (+뚜껑 옵션 선택) 31 % 14,801 LIVINGCREATOR 푸쉬락(지켜락) 400ml (15color) 접이식 실리콘 용기 냉동밥 보관 23 % 12,928 THERMOS 써모스 스테인리스 일체형 콤팩트 보온도시락 TKLF-1200F 19 % 56,700 LocknLock [1+1]뚜껑까지 유리! 더 큐브 내열유리용기 2개세트 모음(6sizes) 27 % 9,890 THERMOS 써모스 스테인리스 일체형 대용량 보온도시락 TKLH-1500 18 % 61,200 COCOLOCKER [New] 캔디팟 뉴트럴 칸칸분리 도시락통 (+채반1개, 깍지2개 증정) (3color) 14 % 23,900",
+   "dom_path": [
+    1,
+    3,
+    1,
+    10
+   ],
+   "dom_id": "section10",
+   "image_ids": [],
+   "relationship_indexes": [
     113,
     114,
     115,
@@ -2622,6 +2812,27 @@
     129,
     130,
     131,
+    2
+   ]
+  },
+  {
+   "id": "s13",
+   "order": 13,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "DIGITAL"
+   ],
+   "text": "DIGITAL 음향가전 디지털기기 생활가전 주방가전 SAMSUNG 삼성전자 갤럭시 버즈 온 클립형 귀찌 오픈형 무선 블루투스 이어폰 SM-U600 (인증점) 299,000 HYM HYM LUMI-S 루미에스 턴테이블 블루투스 스피커 12 % 339,000 BOSE [적립금10%+커버케이스+리유저블백 증정] BOSE 보스 QC 울트라 헤드폰 2세대 10 % 467,100 Marshall 마샬 MIDDLETONII (미들톤2) 블랙&브래스 499,000 SAMSUNG 갤럭시 버즈3 FE / 버즈4 / 버즈4 프로 무선 블루투스 이어폰 20 % 159,000 SONY 소니 노이즈캔슬링 무선 블루투스 헤드폰 WH-CH730N 5 % 189,000 SONY 소니 노이즈캔슬링 블루투스 헤드폰 WH-1000XM5 25 % 387,778 SHOKZ 공식 국내 정품 샥즈 오픈핏2+ 플러스 무선 블루투스 이어폰 T921 289,000 JBL 삼성공식파트너 JBL WAVE BEAM2 블루투스 이어폰 노이즈캔슬링 커널형 9 % 49,700 Harman Kardon 삼성공식파트너 하만카돈 루나 핸디형 포터블 휴대용 블루투스 스피커 LUNA 19 % 120,000",
+   "dom_path": [
+    1,
+    3,
+    1,
+    11
+   ],
+   "dom_id": "section11",
+   "image_ids": [],
+   "relationship_indexes": [
     132,
     133,
     134,
@@ -2636,6 +2847,28 @@
     143,
     144,
     145,
+    2
+   ]
+  },
+  {
+   "id": "s14",
+   "order": 14,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [
+    "INTERIOR"
+   ],
+   "text": "INTERIOR 겨울 홈데코 욕실용품 정리용품 청소/세탁용품 조명 거울 캔들/디퓨저 티슈케이스 pouppet 엉금 행운거북이 티슈 커버 18 % 32,271 pouppet Cutie Bunny Room Shoes (Black) 20 % 28,728 youlikehome Gift box) 트리 퍼 테이블 램프 tree fur table lamp - Pink 20 % 55,200 kikou 퍼리 리본 리스 (실버 체인 에디션)-S (2Colors) 14 % 30,960 MMOF 모스 코스터_3색상 10 % 8,100 pocoar [선물 포장]Mini Mug - Apple Tree 술잔 2P SET 20 % 30,400 VIA K STUDIO [W컨셉 단독 컬러] Balloon 강아지 포터블 LED 조명_ 11color (선물포장) 36 % 25,168 Liberteco 리베르떼코 프리미엄 코듀로이 어도러블 슬리퍼 실내화 28 % 20,000 OLRA Silent fabric wall clock_BLACK 10 % 69,300 Glossy Sweety stripe sofa tissue cover(yellow) 14 % 47,300 youlikehome 선물포장) 반려 산타 미니 몽글 트리퍼 듀오 santa mini tree fur set 14 % 27,520 ARTY PARTY 2way 호텔식 미니 크리스마스 팟 트리 PE100 커버포함 3사이즈 45 60 90 18 % 43,900",
+   "dom_path": [
+    1,
+    3,
+    1,
+    12
+   ],
+   "dom_id": "section12",
+   "image_ids": [],
+   "relationship_indexes": [
+    78,
     146,
     147,
     148,
@@ -2655,7 +2888,41 @@
     162,
     163,
     164,
+    2
+   ]
+  },
+  {
+   "id": "s15",
+   "order": 15,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "FURNITURE 몬타나 [MONTANA] PANTON WIRE SINGLE D35 ROSEHIP 5 % 294,500 시몬스 [추가12%쿠폰][2개묶음] D2178A. 뷰티레스트 바이브. 퀸+퀸 침대 25 % 7,965,000 스테이엠 스테이엠 모듈에디션 07 멀티장식장 (1x2) 사틴블랙 10 % 838,300 오니프 웨이브 우드 사이드 테이블 20 % 159,200 바미르 Briar burl wood sofa table (브리어 벌우드 소파 테이블) 29 % 445,000 하우스레시피 바인 가방걸이 스탠드 행거 2colors 41 % 22,792 한샘 데일리 스탠드 가방걸이 행거 (2colors) 23 % 37,900 누노즈 누노즈 메사 빈티지 체어 원목 암체어 식탁의자 카페 테이블 의자 다이닝 패브릭 인테리어 nunoz 15 % 135,020 까사미아 알로아 2인소파 15 % 1,351,500 루밍 ARTEK stool 60 birch sky blue 500,000 마켓비 마켓비 심플리 협탁 BC032 12 % 125,840 씨밀렉스 쌓아서 조합하는 래폴드 서랍장 400(L) 4단 14 % 90,988",
+   "dom_path": [
+    1,
+    3,
+    1,
+    13
+   ],
+   "dom_id": "section13",
+   "image_ids": [
+    "i0067",
+    "i0068",
+    "i0069",
+    "i0070",
+    "i0071",
+    "i0072",
+    "i0073",
+    "i0074",
+    "i0075",
+    "i0076",
+    "i0077",
+    "i0078"
+   ],
+   "relationship_indexes": [
+    2,
     165,
+    3,
     166,
     167,
     168,
@@ -2666,27 +2933,208 @@
     173,
     174,
     175,
-    176,
-    177,
+    176
+   ]
+  },
+  {
+   "id": "s16",
+   "order": 16,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "윈터에센셜 W컨셉에서 만나보세요 바로가기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    14
+   ],
+   "dom_id": "section14",
+   "image_ids": [],
+   "relationship_indexes": [
+    177
+   ]
+  },
+  {
+   "id": "s17",
+   "order": 17,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "KITCHEN W컨셉에서 만나보세요 바로가기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    15
+   ],
+   "dom_id": "section15",
+   "image_ids": [],
+   "relationship_indexes": [
+    177
+   ]
+  },
+  {
+   "id": "s18",
+   "order": 18,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "쓱데이 리퍼브샵 W컨셉에서 만나보세요 바로가기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    16
+   ],
+   "dom_id": "section16",
+   "image_ids": [],
+   "relationship_indexes": [
+    177
+   ]
+  },
+  {
+   "id": "s19",
+   "order": 19,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "리빙셀렉트 W컨셉에서 만나보세요 바로가기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    17
+   ],
+   "dom_id": "section17",
+   "image_ids": [],
+   "relationship_indexes": [
+    177
+   ]
+  },
+  {
+   "id": "s20",
+   "order": 20,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "패브릭셀렉트샵 W컨셉에서 만나보세요 바로가기",
+   "dom_path": [
+    1,
+    3,
+    1,
+    18
+   ],
+   "dom_id": "section18",
+   "image_ids": [],
+   "relationship_indexes": [
+    177
+   ]
+  },
+  {
+   "id": "s21",
+   "order": 21,
+   "role": "related_promotions",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "관련 브랜드 시몬스 아르떼미데 마틸라 카카오프렌즈",
+   "dom_path": [
+    1,
+    3,
+    1,
+    19
+   ],
+   "dom_id": "section19",
+   "image_ids": [
+    "i0079",
+    "i0080",
+    "i0081",
+    "i0082"
+   ],
+   "relationship_indexes": [
     178,
     179,
     180,
-    181,
+    181
+   ]
+  },
+  {
+   "id": "s22",
+   "order": 22,
+   "role": "related_promotions",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "관련 브랜드 비비홈 아르페지오베이직 에프에프 컬렉티브 메종드히로안",
+   "dom_path": [
+    1,
+    3,
+    1,
+    20
+   ],
+   "dom_id": "section20",
+   "image_ids": [
+    "i0083",
+    "i0084",
+    "i0085",
+    "i0086"
+   ],
+   "relationship_indexes": [
     182,
     183,
     184,
-    185,
+    185
+   ]
+  },
+  {
+   "id": "s23",
+   "order": 23,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "전체 패브릭 계절가전 주방가전 홈데코 주방용품 생활용품 가구 조명 생활가전 트래블 디지털기기 폰케이스 우/양산 반려동물",
+   "dom_path": [
+    1,
+    3,
+    2,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
     186,
     187,
     188,
+    135,
     189,
     190,
     191,
     192,
+    149,
+    134,
     193,
+    133,
     194,
     195,
-    196,
+    196
+   ]
+  },
+  {
+   "id": "s24",
+   "order": 24,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "품절제외 MD 추천순 추천순 신상품순 판매순 할인율순 낮은가격순 높은가격순 리뷰순",
+   "dom_path": [
+    1,
+    3,
+    2,
+    2
+   ],
+   "dom_id": "lpall",
+   "image_ids": [],
+   "relationship_indexes": [
     197,
     198,
     199,
@@ -2695,7 +3143,23 @@
     202,
     203,
     204,
-    205,
+    205
+   ]
+  },
+  {
+   "id": "s25",
+   "order": 25,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "상품 보기",
+   "dom_path": [
+    1,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
     206
    ]
   }
@@ -2706,13 +3170,13 @@
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-1.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -2721,13 +3185,13 @@
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-2.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -2736,13 +3200,13 @@
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-3.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -2751,13 +3215,13 @@
    "url": "https://image.wconcept.co.kr/images/img/event/2026/1030_nowandonly/pc/pc_1902_01-4.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -2772,7 +3236,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2787,7 +3251,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2802,7 +3266,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2817,7 +3281,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2832,7 +3296,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06",
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2847,7 +3312,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2862,7 +3327,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2877,7 +3342,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2892,7 +3357,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2907,7 +3372,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2922,7 +3387,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2937,7 +3402,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2952,7 +3417,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2967,7 +3432,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2982,7 +3447,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2997,7 +3462,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3012,7 +3477,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3027,7 +3492,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3042,7 +3507,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3057,7 +3522,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3072,7 +3537,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3087,7 +3552,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3102,7 +3567,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3117,7 +3582,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3132,7 +3597,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3147,7 +3612,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3162,7 +3627,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3177,7 +3642,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3192,7 +3657,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3207,7 +3672,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3222,7 +3687,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06",
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3237,7 +3703,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3252,7 +3718,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -3267,7 +3733,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -3282,7 +3748,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3297,7 +3763,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3312,7 +3778,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3327,7 +3793,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3342,7 +3808,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3357,7 +3823,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3372,7 +3838,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3387,7 +3853,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3402,7 +3868,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3417,7 +3883,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3432,7 +3898,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3447,7 +3913,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3462,7 +3928,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3477,7 +3943,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3492,7 +3958,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3507,7 +3973,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3522,7 +3988,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3537,7 +4003,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3552,7 +4018,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3567,7 +4033,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3582,7 +4048,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3597,7 +4063,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3612,7 +4078,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3627,7 +4093,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3642,7 +4108,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3657,7 +4123,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3672,7 +4138,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3687,7 +4153,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s09"
    ],
    "alternate_urls": []
   },
@@ -3702,7 +4168,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3717,7 +4183,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3732,7 +4198,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3747,7 +4213,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3762,7 +4228,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3777,7 +4243,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3792,7 +4258,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3807,7 +4273,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3822,7 +4288,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3837,7 +4303,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3852,7 +4318,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3867,7 +4333,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s15"
    ],
    "alternate_urls": []
   },
@@ -3876,13 +4342,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134755804_6415.png?RS=240",
    "alt": "시몬스",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s21"
    ],
    "alternate_urls": []
   },
@@ -3891,13 +4357,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134810969_4309.png?RS=240",
    "alt": "아르떼미데",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s21"
    ],
    "alternate_urls": []
   },
@@ -3906,13 +4372,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134927623_7021.png?RS=240",
    "alt": "마틸라",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s21"
    ],
    "alternate_urls": []
   },
@@ -3921,13 +4387,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103134940783_2237.png?RS=240",
    "alt": "카카오프렌즈",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s21"
    ],
    "alternate_urls": []
   },
@@ -3936,13 +4402,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135005571_2985.png?RS=240",
    "alt": "비비홈",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s22"
    ],
    "alternate_urls": []
   },
@@ -3951,13 +4417,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135026030_9567.png?RS=240",
    "alt": "아르페지오베이직",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s22"
    ],
    "alternate_urls": []
   },
@@ -3966,13 +4432,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135046583_2491.png?RS=240",
    "alt": "에프에프 컬렉티브",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s22"
    ],
    "alternate_urls": []
   },
@@ -3981,13 +4447,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261103135100738_9941.png?RS=240",
    "alt": "메종드히로안",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s22"
    ],
    "alternate_urls": []
   }

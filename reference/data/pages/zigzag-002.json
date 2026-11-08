@@ -19,7 +19,7 @@
    "alt": "",
    "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/23/202610230536570074_055012.png?width=1125&height=1800&quality=80&format=webp&transparent=true",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0002"
   },
@@ -27,7 +27,7 @@
    "alt": "",
    "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/26/202610260539590634_039845.jpg?width=600&height=400&quality=80&transparent=true&format=webp",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0003"
   },
@@ -35,7 +35,7 @@
    "alt": "",
    "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/26/202610260540361106_063400.jpg?width=600&height=400&quality=80&transparent=true&format=webp",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0004"
   }
@@ -50,7 +50,7 @@
    "label": "지그재그",
    "element": "a",
    "destination_url": "https://zigzag.kr/",
-   "destination_type": "other",
+   "destination_type": "other_store_page",
    "status": "declared_in_html",
    "raw_target": "https://zigzag.kr/"
   },
@@ -81,12 +81,49 @@
   {
    "id": "s01",
    "order": 1,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "",
+   "dom_path": [
+    1,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0001"
+   ],
+   "relationship_indexes": [
+    0
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
    "role": "hero",
-   "role_evidence": "position_in_dom",
+   "role_evidence": "container_markup",
    "headings": [
     "프로티원 브랜드위크",
     "1+1 대용량 특가🔥",
-    "최대 20% 쿠폰 + 사은품 증정",
+    "최대 20% 쿠폰 + 사은품 증정"
+   ],
+   "text": "프로티원 브랜드위크 1+1 대용량 특가🔥 최대 20% 쿠폰 + 사은품 증정 2026. 11. 02 - 11. 07",
+   "dom_path": [
+    1,
+    2
+   ],
+   "dom_id": "HTw6G-Dp",
+   "image_ids": [
+    "i0002"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
     "COUPON",
     "프로티원",
     "20%",
@@ -94,22 +131,83 @@
     "7만원 이상 구매 시",
     "단백질칩 6개 증정 (매운새우3+구운양파3)",
     "9만원 이상 구매 시",
-    "단백질칩 12개 증정 (매운새우6+구운양파6)",
-    "프로티원 특가 상품 모음.zip"
+    "단백질칩 12개 증정 (매운새우6+구운양파6)"
    ],
-   "text": "프로티원 브랜드위크 1+1 대용량 특가🔥 최대 20% 쿠폰 + 사은품 증정 2026. 11. 02 - 11. 07 COUPON 프로티원 20% 기획전 일부 상품 적용 불가능 사은품 증정 7만원 이상 구매 시 단백질칩 6개 증정 (매운새우3+구운양파3) 9만원 이상 구매 시 단백질칩 12개 증정 (매운새우6+구운양파6) 유의사항 프로티원 특가 상품 모음.zip 그룹 1 프로티원 스토어 홈 즐겨찾기 추가",
+   "text": "COUPON 프로티원 20% 기획전 일부 상품 적용 불가능 사은품 증정 7만원 이상 구매 시 단백질칩 6개 증정 (매운새우3+구운양파3) 9만원 이상 구매 시 단백질칩 12개 증정 (매운새우6+구운양파6)",
    "dom_path": [
-    1
+    1,
+    3
    ],
-   "dom_id": "__content_editor",
+   "dom_id": "6pIvSP1w",
    "image_ids": [
-    "i0001",
-    "i0002",
     "i0003",
     "i0004"
    ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "terms",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "유의사항",
+   "dom_path": [
+    1,
+    4
+   ],
+   "dom_id": "JIErFFpL",
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "sale_offer",
+   "role_evidence": "container_markup",
+   "headings": [
+    "프로티원 특가 상품 모음.zip"
+   ],
+   "text": "프로티원 특가 상품 모음.zip",
+   "dom_path": [
+    1,
+    5
+   ],
+   "dom_id": "YXpGQRkc",
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "그룹 1",
+   "dom_path": [
+    1,
+    6
+   ],
+   "dom_id": "P4N-By6f",
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "related_promotions",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "프로티원 스토어 홈 즐겨찾기 추가",
+   "dom_path": [
+    1,
+    7,
+    1,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
    "relationship_indexes": [
-    0,
     1,
     2
    ]
@@ -136,13 +234,13 @@
    "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/23/202610230536570074_055012.png?width=1125&height=1800&quality=80&format=webp&transparent=true",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s02"
    ],
    "alternate_urls": []
   },
@@ -151,13 +249,13 @@
    "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/26/202610260539590634_039845.jpg?width=600&height=400&quality=80&transparent=true&format=webp",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -166,13 +264,13 @@
    "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/26/202610260540361106_063400.jpg?width=600&height=400&quality=80&transparent=true&format=webp",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   }

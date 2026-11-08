@@ -11,7 +11,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090225902_7364.png?RS=1200",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -19,7 +19,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090214724_4027.png?RS=1200",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0002"
   },
@@ -27,7 +27,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090225902_7364.png?RS=1200",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -35,7 +35,7 @@
    "alt": "",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090214724_4027.png?RS=1200",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0002"
   },
@@ -43,7 +43,7 @@
    "alt": "카카오프렌즈",
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261020172831370_8927.png?RS=240",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0003"
   },
@@ -178,7 +178,7 @@
    "label": "HOME",
    "element": "a",
    "destination_url": "https://display.wconcept.co.kr/rn/women",
-   "destination_type": "other",
+   "destination_type": "external_page",
    "status": "declared_in_html",
    "raw_target": "https://display.wconcept.co.kr/rn/women"
   },
@@ -434,22 +434,115 @@
   {
    "id": "s01",
    "order": 1,
-   "role": "hero",
-   "role_evidence": "position_in_dom",
-   "headings": [
-    "KAKAO FRIENDS",
-    "칩앤데일 | 카카오프렌즈",
-    "COUPON"
-   ],
-   "text": "HOME EVENT 칩앤데일 | 카카오프렌즈 칩앤데일 | 카카오프렌즈 W Concept Lifestyle KAKAO FRIENDS 칩앤데일ㅣ카카오프렌즈 콜라보레이션 신상출시 KAKAO FRIENDS 칩앤데일 | 카카오프렌즈 올 가을 귀여움에 폴인러브🌰 추위로부터 따뜻하게 해줄 무릎담요와 수면 조끼. 하루의 시작과 끝을 함께할 수면 파자마. 어디든 함께가는 귀요미 키링. 볼수록 기분 좋은 피규어까지. 카카오프렌즈의 신상을 W컨셉에서 만나보세요. 관련 브랜드 카카오프렌즈 HOMEWEAR 카카오프렌즈 칩앤데일 I 카카오프렌즈 무릎 담요_라이언&춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 여성용_라이언 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 남성용_춘식이 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 조끼_라이언&춘식이 15 % 33,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 GOODS 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_라이언 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_춘식이 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_라이언 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_춘식이 15 % 15,300 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_라이언 15 % 15,300 칩앤데일 | 카카오프렌즈 COUPON 더블유위크 30% 30% 5,000원 이상 구매 시, 최대 20만원 할인 5장 쿠폰 유의사항 전체 칩앤데일 BEST SALE 품절제외 MD 추천순 추천순 신상품순 판매순 할인율순 낮은가격순 높은가격순 리뷰순 상품 보기",
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "HOME EVENT 칩앤데일 | 카카오프렌즈",
    "dom_path": [
+    1,
     1
    ],
    "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "칩앤데일 | 카카오프렌즈",
+   "dom_path": [
+    1,
+    2
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "hero",
+   "role_evidence": "position_in_dom",
+   "headings": [],
+   "text": "W Concept Lifestyle KAKAO FRIENDS 칩앤데일ㅣ카카오프렌즈 콜라보레이션 신상출시",
+   "dom_path": [
+    1,
+    3,
+    1,
+    1
+   ],
+   "dom_id": "section1",
    "image_ids": [
     "i0001",
-    "i0002",
-    "i0003",
+    "i0002"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "brand_story",
+   "role_evidence": "container_markup",
+   "headings": [
+    "KAKAO FRIENDS",
+    "칩앤데일 | 카카오프렌즈"
+   ],
+   "text": "KAKAO FRIENDS 칩앤데일 | 카카오프렌즈 올 가을 귀여움에 폴인러브🌰 추위로부터 따뜻하게 해줄 무릎담요와 수면 조끼. 하루의 시작과 끝을 함께할 수면 파자마. 어디든 함께가는 귀요미 키링. 볼수록 기분 좋은 피규어까지. 카카오프렌즈의 신상을 W컨셉에서 만나보세요.",
+   "dom_path": [
+    1,
+    3,
+    1,
+    2
+   ],
+   "dom_id": "section2",
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "related_promotions",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "관련 브랜드 카카오프렌즈",
+   "dom_path": [
+    1,
+    3,
+    1,
+    3
+   ],
+   "dom_id": "section3",
+   "image_ids": [
+    "i0003"
+   ],
+   "relationship_indexes": [
+    4
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "HOMEWEAR 카카오프렌즈 칩앤데일 I 카카오프렌즈 무릎 담요_라이언&춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 여성용_라이언 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 파자마 남성용_춘식이 15 % 50,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 수면 조끼_라이언&춘식이 15 % 33,915 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450",
+   "dom_path": [
+    1,
+    3,
+    1,
+    5
+   ],
+   "dom_id": "section5",
+   "image_ids": [
     "i0004",
     "i0005",
     "i0006",
@@ -457,6 +550,33 @@
     "i0008",
     "i0009",
     "i0010",
+    "i0011"
+   ],
+   "relationship_indexes": [
+    2,
+    5,
+    3,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "GOODS 카카오프렌즈 칩앤데일 I 카카오프렌즈 도토리 파우치_라이언&춘식이 15 % 14,450 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_춘식이 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 클리커 피규어 키링_라이언 15 % 16,150 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_춘식이 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형 펌킨_라이언 15 % 12,750 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_춘식이 15 % 15,300 카카오프렌즈 칩앤데일 I 카카오프렌즈 키링인형_라이언 15 % 15,300",
+   "dom_path": [
+    1,
+    3,
+    1,
+    6
+   ],
+   "dom_id": "section6",
+   "image_ids": [
     "i0011",
     "i0012",
     "i0013",
@@ -466,27 +586,94 @@
     "i0017"
    ],
    "relationship_indexes": [
-    0,
-    1,
     2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
     9,
+    3,
     10,
     11,
     12,
     13,
     14,
-    15,
-    16,
+    15
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "칩앤데일 | 카카오프렌즈",
+   "dom_path": [
+    1,
+    3,
+    1,
+    9
+   ],
+   "dom_id": "section9",
+   "image_ids": [],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "coupon_offer",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "COUPON"
+   ],
+   "text": "COUPON 더블유위크 30% 30% 5,000원 이상 구매 시, 최대 20만원 할인 5장 쿠폰 유의사항",
+   "dom_path": [
+    1,
+    3,
+    1,
+    10
+   ],
+   "dom_id": "section10",
+   "image_ids": [],
+   "relationship_indexes": [
+    2,
+    16
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "전체 칩앤데일 BEST SALE",
+   "dom_path": [
+    1,
+    3,
+    2,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
     17,
     18,
     19,
-    20,
+    20
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "품절제외 MD 추천순 추천순 신상품순 판매순 할인율순 낮은가격순 높은가격순 리뷰순",
+   "dom_path": [
+    1,
+    3,
+    2,
+    2
+   ],
+   "dom_id": "lpall",
+   "image_ids": [],
+   "relationship_indexes": [
     21,
     22,
     23,
@@ -495,7 +682,23 @@
     26,
     27,
     28,
-    29,
+    29
+   ]
+  },
+  {
+   "id": "s12",
+   "order": 12,
+   "role": "product_list",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "상품 보기",
+   "dom_path": [
+    1,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
     30
    ]
   }
@@ -506,13 +709,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090225902_7364.png?RS=1200",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -521,13 +724,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/section/pc/20261026090214724_4027.png?RS=1200",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -536,13 +739,13 @@
    "url": "https://wimage.wconcept.co.kr/msa-event/event/default/20261020172831370_8927.png?RS=240",
    "alt": "카카오프렌즈",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -557,7 +760,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -572,7 +775,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -587,7 +790,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -602,7 +805,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -617,7 +820,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -632,7 +835,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -647,7 +850,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -662,7 +865,8 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s06",
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -677,7 +881,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -692,7 +896,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -707,7 +911,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -722,7 +926,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -737,7 +941,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -752,7 +956,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   }

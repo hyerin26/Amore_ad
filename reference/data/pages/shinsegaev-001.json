@@ -11,7 +11,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-visual-v2-2x.jpg",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "image_id": "i0001"
   },
@@ -19,7 +19,7 @@
    "alt": "5,000P e포인트 발급 후 7일 이내 사용 다운로드",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-coupon-01-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0002"
   },
@@ -27,7 +27,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-notice-01-v2-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0003"
   },
@@ -35,7 +35,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-plus-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0004"
   },
@@ -43,7 +43,7 @@
    "alt": "5,000P e포인트 발급 후 7일 이내 사용 다운로드",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-coupon-02-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0005"
   },
@@ -51,7 +51,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-notice-02-v3-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0006"
   },
@@ -59,7 +59,7 @@
    "alt": "5,000P e포인트 가입 다음날까지 사용",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-point-coupon-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0007"
   },
@@ -67,7 +67,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-point-notice-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0008"
   },
@@ -75,7 +75,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-plus-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0004"
   },
@@ -99,7 +99,7 @@
    "alt": "쿠폰 한번에 받기",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-coupon-button-2x.png",
    "tags": [
-    "event_information"
+    "ui_asset"
    ],
    "image_id": "i0011"
   },
@@ -107,7 +107,7 @@
    "alt": "",
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-coupon-notice-2x.png",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "image_id": "i0012"
   },
@@ -1035,7 +1035,8 @@
    "element": "button",
    "destination_url": null,
    "destination_type": "unknown",
-   "status": "unverified"
+   "status": "unverified",
+   "raw_target": "javascript:overpass.disp.wishContent($(this),'50','E261015999');"
   },
   {
    "source_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999",
@@ -1051,7 +1052,8 @@
    "element": "button",
    "destination_url": null,
    "destination_type": "unknown",
-   "status": "unverified"
+   "status": "unverified",
+   "raw_target": "overpass.link('EVENT',{index:'0'});"
   },
   {
    "source_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999",
@@ -1094,7 +1096,7 @@
    "label": "첫 구매 포인트",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#eventSection01",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection01"
   },
@@ -1103,7 +1105,7 @@
    "label": "신규가입 추가 혜택",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#eventSection02",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection02"
   },
@@ -1112,7 +1114,7 @@
    "label": "첫 구매 BEST",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#eventSection03",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#eventSection03"
   },
@@ -1154,7 +1156,7 @@
    "label": "여성",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestWomen",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestWomen"
   },
@@ -1163,7 +1165,7 @@
    "label": "남성",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestMen",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestMen"
   },
@@ -1172,7 +1174,7 @@
    "label": "향수/프래그런스",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestFragrance",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestFragrance"
   },
@@ -1181,7 +1183,7 @@
    "label": "뷰티",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestBeauty",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestBeauty"
   },
@@ -1190,7 +1192,7 @@
    "label": "골프/레저",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestGolf",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestGolf"
   },
@@ -1199,7 +1201,7 @@
    "label": "디지털",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestDigital",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestDigital"
   },
@@ -1208,7 +1210,7 @@
    "label": "라이프",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999#bestLife",
-   "destination_type": "anchor",
+   "destination_type": "same_page_anchor",
    "status": "declared_in_html",
    "raw_target": "#bestLife"
   },
@@ -1217,7 +1219,7 @@
    "label": "STUDIO TOMBOY 스튜디오 톰보이 에브리데이 셋업 00% 139,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610072075",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610072075"
   },
@@ -1226,7 +1228,7 @@
    "label": "STUDIO TOMBOY 카라 배색 패딩 맥 코트 00% 159,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607965328",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607965328"
   },
@@ -1235,7 +1237,7 @@
    "label": "STUDIO TOMBOY 카라 배색 패딩 맥 코트 00% 159,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607965329",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607965329"
   },
@@ -1244,7 +1246,7 @@
    "label": "VOICE OF VOICES 신세틱 퍼 카라 구스 다운 자켓 00% 239,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608986448",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608986448"
   },
@@ -1253,7 +1255,7 @@
    "label": "g-cut [26FW 최신상] 지컷(g-cut) 투턱 기모 팬츠 00% 69,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610062297",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610062297"
   },
@@ -1262,7 +1264,7 @@
    "label": "VOICE OF VOICES [SET] 하이넥 니트 가디건 + 스커트 00% 219,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608010754",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608010754"
   },
@@ -1271,7 +1273,7 @@
    "label": "ATMORE 에밀 2way 하이넥 울 베스트 (3color) 00% 114,240",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609044759",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609044759"
   },
@@ -1280,7 +1282,7 @@
    "label": "HERNO [EXCLUSIVE] 여성 신세틱 퍼 패치 다운 자켓 00% 1,352,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608981585",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608981585"
   },
@@ -1289,7 +1291,7 @@
    "label": "VOICE OF VOICES [신세계V 단독] 엠브로이더리 퀼팅 다운 베스트 00% 169,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608986446",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608986446"
   },
@@ -1298,7 +1300,7 @@
    "label": "g-cut [26FW 최신상] 지컷(g-cut) 홀가먼트 하이넥 니트 3종 00% 89,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610062296",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610062296"
   },
@@ -1307,7 +1309,7 @@
    "label": "VUORI [여성] 롱 슬리브 헤일로 에센셜 크루 티_블랙 헤더 00% 120,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610058866",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610058866"
   },
@@ -1316,7 +1318,7 @@
    "label": "VUORI [여성] 롱 슬리브 헤일로 에센셜 크루 티_에크루 헤더 00% 120,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610058867",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610058867"
   },
@@ -1325,7 +1327,7 @@
    "label": "10MONTH 벨티드 미드 다운 점퍼 00% 246,050",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608013801",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608013801"
   },
@@ -1334,7 +1336,7 @@
    "label": "10MONTH [텐먼스]긴팔 티셔츠 2개 구매시 20% 할인 00% 78,400",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610061492",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610061492"
   },
@@ -1343,7 +1345,7 @@
    "label": "10MONTH 이태리 패브릭 하이넥 하프코트 00% 341,050",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609047058",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609047058"
   },
@@ -1352,7 +1354,7 @@
    "label": "g-cut [26FW 최신상] 지컷(g-cut) 코듀로이 기모 팬츠+테슬 참장식 00% 79,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610075511",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610075511"
   },
@@ -1361,7 +1363,7 @@
    "label": "MUSEE MUSÉE Le Marais Faux Leather Jacket_Black 00% 236,640",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610066733",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610066733"
   },
@@ -1410,7 +1412,7 @@
    "label": "STUDIO TOMBOY [MEN] 스튜디오 톰보이 에브리데이 셋업 00% 139,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610072076",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610072076"
   },
@@ -1419,7 +1421,7 @@
    "label": "STUDIO TOMBOY [MEN] 오버핏 패딩 베스트 00% 109,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2606942291",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2606942291"
   },
@@ -1428,7 +1430,7 @@
    "label": "STUDIO TOMBOY [MEN] 플록 그래픽 크루넥 맨투맨 00% 49,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2608979791",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2608979791"
   },
@@ -1437,7 +1439,7 @@
    "label": "VUORI [남성] 스트라토 테크 티_챠콜 00% 95,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607959867",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607959867"
   },
@@ -1446,7 +1448,7 @@
    "label": "FERRARO MILANO [페라로밀라노] 남성 베이직 Y넥 니트 카디건 네이비 (A0C510149) 00% 37,480",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2410399285",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2410399285"
   },
@@ -1455,7 +1457,7 @@
    "label": "SHINSEGAE MEN'S COLLECTION 26FW 최신상 신세계맨즈컬렉션 캐시미어울 혼방 NEW 팬츠 2SET 00% 109,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610064611",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610064611"
   },
@@ -1464,7 +1466,7 @@
    "label": "VUORI [남성] 와플 크루_잉크 00% 150,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609031887",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609031887"
   },
@@ -1473,7 +1475,7 @@
    "label": "SHINSEGAE MEN'S COLLECTION 26FW 신세계맨즈컬렉션 울블랜디드 풀오버3SET 00% 99,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609028664",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609028664"
   },
@@ -1482,7 +1484,7 @@
    "label": "VUORI [남성] 롱 슬리브 폰토 퍼포먼스 티_미드나이트 헤더 00% 155,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610061359",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610061359"
   },
@@ -1491,7 +1493,7 @@
    "label": "EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2507052888",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2507052888"
   },
@@ -1500,7 +1502,7 @@
    "label": "SHINSEGAE MEN'S COLLECTION 26FW 최신상 신세계맨즈컬렉션 캐시미어울 혼방 니트3SET(모크넥+카라+집업) 00% 119,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610064610",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610064610"
   },
@@ -1509,7 +1511,7 @@
    "label": "PARAJUMPERS [공식] 남성 봄버 자켓 캐리어-Green Gables (24WMPMPUHF05PJ0242) 00% 596,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2411782844",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2411782844"
   },
@@ -1518,7 +1520,7 @@
    "label": "LANSMERE [Lansmere] B700 코듀로이 팬츠 (LA5921B71R) 00% 191,100",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2509566868",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2509566868"
   },
@@ -1527,7 +1529,7 @@
    "label": "LANSMERE [Lansmere] 캐시미어 모크넥 스웨터 라이트 그레이 (LA5851L022) 00% 214,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2510630522",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2510630522"
   },
@@ -1536,7 +1538,7 @@
    "label": "EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2507052887",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2507052887"
   },
@@ -1545,7 +1547,7 @@
    "label": "EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2507052889",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2507052889"
   },
@@ -1554,7 +1556,7 @@
    "label": "DIPTYQUE 오 드 퍼퓸 플레르 드 뽀 75ml 00% 311,600",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2301627339",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2301627339"
   },
@@ -1563,7 +1565,7 @@
    "label": "DIPTYQUE [홀리데이] 오 드 퍼퓸 리미티드 오르페옹 75ml 00% 328,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610073513",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610073513"
   },
@@ -1572,7 +1574,7 @@
    "label": "BYREDO 블랑쉬 오 드 퍼퓸 100ml 00% 413,250",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2504491313",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2504491313"
   },
@@ -1581,7 +1583,7 @@
    "label": "BYREDO 모하비 고스트 오 드 퍼퓸 100ml 00% 413,250",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2501643800",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2501643800"
   },
@@ -1590,7 +1592,7 @@
    "label": "BYREDO 발 다프리크 앱솔뤼 드 퍼퓸 50ml 00% 361,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2507111824",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2507111824"
   },
@@ -1599,7 +1601,7 @@
    "label": "Santa Maria Novella 멜로그라노 인 테라코타 00% 122,550",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2604874047",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2604874047"
   },
@@ -1608,7 +1610,7 @@
    "label": "MAISON FRANCIS KURKDJIAN 바카라 루쥬 540 엑스트레드퍼퓸 70ml 00% 668,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2604868971",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2604868971"
   },
@@ -1617,7 +1619,7 @@
    "label": "HERMÈS H24 에르브 비브 오 드 퍼퓸 100ml 00% 215,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2402278096",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2402278096"
   },
@@ -1626,7 +1628,7 @@
    "label": "HERMÈS [홀리데이] 떼르 데르메스 EDT 50mL+15mL 세트 00% 140,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609038674",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609038674"
   },
@@ -1635,7 +1637,7 @@
    "label": "LOEWE PERFUMES 로에베 아이레 수틸레사 오 드 뚜왈렛 100ML 00% 226,100",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2401161870",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2401161870"
   },
@@ -1644,7 +1646,7 @@
    "label": "Santa Maria Novella 프리지아 오드코롱 50ml 00% 156,750",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2604874042",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2604874042"
   },
@@ -1653,7 +1655,7 @@
    "label": "Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 00% 223,250",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610065332",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610065332"
   },
@@ -1662,7 +1664,7 @@
    "label": "HERMÈS [홀리데이] 트윌리 데르메스 EDP 50mL+15mL 세트 00% 190,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609038669",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609038669"
   },
@@ -1671,7 +1673,7 @@
    "label": "LOEWE PERFUMES 로에베 아이레 수틸레사 오 드 뚜왈렛 50ML 00% 163,400",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2401161869",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2401161869"
   },
@@ -1680,7 +1682,7 @@
    "label": "MAISON FRANCIS KURKDJIAN 바카라 루쥬 540 오드퍼퓸 70ml 00% 467,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2508280465",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2508280465"
   },
@@ -1689,7 +1691,7 @@
    "label": "JO MALONE 조말론 블랙베리 앤 베이 코롱 100ml +조말론 쇼핑백 증정 00% 142,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2302665160",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2302665160"
   },
@@ -1698,7 +1700,7 @@
    "label": "YUNJAC [쓱데이] 연작 스킨퍼펙팅 프렙 에센셜 세트 00% 36,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610076629",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610076629"
   },
@@ -1707,7 +1709,7 @@
    "label": "LA BRUKET 라부르켓 립 밤 트리오 (택3) 00% 69,600",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2503318541",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2503318541"
   },
@@ -1716,7 +1718,7 @@
    "label": "LA BRUKET 라부르켓 립 밤 듀오 (3종 택2) 00% 46,400",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2504528534",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2504528534"
   },
@@ -1725,7 +1727,7 @@
    "label": "BYREDO 라 튤립 핸드크림 30ml 00% 50,350",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2604879443",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2604879443"
   },
@@ -1734,7 +1736,7 @@
    "label": "LA BRUKET 립 밤 아몬드 코코넛 14g 00% 24,650",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2301641324",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2301641324"
   },
@@ -1743,7 +1745,7 @@
    "label": "BYREDO 블랑쉬 핸드크림 30ml 00% 50,350",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2602749207",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2602749207"
   },
@@ -1752,7 +1754,7 @@
    "label": "JOSIANE LAURE [조지앙 로르] 뿌리 볼륨팩, 크렘 볼륨 180ml 00% 161,100",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2603833058",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2603833058"
   },
@@ -1761,7 +1763,7 @@
    "label": "BYREDO 발 다프리크 핸드크림 30ml 00% 50,350",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2601712782",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2601712782"
   },
@@ -1770,7 +1772,7 @@
    "label": "Santa Maria Novella 올리오 코스메티코 (바디 블루오일) 00% 113,050",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2203470167",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2203470167"
   },
@@ -1779,7 +1781,7 @@
    "label": "Santa Maria Novella 토니코 페르 라 펠레 250ml (영양토너) 00% 72,200",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=01P0000116913",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=01P0000116913"
   },
@@ -1788,7 +1790,7 @@
    "label": "LA PERVA [알키미아] 콤포트 레그 바디오일 150ml 00% 39,420",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=01P0000116283",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=01P0000116283"
   },
@@ -1797,7 +1799,7 @@
    "label": "Santa Maria Novella 올리오 데르모프로텍티보 (바디오일) 00% 97,850",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2301608213",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2301608213"
   },
@@ -1806,7 +1808,7 @@
    "label": "HERMÈS [사용기한 27.09까지] 로즈 에르메스 로지 립 인핸서 14 로즈 아브리코테 00% 105,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2110420764",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2110420764"
   },
@@ -1815,7 +1817,7 @@
    "label": "LAURA MERCIER 세럼 바디 크림 - 앰버 바닐라 200ml 00% 125,100",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2306829337",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2306829337"
   },
@@ -1824,7 +1826,7 @@
    "label": "DIPTYQUE 바디 밤 플레르 드 뽀 200ml 00% 124,450",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2308883106",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2308883106"
   },
@@ -1833,7 +1835,7 @@
    "label": "VIDIVICI 스킨 일루미네이션 생크림 톤업 SPF30 PA++ 30ml 00% 28,800",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2505706129",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2505706129"
   },
@@ -1842,7 +1844,7 @@
    "label": "JUST AS I AM 아이엠 샴푸 N1 인텐시브 스칼프 케어 480ml (비건) 00% 27,750",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2310923853",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2310923853"
   },
@@ -1851,7 +1853,7 @@
    "label": "J.LINDEBERG [Women] 애니카 하이브리드 스웨터 자켓 00% 391,440",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2510630549",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2510630549"
   },
@@ -1860,7 +1862,7 @@
    "label": "J.LINDEBERG [Men] 해리엇 스윙 다운 자켓 00% 425,040",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2509519808",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2509519808"
   },
@@ -1869,7 +1871,7 @@
    "label": "MALBON GOLF 등판 버킷 포인트 플리스 티셔츠 DARK NAVY (MAN) 00% 183,060",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2510626157",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2510626157"
   },
@@ -1878,7 +1880,7 @@
    "label": "J.LINDEBERG [Men] 토미 다운 베스트 00% 413,840",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2509535928",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2509535928"
   },
@@ -1887,7 +1889,7 @@
    "label": "MALBON GOLF 여성 뒷플리츠 카고형 TR 스커트 MELANGE GRAY (WOMAN) 00% 226,260",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2510635802",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2510635802"
   },
@@ -1896,7 +1898,7 @@
    "label": "GANESHA YOGA PROPS 가네샤요가프랍스 가네샤 비기너 요가매트 베이직 TPE 6MM 00% 11,390",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2507125731",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2507125731"
   },
@@ -1905,7 +1907,7 @@
    "label": "SHINSEGAE GOLF SHOP_본점 [정품] ※ 선물포장 가능 ※ 26년 타이틀리스트 TITLEIST PRO V1골프볼(화이트/옐로우) 00% 73,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610072891",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610072891"
   },
@@ -1914,7 +1916,7 @@
    "label": "TAYLORMADE 여성 초경량 반팔 구스 다운 점퍼 TDN-81HG01-101 00% 134,550",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2409263249",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2409263249"
   },
@@ -1923,7 +1925,7 @@
    "label": "SPEEDO Fastskin 하이퍼 엘리트 미러수경 (아시아핏)(8-12819010) 00% 97,200",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610074178",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610074178"
   },
@@ -1932,7 +1934,7 @@
    "label": "SALOMON [살로몬] 울트라 플로우 2 L47883500 00% 137,590",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2602806937",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2602806937"
   },
@@ -1941,7 +1943,7 @@
    "label": "LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2310908178",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2310908178"
   },
@@ -1950,7 +1952,7 @@
    "label": "LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2501653561",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2501653561"
   },
@@ -1959,7 +1961,7 @@
    "label": "ROMMELSBACHER [롬멜스바흐] 올스텐 6구 계란찜기 ER600 00% 50,900",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2501636210",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2501636210"
   },
@@ -1968,7 +1970,7 @@
    "label": "LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2310908957",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2310908957"
   },
@@ -1977,7 +1979,7 @@
    "label": "FELLOW 펠로우 스태그 전기주전자 EKG PRO 600ml - 매트 블랙 00% 205,860",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2510629889",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2510629889"
   },
@@ -1986,7 +1988,7 @@
    "label": "FELLOW 펠로우 Aiden 커피 메이커 - 블랙 00% 433,150",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2505648525",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2505648525"
   },
@@ -1995,7 +1997,7 @@
    "label": "FELLOW 펠로우 스태그 전기주전자 EKG PRO 900ml - 매트 블랙 00% 225,950",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2507112633",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2507112633"
   },
@@ -2004,7 +2006,7 @@
    "label": "PHILIPS PHILIPS 필립스 면도기 무선 클렌징 팟 카트리지 2개입 세척액 CC12/51 00% 18,720",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2512690803",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2512690803"
   },
@@ -2013,7 +2015,7 @@
    "label": "SONY 소니 카메라 A7M5 (BODY) / ILCE-7M5 00% 3,523,120",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2512688502",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2512688502"
   },
@@ -2022,7 +2024,7 @@
    "label": "JENNIFEROOM 제니퍼룸 BLDC 스탠딩 헤어드라이기 PRO 00% 152,100",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2606918442",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2606918442"
   },
@@ -2031,7 +2033,7 @@
    "label": "BALMUDA [공식수입원] NEW 발뮤다 더 팟 화이트 KPT03KR 00% 164,680",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609027055",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609027055"
   },
@@ -2040,7 +2042,7 @@
    "label": "DJI DJI 오즈모 포켓 4P Osmo Pocket 4P 브이로그 콤보 00% 999,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609032949",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609032949"
   },
@@ -2049,7 +2051,7 @@
    "label": "PHILIPS PHILIPS 필립스 교체용 헤드 SH91/51 00% 62,100",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2512690760",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2512690760"
   },
@@ -2058,7 +2060,7 @@
    "label": "BALMUDA [공식수입원] NEW 발뮤다 더 팟 블랙 KPT03KR 00% 164,680",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609027056",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609027056"
   },
@@ -2067,7 +2069,7 @@
    "label": "MARSHALL 마샬 STANMORE Ⅳ (스탠모어4) 스피커 크림 00% 640,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607974364",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607974364"
   },
@@ -2076,7 +2078,7 @@
    "label": "LG LG 디오스 인덕션 BEI3QEBLOE 00% 697,140",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2605903780",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2605903780"
   },
@@ -2085,7 +2087,7 @@
    "label": "ROMMELSBACHER [롬멜스바흐] 올스텐 3구 계란찜기 ER300 00% 39,900",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2501636186",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2501636186"
   },
@@ -2094,7 +2096,7 @@
    "label": "GARMIN 가민 포러너 165 블랙 슬레이트 GPS 스마트워치 00% 249,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607975592",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607975592"
   },
@@ -2103,7 +2105,7 @@
    "label": "WAGENSTEIGER 바겐슈타이거 스텐 트윈 블레이드, 그릴 커터, 커브 커터 가위 1+1 00% 6,710",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2606929994",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2606929994"
   },
@@ -2112,7 +2114,7 @@
    "label": "WAGENSTEIGER 바겐슈타이거 브레드 박스 시리즈 주방 식탁 보관함 00% 14,450",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2605914111",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2605914111"
   },
@@ -2121,7 +2123,7 @@
    "label": "WAGENSTEIGER 바겐슈타이거 플래티넘 실리콘 멜로우 와이드 뒤집개 시리즈 00% 3,820",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2606916982",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2606916982"
   },
@@ -2130,7 +2132,7 @@
    "label": "THE JOSUN HOTEL [더조선호텔] 헤리티지 타월 10매 세트 00% 78,900",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607949464",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607949464"
   },
@@ -2139,7 +2141,7 @@
    "label": "ODENSE 오덴세 레고트 커트러리 한식기 1인조 (색상선택) 00% 13,810",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2301618908",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2301618908"
   },
@@ -2148,7 +2150,7 @@
    "label": "THE JOSUN HOTEL [더조선호텔] 루나 플로어매트 L (발 매트 1P) 00% 25,890",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2501610686",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2501610686"
   },
@@ -2157,7 +2159,7 @@
    "label": "AMT [박스훼손/미세스크레치] AMT 316Ti 스텐 통5중 코닉 파티웍 28cm 00% 175,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610076668",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610076668"
   },
@@ -2166,7 +2168,7 @@
    "label": "AMT [박스훼손/미세스크레치] AMT 316Ti 통5중 프로 소테팬 22cm 00% 83,300",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607956285",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607956285"
   },
@@ -2175,7 +2177,7 @@
    "label": "AMT [박스훼손/미세스크레치] AMT 316Ti 프로 플랫팬 24cm 00% 99,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610076648",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610076648"
   },
@@ -2184,7 +2186,7 @@
    "label": "STAUB [스타우브] 베이비 웍 16cm 체리블러썸 ST3117117 00% 106,250",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2310922606",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2310922606"
   },
@@ -2193,7 +2195,7 @@
    "label": "THE JOSUN HOTEL [더조선호텔] 루나 플로어매트 S (발 매트 1P) 00% 17,500",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2501610687",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2501610687"
   },
@@ -2202,7 +2204,7 @@
    "label": "HARORO 하로로 스텐 무시 찜기 세트 (찜기+뚜껑) 00% 10,540",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607969529",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607969529"
   },
@@ -2211,7 +2213,7 @@
    "label": "HARORO 하로로 스텐 무쿠 감자칼 감자필러 00% 3,820",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607969566",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607969566"
   },
@@ -2220,7 +2222,7 @@
    "label": "HARORO 하로로 스텐 304 해머톤 아이스 컵 510ml+510ml 00% 15,380",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2607969981",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2607969981"
   },
@@ -2229,7 +2231,7 @@
    "label": "STANLEY [스탠리공식유통사] 카페 투 고 트래블 머그 473ML 00% 35,700",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609027309",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609027309"
   },
@@ -2238,7 +2240,7 @@
    "label": "LEGO 레고 보태니컬 10371 겨울엔 너와 함께 [공식] 00% 29,900",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2610092783",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2610092783"
   },
@@ -2247,7 +2249,7 @@
    "label": "BODUM 보덤 모닝 커피 패키지(커피 그라인더 화이트, 카페티에라 프렌치프레스 오프화이트, 캔틴 더블월 글라스 2P) 00% 41,000",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609036861",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2609036861"
   },
@@ -2256,7 +2258,7 @@
    "label": "ODENSE 오덴세 레고트 커트러리 양식기 1인조 (색상선택) 00% 13,810",
    "element": "a",
    "destination_url": "https://m.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2301618910",
-   "destination_type": "product",
+   "destination_type": "product_detail",
    "status": "declared_in_html",
    "raw_target": "/goods/initDetailGoods.siv?goods_no=2301618910"
   },
@@ -2266,7 +2268,8 @@
    "element": "button",
    "destination_url": null,
    "destination_type": "unknown",
-   "status": "unverified"
+   "status": "unverified",
+   "raw_target": "closePopup()"
   },
   {
    "source_url": "https://m.shinsegaev.com/event/initEventDetail.siv?event_no=E261015999",
@@ -2287,34 +2290,187 @@
   {
    "id": "s01",
    "order": 1,
-   "role": "hero",
-   "role_evidence": "position_in_dom",
+   "role": "content",
+   "role_evidence": "container_markup",
    "headings": [
-    "쓱데이 첫구매 혜택",
-    "이벤트 유의사항 보기",
-    "이벤트 1. 첫 구매 응원 포인트",
-    "이벤트 2. 첫 구매 감사 포인트",
-    "이벤트 3. 신세계V 신규 가입 혜택"
+    "쓱데이 첫구매 혜택"
    ],
-   "text": "쓱데이 첫구매 혜택 좋아요 공유 메뉴 연중 최대 혜택 시그니처 큐레이션 첫 구매 고객 혜택 쓱데이 모아보기 2026 대한민국 쓱데이 첫 구매 고객이라면 최대 1만 포인트 증정 첫 구매 포인트 신규가입 추가 혜택 첫 구매 BEST BENEFIT 01 신세계V 첫 구매 혜택 첫 구매 응원 포인트 행사종료 발급 대상 : 발급 당일까지 신세계V 구매이력이 없는 온라인 통합 회원 발급 기간 : 10.30(금) - 11.08(일) 이내 1회 발급 가능 사용 기한: 발급 후 7일 이내 사용 첫 구매 감사 포인트 발급 대상 : 10.30(금) - 11.08(일) 이내 신세계V 첫 구매 완료한 회원 (취소/반품 제외. 배송 완료 이후 발급 가능) 발급 기간 : 10.30(금) - 11.15(일) 기간 내 1회 발급 가능 사용기한: 발급 후 7일 이내 사용 BENEFIT 02 신세계V 신규 가입 혜택 웰컴 포인트 발급 대상: 통합 멤버십 회원으로 신규 가입시 자동 지급 (신세계인터내셔날 오프라인 기존 가입 회원이 온라인 전환한 경우 제외) 사용기한: 가입 다음날까지 사용 웰컴 쿠폰팩 발급 대상: 행사 기간 신세계V 신규가입 회원 행사 기간 내 1회 발급 가능 사용기한: 발급 후 30일 이내 사용 쿠폰별 적용 브랜드는 MY페이지 > 쿠폰에서 확인 가능 (행사 기간 중 브랜드 변동될 수 있습니다.) 매일 저녁 10시에 열리는 선착순 1만 포인트 받으러 가기 다른 사람들이 많이 산 첫 구매 아이템은? 여성 남성 향수/프래그런스 뷰티 골프/레저 디지털 라이프 STUDIO TOMBOY 스튜디오 톰보이 에브리데이 셋업 00% 139,000 STUDIO TOMBOY 카라 배색 패딩 맥 코트 00% 159,500 STUDIO TOMBOY 카라 배색 패딩 맥 코트 00% 159,500 VOICE OF VOICES 신세틱 퍼 카라 구스 다운 자켓 00% 239,500 g-cut [26FW 최신상] 지컷(g-cut) 투턱 기모 팬츠 00% 69,000 VOICE OF VOICES [SET] 하이넥 니트 가디건 + 스커트 00% 219,000 ATMORE 에밀 2way 하이넥 울 베스트 (3color) 00% 114,240 HERNO [EXCLUSIVE] 여성 신세틱 퍼 패치 다운 자켓 00% 1,352,000 VOICE OF VOICES [신세계V 단독] 엠브로이더리 퀼팅 다운 베스트 00% 169,000 g-cut [26FW 최신상] 지컷(g-cut) 홀가먼트 하이넥 니트 3종 00% 89,000 VUORI [여성] 롱 슬리브 헤일로 에센셜 크루 티_블랙 헤더 00% 120,000 VUORI [여성] 롱 슬리브 헤일로 에센셜 크루 티_에크루 헤더 00% 120,000 10MONTH 벨티드 미드 다운 점퍼 00% 246,050 10MONTH [텐먼스]긴팔 티셔츠 2개 구매시 20% 할인 00% 78,400 10MONTH 이태리 패브릭 하이넥 하프코트 00% 341,050 g-cut [26FW 최신상] 지컷(g-cut) 코듀로이 기모 팬츠+테슬 참장식 00% 79,000 MUSEE MUSÉE Le Marais Faux Leather Jacket_Black 00% 236,640 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. STUDIO TOMBOY [MEN] 스튜디오 톰보이 에브리데이 셋업 00% 139,000 STUDIO TOMBOY [MEN] 오버핏 패딩 베스트 00% 109,500 STUDIO TOMBOY [MEN] 플록 그래픽 크루넥 맨투맨 00% 49,000 VUORI [남성] 스트라토 테크 티_챠콜 00% 95,000 FERRARO MILANO [페라로밀라노] 남성 베이직 Y넥 니트 카디건 네이비 (A0C510149) 00% 37,480 SHINSEGAE MEN'S COLLECTION 26FW 최신상 신세계맨즈컬렉션 캐시미어울 혼방 NEW 팬츠 2SET 00% 109,000 VUORI [남성] 와플 크루_잉크 00% 150,000 SHINSEGAE MEN'S COLLECTION 26FW 신세계맨즈컬렉션 울블랜디드 풀오버3SET 00% 99,000 VUORI [남성] 롱 슬리브 폰토 퍼포먼스 티_미드나이트 헤더 00% 155,000 EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220 SHINSEGAE MEN'S COLLECTION 26FW 최신상 신세계맨즈컬렉션 캐시미어울 혼방 니트3SET(모크넥+카라+집업) 00% 119,000 PARAJUMPERS [공식] 남성 봄버 자켓 캐리어-Green Gables (24WMPMPUHF05PJ0242) 00% 596,000 LANSMERE [Lansmere] B700 코듀로이 팬츠 (LA5921B71R) 00% 191,100 LANSMERE [Lansmere] 캐시미어 모크넥 스웨터 라이트 그레이 (LA5851L022) 00% 214,500 EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220 EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. DIPTYQUE 오 드 퍼퓸 플레르 드 뽀 75ml 00% 311,600 DIPTYQUE [홀리데이] 오 드 퍼퓸 리미티드 오르페옹 75ml 00% 328,000 BYREDO 블랑쉬 오 드 퍼퓸 100ml 00% 413,250 BYREDO 모하비 고스트 오 드 퍼퓸 100ml 00% 413,250 BYREDO 발 다프리크 앱솔뤼 드 퍼퓸 50ml 00% 361,000 Santa Maria Novella 멜로그라노 인 테라코타 00% 122,550 MAISON FRANCIS KURKDJIAN 바카라 루쥬 540 엑스트레드퍼퓸 70ml 00% 668,000 HERMÈS H24 에르브 비브 오 드 퍼퓸 100ml 00% 215,000 HERMÈS [홀리데이] 떼르 데르메스 EDT 50mL+15mL 세트 00% 140,000 LOEWE PERFUMES 로에베 아이레 수틸레사 오 드 뚜왈렛 100ML 00% 226,100 Santa Maria Novella 프리지아 오드코롱 50ml 00% 156,750 Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 00% 223,250 HERMÈS [홀리데이] 트윌리 데르메스 EDP 50mL+15mL 세트 00% 190,000 LOEWE PERFUMES 로에베 아이레 수틸레사 오 드 뚜왈렛 50ML 00% 163,400 MAISON FRANCIS KURKDJIAN 바카라 루쥬 540 오드퍼퓸 70ml 00% 467,000 JO MALONE 조말론 블랙베리 앤 베이 코롱 100ml +조말론 쇼핑백 증정 00% 142,500 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. YUNJAC [쓱데이] 연작 스킨퍼펙팅 프렙 에센셜 세트 00% 36,000 LA BRUKET 라부르켓 립 밤 트리오 (택3) 00% 69,600 LA BRUKET 라부르켓 립 밤 듀오 (3종 택2) 00% 46,400 BYREDO 라 튤립 핸드크림 30ml 00% 50,350 LA BRUKET 립 밤 아몬드 코코넛 14g 00% 24,650 BYREDO 블랑쉬 핸드크림 30ml 00% 50,350 JOSIANE LAURE [조지앙 로르] 뿌리 볼륨팩, 크렘 볼륨 180ml 00% 161,100 BYREDO 발 다프리크 핸드크림 30ml 00% 50,350 Santa Maria Novella 올리오 코스메티코 (바디 블루오일) 00% 113,050 Santa Maria Novella 토니코 페르 라 펠레 250ml (영양토너) 00% 72,200 LA PERVA [알키미아] 콤포트 레그 바디오일 150ml 00% 39,420 Santa Maria Novella 올리오 데르모프로텍티보 (바디오일) 00% 97,850 HERMÈS [사용기한 27.09까지] 로즈 에르메스 로지 립 인핸서 14 로즈 아브리코테 00% 105,000 LAURA MERCIER 세럼 바디 크림 - 앰버 바닐라 200ml 00% 125,100 DIPTYQUE 바디 밤 플레르 드 뽀 200ml 00% 124,450 VIDIVICI 스킨 일루미네이션 생크림 톤업 SPF30 PA++ 30ml 00% 28,800 JUST AS I AM 아이엠 샴푸 N1 인텐시브 스칼프 케어 480ml (비건) 00% 27,750 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. J.LINDEBERG [Women] 애니카 하이브리드 스웨터 자켓 00% 391,440 J.LINDEBERG [Men] 해리엇 스윙 다운 자켓 00% 425,040 MALBON GOLF 등판 버킷 포인트 플리스 티셔츠 DARK NAVY (MAN) 00% 183,060 J.LINDEBERG [Men] 토미 다운 베스트 00% 413,840 MALBON GOLF 여성 뒷플리츠 카고형 TR 스커트 MELANGE GRAY (WOMAN) 00% 226,260 GANESHA YOGA PROPS 가네샤요가프랍스 가네샤 비기너 요가매트 베이직 TPE 6MM 00% 11,390 SHINSEGAE GOLF SHOP_본점 [정품] ※ 선물포장 가능 ※ 26년 타이틀리스트 TITLEIST PRO V1골프볼(화이트/옐로우) 00% 73,000 TAYLORMADE 여성 초경량 반팔 구스 다운 점퍼 TDN-81HG01-101 00% 134,550 SPEEDO Fastskin 하이퍼 엘리트 미러수경 (아시아핏)(8-12819010) 00% 97,200 SALOMON [살로몬] 울트라 플로우 2 L47883500 00% 137,590 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180 LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180 ROMMELSBACHER [롬멜스바흐] 올스텐 6구 계란찜기 ER600 00% 50,900 LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180 FELLOW 펠로우 스태그 전기주전자 EKG PRO 600ml - 매트 블랙 00% 205,860 FELLOW 펠로우 Aiden 커피 메이커 - 블랙 00% 433,150 FELLOW 펠로우 스태그 전기주전자 EKG PRO 900ml - 매트 블랙 00% 225,950 PHILIPS PHILIPS 필립스 면도기 무선 클렌징 팟 카트리지 2개입 세척액 CC12/51 00% 18,720 SONY 소니 카메라 A7M5 (BODY) / ILCE-7M5 00% 3,523,120 JENNIFEROOM 제니퍼룸 BLDC 스탠딩 헤어드라이기 PRO 00% 152,100 BALMUDA [공식수입원] NEW 발뮤다 더 팟 화이트 KPT03KR 00% 164,680 DJI DJI 오즈모 포켓 4P Osmo Pocket 4P 브이로그 콤보 00% 999,000 PHILIPS PHILIPS 필립스 교체용 헤드 SH91/51 00% 62,100 BALMUDA [공식수입원] NEW 발뮤다 더 팟 블랙 KPT03KR 00% 164,680 MARSHALL 마샬 STANMORE Ⅳ (스탠모어4) 스피커 크림 00% 640,000 LG LG 디오스 인덕션 BEI3QEBLOE 00% 697,140 ROMMELSBACHER [롬멜스바흐] 올스텐 3구 계란찜기 ER300 00% 39,900 GARMIN 가민 포러너 165 블랙 슬레이트 GPS 스마트워치 00% 249,000 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. WAGENSTEIGER 바겐슈타이거 스텐 트윈 블레이드, 그릴 커터, 커브 커터 가위 1+1 00% 6,710 WAGENSTEIGER 바겐슈타이거 브레드 박스 시리즈 주방 식탁 보관함 00% 14,450 WAGENSTEIGER 바겐슈타이거 플래티넘 실리콘 멜로우 와이드 뒤집개 시리즈 00% 3,820 THE JOSUN HOTEL [더조선호텔] 헤리티지 타월 10매 세트 00% 78,900 ODENSE 오덴세 레고트 커트러리 한식기 1인조 (색상선택) 00% 13,810 THE JOSUN HOTEL [더조선호텔] 루나 플로어매트 L (발 매트 1P) 00% 25,890 AMT [박스훼손/미세스크레치] AMT 316Ti 스텐 통5중 코닉 파티웍 28cm 00% 175,000 AMT [박스훼손/미세스크레치] AMT 316Ti 통5중 프로 소테팬 22cm 00% 83,300 AMT [박스훼손/미세스크레치] AMT 316Ti 프로 플랫팬 24cm 00% 99,000 STAUB [스타우브] 베이비 웍 16cm 체리블러썸 ST3117117 00% 106,250 THE JOSUN HOTEL [더조선호텔] 루나 플로어매트 S (발 매트 1P) 00% 17,500 HARORO 하로로 스텐 무시 찜기 세트 (찜기+뚜껑) 00% 10,540 HARORO 하로로 스텐 무쿠 감자칼 감자필러 00% 3,820 HARORO 하로로 스텐 304 해머톤 아이스 컵 510ml+510ml 00% 15,380 STANLEY [스탠리공식유통사] 카페 투 고 트래블 머그 473ML 00% 35,700 LEGO 레고 보태니컬 10371 겨울엔 너와 함께 [공식] 00% 29,900 BODUM 보덤 모닝 커피 패키지(커피 그라인더 화이트, 카페티에라 프렌치프레스 오프화이트, 캔틴 더블월 글라스 2P) 00% 41,000 ODENSE 오덴세 레고트 커트러리 양식기 1인조 (색상선택) 00% 13,810 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. 동일한 브랜드는 최대 3개까지 노출됩니다. 매일 00시에 업데이트됩니다. 이미 다운로드 받았습니다. 확인 참여 대상이 아닙니다. 확인 참여 대상이 아닙니다. *쓱데이 (10.30 - 11.08) 기간 중 첫 구매한 경우 발급 가능합니다. (배송완료 이후 발급 가능) 확인 참여 대상이 아닙니다. *쓱데이 (10.30 - 11.08) 기간 중 첫 구매한 경우 발급 가능합니다. 확인 5천 e포인트가 발급되었습니다. 사용기한: 발급 후 7일 이내 확인 신규가입 쿠폰을 이미 다운받았습니다. 확인 이벤트 대상이 아닙니다. 확인 신규가입 쿠폰팩 발급완료 확인 이벤트 유의사항 보기 접힘/펼침 버튼 이벤트 유의사항 보기 이벤트 1. 첫 구매 응원 포인트 발급 기간 : 10.30(금) - 11.08(일) 대상 회원 : 발급 당일까지 신세계V 구매이력이 없는 온라인 회원 전체 마케팅 수신 동의하여야 참여 가능합니다 (수신동의 항목 : SMS, E-mail, DM(카탈로그), CALL, 신세계V APP PUSH) 발급 즉시 사용 가능합니다. 발급된 e포인트는 7일동안 사용 가능하며, 결제금액 기준 50%까지 사용 가능합니다. 미사용 e포인트는 소멸되며 재지급 되지 않습니다 이벤트 2. 첫 구매 감사 포인트 첫 구매 기간 : 10.30(금) - 11.08(일) 포인트 발급 기간 : 10.30(금) - 11.15(일) 대상 회원 : 쓱데이(10.30 - 11.08) 기간 중 첫구매 후 배송까지 완료된 이후 발급 가능 전체 마케팅 수신 동의하여야 참여 가능합니다 (수신동의 항목 : SMS, E-mail, DM(카탈로그), CALL, 신세계V APP PUSH) 발급 즉시 사용 가능합니다. 발급된 e포인트는 7일동안 사용 가능하며, 결제금액 기준 50%까지 사용 가능합니다. 미사용 e포인트는 소멸되며 재지급 되지 않습니다 이벤트 3. 신세계V 신규 가입 혜택 해당 혜택은 \"WELCOME BENEFIT\" 이벤트에서 제공되는 혜택과 동일하며, 중복 지급되지 않습니다. 대상 회원 : 2026.01.01 이후 신규가입한 신세계V 온라인 통합회원 * 오프라인 회원에서 온라인 등록 전환한 회원도 발급 가능 *이미 간편회원으로 가입한 경우는 발급 제외됩 쿠폰 혜택 : ID당 기간 중 1회 발급 가능 (발급 후 30일 이내 사용) 포인트 혜택 : 가입시 자동 지급. (지급 다음날까지 사용 가능) 쿠폰 혜택은 ​​​​​​​전체 마케팅 수신 동의하여야 발급 가능합니다 (수신동의 항목 : SMS, E-mail, DM(카탈로그), CALL, 신세계V APP PUSH) 발급된 혜택은 MY페이지에서 사용 가능합니다. (쿠폰 적용 브랜드는 MY페이지 > 쿠폰에서 확인 가능) 미사용 e포인트는 소멸되며 재지급 되지 않습니다 ※ 해당 이벤트는 당사 사정에 따라 사전 고지없이 변경 또는 중단될 수 있습니다.",
+   "text": "쓱데이 첫구매 혜택 좋아요 공유 메뉴",
    "dom_path": [
+    1,
     1
    ],
    "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "s02",
+   "order": 2,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "연중 최대 혜택 시그니처 큐레이션 첫 구매 고객 혜택 쓱데이 모아보기",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "s03",
+   "order": 3,
+   "role": "hero",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "2026 대한민국 쓱데이 첫 구매 고객이라면 최대 1만 포인트 증정",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    2
+   ],
+   "dom_id": null,
    "image_ids": [
-    "i0001",
+    "i0001"
+   ],
+   "relationship_indexes": []
+  },
+  {
+   "id": "s04",
+   "order": 4,
+   "role": "section_navigation",
+   "role_evidence": "navigation_markup",
+   "headings": [],
+   "text": "첫 구매 포인트 신규가입 추가 혜택 첫 구매 BEST",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    3,
+    1
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "s05",
+   "order": 5,
+   "role": "participation_event",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT 01 신세계V 첫 구매 혜택 첫 구매 응원 포인트 행사종료 발급 대상 : 발급 당일까지 신세계V 구매이력이 없는 온라인 통합 회원 발급 기간 : 10.30(금) - 11.08(일) 이내 1회 발급 가능 사용 기한: 발급 후 7일 이내 사용 첫 구매 감사 포인트 발급 대상 : 10.30(금) - 11.08(일) 이내 신세계V 첫 구매 완료한 회원 (취소/반품 제외. 배송 완료 이후 발급 가능) 발급 기간 : 10.30(금) - 11.15(일) 기간 내 1회 발급 가능 사용기한: 발급 후 7일 이내 사용",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    3,
+    2
+   ],
+   "dom_id": "eventSection01",
+   "image_ids": [
     "i0002",
     "i0003",
     "i0004",
     "i0005",
-    "i0006",
+    "i0006"
+   ],
+   "relationship_indexes": [
+    10,
+    11
+   ]
+  },
+  {
+   "id": "s06",
+   "order": 6,
+   "role": "participation_event",
+   "role_evidence": "heading_or_container",
+   "headings": [],
+   "text": "BENEFIT 02 신세계V 신규 가입 혜택 웰컴 포인트 발급 대상: 통합 멤버십 회원으로 신규 가입시 자동 지급 (신세계인터내셔날 오프라인 기존 가입 회원이 온라인 전환한 경우 제외) 사용기한: 가입 다음날까지 사용 웰컴 쿠폰팩 발급 대상: 행사 기간 신세계V 신규가입 회원 행사 기간 내 1회 발급 가능 사용기한: 발급 후 30일 이내 사용 쿠폰별 적용 브랜드는 MY페이지 > 쿠폰에서 확인 가능 (행사 기간 중 브랜드 변동될 수 있습니다.)",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    3,
+    3
+   ],
+   "dom_id": "eventSection02",
+   "image_ids": [
     "i0007",
     "i0008",
+    "i0004",
     "i0009",
     "i0010",
     "i0011",
-    "i0012",
-    "i0013",
+    "i0012"
+   ],
+   "relationship_indexes": [
+    12
+   ]
+  },
+  {
+   "id": "s07",
+   "order": 7,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "매일 저녁 10시에 열리는 선착순 1만 포인트 받으러 가기",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [
+    "i0013"
+   ],
+   "relationship_indexes": [
+    13
+   ]
+  },
+  {
+   "id": "s08",
+   "order": 8,
+   "role": "product_list",
+   "role_evidence": "product_links",
+   "headings": [],
+   "text": "다른 사람들이 많이 산 첫 구매 아이템은? 여성 남성 향수/프래그런스 뷰티 골프/레저 디지털 라이프 STUDIO TOMBOY 스튜디오 톰보이 에브리데이 셋업 00% 139,000 STUDIO TOMBOY 카라 배색 패딩 맥 코트 00% 159,500 STUDIO TOMBOY 카라 배색 패딩 맥 코트 00% 159,500 VOICE OF VOICES 신세틱 퍼 카라 구스 다운 자켓 00% 239,500 g-cut [26FW 최신상] 지컷(g-cut) 투턱 기모 팬츠 00% 69,000 VOICE OF VOICES [SET] 하이넥 니트 가디건 + 스커트 00% 219,000 ATMORE 에밀 2way 하이넥 울 베스트 (3color) 00% 114,240 HERNO [EXCLUSIVE] 여성 신세틱 퍼 패치 다운 자켓 00% 1,352,000 VOICE OF VOICES [신세계V 단독] 엠브로이더리 퀼팅 다운 베스트 00% 169,000 g-cut [26FW 최신상] 지컷(g-cut) 홀가먼트 하이넥 니트 3종 00% 89,000 VUORI [여성] 롱 슬리브 헤일로 에센셜 크루 티_블랙 헤더 00% 120,000 VUORI [여성] 롱 슬리브 헤일로 에센셜 크루 티_에크루 헤더 00% 120,000 10MONTH 벨티드 미드 다운 점퍼 00% 246,050 10MONTH [텐먼스]긴팔 티셔츠 2개 구매시 20% 할인 00% 78,400 10MONTH 이태리 패브릭 하이넥 하프코트 00% 341,050 g-cut [26FW 최신상] 지컷(g-cut) 코듀로이 기모 팬츠+테슬 참장식 00% 79,000 MUSEE MUSÉE Le Marais Faux Leather Jacket_Black 00% 236,640 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. STUDIO TOMBOY [MEN] 스튜디오 톰보이 에브리데이 셋업 00% 139,000 STUDIO TOMBOY [MEN] 오버핏 패딩 베스트 00% 109,500 STUDIO TOMBOY [MEN] 플록 그래픽 크루넥 맨투맨 00% 49,000 VUORI [남성] 스트라토 테크 티_챠콜 00% 95,000 FERRARO MILANO [페라로밀라노] 남성 베이직 Y넥 니트 카디건 네이비 (A0C510149) 00% 37,480 SHINSEGAE MEN'S COLLECTION 26FW 최신상 신세계맨즈컬렉션 캐시미어울 혼방 NEW 팬츠 2SET 00% 109,000 VUORI [남성] 와플 크루_잉크 00% 150,000 SHINSEGAE MEN'S COLLECTION 26FW 신세계맨즈컬렉션 울블랜디드 풀오버3SET 00% 99,000 VUORI [남성] 롱 슬리브 폰토 퍼포먼스 티_미드나이트 헤더 00% 155,000 EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220 SHINSEGAE MEN'S COLLECTION 26FW 최신상 신세계맨즈컬렉션 캐시미어울 혼방 니트3SET(모크넥+카라+집업) 00% 119,000 PARAJUMPERS [공식] 남성 봄버 자켓 캐리어-Green Gables (24WMPMPUHF05PJ0242) 00% 596,000 LANSMERE [Lansmere] B700 코듀로이 팬츠 (LA5921B71R) 00% 191,100 LANSMERE [Lansmere] 캐시미어 모크넥 스웨터 라이트 그레이 (LA5851L022) 00% 214,500 EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220 EMPORIO ARMANI UNDERWEAR 남성 라인 보더 밴딩 코튼 드로즈 00% 23,220 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. DIPTYQUE 오 드 퍼퓸 플레르 드 뽀 75ml 00% 311,600 DIPTYQUE [홀리데이] 오 드 퍼퓸 리미티드 오르페옹 75ml 00% 328,000 BYREDO 블랑쉬 오 드 퍼퓸 100ml 00% 413,250 BYREDO 모하비 고스트 오 드 퍼퓸 100ml 00% 413,250 BYREDO 발 다프리크 앱솔뤼 드 퍼퓸 50ml 00% 361,000 Santa Maria Novella 멜로그라노 인 테라코타 00% 122,550 MAISON FRANCIS KURKDJIAN 바카라 루쥬 540 엑스트레드퍼퓸 70ml 00% 668,000 HERMÈS H24 에르브 비브 오 드 퍼퓸 100ml 00% 215,000 HERMÈS [홀리데이] 떼르 데르메스 EDT 50mL+15mL 세트 00% 140,000 LOEWE PERFUMES 로에베 아이레 수틸레사 오 드 뚜왈렛 100ML 00% 226,100 Santa Maria Novella 프리지아 오드코롱 50ml 00% 156,750 Santa Maria Novella [쓱데이] 프리지아 오드코롱 100ml + 사은품 세트 00% 223,250 HERMÈS [홀리데이] 트윌리 데르메스 EDP 50mL+15mL 세트 00% 190,000 LOEWE PERFUMES 로에베 아이레 수틸레사 오 드 뚜왈렛 50ML 00% 163,400 MAISON FRANCIS KURKDJIAN 바카라 루쥬 540 오드퍼퓸 70ml 00% 467,000 JO MALONE 조말론 블랙베리 앤 베이 코롱 100ml +조말론 쇼핑백 증정 00% 142,500 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. YUNJAC [쓱데이] 연작 스킨퍼펙팅 프렙 에센셜 세트 00% 36,000 LA BRUKET 라부르켓 립 밤 트리오 (택3) 00% 69,600 LA BRUKET 라부르켓 립 밤 듀오 (3종 택2) 00% 46,400 BYREDO 라 튤립 핸드크림 30ml 00% 50,350 LA BRUKET 립 밤 아몬드 코코넛 14g 00% 24,650 BYREDO 블랑쉬 핸드크림 30ml 00% 50,350 JOSIANE LAURE [조지앙 로르] 뿌리 볼륨팩, 크렘 볼륨 180ml 00% 161,100 BYREDO 발 다프리크 핸드크림 30ml 00% 50,350 Santa Maria Novella 올리오 코스메티코 (바디 블루오일) 00% 113,050 Santa Maria Novella 토니코 페르 라 펠레 250ml (영양토너) 00% 72,200 LA PERVA [알키미아] 콤포트 레그 바디오일 150ml 00% 39,420 Santa Maria Novella 올리오 데르모프로텍티보 (바디오일) 00% 97,850 HERMÈS [사용기한 27.09까지] 로즈 에르메스 로지 립 인핸서 14 로즈 아브리코테 00% 105,000 LAURA MERCIER 세럼 바디 크림 - 앰버 바닐라 200ml 00% 125,100 DIPTYQUE 바디 밤 플레르 드 뽀 200ml 00% 124,450 VIDIVICI 스킨 일루미네이션 생크림 톤업 SPF30 PA++ 30ml 00% 28,800 JUST AS I AM 아이엠 샴푸 N1 인텐시브 스칼프 케어 480ml (비건) 00% 27,750 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. J.LINDEBERG [Women] 애니카 하이브리드 스웨터 자켓 00% 391,440 J.LINDEBERG [Men] 해리엇 스윙 다운 자켓 00% 425,040 MALBON GOLF 등판 버킷 포인트 플리스 티셔츠 DARK NAVY (MAN) 00% 183,060 J.LINDEBERG [Men] 토미 다운 베스트 00% 413,840 MALBON GOLF 여성 뒷플리츠 카고형 TR 스커트 MELANGE GRAY (WOMAN) 00% 226,260 GANESHA YOGA PROPS 가네샤요가프랍스 가네샤 비기너 요가매트 베이직 TPE 6MM 00% 11,390 SHINSEGAE GOLF SHOP_본점 [정품] ※ 선물포장 가능 ※ 26년 타이틀리스트 TITLEIST PRO V1골프볼(화이트/옐로우) 00% 73,000 TAYLORMADE 여성 초경량 반팔 구스 다운 점퍼 TDN-81HG01-101 00% 134,550 SPEEDO Fastskin 하이퍼 엘리트 미러수경 (아시아핏)(8-12819010) 00% 97,200 SALOMON [살로몬] 울트라 플로우 2 L47883500 00% 137,590 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180 LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180 ROMMELSBACHER [롬멜스바흐] 올스텐 6구 계란찜기 ER600 00% 50,900 LUMENA 루메나 무선 조명 가습기 MIST STAND 00% 54,180 FELLOW 펠로우 스태그 전기주전자 EKG PRO 600ml - 매트 블랙 00% 205,860 FELLOW 펠로우 Aiden 커피 메이커 - 블랙 00% 433,150 FELLOW 펠로우 스태그 전기주전자 EKG PRO 900ml - 매트 블랙 00% 225,950 PHILIPS PHILIPS 필립스 면도기 무선 클렌징 팟 카트리지 2개입 세척액 CC12/51 00% 18,720 SONY 소니 카메라 A7M5 (BODY) / ILCE-7M5 00% 3,523,120 JENNIFEROOM 제니퍼룸 BLDC 스탠딩 헤어드라이기 PRO 00% 152,100 BALMUDA [공식수입원] NEW 발뮤다 더 팟 화이트 KPT03KR 00% 164,680 DJI DJI 오즈모 포켓 4P Osmo Pocket 4P 브이로그 콤보 00% 999,000 PHILIPS PHILIPS 필립스 교체용 헤드 SH91/51 00% 62,100 BALMUDA [공식수입원] NEW 발뮤다 더 팟 블랙 KPT03KR 00% 164,680 MARSHALL 마샬 STANMORE Ⅳ (스탠모어4) 스피커 크림 00% 640,000 LG LG 디오스 인덕션 BEI3QEBLOE 00% 697,140 ROMMELSBACHER [롬멜스바흐] 올스텐 3구 계란찜기 ER300 00% 39,900 GARMIN 가민 포러너 165 블랙 슬레이트 GPS 스마트워치 00% 249,000 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. WAGENSTEIGER 바겐슈타이거 스텐 트윈 블레이드, 그릴 커터, 커브 커터 가위 1+1 00% 6,710 WAGENSTEIGER 바겐슈타이거 브레드 박스 시리즈 주방 식탁 보관함 00% 14,450 WAGENSTEIGER 바겐슈타이거 플래티넘 실리콘 멜로우 와이드 뒤집개 시리즈 00% 3,820 THE JOSUN HOTEL [더조선호텔] 헤리티지 타월 10매 세트 00% 78,900 ODENSE 오덴세 레고트 커트러리 한식기 1인조 (색상선택) 00% 13,810 THE JOSUN HOTEL [더조선호텔] 루나 플로어매트 L (발 매트 1P) 00% 25,890 AMT [박스훼손/미세스크레치] AMT 316Ti 스텐 통5중 코닉 파티웍 28cm 00% 175,000 AMT [박스훼손/미세스크레치] AMT 316Ti 통5중 프로 소테팬 22cm 00% 83,300 AMT [박스훼손/미세스크레치] AMT 316Ti 프로 플랫팬 24cm 00% 99,000 STAUB [스타우브] 베이비 웍 16cm 체리블러썸 ST3117117 00% 106,250 THE JOSUN HOTEL [더조선호텔] 루나 플로어매트 S (발 매트 1P) 00% 17,500 HARORO 하로로 스텐 무시 찜기 세트 (찜기+뚜껑) 00% 10,540 HARORO 하로로 스텐 무쿠 감자칼 감자필러 00% 3,820 HARORO 하로로 스텐 304 해머톤 아이스 컵 510ml+510ml 00% 15,380 STANLEY [스탠리공식유통사] 카페 투 고 트래블 머그 473ML 00% 35,700 LEGO 레고 보태니컬 10371 겨울엔 너와 함께 [공식] 00% 29,900 BODUM 보덤 모닝 커피 패키지(커피 그라인더 화이트, 카페티에라 프렌치프레스 오프화이트, 캔틴 더블월 글라스 2P) 00% 41,000 ODENSE 오덴세 레고트 커트러리 양식기 1인조 (색상선택) 00% 13,810 이전 상품 다음 상품 베스트 상품을 집계 중 입니다. 동일한 브랜드는 최대 3개까지 노출됩니다. 매일 00시에 업데이트됩니다.",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    3,
+    5
+   ],
+   "dom_id": "eventSection03",
+   "image_ids": [
     "i0014",
     "i0015",
     "i0016",
@@ -2430,20 +2586,6 @@
     "i0126"
    ],
    "relationship_indexes": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
     14,
     15,
     16,
@@ -2567,8 +2709,188 @@
     134,
     135,
     136,
-    137,
-    138,
+    137
+   ]
+  },
+  {
+   "id": "s09",
+   "order": 9,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "이미 다운로드 받았습니다. 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    4
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s10",
+   "order": 10,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "참여 대상이 아닙니다. 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    5
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s11",
+   "order": 11,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "참여 대상이 아닙니다. *쓱데이 (10.30 - 11.08) 기간 중 첫 구매한 경우 발급 가능합니다. (배송완료 이후 발급 가능) 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    6
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s12",
+   "order": 12,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "참여 대상이 아닙니다. *쓱데이 (10.30 - 11.08) 기간 중 첫 구매한 경우 발급 가능합니다. 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    7
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s13",
+   "order": 13,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "5천 e포인트가 발급되었습니다. 사용기한: 발급 후 7일 이내 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    8
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s14",
+   "order": 14,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "신규가입 쿠폰을 이미 다운받았습니다. 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    9
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s15",
+   "order": 15,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "이벤트 대상이 아닙니다. 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    10
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s16",
+   "order": 16,
+   "role": "content",
+   "role_evidence": "container_markup",
+   "headings": [],
+   "text": "신규가입 쿠폰팩 발급완료 확인",
+   "dom_path": [
+    1,
+    2,
+    1,
+    2,
+    11
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
+    138
+   ]
+  },
+  {
+   "id": "s17",
+   "order": 17,
+   "role": "terms",
+   "role_evidence": "heading_or_container",
+   "headings": [
+    "이벤트 유의사항 보기",
+    "이벤트 1. 첫 구매 응원 포인트",
+    "이벤트 2. 첫 구매 감사 포인트",
+    "이벤트 3. 신세계V 신규 가입 혜택"
+   ],
+   "text": "이벤트 유의사항 보기 접힘/펼침 버튼 이벤트 유의사항 보기 이벤트 1. 첫 구매 응원 포인트 발급 기간 : 10.30(금) - 11.08(일) 대상 회원 : 발급 당일까지 신세계V 구매이력이 없는 온라인 회원 전체 마케팅 수신 동의하여야 참여 가능합니다 (수신동의 항목 : SMS, E-mail, DM(카탈로그), CALL, 신세계V APP PUSH) 발급 즉시 사용 가능합니다. 발급된 e포인트는 7일동안 사용 가능하며, 결제금액 기준 50%까지 사용 가능합니다. 미사용 e포인트는 소멸되며 재지급 되지 않습니다 이벤트 2. 첫 구매 감사 포인트 첫 구매 기간 : 10.30(금) - 11.08(일) 포인트 발급 기간 : 10.30(금) - 11.15(일) 대상 회원 : 쓱데이(10.30 - 11.08) 기간 중 첫구매 후 배송까지 완료된 이후 발급 가능 전체 마케팅 수신 동의하여야 참여 가능합니다 (수신동의 항목 : SMS, E-mail, DM(카탈로그), CALL, 신세계V APP PUSH) 발급 즉시 사용 가능합니다. 발급된 e포인트는 7일동안 사용 가능하며, 결제금액 기준 50%까지 사용 가능합니다. 미사용 e포인트는 소멸되며 재지급 되지 않습니다 이벤트 3. 신세계V 신규 가입 혜택 해당 혜택은 \"WELCOME BENEFIT\" 이벤트에서 제공되는 혜택과 동일하며, 중복 지급되지 않습니다. 대상 회원 : 2026.01.01 이후 신규가입한 신세계V 온라인 통합회원 * 오프라인 회원에서 온라인 등록 전환한 회원도 발급 가능 *이미 간편회원으로 가입한 경우는 발급 제외됩 쿠폰 혜택 : ID당 기간 중 1회 발급 가능 (발급 후 30일 이내 사용) 포인트 혜택 : 가입시 자동 지급. (지급 다음날까지 사용 가능) 쿠폰 혜택은 ​​​​​​​전체 마케팅 수신 동의하여야 발급 가능합니다 (수신동의 항목 : SMS, E-mail, DM(카탈로그), CALL, 신세계V APP PUSH) 발급된 혜택은 MY페이지에서 사용 가능합니다. (쿠폰 적용 브랜드는 MY페이지 > 쿠폰에서 확인 가능) 미사용 e포인트는 소멸되며 재지급 되지 않습니다 ※ 해당 이벤트는 당사 사정에 따라 사전 고지없이 변경 또는 중단될 수 있습니다.",
+   "dom_path": [
+    1,
+    3
+   ],
+   "dom_id": null,
+   "image_ids": [],
+   "relationship_indexes": [
     139
    ]
   }
@@ -2579,13 +2901,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-visual-v2-2x.jpg",
    "alt": "",
    "tags": [
-    "unknown"
+    "promotion_banner"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s03"
    ],
    "alternate_urls": []
   },
@@ -2594,13 +2916,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-coupon-01-2x.png",
    "alt": "5,000P e포인트 발급 후 7일 이내 사용 다운로드",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2609,13 +2931,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-notice-01-v2-2x.png",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2624,13 +2946,14 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-plus-2x.png",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05",
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2639,13 +2962,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-coupon-02-2x.png",
    "alt": "5,000P e포인트 발급 후 7일 이내 사용 다운로드",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2654,13 +2977,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-first-point-notice-02-v3-2x.png",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s05"
    ],
    "alternate_urls": []
   },
@@ -2669,13 +2992,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-point-coupon-2x.png",
    "alt": "5,000P e포인트 가입 다음날까지 사용",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2684,13 +3007,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-point-notice-2x.png",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2705,7 +3028,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2720,7 +3043,7 @@
     "alt_text"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2729,13 +3052,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-coupon-button-2x.png",
    "alt": "쿠폰 한번에 받기",
    "tags": [
-    "event_information"
+    "ui_asset"
    ],
    "tag_evidence": [
-    "alt_text"
+    "asset_filename"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2744,13 +3067,13 @@
    "url": "https://image.shinsegaev.com/design/image/2026/10/develop/ssg-first-purchase/ssg-first-purchase-new-member-coupon-notice-2x.png",
    "alt": "",
    "tags": [
-    "unknown"
+    "event_information"
    ],
    "tag_evidence": [
-    "insufficient_evidence"
+    "section_context"
    ],
    "section_ids": [
-    "s01"
+    "s06"
    ],
    "alternate_urls": []
   },
@@ -2765,7 +3088,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s07"
    ],
    "alternate_urls": []
   },
@@ -2780,7 +3103,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2795,7 +3118,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2810,7 +3133,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2825,7 +3148,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2840,7 +3163,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2855,7 +3178,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2870,7 +3193,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2885,7 +3208,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2900,7 +3223,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2915,7 +3238,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2930,7 +3253,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2945,7 +3268,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2960,7 +3283,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2975,7 +3298,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -2990,7 +3313,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3005,7 +3328,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3020,7 +3343,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3035,7 +3358,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3050,7 +3373,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3065,7 +3388,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3080,7 +3403,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3095,7 +3418,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3110,7 +3433,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3125,7 +3448,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3140,7 +3463,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3155,7 +3478,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3170,7 +3493,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3185,7 +3508,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3200,7 +3523,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3215,7 +3538,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3230,7 +3553,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3245,7 +3568,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3260,7 +3583,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3275,7 +3598,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3290,7 +3613,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3305,7 +3628,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3320,7 +3643,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3335,7 +3658,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3350,7 +3673,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3365,7 +3688,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3380,7 +3703,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3395,7 +3718,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3410,7 +3733,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3425,7 +3748,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3440,7 +3763,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3455,7 +3778,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3470,7 +3793,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3485,7 +3808,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3500,7 +3823,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3515,7 +3838,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3530,7 +3853,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3545,7 +3868,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3560,7 +3883,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3575,7 +3898,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3590,7 +3913,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3605,7 +3928,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3620,7 +3943,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3635,7 +3958,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3650,7 +3973,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3665,7 +3988,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3680,7 +4003,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3695,7 +4018,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3710,7 +4033,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3725,7 +4048,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3740,7 +4063,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3755,7 +4078,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3770,7 +4093,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3785,7 +4108,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3800,7 +4123,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3815,7 +4138,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3830,7 +4153,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3845,7 +4168,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3860,7 +4183,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3875,7 +4198,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3890,7 +4213,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3905,7 +4228,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3920,7 +4243,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3935,7 +4258,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3950,7 +4273,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3965,7 +4288,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3980,7 +4303,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -3995,7 +4318,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4010,7 +4333,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4025,7 +4348,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4040,7 +4363,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4055,7 +4378,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4070,7 +4393,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4085,7 +4408,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4100,7 +4423,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4115,7 +4438,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4130,7 +4453,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4145,7 +4468,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4160,7 +4483,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4175,7 +4498,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4190,7 +4513,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4205,7 +4528,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4220,7 +4543,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4235,7 +4558,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4250,7 +4573,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4265,7 +4588,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4280,7 +4603,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4295,7 +4618,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4310,7 +4633,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4325,7 +4648,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4340,7 +4663,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4355,7 +4678,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4370,7 +4693,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4385,7 +4708,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4400,7 +4723,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4415,7 +4738,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4430,7 +4753,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4445,7 +4768,7 @@
     "product_link"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   },
@@ -4460,7 +4783,7 @@
     "insufficient_evidence"
    ],
    "section_ids": [
-    "s01"
+    "s08"
    ],
    "alternate_urls": []
   }
