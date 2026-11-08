@@ -1,0 +1,137 @@
+{
+  "timestamp_utc": "2026-11-08T07:14:08.211010+00:00",
+  "installed": {
+    "models": [
+      {
+        "name": "qwen3-vl:4b-instruct-q4_K_M",
+        "model": "qwen3-vl:4b-instruct-q4_K_M",
+        "modified_at": "2026-11-08T07:11:16.707678159Z",
+        "size": 3337225651,
+        "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+        "details": {
+          "parent_model": "dhiltgen/qwen3-vl:4b-instruct-q4_K_M-llamacpp",
+          "format": "gguf",
+          "family": "qwen3vl",
+          "families": [
+            "qwen3vl",
+            "clip"
+          ],
+          "parameter_size": "4.0B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 262144,
+          "embedding_length": 2560,
+          "runner": "llamacpp"
+        },
+        "capabilities": [
+          "completion",
+          "vision",
+          "tools"
+        ]
+      },
+      {
+        "name": "gemma3:12b-it-q4_K_M",
+        "model": "gemma3:12b-it-q4_K_M",
+        "modified_at": "2026-11-08T07:10:06.584205396Z",
+        "size": 8164039732,
+        "digest": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+        "details": {
+          "parent_model": "dhiltgen/gemma3:12b-it-q4_K_M-llamacpp",
+          "format": "gguf",
+          "family": "gemma3",
+          "families": [
+            "gemma3",
+            "clip"
+          ],
+          "parameter_size": "11.8B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 131072,
+          "embedding_length": 3840,
+          "runner": "llamacpp"
+        },
+        "capabilities": [
+          "completion",
+          "vision"
+        ]
+      },
+      {
+        "name": "gemma3n:e4b",
+        "model": "gemma3n:e4b",
+        "modified_at": "2026-11-08T07:10:00.628250158Z",
+        "size": 9768581852,
+        "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+        "details": {
+          "parent_model": "candidate/gemma3n:e4b-it-q4_K_M",
+          "format": "gguf",
+          "family": "gemma3n",
+          "families": [
+            "gemma3n"
+          ],
+          "parameter_size": "6.9B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 32768,
+          "embedding_length": 2048,
+          "runner": "llamacpp"
+        },
+        "capabilities": [
+          "completion",
+          "vision"
+        ]
+      },
+      {
+        "name": "gemma3:12b",
+        "model": "gemma3:12b",
+        "modified_at": "2026-11-08T07:09:54.340297413Z",
+        "size": 8164039732,
+        "digest": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+        "details": {
+          "parent_model": "dhiltgen/gemma3:12b-it-q4_K_M-llamacpp",
+          "format": "gguf",
+          "family": "gemma3",
+          "families": [
+            "gemma3",
+            "clip"
+          ],
+          "parameter_size": "11.8B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 131072,
+          "embedding_length": 3840,
+          "runner": "llamacpp"
+        },
+        "capabilities": [
+          "completion",
+          "vision"
+        ]
+      },
+      {
+        "name": "gemma3n:e4b-it-q4_K_M",
+        "model": "gemma3n:e4b-it-q4_K_M",
+        "modified_at": "2026-11-08T07:09:50.820323865Z",
+        "size": 9768581852,
+        "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+        "details": {
+          "parent_model": "candidate/gemma3n:e4b-it-q4_K_M",
+          "format": "gguf",
+          "family": "gemma3n",
+          "families": [
+            "gemma3n"
+          ],
+          "parameter_size": "6.9B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 32768,
+          "embedding_length": 2048,
+          "runner": "llamacpp"
+        },
+        "capabilities": [
+          "completion",
+          "vision"
+        ]
+      }
+    ]
+  },
+  "loaded": {
+    "models": []
+  },
+  "disk_usage": "20G\t/root/osulloc-copy-test/models",
+  "diagnostic_thinking_weights_removed": true,
+  "model_runner_sha256": "b717784bee8c9c20b59f0dffdf65a631812ddc7f81505bffb871a1d95b6af622"
+}

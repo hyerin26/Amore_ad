@@ -1,0 +1,1139 @@
+{
+  "run_label": "VESSL 4비트 다운로드 모델 재실험",
+  "scope": "3 downloaded models x 4 themes, hero only; actual results below; missing/error files are not generated answers",
+  "results": [
+    "gemma3_12b/autumn.json",
+    "gemma3_12b/christmas.json",
+    "gemma3_12b/download.json",
+    "gemma3_12b/model_info.json",
+    "gemma3_12b/new_year.json",
+    "gemma3_12b/year_end.json",
+    "gemma3n_e4b/autumn.json",
+    "gemma3n_e4b/christmas.json",
+    "gemma3n_e4b/download.json",
+    "gemma3n_e4b/model_info.json",
+    "gemma3n_e4b/new_year.json",
+    "gemma3n_e4b/year_end.json",
+    "qwen3vl_4b/autumn.json",
+    "qwen3vl_4b/christmas.json",
+    "qwen3vl_4b/download.json",
+    "qwen3vl_4b/model_info.json",
+    "qwen3vl_4b/new_year.json",
+    "qwen3vl_4b/year_end.json"
+  ],
+  "attempts": 12,
+  "responses": 12,
+  "basic_passes": 10,
+  "review_ready": 10,
+  "rows": [
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "ollama_tag": "gemma3:12b-it-q4_K_M",
+      "revision": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "autumn",
+      "timestamp_utc": "2026-11-08T07:10:12.873617+00:00",
+      "input_sha256": "99866f6ccf3b7708ad0d65f34d4ab68e3be414727cd167ed89f4ad9b3ffef103",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3_12b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\"theme_id\":\"autumn\", \"id\":\"hero\",\"layout\":\"hero\",\"title\":\"가을, 그 여운을 담다\",\"subtitle\":\"랑드샤 베스트 티 4종 세트로 깊어지는 가을의 향긋함.\",\"cta\":\"따뜻한 티 한 잔\",\"period\":\"12월 한 달\",\"reference_ids\":[\"osulloc-004#s02\",\"osulloc-003#s04\"],\"evidence\":\"11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 / Chef Son's tea recipes 한 잔으로 즐기던 차를, 오늘은 한 접시의 맛으로 만나보세요.\",\"details_needed\":[]}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 629,
+      "output_tokens": 163,
+      "timings": {
+        "total_duration": 2584794201,
+        "load_duration": 1242721,
+        "prompt_eval_duration": 290197000,
+        "eval_duration": 2048012000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3:12b-it-q4_K_M",
+            "model": "gemma3:12b-it-q4_K_M",
+            "size": 8056167464,
+            "digest": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3",
+              "families": [
+                "gemma3",
+                "clip"
+              ],
+              "parameter_size": "11.8B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:15.459049982Z",
+            "size_vram": 8056167464,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 2.587,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 12,
+          "subtitle": 30,
+          "cta": 9
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 2,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "autumn",
+          "id": "hero",
+          "layout": "hero",
+          "title": "가을, 그 여운을 담다",
+          "subtitle": "랑드샤 베스트 티 4종 세트로 깊어지는 가을의 향긋함.",
+          "cta": "따뜻한 티 한 잔",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-003#s04"
+          ],
+          "evidence": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 / Chef Son's tea recipes 한 잔으로 즐기던 차를, 오늘은 한 접시의 맛으로 만나보세요.",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "ollama_tag": "gemma3:12b-it-q4_K_M",
+      "revision": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "christmas",
+      "timestamp_utc": "2026-11-08T07:10:06.953153+00:00",
+      "input_sha256": "b315ea400ce8c5a88a362411f04f65c1020b05de96c3415f446c6df9575d77ef",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3_12b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\"theme_id\":\"christmas\", \"id\":\"hero\",\"layout\":\"hero\",\"title\":\"소중한 순간, 티로 축복하세요\",\"subtitle\":\"랑드샤 베스트 티 4종 세트로 따뜻한 크리스마스 티타임을 선물하세요.\",\"cta\":\"지금 바로 만나보기\",\"period\":\"12월 한 달\",\"reference_ids\":[\"osulloc-004#s02\", \"osulloc-003#s06\"],\"evidence\":\"'11.02 - 11.16 일 년만에 돌아온' 표현을 활용하여 특별함을 강조, 'Find my taste'에서 영감을 얻어 선물 대상의 취향을 고려하는 메시지 추가\",\"details_needed\":[]}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 630,
+      "output_tokens": 161,
+      "timings": {
+        "total_duration": 5917961248,
+        "load_duration": 3556062985,
+        "prompt_eval_duration": 313612000,
+        "eval_duration": 2039806000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3:12b-it-q4_K_M",
+            "model": "gemma3:12b-it-q4_K_M",
+            "size": 8056167464,
+            "digest": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3",
+              "families": [
+                "gemma3",
+                "clip"
+              ],
+              "parameter_size": "11.8B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:12.871970196Z",
+            "size_vram": 8056167464,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 5.92,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 16,
+          "subtitle": 38,
+          "cta": 10
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 3,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "christmas",
+          "id": "hero",
+          "layout": "hero",
+          "title": "소중한 순간, 티로 축복하세요",
+          "subtitle": "랑드샤 베스트 티 4종 세트로 따뜻한 크리스마스 티타임을 선물하세요.",
+          "cta": "지금 바로 만나보기",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-003#s06"
+          ],
+          "evidence": "'11.02 - 11.16 일 년만에 돌아온' 표현을 활용하여 특별함을 강조, 'Find my taste'에서 영감을 얻어 선물 대상의 취향을 고려하는 메시지 추가",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "ollama_tag": "gemma3:12b-it-q4_K_M",
+      "revision": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "new_year",
+      "timestamp_utc": "2026-11-08T07:10:18.162660+00:00",
+      "input_sha256": "39c182f39110b4b8ce958bd1137959c3a33520ed917ad61e2c6dd32bfd04bf50",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3_12b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\"theme_id\":\"new_year\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"새해맞이, 마음을 전하세요\", \"subtitle\":\"다가오는 새해, 소중한 분께 랑드샤 베스트 티 4종 세트로 따뜻한 새해를 선물하세요.\", \"cta\":\"새해 선물 준비\", \"period\":\"12월 한 달\", \"reference_ids\":[\"osulloc-004#s02\", \"osulloc-002#s01\"], \"evidence\":\"11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이\\n2026년 11월 출석체크 조용히 다가온 연말의 페이지\", \"details_needed\":[]}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 669,
+      "output_tokens": 179,
+      "timings": {
+        "total_duration": 2895920932,
+        "load_duration": 1782157,
+        "prompt_eval_duration": 236239000,
+        "eval_duration": 2257132000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3:12b-it-q4_K_M",
+            "model": "gemma3:12b-it-q4_K_M",
+            "size": 8056167464,
+            "digest": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3",
+              "families": [
+                "gemma3",
+                "clip"
+              ],
+              "parameter_size": "11.8B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:21.059260858Z",
+            "size_vram": 8056167464,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 2.898,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 14,
+          "subtitle": 47,
+          "cta": 8
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "new_year",
+          "id": "hero",
+          "layout": "hero",
+          "title": "새해맞이, 마음을 전하세요",
+          "subtitle": "다가오는 새해, 소중한 분께 랑드샤 베스트 티 4종 세트로 따뜻한 새해를 선물하세요.",
+          "cta": "새해 선물 준비",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-002#s01"
+          ],
+          "evidence": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이\n2026년 11월 출석체크 조용히 다가온 연말의 페이지",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3_12b",
+      "model": "google/gemma-3-12b-it",
+      "ollama_tag": "gemma3:12b-it-q4_K_M",
+      "revision": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "year_end",
+      "timestamp_utc": "2026-11-08T07:10:15.461057+00:00",
+      "input_sha256": "e42a6827ebef342dfe5c7fd734755d834d04fb49be240053b71470f377a960b2",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3_12b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\"theme_id\":\"year_end\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"따스한 마음을 담아\", \"subtitle\":\"소중한 분께 랑드샤 베스트 티 4종 세트로 감사를 전하세요.\", \"cta\":\"마음을 전하세요\", \"period\":\"12월 한 달\", \"reference_ids\":[\"osulloc-004#s02\", \"osulloc-002#s01\"], \"evidence\":\"'11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이'의 이벤트성 강조, '2026년 11월 출석체크 조용히 다가온 연말의 페이지'의 따뜻한 분위기\", \"details_needed\":[]}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 666,
+      "output_tokens": 181,
+      "timings": {
+        "total_duration": 2698671983,
+        "load_duration": 804504,
+        "prompt_eval_duration": 241651000,
+        "eval_duration": 2244712000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3:12b-it-q4_K_M",
+            "model": "gemma3:12b-it-q4_K_M",
+            "size": 8056167464,
+            "digest": "b92b218582c521ba287f38f1d6057dcd3c6cbff036f13cac97b5d861f5e58ec3",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3",
+              "families": [
+                "gemma3",
+                "clip"
+              ],
+              "parameter_size": "11.8B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:18.160253667Z",
+            "size_vram": 8056167464,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 2.701,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 10,
+          "subtitle": 33,
+          "cta": 8
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "year_end",
+          "id": "hero",
+          "layout": "hero",
+          "title": "따스한 마음을 담아",
+          "subtitle": "소중한 분께 랑드샤 베스트 티 4종 세트로 감사를 전하세요.",
+          "cta": "마음을 전하세요",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-002#s01"
+          ],
+          "evidence": "'11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이'의 이벤트성 강조, '2026년 11월 출석체크 조용히 다가온 연말의 페이지'의 따뜻한 분위기",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "ollama_tag": "gemma3n:e4b-it-q4_K_M",
+      "revision": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "autumn",
+      "timestamp_utc": "2026-11-08T07:09:57.835294+00:00",
+      "input_sha256": "99866f6ccf3b7708ad0d65f34d4ab68e3be414727cd167ed89f4ad9b3ffef103",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3n_e4b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\n  \"theme_id\": \"autumn\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"12월, 오설록과 함께 떠나는 가을의 여운\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트로 깊어지는 풍미를 경험하세요.\",\n  \"cta\": \"지금 만나보기\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s04\"],\n  \"evidence\": \"감성적인 문장 구조 및 가을의 여운을 떠올리게 하는 표현\",\n  \"details_needed\": []\n}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 629,
+      "output_tokens": 173,
+      "timings": {
+        "total_duration": 3220407908,
+        "load_duration": 1217712,
+        "prompt_eval_duration": 225358000,
+        "eval_duration": 2907396000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3n:e4b-it-q4_K_M",
+            "model": "gemma3n:e4b-it-q4_K_M",
+            "size": 3689257368,
+            "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3n",
+              "families": [
+                "gemma3n"
+              ],
+              "parameter_size": "6.9B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:01.056338934Z",
+            "size_vram": 3689257368,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 3.274,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 23,
+          "subtitle": 32,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "autumn",
+          "id": "hero",
+          "layout": "hero",
+          "title": "12월, 오설록과 함께 떠나는 가을의 여운",
+          "subtitle": "랑드샤 베스트 티 4종 세트로 깊어지는 풍미를 경험하세요.",
+          "cta": "지금 만나보기",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-003#s04"
+          ],
+          "evidence": "감성적인 문장 구조 및 가을의 여운을 떠올리게 하는 표현",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "ollama_tag": "gemma3n:e4b-it-q4_K_M",
+      "revision": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "christmas",
+      "timestamp_utc": "2026-11-08T07:09:51.164192+00:00",
+      "input_sha256": "b315ea400ce8c5a88a362411f04f65c1020b05de96c3415f446c6df9575d77ef",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3n_e4b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\n  \"theme_id\": \"christmas\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"크리스마스, 오설록과 함께하는 따뜻한 티타임\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트로 특별한 선물을 준비하세요.\",\n  \"cta\": \"지금 바로 만나보기\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s06\"],\n  \"evidence\": \"따뜻한 분위기 연출, 선물 강조, 티의 다양성 어필\",\n  \"details_needed\": []\n}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 630,
+      "output_tokens": 170,
+      "timings": {
+        "total_duration": 6668411196,
+        "load_duration": 3254335990,
+        "prompt_eval_duration": 502826000,
+        "eval_duration": 2901612000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3n:e4b-it-q4_K_M",
+            "model": "gemma3n:e4b-it-q4_K_M",
+            "size": 3689257368,
+            "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3n",
+              "families": [
+                "gemma3n"
+              ],
+              "parameter_size": "6.9B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:14:57.833398133Z",
+            "size_vram": 3689257368,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 6.67,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 24,
+          "subtitle": 31,
+          "cta": 10
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "christmas",
+          "id": "hero",
+          "layout": "hero",
+          "title": "크리스마스, 오설록과 함께하는 따뜻한 티타임",
+          "subtitle": "랑드샤 베스트 티 4종 세트로 특별한 선물을 준비하세요.",
+          "cta": "지금 바로 만나보기",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-003#s06"
+          ],
+          "evidence": "따뜻한 분위기 연출, 선물 강조, 티의 다양성 어필",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "ollama_tag": "gemma3n:e4b-it-q4_K_M",
+      "revision": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "new_year",
+      "timestamp_utc": "2026-11-08T07:10:03.722915+00:00",
+      "input_sha256": "39c182f39110b4b8ce958bd1137959c3a33520ed917ad61e2c6dd32bfd04bf50",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3n_e4b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\"theme_id\":\"new_year\",\"id\":\"hero\",\"layout\":\"hero\",\"title\":\"새해, 오설록과 함께 시작하세요\",\"subtitle\":\"랑드샤 베스트 티 4종 세트로 특별한 선물을 준비하세요.\",\"cta\":\"선물 찾아보기\",\"period\":\"12월 한 달\",\"reference_ids\":[\"osulloc-002#s01\"],\"evidence\":\"과거 레퍼런스 어조 및 표현 구조 참고\",\"details_needed\":[]}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 669,
+      "output_tokens": 108,
+      "timings": {
+        "total_duration": 2117358097,
+        "load_duration": 1497869,
+        "prompt_eval_duration": 276406000,
+        "eval_duration": 1812076000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3n:e4b-it-q4_K_M",
+            "model": "gemma3n:e4b-it-q4_K_M",
+            "size": 3689257368,
+            "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3n",
+              "families": [
+                "gemma3n"
+              ],
+              "parameter_size": "6.9B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:05.840912801Z",
+            "size_vram": 3689257368,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 2.119,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 17,
+          "subtitle": 31,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "new_year",
+          "id": "hero",
+          "layout": "hero",
+          "title": "새해, 오설록과 함께 시작하세요",
+          "subtitle": "랑드샤 베스트 티 4종 세트로 특별한 선물을 준비하세요.",
+          "cta": "선물 찾아보기",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-002#s01"
+          ],
+          "evidence": "과거 레퍼런스 어조 및 표현 구조 참고",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "gemma3n_e4b",
+      "model": "google/gemma-3n-E4B-it",
+      "ollama_tag": "gemma3n:e4b-it-q4_K_M",
+      "revision": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "year_end",
+      "timestamp_utc": "2026-11-08T07:10:01.110224+00:00",
+      "input_sha256": "e42a6827ebef342dfe5c7fd734755d834d04fb49be240053b71470f377a960b2",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "gemma3n_e4b/download.json",
+      "status": "ok",
+      "raw_output": "```json\n{\"theme_id\":\"year_end\", \"id\":\"hero\", \"layout\":\"hero\", \"title\":\"2023년, 감사한 순간을 선물하세요\", \"subtitle\":\"오설록 랑드샤 베스트 티 4종 세트로 따뜻한 송년의 마음을 전하세요.\", \"cta\":\"선물하기\", \"period\":\"12월 한 달\", \"reference_ids\":[\"osulloc-004#s02\", \"osulloc-002#s01\"], \"evidence\":\"과거 레퍼런스 어조 및 표현 구조 참고\", \"details_needed\":[]}\n```",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 666,
+      "output_tokens": 138,
+      "timings": {
+        "total_duration": 2610059014,
+        "load_duration": 1273931,
+        "prompt_eval_duration": 272223000,
+        "eval_duration": 2310833000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "gemma3n:e4b-it-q4_K_M",
+            "model": "gemma3n:e4b-it-q4_K_M",
+            "size": 3689257368,
+            "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "gemma3n",
+              "families": [
+                "gemma3n"
+              ],
+              "parameter_size": "6.9B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:15:03.721012761Z",
+            "size_vram": 3689257368,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 2.612,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": false,
+        "normalization": [
+          "code_fence_removed"
+        ],
+        "lengths": {
+          "title": 20,
+          "subtitle": 38,
+          "cta": 4
+        },
+        "issues": [
+          "conflicting_schedule_claim",
+          "unsupported_numeric_claim"
+        ],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": false,
+        "review_ready": false,
+        "output": {
+          "theme_id": "year_end",
+          "id": "hero",
+          "layout": "hero",
+          "title": "2023년, 감사한 순간을 선물하세요",
+          "subtitle": "오설록 랑드샤 베스트 티 4종 세트로 따뜻한 송년의 마음을 전하세요.",
+          "cta": "선물하기",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-002#s01"
+          ],
+          "evidence": "과거 레퍼런스 어조 및 표현 구조 참고",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "ollama_tag": "qwen3-vl:4b-instruct-q4_K_M",
+      "revision": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "autumn",
+      "timestamp_utc": "2026-11-08T07:11:18.371530+00:00",
+      "input_sha256": "99866f6ccf3b7708ad0d65f34d4ab68e3be414727cd167ed89f4ad9b3ffef103",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "qwen3vl_4b/download.json",
+      "status": "ok",
+      "raw_output": "{\n  \"theme_id\": \"autumn\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"가을의 마지막 숨결, 지금 만나보세요\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트, 12월 한 달의 따뜻한 기대감을 선사합니다\",\n  \"cta\": \"지금 예약\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s04\"],\n  \"evidence\": \"감성적 시선과 한정 기간 표현, 레퍼런스의 흐름과 어조를 참고\",\n  \"details_needed\": []\n}",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 706,
+      "output_tokens": 177,
+      "timings": {
+        "total_duration": 1175723907,
+        "load_duration": 945153,
+        "prompt_eval_duration": 53327000,
+        "eval_duration": 1036622000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "qwen3-vl:4b-instruct-q4_K_M",
+            "model": "qwen3-vl:4b-instruct-q4_K_M",
+            "size": 3571890257,
+            "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "qwen3vl",
+              "families": [
+                "qwen3vl",
+                "clip"
+              ],
+              "parameter_size": "4.0B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:16:19.54782722Z",
+            "size_vram": 3571890257,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 1.178,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 20,
+          "subtitle": 40,
+          "cta": 5
+        },
+        "issues": [
+          "unconfirmed_purchase_flow"
+        ],
+        "warnings": [],
+        "max_reference_overlap_chars": 5,
+        "passed": false,
+        "review_ready": false,
+        "output": {
+          "theme_id": "autumn",
+          "id": "hero",
+          "layout": "hero",
+          "title": "가을의 마지막 숨결, 지금 만나보세요",
+          "subtitle": "랑드샤 베스트 티 4종 세트, 12월 한 달의 따뜻한 기대감을 선사합니다",
+          "cta": "지금 예약",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-003#s04"
+          ],
+          "evidence": "감성적 시선과 한정 기간 표현, 레퍼런스의 흐름과 어조를 참고",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "ollama_tag": "qwen3-vl:4b-instruct-q4_K_M",
+      "revision": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "christmas",
+      "timestamp_utc": "2026-11-08T07:11:14.842870+00:00",
+      "input_sha256": "b315ea400ce8c5a88a362411f04f65c1020b05de96c3415f446c6df9575d77ef",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "qwen3vl_4b/download.json",
+      "status": "ok",
+      "raw_output": "{\n  \"theme_id\": \"christmas\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"크리스마스 선물, 티타임으로 완성\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트, 12월 한 달 특별 기획\",\n  \"cta\": \"이제 바로 구매\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s06\"],\n  \"evidence\": \"선착순, 쿠폰, 혜택 기간 표현 활용\",\n  \"details_needed\": []\n}",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 709,
+      "output_tokens": 165,
+      "timings": {
+        "total_duration": 3525575183,
+        "load_duration": 2465336936,
+        "prompt_eval_duration": 108904000,
+        "eval_duration": 943867000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "qwen3-vl:4b-instruct-q4_K_M",
+            "model": "qwen3-vl:4b-instruct-q4_K_M",
+            "size": 3571890257,
+            "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "qwen3vl",
+              "families": [
+                "qwen3vl",
+                "clip"
+              ],
+              "parameter_size": "4.0B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:16:18.36960308Z",
+            "size_vram": 3571890257,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 3.528,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 18,
+          "subtitle": 30,
+          "cta": 8
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 2,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "christmas",
+          "id": "hero",
+          "layout": "hero",
+          "title": "크리스마스 선물, 티타임으로 완성",
+          "subtitle": "랑드샤 베스트 티 4종 세트, 12월 한 달 특별 기획",
+          "cta": "이제 바로 구매",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-003#s06"
+          ],
+          "evidence": "선착순, 쿠폰, 혜택 기간 표현 활용",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "ollama_tag": "qwen3-vl:4b-instruct-q4_K_M",
+      "revision": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "new_year",
+      "timestamp_utc": "2026-11-08T07:11:20.649441+00:00",
+      "input_sha256": "39c182f39110b4b8ce958bd1137959c3a33520ed917ad61e2c6dd32bfd04bf50",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "qwen3vl_4b/download.json",
+      "status": "ok",
+      "raw_output": "{\n  \"theme_id\": \"new_year\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"신년을 위한 최고의 선물\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트, 12월 한 달 특별 기간\",\n  \"cta\": \"이제 바로 확인\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-002#s01\"],\n  \"evidence\": \"선착순, 쿠폰, 출석체크 형식의 참여 유도 문구\",\n  \"details_needed\": []\n}",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 728,
+      "output_tokens": 162,
+      "timings": {
+        "total_duration": 1075995905,
+        "load_duration": 873844,
+        "prompt_eval_duration": 54495000,
+        "eval_duration": 940603000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "qwen3-vl:4b-instruct-q4_K_M",
+            "model": "qwen3-vl:4b-instruct-q4_K_M",
+            "size": 3571890257,
+            "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "qwen3vl",
+              "families": [
+                "qwen3vl",
+                "clip"
+              ],
+              "parameter_size": "4.0B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:16:21.726095233Z",
+            "size_vram": 3571890257,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 1.078,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 13,
+          "subtitle": 30,
+          "cta": 8
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 2,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "new_year",
+          "id": "hero",
+          "layout": "hero",
+          "title": "신년을 위한 최고의 선물",
+          "subtitle": "랑드샤 베스트 티 4종 세트, 12월 한 달 특별 기간",
+          "cta": "이제 바로 확인",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-002#s01"
+          ],
+          "evidence": "선착순, 쿠폰, 출석체크 형식의 참여 유도 문구",
+          "details_needed": []
+        }
+      }
+    },
+    {
+      "model_key": "qwen3vl_4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "ollama_tag": "qwen3-vl:4b-instruct-q4_K_M",
+      "revision": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+      "quantization": "Q4_K_M",
+      "space": null,
+      "theme_id": "year_end",
+      "timestamp_utc": "2026-11-08T07:11:19.550208+00:00",
+      "input_sha256": "e42a6827ebef342dfe5c7fd734755d834d04fb49be240053b71470f377a960b2",
+      "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+      "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_p": 0.95,
+        "top_k": 50,
+        "seed": 42,
+        "num_predict": 1024,
+        "num_ctx": 4096
+      },
+      "environment_file": "environment.json",
+      "download_file": "qwen3vl_4b/download.json",
+      "status": "ok",
+      "raw_output": "{\n  \"theme_id\": \"year_end\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"연말의 감사, 한 잔으로 전해\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트, 한 해를 마무리하는 송년 선물\",\n  \"cta\": \"지금 선물하기\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-002#s01\"],\n  \"evidence\": \"선착순 쿠폰 도전, 출석체크 형식의 연말 기념 문구\",\n  \"details_needed\": []\n}",
+      "request_think": null,
+      "finish_reason": "stop",
+      "input_tokens": 729,
+      "output_tokens": 169,
+      "timings": {
+        "total_duration": 1097121615,
+        "load_duration": 879844,
+        "prompt_eval_duration": 54402000,
+        "eval_duration": 976523000
+      },
+      "gpu_placement": {
+        "models": [
+          {
+            "name": "qwen3-vl:4b-instruct-q4_K_M",
+            "model": "qwen3-vl:4b-instruct-q4_K_M",
+            "size": 3571890257,
+            "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+            "details": {
+              "parent_model": "",
+              "format": "gguf",
+              "family": "qwen3vl",
+              "families": [
+                "qwen3vl",
+                "clip"
+              ],
+              "parameter_size": "4.0B",
+              "quantization_level": "Q4_K_M"
+            },
+            "expires_at": "2026-11-08T07:16:20.647982283Z",
+            "size_vram": 3571890257,
+            "context_length": 4096,
+            "runner": "llamacpp"
+          }
+        ]
+      },
+      "elapsed_wall_seconds": 1.099,
+      "evaluation": {
+        "parseable": true,
+        "strict_json": true,
+        "normalization": [],
+        "lengths": {
+          "title": 16,
+          "subtitle": 33,
+          "cta": 7
+        },
+        "issues": [],
+        "warnings": [],
+        "max_reference_overlap_chars": 4,
+        "passed": true,
+        "review_ready": true,
+        "output": {
+          "theme_id": "year_end",
+          "id": "hero",
+          "layout": "hero",
+          "title": "연말의 감사, 한 잔으로 전해",
+          "subtitle": "랑드샤 베스트 티 4종 세트, 한 해를 마무리하는 송년 선물",
+          "cta": "지금 선물하기",
+          "period": "12월 한 달",
+          "reference_ids": [
+            "osulloc-004#s02",
+            "osulloc-002#s01"
+          ],
+          "evidence": "선착순 쿠폰 도전, 출석체크 형식의 연말 기념 문구",
+          "details_needed": []
+        }
+      }
+    }
+  ],
+  "load_errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "model_key": "qwen3vl_4b",
+  "model": "Qwen/Qwen3-VL-4B-Instruct",
+  "ollama_tag": "qwen3-vl:4b-instruct-q4_K_M",
+  "revision": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+  "quantization": "Q4_K_M",
+  "space": null,
+  "theme_id": "christmas",
+  "timestamp_utc": "2026-11-08T07:11:14.842870+00:00",
+  "input_case": {
+    "theme_id": "christmas",
+    "theme": "크리스마스",
+    "concept": "크리스마스 선물과 함께하는 티타임",
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "references": [
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "osulloc-003#s06",
+        "brand": "osulloc",
+        "role": "content",
+        "text": "Find my taste 차의 맛을 따라, 나와 선물할 사람의 취향을 골라보세요 혜택 1.티 단품&티 세트 최대 30% 혜택 손종원 셰프 협업 기념 10월 15일부터 11월 15일까지 진행하는 오설록몰 이벤트 미식의 순간을 함께할 티 단품 최대 30% 다양한 미식의 세계를 만들 티 세트"
+      }
+    ]
+  },
+  "input_sha256": "b315ea400ce8c5a88a362411f04f65c1020b05de96c3415f446c6df9575d77ef",
+  "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+  "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+  "generation_config": {
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 50,
+    "seed": 42,
+    "num_predict": 1024,
+    "num_ctx": 4096
+  },
+  "environment_file": "environment.json",
+  "download_file": "qwen3vl_4b/download.json",
+  "status": "ok",
+  "raw_output": "{\n  \"theme_id\": \"christmas\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"크리스마스 선물, 티타임으로 완성\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트, 12월 한 달 특별 기획\",\n  \"cta\": \"이제 바로 구매\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s06\"],\n  \"evidence\": \"선착순, 쿠폰, 혜택 기간 표현 활용\",\n  \"details_needed\": []\n}",
+  "request_think": null,
+  "finish_reason": "stop",
+  "input_tokens": 709,
+  "output_tokens": 165,
+  "timings": {
+    "total_duration": 3525575183,
+    "load_duration": 2465336936,
+    "prompt_eval_duration": 108904000,
+    "eval_duration": 943867000
+  },
+  "gpu_placement": {
+    "models": [
+      {
+        "name": "qwen3-vl:4b-instruct-q4_K_M",
+        "model": "qwen3-vl:4b-instruct-q4_K_M",
+        "size": 3571890257,
+        "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "qwen3vl",
+          "families": [
+            "qwen3vl",
+            "clip"
+          ],
+          "parameter_size": "4.0B",
+          "quantization_level": "Q4_K_M"
+        },
+        "expires_at": "2026-11-08T07:16:18.36960308Z",
+        "size_vram": 3571890257,
+        "context_length": 4096,
+        "runner": "llamacpp"
+      }
+    ]
+  },
+  "elapsed_wall_seconds": 3.528
+}

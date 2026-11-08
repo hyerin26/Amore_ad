@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-08",
+  "scope": "3 original IT/Instruct families x 4 hero themes; official Ollama Q4_K_M distribution",
+  "base_input_commit": "481ebd37e7860585b75bf31d64b4a84d6cc6086e",
+  "input_case_file_sha256": "dc9cc1fcf5d63068b62108ce5c8251415928dce337e1d7cd7b9e4d0f13e8fc22",
+  "generation_runner_sha256": "b717784bee8c9c20b59f0dffdf65a631812ddc7f81505bffb871a1d95b6af622",
+  "evaluator_sha256": "e3e56c45be97db7ae02a5065cf36e558525d618c62ba2f4e00d733a545d82e08",
+  "runtime_download_url": "https://ollama.com/download/ollama-linux-amd64.tar.zst",
+  "runtime_version": "0.40.15",
+  "generation_service": "server loopback only, no external generation provider",
+  "workspace": "hyerin-vulkan-50g",
+  "gpu_policy": "CUDA_VISIBLE_DEVICES=0; one RTX 3090 used; workspace has two",
+  "result_directory": "runs/vessl-20261108",
+  "responses": 12,
+  "basic_passes": 10,
+  "excluded_attempt_directory": "runs/vessl-tag-check-20261108",
+  "weights_total_bytes": 21269847235,
+  "weights_location_on_server": "/root/osulloc-copy-test/models",
+  "workspace_final_status": "Running; experiment processes complete and models unloaded from VRAM"
+}

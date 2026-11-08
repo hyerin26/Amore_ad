@@ -1,0 +1,28 @@
+{
+  "source_model": "google/gemma-3n-E4B-it",
+  "tag": "gemma3n:e4b-it-q4_K_M",
+  "name": "gemma3n:e4b-it-q4_K_M",
+  "model": "gemma3n:e4b-it-q4_K_M",
+  "modified_at": "2026-11-08T07:09:50.820323865Z",
+  "size": 9768581852,
+  "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+  "details": {
+    "parent_model": "candidate/gemma3n:e4b-it-q4_K_M",
+    "format": "gguf",
+    "family": "gemma3n",
+    "families": [
+      "gemma3n"
+    ],
+    "parameter_size": "6.9B",
+    "quantization_level": "Q4_K_M",
+    "context_length": 32768,
+    "embedding_length": 2048,
+    "runner": "llamacpp"
+  },
+  "capabilities": [
+    "completion",
+    "vision"
+  ],
+  "pull_elapsed_seconds": 436.366,
+  "storage": "persistent models directory; no weights committed to Git"
+}

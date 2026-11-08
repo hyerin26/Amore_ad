@@ -17,6 +17,9 @@ class CopyChecks(unittest.TestCase):
   self.output['theme_id']='autumn';self.assertIn('wrong_theme_id',evaluate(self.output,self.case)['issues'])
  def test_reference_season_is_not_invented(self):
   self.output['evidence']='과거 크리스마스 시즌 프로모션을 참고했습니다.';self.assertTrue(any('misattribution' in x for x in evaluate(self.output,self.case)['warnings']))
+ def test_fabricated_reference_quote_is_flagged(self):
+  self.output['evidence']="'차, 미식의 발견. 조용히 다가온 연말의 페이지'를 참고했습니다."
+  self.assertIn('unverified_reference_quote',evaluate(self.output,self.case)['warnings'])
  def test_truncated_json_is_failure(self):self.assertFalse(evaluate('{"title":',self.case)['parseable'])
  def test_provider_error_text_is_not_copy(self):self.assertFalse(evaluate('Sorry, I encountered an error: quota',self.case)['parseable'])
 class DecemberFacts(unittest.TestCase):
@@ -27,6 +30,11 @@ class DecemberFacts(unittest.TestCase):
  def test_product_in_title_is_factually_present_but_warned(self):
   self.output['title']='랑드샤 베스트 티 4종 세트';self.output['subtitle']='크리스마스의 티타임'
   e=evaluate(self.output,self.case);self.assertTrue(e['passed']);self.assertIn('product_name_in_title_instead_of_subtitle',e['warnings'])
+ def test_unconfirmed_reservation_flow_is_rejected(self):
+  self.output['cta']='지금 예약';self.assertIn('unconfirmed_purchase_flow',evaluate(self.output,self.case)['issues'])
+ def test_confirmed_reservation_flow_is_allowed(self):
+  self.output['cta']='지금 예약';self.case['product_facts']['reservation_available']=True
+  self.assertNotIn('unconfirmed_purchase_flow',evaluate(self.output,self.case)['issues'])
  def test_other_numbers_rejected(self):
   self.output['title']='2개 구매하면';self.assertIn('unsupported_numeric_claim',evaluate(self.output,self.case)['issues'])
  def test_invented_price_rejected(self):

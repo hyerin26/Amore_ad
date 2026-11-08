@@ -41,6 +41,7 @@ def evaluate(raw,case):
   if re.search(r'1월|10월|11월|202[0-9]|새해\s*첫날',copy):issues.append('conflicting_schedule_claim')
  if re.search(r'\d|[%％]',numeric_copy):issues.append('unsupported_numeric_claim')
  if re.search(r'최저가|단독|무료|증정|선착순|할인|숙면|면역|치료|효능',copy):issues.append('unsupported_offer_or_effect_claim')
+ if '예약' in copy and facts.get('reservation_available') is not True:issues.append('unconfirmed_purchase_flow')
  if re.search(r'29CM|컬리|코오롱|카카오|신세계|W컨셉|덴마크|헤더먼트|뚱냥이',copy,re.I):issues.append('competitor_leak')
  allowed={r['reference_id']:r for r in case['references']};ids=obj.get('reference_ids')
  if sku and isinstance(ids,list) and not any(isinstance(i,str) and i.startswith('osulloc-') for i in ids):issues.append('missing_osulloc_reference')
@@ -50,6 +51,9 @@ def evaluate(raw,case):
  else:
   if evidence.strip() in ('참고한 표현 구조','참고한 ID와 표현 구조','참고한 표현 구조를 참고했습니다.'):warnings.append('placeholder_reference_evidence')
   cited_text=' '.join(allowed[i]['text'] for i in ids or [] if isinstance(i,str) and i in allowed)
+  for quote in re.findall(r"['‘]([^'’]{8,})['’]",evidence):
+   if re.sub(r'\s+','',quote) not in re.sub(r'\s+','',cited_text):
+    warnings.append('unverified_reference_quote');break
   if any(s in evidence for s in ['과거 크리스마스','크리스마스 시즌 프로모션']) and not any(s in cited_text for s in ['크리스마스','성탄']):warnings.append('reference_season_misattribution: cited snippets do not document Christmas')
   if '가을 프로모션' in evidence and '가을' not in cited_text:warnings.append('reference_season_misattribution: cited snippets do not document autumn')
  if not any(k in copy for k in SEASONS[case['theme_id']]):warnings.append('weak_explicit_season_signal')

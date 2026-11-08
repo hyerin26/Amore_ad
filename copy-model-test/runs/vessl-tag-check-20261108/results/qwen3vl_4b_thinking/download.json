@@ -1,0 +1,29 @@
+{
+  "model": "qwen3-vl:4b",
+  "tag": "qwen3-vl:4b",
+  "name": "qwen3-vl:4b",
+  "modified_at": "2026-11-08T06:59:13.681083844Z",
+  "size": 3336619180,
+  "digest": "a1b29c246319cdcb1f3842f36d29f198f737c0cf516ba1bcba34b1b974e87980",
+  "details": {
+    "parent_model": "dhiltgen/qwen3-vl:4b-thinking-q4_K_M-llamacpp",
+    "format": "gguf",
+    "family": "qwen3vl",
+    "families": [
+      "qwen3vl"
+    ],
+    "parameter_size": "4.0B",
+    "quantization_level": "Q4_K_M",
+    "context_length": 262144,
+    "embedding_length": 2560,
+    "runner": "llamacpp"
+  },
+  "capabilities": [
+    "completion",
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "pull_elapsed_seconds": 921.873,
+  "storage": "persistent models directory; no weights committed to Git"
+}

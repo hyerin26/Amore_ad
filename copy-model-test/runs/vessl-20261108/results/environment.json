@@ -1,0 +1,20 @@
+{
+  "platform": "Linux-5.4.0-193-generic-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "ollama": {
+    "version": "0.40.15"
+  },
+  "models_directory": "/root/osulloc-copy-test/models",
+  "disk_before": {
+    "total": 107374182400,
+    "used": 81312727040,
+    "free": 26061455360
+  },
+  "run_started_utc": "2026-11-08T07:02:34.751633+00:00",
+  "gpu_inventory": "name, driver_version, memory.total [MiB], memory.free [MiB]\nNVIDIA GeForce RTX 3090, 550.107.02, 24576 MiB, 24253 MiB\nNVIDIA GeForce RTX 3090, 550.107.02, 24576 MiB, 24253 MiB\n",
+  "disk_after": {
+    "total": 107374182400,
+    "used": 87489662976,
+    "free": 19884519424
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "model_key": "gemma3n_e4b",
+  "model": "google/gemma-3n-E4B-it",
+  "ollama_tag": "gemma3n:e4b-it-q4_K_M",
+  "revision": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+  "quantization": "Q4_K_M",
+  "space": null,
+  "theme_id": "autumn",
+  "timestamp_utc": "2026-11-08T07:09:57.835294+00:00",
+  "input_case": {
+    "theme_id": "autumn",
+    "theme": "가을",
+    "concept": "행사기간은 12월이며, 가을의 여운을 떠올리는 감성 콘셉트",
+    "product_facts": {
+      "category": "차 및 티 선물",
+      "specific_sku": "랑드샤 베스트 티 4종 세트",
+      "price": null,
+      "discount": null,
+      "gift": null,
+      "event_period": {
+        "start": "12월 1일",
+        "end": "12월 31일",
+        "display": "12월 한 달",
+        "year": null,
+        "provenance": "사용자 지정 가상 실험 조건"
+      }
+    },
+    "references": [
+      {
+        "reference_id": "osulloc-004#s02",
+        "brand": "osulloc",
+        "role": "hero",
+        "text": "11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기"
+      },
+      {
+        "reference_id": "osulloc-003#s04",
+        "brand": "osulloc",
+        "role": "content",
+        "text": "Chef Son's tea recipes 한 잔으로 즐기던 차를, 오늘은 한 접시의 맛으로 만나보세요. Honey Pear Baesuk | 삼다 꿀배숙 오설록 삼다 꿀배 티와 함께 한국 전통 후식인 배숙을 현대적인 감성으로 재해석한 레시피를 만들어봤어요. 삼다 꿀배숙 레시피 영상 재생 "
+      }
+    ]
+  },
+  "input_sha256": "99866f6ccf3b7708ad0d65f34d4ab68e3be414727cd167ed89f4ad9b3ffef103",
+  "transport": "VESSL downloaded model, private localhost Ollama inference; no external generation API",
+  "sampling": "Q4_K_M; temperature=.7, top_p=.95, top_k=50, seed=42, max_tokens=1024, num_ctx=4096; no JSON grammar, no history",
+  "generation_config": {
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 50,
+    "seed": 42,
+    "num_predict": 1024,
+    "num_ctx": 4096
+  },
+  "environment_file": "environment.json",
+  "download_file": "gemma3n_e4b/download.json",
+  "status": "ok",
+  "raw_output": "```json\n{\n  \"theme_id\": \"autumn\",\n  \"id\": \"hero\",\n  \"layout\": \"hero\",\n  \"title\": \"12월, 오설록과 함께 떠나는 가을의 여운\",\n  \"subtitle\": \"랑드샤 베스트 티 4종 세트로 깊어지는 풍미를 경험하세요.\",\n  \"cta\": \"지금 만나보기\",\n  \"period\": \"12월 한 달\",\n  \"reference_ids\": [\"osulloc-004#s02\", \"osulloc-003#s04\"],\n  \"evidence\": \"감성적인 문장 구조 및 가을의 여운을 떠올리게 하는 표현\",\n  \"details_needed\": []\n}\n```",
+  "request_think": null,
+  "finish_reason": "stop",
+  "input_tokens": 629,
+  "output_tokens": 173,
+  "timings": {
+    "total_duration": 3220407908,
+    "load_duration": 1217712,
+    "prompt_eval_duration": 225358000,
+    "eval_duration": 2907396000
+  },
+  "gpu_placement": {
+    "models": [
+      {
+        "name": "gemma3n:e4b-it-q4_K_M",
+        "model": "gemma3n:e4b-it-q4_K_M",
+        "size": 3689257368,
+        "digest": "0a377808afeaafcbf5dcc2b1844594a1b60a50cd18e7e3e469cfd64e7bb7faa5",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "gemma3n",
+          "families": [
+            "gemma3n"
+          ],
+          "parameter_size": "6.9B",
+          "quantization_level": "Q4_K_M"
+        },
+        "expires_at": "2026-11-08T07:15:01.056338934Z",
+        "size_vram": 3689257368,
+        "context_length": 4096,
+        "runner": "llamacpp"
+      }
+    ]
+  },
+  "elapsed_wall_seconds": 3.274
+}
